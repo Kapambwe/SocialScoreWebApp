@@ -1,0 +1,1139 @@
+[
+  {
+    "id": "MIN-001",
+    "name": "Hon. Situmbeko Musokotwane",
+    "role": "Minister",
+    "ministry": "Ministry of Finance and National Planning",
+    "organization": "Government of Zambia",
+    "region": "Lusaka",
+    "overallScore": 92,
+    "rating": "Excellent",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-15T00:00:00Z",
+    "termStart": "2021-08-26",
+    "termEnd": null,
+    "details": {
+      "policyEffectiveness": 94,
+      "financialIntegrity": 95,
+      "publicSatisfaction": 88,
+      "ethicalConduct": 92,
+      "transparencyAccountability": 90
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Policy Effectiveness",
+        "score": 94,
+        "weight": 25,
+        "weightedScore": 23.5,
+        "explanation": "Minister Musokotwane has anchored Zambia's economic recovery through disciplined fiscal consolidation, the successful completion of the IMF Extended Credit Facility programme, and the historic restructuring of Zambia's external debt. His policies have restored macroeconomic stability and investor confidence in the Zambian economy.",
+        "positiveFactors": [
+          "Led Zambia's successful $6.3 billion external debt restructuring under the G20 Common Framework",
+          "Maintained fiscal discipline with the budget deficit reduced from 11.7% to 5.8% of GDP",
+          "Oversaw the reinstatement of Zambia's access to international capital markets after the 2020 default",
+          "Introduced the Medium-Term Expenditure Framework improving budget credibility and multi-year planning"
+        ],
+        "negativeFactors": [
+          "Fiscal austerity measures contributed to reduced subsidies, impacting vulnerable households",
+          "Revenue mobilization reforms have been slower than projected, with tax-to-GDP ratio below target"
+        ],
+        "improvementTips": [
+          "Accelerate domestic revenue mobilization through digital tax administration and broadening the tax base",
+          "Develop targeted social protection mechanisms to cushion vulnerable populations during fiscal consolidation",
+          "Fast-track the implementation of the Public Financial Management reform roadmap"
+        ]
+      },
+      {
+        "category": "Financial Integrity",
+        "score": 95,
+        "weight": 25,
+        "weightedScore": 23.75,
+        "explanation": "The Minister has demonstrated exemplary financial integrity, restoring transparency to public financial management and strengthening oversight mechanisms. The Auditor General's office has been given greater independence, and treasury operations have been modernized with enhanced internal controls.",
+        "positiveFactors": [
+          "Restored quarterly publication of fiscal reports, ending a 3-year gap in public financial reporting",
+          "Supported the Auditor General's operational independence with increased budgetary allocation",
+          "Implemented the Integrated Financial Management Information System (IFMIS) upgrade across all ministries",
+          "Zero personal corruption allegations or unexplained wealth concerns"
+        ],
+        "negativeFactors": [
+          "Some legacy debt obligations from prior administrations still lack full documentation and transparency",
+          "IFMIS implementation has faced technical delays in some provincial offices"
+        ],
+        "improvementTips": [
+          "Complete the forensic audit of all undocumented legacy debt obligations from prior administrations",
+          "Resolve IFMIS technical issues in provincial offices to ensure national coverage by year-end",
+          "Publish a comprehensive annual public debt report with full creditor, terms, and utilization breakdown"
+        ]
+      },
+      {
+        "category": "Public Satisfaction",
+        "score": 88,
+        "weight": 20,
+        "weightedScore": 17.6,
+        "explanation": "The Minister enjoys strong public confidence among economists, business leaders, and international observers. Ordinary citizens appreciate the improved economic outlook, though some express concern about the immediate impact of austerity measures on daily life, particularly fuel and electricity price adjustments.",
+        "positiveFactors": [
+          "Business community confidence surveys show 82% approval of economic management direction",
+          "International credit rating agencies upgraded Zambia's outlook to positive under his stewardship",
+          "Regular public communication through budget speeches and media engagements builds transparency",
+          "Increased CDF allocations from K1.6 million to K28.3 million per constituency directly credited to his fiscal management"
+        ],
+        "negativeFactors": [
+          "Removal of fuel and electricity subsidies generated public protests in urban areas",
+          "Some citizens perceive fiscal consolidation as prioritizing debt repayment over social spending"
+        ],
+        "improvementTips": [
+          "Enhance public communication explaining the long-term benefits of fiscal reforms using simple, accessible language",
+          "Introduce phased subsidy reforms with pre-announced timelines to reduce shock impact on households",
+          "Publish a citizen-friendly annual budget performance report in local languages"
+        ]
+      },
+      {
+        "category": "Ethical Conduct",
+        "score": 92,
+        "weight": 15,
+        "weightedScore": 13.8,
+        "explanation": "Minister Musokotwane maintains an impeccable ethical reputation, built over a distinguished career in public service including prior roles as Minister of Finance and Secretary to the Treasury. His professional integrity is widely acknowledged across the political spectrum and by international partners.",
+        "positiveFactors": [
+          "Distinguished career spanning academia, central banking, and government with no ethical blemishes",
+          "Full compliance with asset declaration requirements, with declarations filed ahead of statutory deadlines",
+          "Established a ministerial code of conduct for all Ministry of Finance senior staff",
+          "Recused himself from decisions involving any personal or family financial interests"
+        ],
+        "negativeFactors": [
+          "Limited public visibility of the ministerial code enforcement mechanism and any violations addressed"
+        ],
+        "improvementTips": [
+          "Publish an annual ministerial ethics compliance report to enhance public accountability",
+          "Extend the ministerial code of conduct framework to all government ministries as a best practice model"
+        ]
+      },
+      {
+        "category": "Transparency & Accountability",
+        "score": 90,
+        "weight": 15,
+        "weightedScore": 13.5,
+        "explanation": "The Ministry of Finance under Minister Musokotwane has become Zambia's most transparent government institution. Regular publication of fiscal data, open budget processes, and engagement with civil society organizations on budget monitoring represent significant improvements from prior administrations.",
+        "positiveFactors": [
+          "Zambia's Open Budget Index score improved from 39 to 52 under his leadership",
+          "Monthly revenue and expenditure data published on the Ministry of Finance website within 30 days",
+          "Active engagement with civil society budget monitoring organizations including ZIPAR and CSPR",
+          "Annual pre-budget consultations held with private sector, labour unions, and civil society"
+        ],
+        "negativeFactors": [
+          "Some procurement data for large infrastructure projects remains inaccessible to the public",
+          "Parliamentary committee recommendations on budget oversight are not always addressed within stated timelines"
+        ],
+        "improvementTips": [
+          "Establish a centralized public procurement portal with real-time contract and award information",
+          "Commit to responding to all parliamentary committee recommendations within 90 days with written status updates",
+          "Achieve an Open Budget Index score of 60 or above within the next assessment cycle"
+        ]
+      }
+    ],
+    "overallExplanation": "Minister Situmbeko Musokotwane has delivered an outstanding performance as Minister of Finance and National Planning, anchoring Zambia's economic recovery through disciplined fiscal management, historic debt restructuring, and restored international credibility. His personal integrity and transparency reforms have set a new standard for public financial management in Zambia. The key challenge remains balancing fiscal consolidation with social protection for vulnerable populations and accelerating domestic revenue mobilization to sustainably finance development priorities.",
+    "topImprovementAreas": [
+      "Accelerate domestic revenue mobilization to reduce dependence on external financing",
+      "Strengthen social protection mechanisms to cushion vulnerable households during fiscal consolidation",
+      "Complete IFMIS rollout nationally and establish a centralized public procurement transparency portal"
+    ]
+  },
+  {
+    "id": "MIN-002",
+    "name": "Hon. Sylvia Masebo",
+    "role": "Minister",
+    "ministry": "Ministry of Health",
+    "organization": "Government of Zambia",
+    "region": "Lusaka",
+    "overallScore": 91,
+    "rating": "Excellent",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-15T00:00:00Z",
+    "termStart": "2021-08-26",
+    "termEnd": null,
+    "details": {
+      "policyEffectiveness": 92,
+      "financialIntegrity": 90,
+      "publicSatisfaction": 93,
+      "ethicalConduct": 88,
+      "transparencyAccountability": 91
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Policy Effectiveness",
+        "score": 92,
+        "weight": 25,
+        "weightedScore": 23.0,
+        "explanation": "Minister Masebo has transformed Zambia's health sector through the recruitment of over 11,000 health workers, expansion of drug availability in public health facilities, and the rollout of the National Health Insurance Management Authority. Her decisive handling of cholera outbreaks and commitment to primary healthcare access have produced measurable improvements in health outcomes.",
+        "positiveFactors": [
+          "Recruited over 11,000 health workers, significantly reducing the health worker-to-patient ratio",
+          "Launched the National Health Insurance Management Authority providing coverage to formal sector workers",
+          "Drug availability in public health facilities improved from 55% to 82% through reformed procurement systems",
+          "Reduced cholera mortality rate by 60% through improved outbreak preparedness and WASH interventions"
+        ],
+        "negativeFactors": [
+          "Rural health post staffing remains inadequate, with some facilities operating below minimum standards",
+          "National Health Insurance coverage does not yet extend to the informal sector, excluding millions of Zambians"
+        ],
+        "improvementTips": [
+          "Extend National Health Insurance coverage to informal sector workers through innovative contribution mechanisms",
+          "Implement rural health worker retention incentives including housing, hardship allowances, and career pathways",
+          "Develop a national digital health strategy to enable telemedicine in underserved areas"
+        ]
+      },
+      {
+        "category": "Financial Integrity",
+        "score": 90,
+        "weight": 25,
+        "weightedScore": 22.5,
+        "explanation": "The Ministry of Health under Minister Masebo has significantly improved its financial management, with clean audit opinions and reformed drug procurement processes. The centralization of medical supply procurement through the Zambia Medicines and Medical Supplies Agency has reduced waste and improved value for money.",
+        "positiveFactors": [
+          "Clean audit opinion from the Auditor General for the first time in 5 years",
+          "Reformed drug procurement through ZAMMSA, achieving 25% cost savings on essential medicines",
+          "Implemented budget tracking dashboards for all provincial health offices",
+          "Zero tolerance policy for pharmaceutical supply chain corruption with 3 officials dismissed and prosecuted"
+        ],
+        "negativeFactors": [
+          "Some district health offices still lack trained financial management personnel",
+          "Donor fund management at facility level requires strengthened internal controls"
+        ],
+        "improvementTips": [
+          "Deploy trained accountants to all 116 district health offices within the next fiscal year",
+          "Strengthen donor fund management controls at facility level with quarterly compliance reviews",
+          "Establish a health sector anti-fraud hotline for anonymous reporting of financial irregularities"
+        ]
+      },
+      {
+        "category": "Public Satisfaction",
+        "score": 93,
+        "weight": 20,
+        "weightedScore": 18.6,
+        "explanation": "Public satisfaction with health services has improved dramatically under Minister Masebo's leadership. Citizens report better drug availability, shorter waiting times, and more respectful treatment at public health facilities. Her visible personal engagement, including unannounced facility inspections, has resonated with the public.",
+        "positiveFactors": [
+          "Public satisfaction with health services increased from 48% to 72% in independent surveys",
+          "Drug availability improvement directly experienced by citizens, reducing out-of-pocket spending",
+          "Unannounced facility inspections and immediate corrective action demonstrated accountability",
+          "Active social media engagement addressing public health concerns in real time"
+        ],
+        "negativeFactors": [
+          "Long waiting times persist at major referral hospitals, particularly the University Teaching Hospital",
+          "Mental health services remain severely underfunded and inaccessible in most provinces"
+        ],
+        "improvementTips": [
+          "Implement appointment scheduling systems at referral hospitals to reduce overcrowding and waiting times",
+          "Develop a national mental health strategy with dedicated budget allocation and community-based services",
+          "Establish patient satisfaction surveys at all health facilities with published quarterly results"
+        ]
+      },
+      {
+        "category": "Ethical Conduct",
+        "score": 88,
+        "weight": 15,
+        "weightedScore": 13.2,
+        "explanation": "Minister Masebo has demonstrated strong ethical standards, taking decisive action against corruption in the health sector and maintaining personal integrity. Her prosecution of pharmaceutical supply chain fraud and dismissal of corrupt officials sent a powerful signal about accountability in the ministry.",
+        "positiveFactors": [
+          "Prosecuted officials involved in pharmaceutical procurement fraud, securing 3 convictions",
+          "Declared all personal assets and business interests in full compliance with statutory requirements",
+          "Refused gifts and hospitality from pharmaceutical companies, setting a ministerial standard",
+          "Transparent about health sector challenges rather than hiding problems from the public"
+        ],
+        "negativeFactors": [
+          "Some critics allege that disciplinary actions have disproportionately affected officials from certain regions",
+          "A few procurement decisions at provincial level were questioned for potential favouritism"
+        ],
+        "improvementTips": [
+          "Ensure disciplinary processes are transparently documented and applied consistently regardless of regional or political affiliation",
+          "Establish an independent health sector procurement review panel to provide oversight on major tenders",
+          "Publish an annual health sector integrity report documenting all disciplinary actions and procurement audits"
+        ]
+      },
+      {
+        "category": "Transparency & Accountability",
+        "score": 91,
+        "weight": 15,
+        "weightedScore": 13.65,
+        "explanation": "The Ministry of Health has become one of the most transparent government institutions under Minister Masebo's leadership. Regular publication of health data, open procurement processes, and active engagement with civil society health monitors have set a benchmark for government accountability.",
+        "positiveFactors": [
+          "Quarterly health sector performance reports published on the Ministry website with district-level data",
+          "Open procurement processes for medical supplies with contract details published for public scrutiny",
+          "Regular stakeholder meetings with health CSOs, development partners, and professional associations",
+          "COVID-19 response data was published daily, setting a transparency standard for public health emergencies"
+        ],
+        "negativeFactors": [
+          "Health facility-level performance data is not yet publicly accessible for all districts",
+          "Community feedback mechanisms at rural health facilities need strengthening"
+        ],
+        "improvementTips": [
+          "Publish facility-level health performance dashboards accessible to citizens via mobile-friendly platforms",
+          "Establish community health advisory committees at every health facility to provide structured feedback",
+          "Implement a national health complaints and compliments system with published response metrics"
+        ]
+      }
+    ],
+    "overallExplanation": "Minister Sylvia Masebo has delivered an excellent performance in transforming Zambia's health sector through massive health worker recruitment, reformed drug procurement, and improved service delivery accountability. Her personal commitment to transparency and anti-corruption enforcement has restored public confidence in the health system. Priority areas for continued improvement include extending health insurance coverage to the informal sector, addressing mental health service gaps, and strengthening rural health facility staffing and community feedback mechanisms.",
+    "topImprovementAreas": [
+      "Extend National Health Insurance to cover informal sector workers who constitute the majority of Zambians",
+      "Develop and fund a comprehensive national mental health strategy",
+      "Strengthen rural health post staffing through targeted retention incentives and community feedback systems"
+    ]
+  },
+  {
+    "id": "MIN-003",
+    "name": "Hon. Douglas Syakalima",
+    "role": "Minister",
+    "ministry": "Ministry of Education",
+    "organization": "Government of Zambia",
+    "region": "Lusaka",
+    "overallScore": 85,
+    "rating": "Good",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-15T00:00:00Z",
+    "termStart": "2021-08-26",
+    "termEnd": null,
+    "details": {
+      "policyEffectiveness": 88,
+      "financialIntegrity": 82,
+      "publicSatisfaction": 86,
+      "ethicalConduct": 85,
+      "transparencyAccountability": 84
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Policy Effectiveness",
+        "score": 88,
+        "weight": 25,
+        "weightedScore": 22.0,
+        "explanation": "Minister Syakalima has overseen the implementation of Zambia's free education policy from Early Childhood Education through Grade 12, resulting in a significant increase in school enrollment. The recruitment of over 30,000 teachers has addressed critical staffing shortages, and curriculum reforms are advancing to align education outcomes with labour market needs.",
+        "positiveFactors": [
+          "Free education policy increased school enrollment by 18%, bringing 800,000 additional children into the system",
+          "Recruited over 30,000 teachers, reducing the pupil-to-teacher ratio from 60:1 to 45:1 nationally",
+          "Launched the Comprehensive Sexuality Education integration into the school curriculum meeting UNESCO standards",
+          "Initiated STEM education enhancement with 50 secondary schools receiving upgraded science laboratories"
+        ],
+        "negativeFactors": [
+          "Infrastructure has not kept pace with enrollment growth, resulting in overcrowded classrooms in peri-urban areas",
+          "Quality of education outcomes, as measured by national examination pass rates, has not improved proportionally to investment"
+        ],
+        "improvementTips": [
+          "Accelerate school infrastructure construction focusing on peri-urban areas with the highest enrollment surges",
+          "Implement teacher quality improvement programmes with regular in-service training and performance assessments",
+          "Develop a national education quality monitoring framework with annual public reporting on learning outcomes"
+        ]
+      },
+      {
+        "category": "Financial Integrity",
+        "score": 82,
+        "weight": 25,
+        "weightedScore": 20.5,
+        "explanation": "Financial management in the education sector has improved with better budget execution and strengthened controls over school grant disbursements. However, the massive expansion of free education has created procurement challenges, and some district education offices have faced audit queries regarding grant utilization.",
+        "positiveFactors": [
+          "Budget execution rate improved from 78% to 91% through reformed disbursement processes",
+          "School grant tracking system implemented, enabling real-time monitoring of funds at school level",
+          "Engaged the Auditor General's office for a special audit of free education fund flows with proactive disclosure"
+        ],
+        "negativeFactors": [
+          "15 district education offices received qualified audit opinions on school grant utilization",
+          "Procurement of textbooks and learning materials faced delays and cost overruns in the initial rollout year",
+          "Some schools reported receiving grants late in the academic term, disrupting planned expenditures"
+        ],
+        "improvementTips": [
+          "Deploy trained finance officers to the 15 districts with qualified audit opinions for hands-on capacity building",
+          "Pre-procure textbooks and learning materials on a multi-year framework contract to avoid annual procurement delays",
+          "Ensure school grant disbursements are completed before the start of each academic term through advance planning"
+        ]
+      },
+      {
+        "category": "Public Satisfaction",
+        "score": 86,
+        "weight": 20,
+        "weightedScore": 17.2,
+        "explanation": "The free education policy has generated significant public goodwill, with parents across Zambia appreciating the removal of school fees and the recruitment of additional teachers. The Minister's accessibility and willingness to visit schools in remote areas have strengthened public confidence in the education reform agenda.",
+        "positiveFactors": [
+          "86% of parents surveyed support the free education policy and credit the Ministry with improved access",
+          "Teacher recruitment has been praised as one of the most impactful government programmes since 2021",
+          "Regular school visits by the Minister and senior officials demonstrate commitment to service delivery",
+          "Expanded school feeding programme now reaches 3.2 million children, reducing hunger-related absenteeism"
+        ],
+        "negativeFactors": [
+          "Teachers report delayed salary payments and housing challenges, affecting morale and retention",
+          "Private school operators express concerns about regulatory fairness and competition from free public schools"
+        ],
+        "improvementTips": [
+          "Resolve teacher salary payment delays by integrating payroll processing with IFMIS for automated disbursement",
+          "Develop a teacher housing strategy in partnership with the National Housing Authority and local authorities",
+          "Engage private school operators in policy dialogue to ensure a complementary public-private education ecosystem"
+        ]
+      },
+      {
+        "category": "Ethical Conduct",
+        "score": 85,
+        "weight": 15,
+        "weightedScore": 12.75,
+        "explanation": "Minister Syakalima has maintained a clean ethical record with no corruption allegations. His transparent handling of the teacher recruitment process, which was conducted through the Teaching Service Commission with published criteria and results, demonstrated commitment to merit-based processes in a high-stakes government programme.",
+        "positiveFactors": [
+          "Teacher recruitment conducted transparently through the Teaching Service Commission with published criteria",
+          "No personal corruption allegations or conflicts of interest during tenure",
+          "Asset declaration filed on time and in full compliance with statutory requirements",
+          "Dismissed 2 senior ministry officials involved in examination leakage, demonstrating zero tolerance"
+        ],
+        "negativeFactors": [
+          "Isolated reports of political interference in teacher deployment at constituency level not fully addressed",
+          "Some textbook procurement decisions at provincial level lacked fully competitive bidding processes"
+        ],
+        "improvementTips": [
+          "Establish a complaints mechanism for teachers who believe deployment decisions were politically influenced",
+          "Mandate competitive bidding for all textbook and learning material procurement above K50,000 at every level",
+          "Conduct an annual ethics compliance review across all provincial and district education offices"
+        ]
+      },
+      {
+        "category": "Transparency & Accountability",
+        "score": 84,
+        "weight": 15,
+        "weightedScore": 12.6,
+        "explanation": "The Ministry of Education has made progress in transparency through the publication of school-level data, teacher deployment statistics, and education budget execution reports. However, learning outcomes data and national examination performance analysis need to be more accessible to the public.",
+        "positiveFactors": [
+          "Published the complete teacher deployment list by school and district for public verification",
+          "Annual education statistical bulletin published with enrollment, staffing, and infrastructure data",
+          "Budget execution reports shared with parliamentary committees and civil society organizations quarterly",
+          "Examination Council of Zambia results published with district-level performance analysis"
+        ],
+        "negativeFactors": [
+          "School-level learning outcomes data not yet publicly accessible for parental and community review",
+          "Limited community engagement in school governance, with Parent-Teacher Associations often inactive"
+        ],
+        "improvementTips": [
+          "Publish school-level performance reports accessible to parents through a mobile-friendly portal",
+          "Revitalize Parent-Teacher Associations through training programmes and clear governance guidelines",
+          "Establish a national education transparency dashboard with real-time data on enrollment, staffing, and funding"
+        ]
+      }
+    ],
+    "overallExplanation": "Minister Douglas Syakalima has delivered a strong performance in expanding educational access through the free education policy and massive teacher recruitment. The 18% enrollment increase and improved pupil-to-teacher ratios represent transformative achievements. Key challenges include ensuring education quality keeps pace with expanded access, resolving infrastructure and classroom overcrowding in peri-urban areas, and improving financial management at district level. His ethical conduct and transparency efforts have been commendable, though learning outcomes monitoring and community engagement require further strengthening.",
+    "topImprovementAreas": [
+      "Accelerate school infrastructure construction to address overcrowding caused by enrollment expansion",
+      "Improve education quality monitoring with public reporting on learning outcomes at school and district level",
+      "Resolve teacher salary payment delays and develop a comprehensive teacher housing strategy"
+    ]
+  },
+  {
+    "id": "MIN-004",
+    "name": "Hon. Reuben Mtolo Phiri",
+    "role": "Minister",
+    "ministry": "Ministry of Agriculture",
+    "organization": "Government of Zambia",
+    "region": "Lusaka",
+    "overallScore": 79,
+    "rating": "Good",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-15T00:00:00Z",
+    "termStart": "2022-03-15",
+    "termEnd": null,
+    "details": {
+      "policyEffectiveness": 80,
+      "financialIntegrity": 78,
+      "publicSatisfaction": 82,
+      "ethicalConduct": 76,
+      "transparencyAccountability": 78
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Policy Effectiveness",
+        "score": 80,
+        "weight": 25,
+        "weightedScore": 20.0,
+        "explanation": "The Minister has advanced agricultural diversification beyond maize monoculture through the Comprehensive Agriculture Support Programme, supporting soybean, groundnut, and cassava production. The reformed Farmer Input Support Programme has improved targeting, though distribution challenges persist in remote districts.",
+        "positiveFactors": [
+          "Comprehensive Agriculture Support Programme enrolled 1 million smallholder farmers with diversified crop packages",
+          "FISP reform improved targeting accuracy from 45% to 72%, reducing leakage to non-eligible beneficiaries",
+          "Cashew nut and coffee production revitalization programmes launched in Western and Northern provinces",
+          "Livestock disease surveillance strengthened with 85% vaccination coverage for foot-and-mouth disease"
+        ],
+        "negativeFactors": [
+          "FISP input distribution still reaches some farmers after the planting season, reducing effectiveness",
+          "Maize marketing remains dominated by the Food Reserve Agency with prices set below market rates in some seasons",
+          "Agricultural extension officer-to-farmer ratio remains critically low at 1:1,500 against a target of 1:800"
+        ],
+        "improvementTips": [
+          "Implement electronic FISP voucher distribution to enable farmers to collect inputs from local agro-dealers on time",
+          "Reform FRA maize marketing to allow competitive pricing that incentivizes production and reduces fiscal burden",
+          "Recruit and deploy additional agricultural extension officers, prioritizing districts with the highest farmer density"
+        ]
+      },
+      {
+        "category": "Financial Integrity",
+        "score": 78,
+        "weight": 25,
+        "weightedScore": 19.5,
+        "explanation": "Financial management has improved with the FISP e-voucher reform reducing opportunities for fraud. However, the Food Reserve Agency continues to face audit challenges, and some district agricultural offices have weak financial controls over operational funds.",
+        "positiveFactors": [
+          "FISP e-voucher pilot reduced input fraud by an estimated 35% in participating districts",
+          "Ministry budget execution improved to 85%, up from 72% in the prior fiscal year",
+          "Engaged independent auditors for a special review of FRA grain purchasing and storage operations"
+        ],
+        "negativeFactors": [
+          "Food Reserve Agency received a qualified audit opinion for the 3rd consecutive year on inventory management",
+          "8 district agricultural offices flagged for weak internal controls over operational expenditures",
+          "Fertilizer procurement costs exceeded budget estimates by 22% due to late ordering and reduced competitive bidding"
+        ],
+        "improvementTips": [
+          "Restructure FRA governance with an independent board and professional management to address recurring audit issues",
+          "Deploy financial management support teams to the 8 districts with weak internal controls",
+          "Procure fertilizer through multi-year framework contracts with advance ordering to secure competitive pricing"
+        ]
+      },
+      {
+        "category": "Public Satisfaction",
+        "score": 82,
+        "weight": 20,
+        "weightedScore": 16.4,
+        "explanation": "Farmers generally appreciate the improved FISP targeting and the diversification support through the Comprehensive Agriculture Support Programme. The Minister's personal visits to farming communities during the planting season have been well received. However, late input delivery and FRA pricing concerns remain sources of farmer frustration.",
+        "positiveFactors": [
+          "82% of surveyed smallholder farmers report satisfaction with the reformed FISP programme",
+          "Diversification support has generated new income streams for farmers moving beyond maize dependency",
+          "Minister's regular field visits during planting and harvest seasons demonstrate personal commitment",
+          "Livestock farmers appreciate the improved vaccination and disease surveillance programmes"
+        ],
+        "negativeFactors": [
+          "35% of FISP beneficiaries in remote districts received inputs after the optimal planting window",
+          "Small-scale farmers express frustration with FRA buying prices that do not cover production costs in poor harvest years",
+          "Youth in agriculture programmes have limited reach, with only 5% of programme beneficiaries under age 35"
+        ],
+        "improvementTips": [
+          "Guarantee input delivery to all districts at least 4 weeks before the planting season through advance logistics planning",
+          "Introduce a cost-of-production floor price mechanism for FRA maize purchases to protect farmer incomes",
+          "Launch a dedicated youth in agriculture programme with access to land, inputs, markets, and mentorship"
+        ]
+      },
+      {
+        "category": "Ethical Conduct",
+        "score": 76,
+        "weight": 15,
+        "weightedScore": 11.4,
+        "explanation": "The Minister's personal ethical conduct is satisfactory, with no corruption allegations against him. However, the agriculture sector historically has high corruption risk in input procurement and distribution, and the Ministry has not fully addressed systemic integrity challenges inherited from previous administrations.",
+        "positiveFactors": [
+          "No personal corruption allegations or conflicts of interest reported during tenure",
+          "Supported the prosecution of FISP fraud cases involving officials from prior administrations",
+          "Asset declaration filed in compliance with statutory requirements"
+        ],
+        "negativeFactors": [
+          "Fertilizer procurement process for the 2024/2025 season faced transparency concerns from opposition parties",
+          "Some FISP distribution centres reported political interference in beneficiary selection at ward level",
+          "FRA grain storage losses due to negligence were not accompanied by disciplinary action against responsible officials"
+        ],
+        "improvementTips": [
+          "Publish complete fertilizer procurement documentation including bidder evaluations and contract awards publicly",
+          "Implement a biometric beneficiary verification system for FISP to eliminate political manipulation of beneficiary lists",
+          "Hold FRA management accountable for storage losses through formal performance management and disciplinary processes"
+        ]
+      },
+      {
+        "category": "Transparency & Accountability",
+        "score": 78,
+        "weight": 15,
+        "weightedScore": 11.7,
+        "explanation": "Transparency has improved with the publication of FISP beneficiary lists and the Comprehensive Agriculture Support Programme performance data. However, FRA operations remain opaque, and detailed agricultural expenditure data at district level is not easily accessible to the public or civil society monitors.",
+        "positiveFactors": [
+          "FISP beneficiary lists published at district level for public verification and complaint submission",
+          "Agricultural production and export statistics published quarterly through the Ministry website",
+          "Engaged the Zambia National Farmers Union in policy consultations and programme monitoring"
+        ],
+        "negativeFactors": [
+          "FRA purchasing volumes, storage costs, and sales revenue data not publicly disclosed in a timely manner",
+          "District-level agricultural budget execution data not accessible to community stakeholders",
+          "Limited parliamentary committee engagement on agricultural policy and budget oversight"
+        ],
+        "improvementTips": [
+          "Mandate quarterly publication of comprehensive FRA operational data including purchases, storage, and sales",
+          "Publish district-level agricultural budget execution reports on a public dashboard accessible via mobile devices",
+          "Proactively engage the parliamentary agriculture committee with quarterly briefings and policy updates"
+        ]
+      }
+    ],
+    "overallExplanation": "Minister Reuben Mtolo Phiri has made meaningful progress in reforming Zambia's agriculture sector through FISP improvement, crop diversification support, and strengthened livestock disease management. The shift from blanket subsidies toward targeted, diversified support represents a positive policy direction. Key challenges remain in FRA reform, timely input distribution to remote districts, and addressing systemic integrity issues in agricultural procurement. Youth engagement in agriculture and transparent FRA operations are critical areas requiring attention to sustain the positive reform trajectory.",
+    "topImprovementAreas": [
+      "Restructure and reform FRA governance to address recurring audit issues and operational opacity",
+      "Guarantee timely input delivery before the planting season through advance logistics and e-voucher distribution",
+      "Launch a dedicated youth in agriculture programme with land access, inputs, and market linkages"
+    ]
+  },
+  {
+    "id": "MIN-005",
+    "name": "Hon. Paul Kabuswe",
+    "role": "Minister",
+    "ministry": "Ministry of Mines and Minerals Development",
+    "organization": "Government of Zambia",
+    "region": "Lusaka",
+    "overallScore": 76,
+    "rating": "Good",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-15T00:00:00Z",
+    "termStart": "2021-08-26",
+    "termEnd": null,
+    "details": {
+      "policyEffectiveness": 78,
+      "financialIntegrity": 74,
+      "publicSatisfaction": 76,
+      "ethicalConduct": 80,
+      "transparencyAccountability": 72
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Policy Effectiveness",
+        "score": 78,
+        "weight": 25,
+        "weightedScore": 19.5,
+        "explanation": "The Minister has positioned Zambia to benefit from the global energy transition through copper and cobalt as critical minerals. The new Mines and Minerals Development Act provisions for increased local content and value addition are positive. However, the ambitious target of increasing copper production from 800,000 to 3 million tonnes has progressed slower than projected.",
+        "positiveFactors": [
+          "New mining fiscal regime attracting renewed investment interest from major mining houses",
+          "Local content provisions in the Mines and Minerals Act strengthened, requiring 35% local procurement",
+          "Copper production increased by 12% in the first two years, reversing a multi-year decline",
+          "Launched the Battery Minerals Development Strategy positioning Zambia in the global EV supply chain"
+        ],
+        "negativeFactors": [
+          "Copper production target of 3 million tonnes by 2031 appears increasingly unrealistic without accelerated investment",
+          "Mopani Copper Mines transition to new ownership has been protracted, affecting production and employment on the Copperbelt",
+          "Small-scale mining regulation remains weak, with environmental damage from unregulated artisanal mining continuing"
+        ],
+        "improvementTips": [
+          "Develop a realistic copper production roadmap with phased milestones and identified investment requirements for each major mine",
+          "Expedite the Mopani Copper Mines ownership resolution to restore production certainty and worker confidence",
+          "Implement a formal artisanal and small-scale mining framework with licensing, environmental standards, and technical support"
+        ]
+      },
+      {
+        "category": "Financial Integrity",
+        "score": 74,
+        "weight": 25,
+        "weightedScore": 18.5,
+        "explanation": "The mining sector's financial governance has improved with better mineral royalty collection and the establishment of the Mining Revenue Protection Unit. However, transfer pricing risks from multinational mining companies persist, and the Ministry's own operational finances have faced audit observations regarding travel and consultancy expenditures.",
+        "positiveFactors": [
+          "Mining royalty collection improved by 28% through enhanced monitoring and enforcement",
+          "Established the Mining Revenue Protection Unit to combat transfer pricing and tax avoidance",
+          "Gemstone revenue tracking system implemented, capturing previously unrecorded emerald and amethyst exports"
+        ],
+        "negativeFactors": [
+          "Audit observations on excessive travel expenditures and single-source consultancy contracts within the Ministry",
+          "Transfer pricing enforcement capacity remains limited relative to the complexity of multinational mining operations",
+          "ZCCM-IH dividend policy and investment returns lack transparent reporting to Parliament"
+        ],
+        "improvementTips": [
+          "Strengthen the ZRA mining tax unit with specialized transfer pricing expertise and technology",
+          "Implement competitive bidding for all Ministry consultancy engagements above K100,000",
+          "Require ZCCM-IH to publish comprehensive annual reports with investment performance and dividend policy transparency"
+        ]
+      },
+      {
+        "category": "Public Satisfaction",
+        "score": 76,
+        "weight": 20,
+        "weightedScore": 15.2,
+        "explanation": "Mining communities on the Copperbelt and North-Western Province have mixed views. They appreciate the commitment to local content and job creation but remain frustrated with environmental degradation, inadequate corporate social responsibility enforcement, and limited benefit-sharing from mining revenues at community level.",
+        "positiveFactors": [
+          "Local content requirements have increased procurement from Zambian suppliers in the mining supply chain",
+          "New mining investments in North-Western Province creating employment opportunities for local communities",
+          "Minister's regular visits to mining communities and engagement with mineworkers' unions appreciated"
+        ],
+        "negativeFactors": [
+          "Mining communities in Kabwe, Mufulira, and Chingola continue to suffer from legacy environmental contamination",
+          "Perceived inadequate sharing of mining revenues with host communities for local development",
+          "Mopani Copper Mines uncertainty has caused anxiety among 10,000+ workers and their families"
+        ],
+        "improvementTips": [
+          "Establish a Mining Community Development Fund with a mandated percentage of royalties directed to host communities",
+          "Accelerate environmental remediation programmes in Kabwe, Mufulira, and Chingola with measurable timelines",
+          "Implement a transparent community benefit-sharing framework for all new mining licences"
+        ]
+      },
+      {
+        "category": "Ethical Conduct",
+        "score": 80,
+        "weight": 15,
+        "weightedScore": 12.0,
+        "explanation": "Minister Kabuswe has maintained a clean personal ethical record with no corruption allegations. His willingness to confront mining companies on compliance issues and advocacy for Zambian ownership in the mining sector reflect genuine commitment to national interests. However, mining licence issuance processes need greater transparency to maintain public confidence.",
+        "positiveFactors": [
+          "No personal corruption allegations or undisclosed mining interests",
+          "Confronted non-compliant mining companies on environmental and employment standards publicly",
+          "Advocated strongly for increased Zambian equity participation in new mining ventures",
+          "Asset declaration filed in compliance with statutory requirements"
+        ],
+        "negativeFactors": [
+          "Mining licence allocation processes not fully transparent, with some decisions perceived as politically influenced",
+          "Revolving door concerns as some former Ministry officials have moved to mining company advisory roles"
+        ],
+        "improvementTips": [
+          "Publish all mining licence applications, evaluations, and awards in a publicly accessible cadastre system",
+          "Introduce a 2-year cooling-off period for senior Ministry officials before they can take positions with mining companies",
+          "Establish an independent mining licence review committee to provide oversight on all new licence awards"
+        ]
+      },
+      {
+        "category": "Transparency & Accountability",
+        "score": 72,
+        "weight": 15,
+        "weightedScore": 10.8,
+        "explanation": "Zambia's participation in the Extractive Industries Transparency Initiative (EITI) provides a baseline of mining sector transparency. However, beneficial ownership disclosure, contract transparency, and real-time production data remain areas where significant improvement is needed to meet international best practice standards.",
+        "positiveFactors": [
+          "Zambia maintains EITI compliant status with regular reporting on mining revenues and payments",
+          "Mining cadastre portal provides basic licence information to the public",
+          "Quarterly mineral production statistics published by the Ministry"
+        ],
+        "negativeFactors": [
+          "Beneficial ownership disclosure for mining licence holders is not yet mandatory or publicly accessible",
+          "Mining contracts and fiscal terms between the government and individual companies are not published",
+          "Real-time production monitoring data is not shared with revenue authorities or the public"
+        ],
+        "improvementTips": [
+          "Mandate and publish beneficial ownership information for all mining licence holders within 12 months",
+          "Adopt a contract transparency policy requiring publication of all new mining agreements and fiscal terms",
+          "Implement real-time production monitoring technology linked to ZRA systems for improved revenue assurance"
+        ]
+      }
+    ],
+    "overallExplanation": "Minister Paul Kabuswe has positioned Zambia's mining sector for growth aligned with the global energy transition, with renewed investment interest and strengthened local content provisions. The 12% copper production increase and improved royalty collection represent early wins. However, the ambitious 3 million tonne copper target requires accelerated action, the Mopani transition needs resolution, and mining community environmental and benefit-sharing concerns demand urgent attention. Strengthening transparency in licence allocation, contract terms, and beneficial ownership would significantly enhance governance of this critical sector.",
+    "topImprovementAreas": [
+      "Develop a realistic copper production roadmap and expedite the Mopani Copper Mines ownership resolution",
+      "Establish a Mining Community Development Fund for direct benefit-sharing with host communities",
+      "Mandate mining contract transparency and beneficial ownership disclosure to meet international best practice"
+    ]
+  },
+  {
+    "id": "MIN-006",
+    "name": "Hon. Frank Tayali",
+    "role": "Minister",
+    "ministry": "Ministry of Transport and Logistics",
+    "organization": "Government of Zambia",
+    "region": "Lusaka",
+    "overallScore": 68,
+    "rating": "Needs Improvement",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-15T00:00:00Z",
+    "termStart": "2022-06-10",
+    "termEnd": null,
+    "details": {
+      "policyEffectiveness": 65,
+      "financialIntegrity": 70,
+      "publicSatisfaction": 68,
+      "ethicalConduct": 72,
+      "transparencyAccountability": 65
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Policy Effectiveness",
+        "score": 65,
+        "weight": 25,
+        "weightedScore": 16.25,
+        "explanation": "The Ministry has made limited progress on the national transport and logistics master plan. Road maintenance backlogs remain severe, the Lusaka-Ndola dual carriageway has experienced repeated delays, and public transport regulation in urban areas has not advanced despite mounting congestion. The Kazungula Bridge operationalization represents a positive achievement, but broader transport sector reform is lagging.",
+        "positiveFactors": [
+          "Kazungula Bridge fully operational, reducing cross-border transit time from 5 days to 3 hours",
+          "Commenced the Lusaka-Ndola dual carriageway project, Zambia's largest road infrastructure investment",
+          "Established the Road Transport and Safety Agency reforms improving vehicle inspection standards"
+        ],
+        "negativeFactors": [
+          "Lusaka-Ndola dual carriageway behind schedule by 18 months due to contractor mobilization and funding delays",
+          "Rural road maintenance backlog estimated at 15,000 km of unpaved roads in poor condition",
+          "No progress on urban public transport reform despite Lusaka's worsening traffic congestion",
+          "Railway infrastructure remains neglected, with TAZARA and Zambia Railways operating far below capacity"
+        ],
+        "improvementTips": [
+          "Fast-track Lusaka-Ndola dual carriageway by resolving funding and contractor performance issues within 90 days",
+          "Develop a national rural road maintenance programme with dedicated annual budget and provincial execution targets",
+          "Commission a Lusaka urban transport master plan incorporating bus rapid transit and non-motorized transport options",
+          "Revitalize railway infrastructure through public-private partnerships to reduce pressure on the road network"
+        ]
+      },
+      {
+        "category": "Financial Integrity",
+        "score": 70,
+        "weight": 25,
+        "weightedScore": 17.5,
+        "explanation": "Financial management in the transport sector faces challenges related to the large capital budgets involved in road construction and the historical legacy of cost overruns and procurement irregularities. The Minister has initiated reforms, but implementation has been uneven, and the Road Development Agency continues to face audit queries.",
+        "positiveFactors": [
+          "Initiated a forensic review of legacy road construction contracts from prior administrations",
+          "Road toll revenue collection digitized, reducing leakage by an estimated 20%",
+          "RTSA licensing revenue increased by 35% through improved collection and digital systems"
+        ],
+        "negativeFactors": [
+          "Road Development Agency received a qualified audit opinion for the 2nd consecutive year on contract management",
+          "3 major road contracts flagged for cost variations exceeding 30% of original contract value without adequate justification",
+          "Toll road concession agreements lack transparency, with terms not disclosed to the public"
+        ],
+        "improvementTips": [
+          "Reform Road Development Agency governance with an independent board and strengthened procurement controls",
+          "Cap contract cost variations at 15% and require Cabinet approval for any variation exceeding this threshold",
+          "Publish all toll road concession agreements and financial terms for public scrutiny"
+        ]
+      },
+      {
+        "category": "Public Satisfaction",
+        "score": 68,
+        "weight": 20,
+        "weightedScore": 13.6,
+        "explanation": "Public frustration with the transport sector is significant, driven by poor road conditions, Lusaka's worsening congestion, unreliable public transport, and high road accident fatality rates. While the Minister is personally accessible, citizens see limited tangible improvement in their daily transport experience.",
+        "positiveFactors": [
+          "Kazungula Bridge praised by traders and transport operators as a transformative project",
+          "Minister's engagement with transport operators and road safety campaigns shows personal commitment",
+          "RTSA digital services including online licence renewals appreciated by motorists"
+        ],
+        "negativeFactors": [
+          "Zambia's road fatality rate remains among the highest in Southern Africa at 24 per 100,000 population",
+          "Lusaka commuters face 2-3 hour daily commute times due to congestion and lack of public transport options",
+          "Rural communities report impassable roads during the rainy season isolating them from markets and health services",
+          "Bus fares have increased 40% in 2 years without corresponding service quality improvements"
+        ],
+        "improvementTips": [
+          "Implement a national road safety strategy with enforcement, infrastructure improvements, and public education",
+          "Prioritize rural road maintenance before the rainy season to prevent community isolation",
+          "Regulate public transport fares in consultation with operators and consumer representatives to ensure affordability"
+        ]
+      },
+      {
+        "category": "Ethical Conduct",
+        "score": 72,
+        "weight": 15,
+        "weightedScore": 10.8,
+        "explanation": "The Minister's personal ethical record is satisfactory, with no corruption allegations. However, the transport sector's high-value procurement environment creates inherent corruption risks, and the Ministry has not adequately addressed concerns about politically connected contractors receiving preferential treatment in road construction tenders.",
+        "positiveFactors": [
+          "No personal corruption allegations or conflicts of interest reported",
+          "Supported the investigation of prior administration road construction irregularities",
+          "Asset declaration filed in compliance with statutory requirements"
+        ],
+        "negativeFactors": [
+          "Allegations of politically connected contractors receiving preferential treatment in road tenders not fully investigated",
+          "Some road construction subcontracts awarded without competitive processes at provincial level",
+          "RDA officials implicated in historical procurement irregularities remain in their positions"
+        ],
+        "improvementTips": [
+          "Commission an independent review of all road construction tenders awarded in the last 2 years for competitive integrity",
+          "Remove or reassign RDA officials with unresolved procurement integrity concerns pending investigation outcomes",
+          "Implement a mandatory conflicts of interest register for all Ministry and RDA procurement officials"
+        ]
+      },
+      {
+        "category": "Transparency & Accountability",
+        "score": 65,
+        "weight": 15,
+        "weightedScore": 9.75,
+        "explanation": "Transparency in the transport sector is below acceptable standards. Road construction contract details, cost variations, and project timelines are not publicly accessible. The Road Development Agency operates with limited accountability to Parliament or civil society, and toll revenue utilization is opaque.",
+        "positiveFactors": [
+          "RTSA publishes vehicle registration and road safety statistics regularly",
+          "Road toll collection data now digitized, creating an audit trail for revenue",
+          "Ministry website provides basic information on ongoing road projects"
+        ],
+        "negativeFactors": [
+          "Road construction contract details, variations, and payment schedules are not published",
+          "RDA does not publish project-by-project financial reports accessible to the public",
+          "Toll revenue utilization is not transparently reported, with no link to specific road maintenance activities",
+          "Limited parliamentary oversight of the Ministry's large capital budget execution"
+        ],
+        "improvementTips": [
+          "Publish all road construction contracts, cost variations, and payment milestones on a public portal",
+          "Require RDA to publish quarterly project-by-project progress and financial reports",
+          "Link toll revenue collection transparently to specific road maintenance expenditures with public reporting",
+          "Proactively brief the parliamentary transport committee quarterly on budget execution and project status"
+        ]
+      }
+    ],
+    "overallExplanation": "Minister Frank Tayali faces significant challenges in Zambia's transport sector, with road maintenance backlogs, major project delays, high road fatality rates, and urban congestion requiring urgent attention. While the Kazungula Bridge operationalization and RTSA digital reforms are positive achievements, the overall pace of transport sector reform is inadequate. The Road Development Agency needs governance reform, transparency in road construction procurement must improve dramatically, and a comprehensive urban transport strategy for Lusaka is long overdue. The Minister's personal integrity is satisfactory, but the sector's high-value procurement environment demands much stronger oversight and accountability mechanisms.",
+    "topImprovementAreas": [
+      "Resolve Lusaka-Ndola dual carriageway delays and develop a national rural road maintenance programme",
+      "Reform Road Development Agency governance and publish all road construction contract details publicly",
+      "Develop a Lusaka urban transport master plan and implement a comprehensive national road safety strategy"
+    ]
+  },
+  {
+    "id": "MIN-007",
+    "name": "Hon. Jack Mwiimbu",
+    "role": "Minister",
+    "ministry": "Ministry of Home Affairs and Internal Security",
+    "organization": "Government of Zambia",
+    "region": "Lusaka",
+    "overallScore": 55,
+    "rating": "Needs Improvement",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-15T00:00:00Z",
+    "termStart": "2021-08-26",
+    "termEnd": null,
+    "details": {
+      "policyEffectiveness": 52,
+      "financialIntegrity": 55,
+      "publicSatisfaction": 58,
+      "ethicalConduct": 54,
+      "transparencyAccountability": 56
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Policy Effectiveness",
+        "score": 52,
+        "weight": 25,
+        "weightedScore": 13.0,
+        "explanation": "The Ministry of Home Affairs faces deep structural challenges including an under-resourced police service, overcrowded prisons, and a slow national registration system. While some reforms have been initiated, including police recruitment and NRC digitization, the pace of change is insufficient to address the scale of the problems. Crime rates in urban areas remain high, and border security gaps persist.",
+        "positiveFactors": [
+          "Recruited 5,000 new police officers, partially addressing the severe staffing shortage",
+          "Initiated the National Registration Card digitization programme for improved identity management",
+          "Established community policing forums in 50 priority crime hotspot areas"
+        ],
+        "negativeFactors": [
+          "Police-to-population ratio remains at 1:800, far below the UN recommended 1:450",
+          "Prison overcrowding at 250% of capacity with limited progress on decongestion strategies",
+          "NRC issuance backlog exceeds 2 million citizens, preventing access to voting, banking, and government services",
+          "Border security infrastructure at Nakonde, Kasumbalesa, and Chembe is inadequate to manage cross-border crime"
+        ],
+        "improvementTips": [
+          "Develop a 5-year police modernization plan with phased recruitment, training, and equipment targets",
+          "Implement community service sentencing and bail reform to reduce prison overcrowding",
+          "Clear the NRC backlog through mobile registration drives in all 116 districts within 12 months",
+          "Upgrade border infrastructure and immigration systems at the 5 busiest entry points"
+        ]
+      },
+      {
+        "category": "Financial Integrity",
+        "score": 55,
+        "weight": 25,
+        "weightedScore": 13.75,
+        "explanation": "Financial management within the Ministry is weak, with recurring audit findings on police operations, immigration services, and prison administration. Passport and NRC fee revenues are not transparently accounted for, and procurement of police equipment has faced cost inflation concerns.",
+        "positiveFactors": [
+          "Passport issuance fees digitized, creating an electronic revenue trail",
+          "Ministry cooperated with the Auditor General's review and committed to addressing findings",
+          "Budget execution rate improved from 65% to 78% through better disbursement management"
+        ],
+        "negativeFactors": [
+          "Auditor General flagged K95 million in inadequately documented expenditures across police divisions",
+          "Police equipment procurement (vehicles, uniforms) showed cost inflation of 18-25% above market rates",
+          "Immigration fee revenue reconciliation incomplete, with significant unaccounted collections at border posts",
+          "Prison food procurement contracts awarded without competitive bidding in 3 provinces"
+        ],
+        "improvementTips": [
+          "Implement electronic expenditure tracking at all police division and station levels",
+          "Centralize police equipment procurement through the ZPPA framework with independent cost verification",
+          "Conduct a comprehensive immigration revenue reconciliation audit covering all border posts and immigration offices",
+          "Mandate competitive bidding for all prison supply contracts above K50,000"
+        ]
+      },
+      {
+        "category": "Public Satisfaction",
+        "score": 58,
+        "weight": 20,
+        "weightedScore": 11.6,
+        "explanation": "Public satisfaction with home affairs services is low, driven by frustration with police service quality, long NRC and passport waiting times, and perceived corruption at police checkpoints and immigration offices. While community policing initiatives have shown promise in some areas, the overall public perception of the Ministry remains negative.",
+        "positiveFactors": [
+          "Community policing forums in pilot areas reduced reported crime by 15% in participating communities",
+          "Passport processing time reduced from 30 days to 14 days through system upgrades",
+          "Police public relations improved with a social media presence addressing crime alerts and safety tips"
+        ],
+        "negativeFactors": [
+          "Public trust in the Zambia Police Service at 38%, the lowest among government institutions surveyed",
+          "NRC issuance takes 3-6 months in some districts, with citizens making multiple trips to registration centres",
+          "Persistent reports of police corruption at road checkpoints and during criminal investigations",
+          "Gender-based violence response by police criticized as inadequate by women's rights organizations"
+        ],
+        "improvementTips": [
+          "Establish an independent police complaints authority to investigate corruption and misconduct allegations",
+          "Deploy mobile NRC registration units to all districts on a quarterly schedule to reduce waiting times",
+          "Implement mandatory gender-based violence response training for all police officers with annual certification",
+          "Launch a comprehensive police integrity campaign with anonymous corruption reporting channels"
+        ]
+      },
+      {
+        "category": "Ethical Conduct",
+        "score": 54,
+        "weight": 15,
+        "weightedScore": 8.1,
+        "explanation": "The Minister faces challenges in addressing the police service's entrenched culture of corruption while maintaining operational effectiveness. While his personal ethical record is clean, the Ministry has been slow to address systemic integrity issues within the police, immigration, and prison services. High-profile incidents of police brutality have not been adequately investigated or publicly addressed.",
+        "positiveFactors": [
+          "No personal corruption allegations against the Minister during his tenure",
+          "Initiated the Police Service Standards and Ethics Framework review",
+          "Dismissed 12 police officers found guilty of corruption following internal investigations"
+        ],
+        "negativeFactors": [
+          "Police brutality incidents including deaths in custody not transparently investigated or reported",
+          "Immigration officers at major border posts widely reported to solicit bribes from travellers",
+          "Prison wardens implicated in contraband smuggling with limited disciplinary action taken",
+          "Perception that disciplinary actions target lower-ranking officers while senior officials are protected"
+        ],
+        "improvementTips": [
+          "Establish an independent investigations unit for police brutality and deaths in custody with public reporting",
+          "Deploy integrity testing and surveillance at immigration offices to identify and prosecute corrupt officers",
+          "Implement transparent disciplinary processes that apply equally to all ranks within the police and prison services",
+          "Publish quarterly integrity reports documenting all misconduct investigations and outcomes"
+        ]
+      },
+      {
+        "category": "Transparency & Accountability",
+        "score": 56,
+        "weight": 15,
+        "weightedScore": 8.4,
+        "explanation": "Transparency within the Ministry of Home Affairs is poor. Crime statistics are published irregularly and incompletely, police operational budgets are opaque, and there is no independent oversight mechanism for police conduct. The Ministry's engagement with civil society on security sector governance is limited.",
+        "positiveFactors": [
+          "Annual crime statistics report published, though with significant delays",
+          "Police Service Commission publishes recruitment results for public verification",
+          "Ministry website provides basic information on services including passport and NRC applications"
+        ],
+        "negativeFactors": [
+          "Crime statistics published 12-18 months after the reporting period, limiting their usefulness for policy and public awareness",
+          "Police operational budgets and expenditure details not disclosed to the public or civil society",
+          "No independent police oversight body exists in Zambia to monitor conduct and investigate complaints",
+          "Immigration and prison services do not publish performance data or service delivery statistics"
+        ],
+        "improvementTips": [
+          "Publish quarterly crime statistics within 30 days of the period end to enable timely public awareness and policy response",
+          "Establish an independent civilian police oversight authority with investigative powers by parliamentary legislation",
+          "Publish annual immigration and prison service performance reports with service delivery indicators",
+          "Engage civil society organizations in security sector governance dialogue through regular structured forums"
+        ]
+      }
+    ],
+    "overallExplanation": "Minister Jack Mwiimbu faces profound challenges in reforming Zambia's home affairs and security sector, which suffers from chronic underfunding, institutional corruption, and capacity constraints. While police recruitment, community policing, and NRC digitization are positive steps, the overall pace of reform is insufficient to address the scale of the problems. Prison overcrowding, low public trust in the police, border security gaps, and the absence of independent police oversight are critical issues requiring urgent and sustained attention. The Minister must prioritize systemic integrity reforms, transparent accountability mechanisms, and accelerated service delivery improvements to restore public confidence in the Ministry.",
+    "topImprovementAreas": [
+      "Establish an independent civilian police oversight authority to address corruption and brutality concerns",
+      "Clear the 2 million NRC issuance backlog through nationwide mobile registration drives",
+      "Address prison overcrowding through sentencing reform and implement transparent police financial management"
+    ]
+  },
+  {
+    "id": "MIN-008",
+    "name": "Hon. Ambrose Lufuma",
+    "role": "Minister",
+    "ministry": "Ministry of Defence and National Security",
+    "organization": "Government of Zambia",
+    "region": "Lusaka",
+    "overallScore": 42,
+    "rating": "Poor",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-15T00:00:00Z",
+    "termStart": "2021-08-26",
+    "termEnd": null,
+    "details": {
+      "policyEffectiveness": 40,
+      "financialIntegrity": 38,
+      "publicSatisfaction": 45,
+      "ethicalConduct": 42,
+      "transparencyAccountability": 48
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Policy Effectiveness",
+        "score": 40,
+        "weight": 25,
+        "weightedScore": 10.0,
+        "explanation": "The Ministry of Defence has made minimal progress on defence modernization, military housing, and border security capability enhancement. The Zambia Defence Force's operational readiness has declined due to aging equipment, inadequate training budgets, and deferred maintenance. UN peacekeeping participation has decreased, reducing Zambia's international peacekeeping reputation and revenue.",
+        "positiveFactors": [
+          "Maintained national territorial integrity with no external security incidents",
+          "Zambia Army Engineering Regiment contributed to flood response and bridge repairs in Southern Province"
+        ],
+        "negativeFactors": [
+          "No progress on the Defence Modernization Programme submitted to Cabinet 2 years ago",
+          "Military equipment serviceability rate fallen below 45%, with critical aircraft and vehicle fleets grounded",
+          "Zambia's UN peacekeeping troop contribution reduced by 40% due to equipment and training shortfalls",
+          "Military housing stock deteriorated with 60% of barracks classified as substandard, affecting service morale",
+          "Border surveillance capability gaps exploited by cross-border smuggling and wildlife trafficking networks"
+        ],
+        "improvementTips": [
+          "Present the Defence Modernization Programme to Cabinet and Parliament for approval with a phased 10-year implementation plan",
+          "Prioritize equipment maintenance and serviceability restoration before new acquisitions",
+          "Restore UN peacekeeping troop contributions to previous levels to regain international standing and peacekeeping revenue",
+          "Develop a military housing improvement programme in partnership with the National Housing Authority"
+        ]
+      },
+      {
+        "category": "Financial Integrity",
+        "score": 38,
+        "weight": 25,
+        "weightedScore": 9.5,
+        "explanation": "Financial management in the defence sector is critically poor, with the Auditor General's report identifying substantial undocumented expenditures, irregular procurement practices, and inadequate inventory management. The opaque nature of defence spending, often justified on national security grounds, has been exploited to avoid standard financial controls.",
+        "positiveFactors": [
+          "Basic budget allocation and expenditure records maintained at Ministry headquarters level"
+        ],
+        "negativeFactors": [
+          "Auditor General flagged K280 million in defence expenditures with missing or inadequate supporting documentation",
+          "Military equipment procurement conducted through sole-source contracts without evidence of value-for-money assessment",
+          "Fuel and rations procurement across 3 military formations showed cost inflation of 40-55% above market rates",
+          "Inventory management for military stores and equipment is manual, with significant reconciliation discrepancies",
+          "Defence budget classified expenditure has increased without corresponding parliamentary oversight provisions"
+        ],
+        "improvementTips": [
+          "Subject all defence procurement above K1 million to the ZPPA framework with appropriate confidentiality provisions",
+          "Implement a military logistics and inventory management information system to replace manual record-keeping",
+          "Commission an independent forensic audit of the 3 military formations flagged for fuel and rations cost inflation",
+          "Establish a parliamentary defence and security committee with confidential access to review classified expenditure"
+        ]
+      },
+      {
+        "category": "Public Satisfaction",
+        "score": 45,
+        "weight": 20,
+        "weightedScore": 9.0,
+        "explanation": "Public perception of the defence sector is negative, driven by visible deterioration of military infrastructure, reports of poor conditions for soldiers, and limited visible contribution to national development beyond occasional disaster response. Military families express deep frustration with housing conditions, delayed salary adjustments, and inadequate medical facilities at military camps.",
+        "positiveFactors": [
+          "Military disaster response during the 2024 floods earned public appreciation and media coverage",
+          "Zambia National Service food production programme supplies produce to local markets at affordable prices",
+          "Military bands and ceremonial units maintain positive public engagement at national events"
+        ],
+        "negativeFactors": [
+          "Military families protest poor barracks conditions with 3 formal petitions submitted to the Ministry",
+          "Soldier salaries and allowances have not been adjusted in line with inflation for 3 consecutive years",
+          "Military medical facilities at 4 major camps lack basic medical supplies and qualified personnel",
+          "Public perception that defence spending is wasted on unaccountable expenditures rather than military welfare"
+        ],
+        "improvementTips": [
+          "Prioritize military welfare including salary adjustment, housing improvement, and medical facility upgrades",
+          "Establish a military ombudsman to receive and address service member and family welfare complaints",
+          "Increase public communication about military contributions to national development and security",
+          "Develop a soldier welfare fund with transparent governance and regular reporting to military families"
+        ]
+      },
+      {
+        "category": "Ethical Conduct",
+        "score": 42,
+        "weight": 15,
+        "weightedScore": 6.3,
+        "explanation": "Ethical conduct within the defence sector is a serious concern. Procurement irregularities suggest systemic integrity failures, and the Minister has not demonstrated adequate leadership in addressing corruption within the military establishment. Reports of ghost soldiers on the payroll and irregular land allocations at military installations have not been transparently investigated.",
+        "positiveFactors": [
+          "No personal criminal charges or corruption convictions against the Minister",
+          "Cooperated with the Auditor General's office during the annual audit process"
+        ],
+        "negativeFactors": [
+          "Ghost soldier allegations involving an estimated 2,000 personnel on the payroll without verified deployment records",
+          "Irregular allocation of military land at 2 installations to private developers with suspected political connections",
+          "Fuel procurement contracts awarded to companies owned by individuals connected to senior military officers",
+          "No disciplinary action taken against officers implicated in procurement irregularities despite audit findings",
+          "Failure to publish or enforce a comprehensive code of conduct for civilian Ministry officials and military officers"
+        ],
+        "improvementTips": [
+          "Conduct a comprehensive biometric payroll audit to identify and remove all ghost soldiers",
+          "Investigate and reverse irregular military land allocations, holding responsible officials accountable",
+          "Implement a strict conflict-of-interest policy preventing contracts from being awarded to military-connected companies",
+          "Establish a defence sector integrity unit with authority to investigate and prosecute procurement corruption"
+        ]
+      },
+      {
+        "category": "Transparency & Accountability",
+        "score": 48,
+        "weight": 15,
+        "weightedScore": 7.2,
+        "explanation": "The defence sector operates with the least transparency of any government ministry, with national security justifications used to shield routine administrative and procurement decisions from oversight. Parliamentary oversight of defence spending is weak, and there is no public reporting on defence sector performance or expenditure beyond the annual Auditor General's report.",
+        "positiveFactors": [
+          "Auditor General has access to review defence expenditure, maintaining a minimum accountability baseline",
+          "Basic defence budget allocation figures published in the national budget documentation"
+        ],
+        "negativeFactors": [
+          "No annual defence sector performance report published for public or parliamentary review",
+          "Parliamentary Committee on National Security meets infrequently and lacks access to classified expenditure details",
+          "Procurement decisions classified as confidential without evidence-based security justification",
+          "No freedom of information provisions for defence sector administrative and procurement records",
+          "Military welfare expenditure, housing programmes, and medical facility status not reported publicly"
+        ],
+        "improvementTips": [
+          "Publish an annual defence sector report covering non-classified performance, welfare, and expenditure data",
+          "Strengthen the parliamentary defence committee with confidential briefing privileges and regular meeting schedules",
+          "Adopt a classification policy that limits confidentiality to genuinely security-sensitive information, not routine procurement",
+          "Publish military welfare data including housing conditions, medical facility status, and family support programmes"
+        ]
+      }
+    ],
+    "overallExplanation": "Minister Ambrose Lufuma's performance at the Ministry of Defence and National Security is critically poor across all governance dimensions. The defence sector suffers from severe financial mismanagement with K280 million in undocumented expenditures, deteriorating military equipment and infrastructure, ghost soldier allegations, and minimal transparency. Military families endure substandard housing, delayed salary adjustments, and inadequate medical care. The absence of meaningful parliamentary oversight and the exploitation of national security classifications to shield routine procurement decisions from accountability have created an environment conducive to waste and corruption. Urgent and comprehensive reform is needed including a biometric payroll audit, forensic procurement review, military welfare improvements, and strengthened parliamentary oversight.",
+    "topImprovementAreas": [
+      "Commission a forensic audit of defence expenditures and conduct a biometric payroll audit to eliminate ghost soldiers",
+      "Improve military welfare including housing, salary adjustments, and medical facility upgrades as an immediate priority",
+      "Strengthen parliamentary defence oversight and adopt a classification policy that limits confidentiality to genuinely security-sensitive matters"
+    ]
+  }
+]

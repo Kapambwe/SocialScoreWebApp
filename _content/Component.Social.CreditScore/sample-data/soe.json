@@ -1,0 +1,571 @@
+[
+  {
+    "id": "SOE-001",
+    "enterpriseName": "National Power Grid",
+    "score": 88,
+    "rating": "Good",
+    "details": {
+      "financialPerformance": 90,
+      "operationalEfficiency": 85,
+      "publicServiceMandates": 92,
+      "corporateGovernance": 86
+    },
+    "leader": {
+      "id": "LDR-001",
+      "name": "General Zod",
+      "score": 89,
+      "rating": "Good",
+      "details": {
+        "financialHistory": 90,
+        "legalCompliance": 88,
+        "socialBehavior": 90
+      },
+      "scoreBreakdown": [
+        {
+          "category": "Financial History",
+          "score": 90,
+          "weight": 40,
+          "weightedScore": 36.0,
+          "explanation": "Demonstrates exemplary financial stewardship with a clean personal financial record and no history of fiscal irregularities across 12 years of public sector leadership.",
+          "positiveFactors": [
+            "No personal financial liabilities or defaults on record",
+            "Declared assets fully aligned with income sources over past decade",
+            "Voluntarily submits to independent financial audits annually"
+          ],
+          "negativeFactors": [
+            "Minor delay in filing one annual asset declaration due to administrative oversight"
+          ],
+          "improvementTips": [
+            "Automate annual declaration submissions through digital governance platform",
+            "Publish summarized financial disclosures proactively for public transparency"
+          ]
+        },
+        {
+          "category": "Legal Compliance",
+          "score": 88,
+          "weight": 30,
+          "weightedScore": 26.4,
+          "explanation": "Strong legal standing with zero litigation history and full compliance with public officer conduct regulations throughout tenure.",
+          "positiveFactors": [
+            "Zero lawsuits or legal disputes as a public sector leader",
+            "Completed all mandatory governance and ethics training programs",
+            "Proactively implemented anti-corruption frameworks within the enterprise"
+          ],
+          "negativeFactors": [
+            "One procurement policy deviation flagged during routine audit, subsequently corrected"
+          ],
+          "improvementTips": [
+            "Establish quarterly compliance review sessions with legal counsel",
+            "Champion adoption of whistleblower protection policies across all departments"
+          ]
+        },
+        {
+          "category": "Social Behavior",
+          "score": 90,
+          "weight": 30,
+          "weightedScore": 27.0,
+          "explanation": "Highly regarded by employees, stakeholders, and the public. Active in community development and maintains a strong ethical reputation.",
+          "positiveFactors": [
+            "Led corporate social responsibility initiatives benefiting 15,000 households",
+            "Employee satisfaction surveys consistently rate leadership at 90%+",
+            "Recognized by the National Governance Institute for ethical leadership"
+          ],
+          "negativeFactors": [
+            "Limited visibility in rural stakeholder engagement events"
+          ],
+          "improvementTips": [
+            "Increase personal engagement with rural communities through quarterly field visits",
+            "Establish a public-facing leadership blog to communicate vision and progress"
+          ]
+        }
+      ],
+      "overallExplanation": "General Zod is a high-performing public sector leader with a clean financial record, impeccable legal standing, and strong social impact. His leadership has directly contributed to the National Power Grid's operational excellence and public trust. Minor improvements in rural engagement and administrative process automation would further strengthen his profile.",
+      "topImprovementAreas": [
+        "Increase rural community engagement and visibility",
+        "Automate personal compliance and declaration processes",
+        "Expand mentorship and succession planning programs"
+      ]
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Financial Performance",
+        "score": 90,
+        "weight": 30,
+        "weightedScore": 27.0,
+        "explanation": "National Power Grid posted a 12% revenue increase year-over-year with strong cost control measures. Operating margins improved to 18% and debt-to-equity ratio remains healthy at 0.4.",
+        "positiveFactors": [
+          "Revenue grew 12% year-over-year driven by new industrial connections",
+          "Operating margins improved from 15% to 18% through cost optimization",
+          "Successfully refinanced long-term debt at 2.5% lower interest rate"
+        ],
+        "negativeFactors": [
+          "Accounts receivable from government ministries aged beyond 90 days totaling K45 million",
+          "Fuel cost hedging strategy underperformed in Q3 due to price volatility"
+        ],
+        "improvementTips": [
+          "Negotiate memorandum of understanding with Treasury for timely government payments",
+          "Diversify fuel hedging instruments to include options alongside futures contracts",
+          "Accelerate deployment of smart meters to reduce revenue leakage from unbilled consumption"
+        ]
+      },
+      {
+        "category": "Operational Efficiency",
+        "score": 85,
+        "weight": 25,
+        "weightedScore": 21.25,
+        "explanation": "System reliability stands at 96.5% uptime with transmission losses reduced to 8.2%. Maintenance scheduling has improved but aging infrastructure in rural corridors remains a challenge.",
+        "positiveFactors": [
+          "96.5% system uptime exceeding the 95% regulatory target",
+          "Transmission losses reduced from 11% to 8.2% over two years",
+          "Deployed predictive maintenance AI across 60% of generation assets"
+        ],
+        "negativeFactors": [
+          "Rural transmission corridors experience 3x more outages than urban areas",
+          "Spare parts inventory management still relies on manual tracking in 2 of 5 regions",
+          "Average fault restoration time of 6 hours exceeds the 4-hour KPI target"
+        ],
+        "improvementTips": [
+          "Fast-track rural grid reinforcement program with ring-fenced capital budget",
+          "Implement enterprise-wide digital inventory management system within 12 months",
+          "Establish regional rapid-response teams to reduce fault restoration time to under 4 hours"
+        ]
+      },
+      {
+        "category": "Public Service Mandates",
+        "score": 92,
+        "weight": 25,
+        "weightedScore": 23.0,
+        "explanation": "Exceeded the national electrification target with 78% coverage, up from 72% last year. Pro-poor tariff programs benefit over 200,000 low-income households. Strong alignment with government energy policy.",
+        "positiveFactors": [
+          "National electrification coverage increased from 72% to 78% in one year",
+          "Pro-poor tariff program serves 200,000+ low-income households",
+          "Launched 50MW solar farm contributing to the national renewable energy target"
+        ],
+        "negativeFactors": [
+          "Remote rural areas in 3 provinces still below 40% electrification rate",
+          "Customer complaint resolution time averages 10 days vs 7-day target"
+        ],
+        "improvementTips": [
+          "Deploy off-grid solar solutions for remote communities where grid extension is not viable",
+          "Establish dedicated customer service centers in underserved provinces",
+          "Implement automated complaint tracking with SMS status updates for customers"
+        ]
+      },
+      {
+        "category": "Corporate Governance",
+        "score": 86,
+        "weight": 20,
+        "weightedScore": 17.2,
+        "explanation": "Board composition meets diversity requirements with 40% female representation. Board meetings held quarterly with full attendance. Audit committee functions effectively but risk management framework needs updating.",
+        "positiveFactors": [
+          "40% female board representation exceeding 30% national target",
+          "Quarterly board meetings held consistently with 95% attendance rate",
+          "Internal audit function rated 'effective' by external quality assessment"
+        ],
+        "negativeFactors": [
+          "Enterprise risk management framework last updated 3 years ago",
+          "Board skills gap in digital transformation and cybersecurity expertise"
+        ],
+        "improvementTips": [
+          "Update enterprise risk management framework to incorporate emerging technology and climate risks",
+          "Recruit board members with digital transformation and cybersecurity expertise",
+          "Implement annual board effectiveness evaluation with independent facilitator"
+        ]
+      }
+    ],
+    "overallExplanation": "National Power Grid is a well-managed state-owned enterprise demonstrating strong financial growth, reliable service delivery, and meaningful progress on electrification mandates. The enterprise benefits from effective leadership and sound governance practices. Priority areas include modernizing rural infrastructure, updating the risk management framework, and resolving aged government receivables to sustain financial health.",
+    "topImprovementAreas": [
+      "Accelerate rural grid reinforcement to reduce outage disparity with urban areas",
+      "Update enterprise risk management framework and strengthen board digital expertise",
+      "Resolve aged government receivables and diversify fuel cost hedging strategies"
+    ]
+  },
+  {
+    "id": "SOE-002",
+    "enterpriseName": "State Telecom",
+    "score": 81,
+    "rating": "Good",
+    "details": {
+      "financialPerformance": 82,
+      "operationalEfficiency": 78,
+      "publicServiceMandates": 85,
+      "corporateGovernance": 80
+    },
+    "leader": {
+      "id": "LDR-002",
+      "name": "Norma Desmond",
+      "score": 78,
+      "rating": "Good",
+      "details": {
+        "financialHistory": 80,
+        "legalCompliance": 75,
+        "socialBehavior": 80
+      },
+      "scoreBreakdown": [
+        {
+          "category": "Financial History",
+          "score": 80,
+          "weight": 40,
+          "weightedScore": 32.0,
+          "explanation": "Maintains a generally clean financial record with declared assets consistent with income. One historical tax filing discrepancy was resolved cooperatively with the revenue authority.",
+          "positiveFactors": [
+            "All personal assets declared and verified against income history",
+            "No outstanding personal debts or financial judgments",
+            "Participated in voluntary enhanced financial disclosure program"
+          ],
+          "negativeFactors": [
+            "Historical tax filing discrepancy in 2022 required amended return",
+            "Late submission of one quarterly financial interest declaration"
+          ],
+          "improvementTips": [
+            "Engage a dedicated tax advisor to ensure timely and accurate personal filings",
+            "Set up automated reminders for all compliance declaration deadlines"
+          ]
+        },
+        {
+          "category": "Legal Compliance",
+          "score": 75,
+          "weight": 30,
+          "weightedScore": 22.5,
+          "explanation": "No criminal or civil proceedings on record. However, an ongoing regulatory inquiry into a spectrum allocation decision has created reputational uncertainty pending resolution.",
+          "positiveFactors": [
+            "Zero criminal or civil legal proceedings in personal or professional capacity",
+            "Completed all mandatory public officer ethics certifications",
+            "Cooperating fully and transparently with the spectrum allocation inquiry"
+          ],
+          "negativeFactors": [
+            "Ongoing regulatory inquiry into spectrum allocation decision made under her oversight",
+            "Delayed disclosure of a potential conflict of interest involving a former business associate"
+          ],
+          "improvementTips": [
+            "Proactively disclose all potential conflicts of interest at the earliest opportunity",
+            "Engage independent legal review for all major regulatory decisions before finalization",
+            "Publish a personal governance charter committing to transparency standards"
+          ]
+        },
+        {
+          "category": "Social Behavior",
+          "score": 80,
+          "weight": 30,
+          "weightedScore": 24.0,
+          "explanation": "Positive community engagement track record with active participation in digital literacy programs. Employee relations are generally strong though recent restructuring created some workforce tension.",
+          "positiveFactors": [
+            "Personally championed digital literacy programs reaching 10,000 youth",
+            "Maintains visible public presence at industry and community events",
+            "Established employee wellness program with mental health support"
+          ],
+          "negativeFactors": [
+            "Recent corporate restructuring led to 150 redundancies, generating negative media coverage",
+            "Employee satisfaction dropped 8% following restructuring announcement"
+          ],
+          "improvementTips": [
+            "Implement comprehensive retraining and outplacement support for affected employees",
+            "Conduct monthly town halls to rebuild employee trust during transition period",
+            "Partner with labor unions on a transparent workforce development plan"
+          ]
+        }
+      ],
+      "overallExplanation": "Norma Desmond is a capable leader with a solid financial background and genuine commitment to community digital empowerment. The ongoing spectrum allocation inquiry and recent workforce restructuring have introduced reputational challenges that require proactive management. Strengthening conflict-of-interest protocols and rebuilding employee morale are the most critical near-term priorities.",
+      "topImprovementAreas": [
+        "Resolve the spectrum allocation regulatory inquiry transparently and promptly",
+        "Rebuild employee trust through structured engagement following restructuring",
+        "Strengthen personal conflict-of-interest disclosure processes"
+      ]
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Financial Performance",
+        "score": 82,
+        "weight": 30,
+        "weightedScore": 24.6,
+        "explanation": "Revenue remained stable at K2.1 billion with modest 3% growth. Data services revenue grew 22% but legacy voice revenue declined 15%. EBITDA margin of 28% is competitive but below the 32% industry benchmark.",
+        "positiveFactors": [
+          "Data services revenue grew 22% year-over-year, now representing 55% of total revenue",
+          "Successfully issued K500 million corporate bond at favorable rates for network expansion",
+          "Reduced operational expenditure by 6% through process automation initiatives"
+        ],
+        "negativeFactors": [
+          "Legacy voice revenue declined 15% as customers shift to OTT platforms",
+          "EBITDA margin at 28% trails the 32% industry benchmark",
+          "Pension fund liability increased by K120 million requiring balance sheet provision"
+        ],
+        "improvementTips": [
+          "Accelerate migration of voice customers to bundled data-voice packages to stem revenue decline",
+          "Launch enterprise cloud services to capture the growing B2B digital transformation market",
+          "Commission independent actuarial review of pension obligations and develop a funding strategy"
+        ]
+      },
+      {
+        "category": "Operational Efficiency",
+        "score": 78,
+        "weight": 25,
+        "weightedScore": 19.5,
+        "explanation": "Network availability at 98.2% for urban areas but drops to 92% in rural regions. 4G coverage expanded to 65% of the population. Customer-facing processes still involve significant manual handling.",
+        "positiveFactors": [
+          "98.2% network availability in urban centers exceeding SLA commitments",
+          "4G population coverage expanded from 52% to 65% in 18 months",
+          "Deployed AI-powered network optimization reducing congestion incidents by 30%"
+        ],
+        "negativeFactors": [
+          "Rural network availability at 92% falls short of the 95% universal service target",
+          "Customer onboarding process requires 3 in-person visits on average",
+          "Network operations center still operates on a legacy monitoring platform"
+        ],
+        "improvementTips": [
+          "Deploy small-cell solutions and satellite backhaul for underserved rural areas",
+          "Implement fully digital customer onboarding with e-KYC and remote SIM activation",
+          "Upgrade network operations center to a modern AI-driven platform for real-time analytics"
+        ]
+      },
+      {
+        "category": "Public Service Mandates",
+        "score": 85,
+        "weight": 25,
+        "weightedScore": 21.25,
+        "explanation": "Meeting universal access obligations with free public Wi-Fi deployed in 120 government buildings and 45 schools. Digital inclusion programs have connected 50,000 previously unconnected citizens in the past year.",
+        "positiveFactors": [
+          "Free public Wi-Fi operational in 120 government buildings and 45 schools",
+          "50,000 previously unconnected citizens gained access through subsidized packages",
+          "Emergency telecommunications support provided within 2 hours for 3 natural disasters"
+        ],
+        "negativeFactors": [
+          "Universal service fund contributions underspent by 18% due to project delays",
+          "Accessibility features for citizens with disabilities not yet implemented on self-service platforms"
+        ],
+        "improvementTips": [
+          "Establish dedicated project management office for universal service fund initiatives",
+          "Implement WCAG 2.1 AA accessibility standards across all digital customer touchpoints",
+          "Expand community Wi-Fi hotspots to marketplaces and health facilities in underserved areas"
+        ]
+      },
+      {
+        "category": "Corporate Governance",
+        "score": 80,
+        "weight": 20,
+        "weightedScore": 16.0,
+        "explanation": "Board meets quarterly with adequate oversight. Governance structures are compliant but board renewal has stalled with 3 members serving beyond recommended tenure limits. Whistleblower mechanism exists but utilization is low.",
+        "positiveFactors": [
+          "Quarterly board meetings with published minutes and resolutions",
+          "Functional audit and risk committees with independent chairpersons",
+          "Annual governance self-assessment conducted with external facilitator"
+        ],
+        "negativeFactors": [
+          "3 of 9 board members have served beyond the recommended 2-term limit",
+          "Whistleblower hotline received only 4 reports in 12 months suggesting low awareness",
+          "Related-party transaction disclosures filed late in 2 consecutive quarters"
+        ],
+        "improvementTips": [
+          "Initiate board renewal process to replace long-serving members with fresh expertise",
+          "Launch whistleblower awareness campaign with guaranteed anonymity and protection messaging",
+          "Automate related-party transaction disclosure workflows with compliance deadline alerts"
+        ]
+      }
+    ],
+    "overallExplanation": "State Telecom is a financially stable enterprise navigating the critical transition from legacy voice services to data-driven revenue. Strong progress on digital inclusion and network expansion is offset by operational inefficiencies in rural areas and governance renewal challenges. The enterprise must accelerate its digital transformation, both internally and for customers, while strengthening board oversight through planned renewal.",
+    "topImprovementAreas": [
+      "Accelerate the revenue transition from legacy voice to data and enterprise services",
+      "Improve rural network availability and digitize customer-facing processes",
+      "Initiate board renewal and strengthen whistleblower mechanism awareness"
+    ]
+  },
+  {
+    "id": "SOE-003",
+    "enterpriseName": "Zambia Railways Corporation",
+    "score": 62,
+    "rating": "Needs Improvement",
+    "details": {
+      "financialPerformance": 55,
+      "operationalEfficiency": 58,
+      "publicServiceMandates": 72,
+      "corporateGovernance": 65
+    },
+    "leader": {
+      "id": "LDR-003",
+      "name": "Thomas Mwanza",
+      "score": 68,
+      "rating": "Needs Improvement",
+      "details": {
+        "financialHistory": 72,
+        "legalCompliance": 65,
+        "socialBehavior": 68
+      },
+      "scoreBreakdown": [
+        {
+          "category": "Financial History",
+          "score": 72,
+          "weight": 40,
+          "weightedScore": 28.8,
+          "explanation": "Financial record is adequate with declared assets consistent with income. However, a previously undisclosed directorship in a logistics company raised concerns about potential conflicts of interest during procurement processes.",
+          "positiveFactors": [
+            "Personal financial statements submitted consistently for 8 consecutive years",
+            "No personal bankruptcies, defaults, or adverse financial judgments",
+            "Cooperated fully with the investigation into the undisclosed directorship"
+          ],
+          "negativeFactors": [
+            "Previously undisclosed directorship in a logistics company that bid on railway contracts",
+            "Asset declaration filed 45 days late in the most recent reporting cycle",
+            "Personal investment portfolio includes shares in 2 companies that supply the railway"
+          ],
+          "improvementTips": [
+            "Divest personal holdings in all companies that are current or potential suppliers to the railway",
+            "Engage an independent compliance advisor to review and manage conflict-of-interest matters",
+            "Automate asset declaration submissions to eliminate late filing risk"
+          ]
+        },
+        {
+          "category": "Legal Compliance",
+          "score": 65,
+          "weight": 30,
+          "weightedScore": 19.5,
+          "explanation": "No criminal proceedings but the conflict-of-interest investigation and a labor dispute settlement have created a mixed compliance picture requiring sustained corrective action.",
+          "positiveFactors": [
+            "No criminal charges or convictions in personal or professional capacity",
+            "Completed mandatory ethics and governance training within required timelines",
+            "Voluntarily recused from all procurement decisions pending conflict-of-interest resolution"
+          ],
+          "negativeFactors": [
+            "Conflict-of-interest investigation by the Integrity Commission remains open",
+            "Labor dispute resulted in out-of-court settlement costing the enterprise K2.5 million",
+            "Failed to declare the logistics directorship as required by the Public Officers Ethics Act"
+          ],
+          "improvementTips": [
+            "Cooperate proactively to close the Integrity Commission investigation with full transparency",
+            "Implement a personal compliance calendar aligned with all statutory obligations",
+            "Seek legal counsel to ensure full compliance with the Public Officers Ethics Act going forward"
+          ]
+        },
+        {
+          "category": "Social Behavior",
+          "score": 68,
+          "weight": 30,
+          "weightedScore": 20.4,
+          "explanation": "Community engagement efforts are present but undermined by negative public perception from the conflict-of-interest issues and poor enterprise performance. Employee morale is low due to salary payment delays.",
+          "positiveFactors": [
+            "Initiated a railway community safety awareness program reaching 30 communities",
+            "Personally attended labor union negotiations demonstrating commitment to dialogue",
+            "Supported the establishment of a railway heritage preservation trust"
+          ],
+          "negativeFactors": [
+            "Public perception negatively affected by conflict-of-interest media coverage",
+            "Employee morale survey shows 45% dissatisfaction rate, largely due to delayed salary payments",
+            "Limited engagement with passenger advocacy groups on service quality concerns"
+          ],
+          "improvementTips": [
+            "Prioritize resolution of salary payment delays as the single most impactful employee morale action",
+            "Establish regular quarterly engagement forums with passenger advocacy groups",
+            "Commission an independent reputation assessment and develop a stakeholder communication plan"
+          ]
+        }
+      ],
+      "overallExplanation": "Thomas Mwanza faces significant leadership challenges stemming from an undisclosed conflict of interest and the broader financial difficulties of Zambia Railways Corporation. While he has demonstrated willingness to cooperate with investigations and engage with labor stakeholders, the combination of the open Integrity Commission investigation, employee dissatisfaction, and negative public perception requires urgent and visible corrective actions to restore credibility.",
+      "topImprovementAreas": [
+        "Resolve the conflict-of-interest investigation and divest personal holdings in supplier companies",
+        "Address salary payment delays to improve employee morale and productivity",
+        "Rebuild public trust through transparent communication and measurable performance improvements"
+      ]
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Financial Performance",
+        "score": 55,
+        "weight": 30,
+        "weightedScore": 16.5,
+        "explanation": "The corporation reported a net loss of K180 million, the third consecutive year of losses. Revenue declined 8% as freight volumes shifted to road transport. Government subsidies of K250 million are masking the true operating deficit.",
+        "positiveFactors": [
+          "Secured K250 million government subsidy ensuring continued operations",
+          "New cross-border freight agreement with Tanzania expected to generate K40 million annually",
+          "Reduced fuel costs by 10% through bulk procurement consortium"
+        ],
+        "negativeFactors": [
+          "Net loss of K180 million for the third consecutive year",
+          "Freight revenue declined 8% as customers switched to road transport",
+          "Accounts payable to suppliers aged beyond 120 days totaling K95 million",
+          "Staff costs consume 72% of total revenue, well above the 55% benchmark"
+        ],
+        "improvementTips": [
+          "Develop a comprehensive turnaround plan with clear milestones for achieving break-even within 3 years",
+          "Renegotiate freight tariffs to be competitive with road transport on key corridors",
+          "Implement a voluntary separation program to right-size the workforce to sustainable levels",
+          "Establish a creditor payment plan to reduce aged payables and restore supplier confidence"
+        ]
+      },
+      {
+        "category": "Operational Efficiency",
+        "score": 58,
+        "weight": 25,
+        "weightedScore": 14.5,
+        "explanation": "Only 45% of the locomotive fleet is operational due to deferred maintenance. Average freight transit times have increased 40% over 3 years. Track infrastructure rated as 'poor' on 35% of the network.",
+        "positiveFactors": [
+          "Signed maintenance partnership with a Chinese railway company for locomotive rehabilitation",
+          "Implemented GPS tracking on all operational freight wagons improving cargo visibility",
+          "New signaling system deployed on the Lusaka-Kapiri Mposhi corridor"
+        ],
+        "negativeFactors": [
+          "Only 45% of locomotive fleet operational, down from 62% three years ago",
+          "Average freight transit time increased 40% due to speed restrictions on degraded track",
+          "35% of track network rated 'poor' condition requiring major capital investment",
+          "12 derailment incidents in the past year, up from 5 the previous year"
+        ],
+        "improvementTips": [
+          "Prioritize rehabilitation of the 10 most commercially critical locomotives within 6 months",
+          "Develop a risk-based track renewal program focusing on highest-traffic corridors first",
+          "Implement a mandatory safety inspection regime to reduce derailment incidents by 50%",
+          "Explore public-private partnership models for infrastructure investment and maintenance"
+        ]
+      },
+      {
+        "category": "Public Service Mandates",
+        "score": 72,
+        "weight": 25,
+        "weightedScore": 18.0,
+        "explanation": "Passenger services maintained on core routes despite financial challenges. Subsidized commuter rail serves 15,000 daily passengers in the capital. However, service reliability has deteriorated significantly with only 60% on-time performance.",
+        "positiveFactors": [
+          "Subsidized commuter rail service maintained for 15,000 daily passengers in Lusaka",
+          "Passenger safety record improved with zero fatalities in the current year",
+          "Partnered with the Ministry of Education to provide discounted student travel passes"
+        ],
+        "negativeFactors": [
+          "On-time performance at 60%, significantly below the 85% target",
+          "3 rural passenger routes suspended due to locomotive unavailability",
+          "Station facilities at 8 of 20 major stations rated below acceptable standards"
+        ],
+        "improvementTips": [
+          "Restore the 3 suspended rural routes using rehabilitated locomotives as they become available",
+          "Invest in basic station facility upgrades focusing on sanitation, lighting, and accessibility",
+          "Implement real-time passenger information systems at major stations to manage expectations",
+          "Establish a passenger charter with published service standards and compensation for delays"
+        ]
+      },
+      {
+        "category": "Corporate Governance",
+        "score": 65,
+        "weight": 20,
+        "weightedScore": 13.0,
+        "explanation": "Governance structures are in place but effectiveness is undermined by the CEO conflict-of-interest issue and inconsistent board attendance. The most recent external audit issued a qualified opinion on going-concern basis.",
+        "positiveFactors": [
+          "Board and committee structures compliant with the State Enterprises Governance Act",
+          "Appointed a new Chief Financial Officer with strong turnaround experience",
+          "Established an integrity committee to oversee the conflict-of-interest remediation"
+        ],
+        "negativeFactors": [
+          "Board attendance averaged 68%, below the 80% minimum expected by governance code",
+          "External audit issued a qualified opinion citing going-concern uncertainty",
+          "CEO conflict-of-interest matter has created instability and distracted from operational focus",
+          "No enterprise-wide risk register maintained despite regulatory requirement"
+        ],
+        "improvementTips": [
+          "Enforce board attendance requirements and replace consistently absent members",
+          "Develop and maintain a comprehensive enterprise-wide risk register updated quarterly",
+          "Resolve the CEO conflict-of-interest matter decisively to restore organizational stability",
+          "Commission a special governance review to identify and address systemic weaknesses"
+        ]
+      }
+    ],
+    "overallExplanation": "Zambia Railways Corporation is in a critical state requiring urgent financial and operational intervention. Three consecutive years of losses, a deteriorating fleet, degraded track infrastructure, and governance challenges including the CEO conflict-of-interest issue paint a concerning picture. The enterprise continues to fulfil its public service mandate through subsidized passenger services but cannot sustain this without significant reform. A comprehensive turnaround strategy addressing financial sustainability, fleet rehabilitation, and governance strengthening is essential to prevent further decline.",
+    "topImprovementAreas": [
+      "Develop and execute a financial turnaround plan to achieve break-even within 3 years",
+      "Rehabilitate the locomotive fleet and prioritize track renewal on high-traffic corridors",
+      "Resolve the CEO conflict-of-interest issue and strengthen board governance effectiveness"
+    ]
+  }
+]

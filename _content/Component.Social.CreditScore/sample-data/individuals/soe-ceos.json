@@ -1,0 +1,851 @@
+[
+  {
+    "id": "SOECEO-001",
+    "name": "Eng. Victor Mapani",
+    "role": "Managing Director",
+    "organization": "ZESCO Limited",
+    "enterpriseName": "ZESCO Limited",
+    "sector": "Energy",
+    "appointmentDate": "2022-03-15",
+    "region": "Lusaka",
+    "overallScore": 92,
+    "rating": "Excellent",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-10T09:00:00Z",
+    "details": {
+      "financialPerformance": 90,
+      "publicServiceMandate": 95,
+      "corporateGovernance": 93,
+      "operationalEfficiency": 88,
+      "stakeholderManagement": 94
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Financial Performance",
+        "score": 90,
+        "weight": 25,
+        "weightedScore": 22.5,
+        "explanation": "ZESCO's financial performance has shown marked improvement under Eng. Mapani's leadership. Revenue grew 18% year-over-year driven by new industrial connections at the Multi-Facility Economic Zones (MFEZs), improved billing collection rates, and reduced transmission losses. The company's debt restructuring programme has lowered the debt-to-equity ratio to a manageable 0.55.",
+        "positiveFactors": [
+          "Revenue increased 18% year-over-year to ZMW 12.8 billion, driven by new industrial and mining connections",
+          "Billing collection rate improved from 72% to 89% through deployment of smart prepaid meters across Lusaka and Copperbelt",
+          "Transmission and distribution losses reduced from 18% to 13.5% through grid modernisation investments",
+          "Successfully renegotiated power purchase agreements with Copperbelt Energy Corporation (CEC) on more favourable terms"
+        ],
+        "negativeFactors": [
+          "Tariff adjustment request to the Energy Regulation Board (ERB) was partially approved, limiting revenue upside",
+          "Foreign currency-denominated debt remains a risk factor given Kwacha volatility"
+        ],
+        "improvementTips": [
+          "Develop a comprehensive foreign currency risk hedging strategy to protect against Kwacha depreciation on USD-denominated debt",
+          "Continue engaging ERB on cost-reflective tariff adjustments with transparent justification to the public"
+        ]
+      },
+      {
+        "category": "Public Service Mandate",
+        "score": 95,
+        "weight": 25,
+        "weightedScore": 23.75,
+        "explanation": "Exceptional delivery on ZESCO's public service mandate of providing reliable and affordable electricity to Zambian households and businesses. Rural electrification has accelerated significantly, and load shedding hours have been reduced to their lowest level in 5 years.",
+        "positiveFactors": [
+          "National electricity access rate increased from 31% to 38% through accelerated rural electrification",
+          "Load shedding reduced by 60% compared to the previous year through improved generation capacity at Kariba North Bank and Kafue Gorge Lower",
+          "Connected 45,000 new household customers under the Rural Electrification Authority (REA) programme",
+          "Maintained lifeline tariff band for low-income households consuming under 200 kWh per month",
+          "Commissioned 750 MW Kafue Gorge Lower hydropower station on schedule"
+        ],
+        "negativeFactors": [
+          "Some rural areas in Northern and Luapula Provinces still experience long wait times for new connections"
+        ],
+        "improvementTips": [
+          "Prioritise Northern and Luapula Provinces in the next phase of rural electrification to address regional disparities",
+          "Explore solar mini-grid solutions for remote communities where grid extension is not economically viable"
+        ]
+      },
+      {
+        "category": "Corporate Governance",
+        "score": 93,
+        "weight": 20,
+        "weightedScore": 18.6,
+        "explanation": "Strong corporate governance framework under Eng. Mapani's leadership, with a well-functioning Board of Directors, transparent procurement processes, and proactive anti-corruption measures aligned with the Financial Intelligence Centre (FIC) requirements.",
+        "positiveFactors": [
+          "Board of Directors meets quarterly with full attendance and published minutes",
+          "Procurement processes fully compliant with the Zambia Public Procurement Authority (ZPPA) Act",
+          "Implemented a whistleblower protection programme resulting in 12 reports processed without retaliation",
+          "Annual financial statements audited by an independent firm and published within 90 days of year-end",
+          "Proactive engagement with the Anti-Corruption Commission (ACC) on corruption prevention"
+        ],
+        "negativeFactors": [
+          "One board committee (audit) had a temporary vacancy for 3 months during member transition"
+        ],
+        "improvementTips": [
+          "Establish a board succession pipeline to prevent committee vacancies during member transitions",
+          "Publish a comprehensive annual corporate governance report for public accountability"
+        ]
+      },
+      {
+        "category": "Operational Efficiency",
+        "score": 88,
+        "weight": 15,
+        "weightedScore": 13.2,
+        "explanation": "Operational efficiency has improved through grid modernisation, digital transformation of customer services, and workforce development. ZESCO's system average interruption duration index (SAIDI) has improved significantly.",
+        "positiveFactors": [
+          "SAIDI improved by 25% through investment in automated fault detection and switching equipment",
+          "Customer service digitisation reduced average complaint resolution time from 14 days to 5 days",
+          "Workforce productivity improved through a skills development programme covering 2,500 employees",
+          "Launched a mobile app for bill payment and fault reporting with 500,000 downloads in the first year"
+        ],
+        "negativeFactors": [
+          "Ageing infrastructure in some Copperbelt distribution networks still causes localised reliability issues",
+          "Vehicle fleet utilisation remains below optimal levels for field maintenance teams"
+        ],
+        "improvementTips": [
+          "Accelerate Copperbelt distribution network rehabilitation using revenues from improved collection rates",
+          "Implement a GPS-based fleet management system to optimise field maintenance team deployment"
+        ]
+      },
+      {
+        "category": "Stakeholder Management",
+        "score": 94,
+        "weight": 15,
+        "weightedScore": 14.1,
+        "explanation": "Excellent stakeholder management across government, regulators, customers, employees, and development partners. Eng. Mapani has built strong relationships with the Ministry of Energy, ERB, mining companies, and international development finance institutions.",
+        "positiveFactors": [
+          "Strong working relationship with the Ministry of Energy reflected in aligned policy implementation",
+          "Proactive engagement with ERB on regulatory matters with zero compliance violations",
+          "Customer satisfaction survey scores improved from 65% to 82% under current leadership",
+          "Successfully secured USD 200 million from the African Development Bank for grid modernisation",
+          "Regular town hall meetings with employees maintaining staff morale during operational restructuring"
+        ],
+        "negativeFactors": [
+          "Some civil society organisations have called for greater transparency in power purchase agreements with independent power producers"
+        ],
+        "improvementTips": [
+          "Publish summary terms of power purchase agreements with independent power producers to address civil society transparency concerns",
+          "Establish a formal stakeholder advisory council to institutionalise engagement across key stakeholder groups"
+        ]
+      }
+    ],
+    "overallExplanation": "Eng. Victor Mapani has delivered outstanding leadership at ZESCO Limited, Zambia's largest state-owned enterprise. Under his tenure, ZESCO has achieved significant improvements across financial performance, public service delivery, and corporate governance. The 60% reduction in load shedding, acceleration of rural electrification to 38% national access, and on-schedule commissioning of Kafue Gorge Lower are transformative achievements for Zambia's energy sector. Financial discipline has improved markedly through smart metering, better collection rates, and debt restructuring. His proactive engagement with regulators, development partners, and the public sets a benchmark for SOE leadership in Zambia.",
+    "topImprovementAreas": [
+      "Address regional electrification disparities in Northern and Luapula Provinces",
+      "Develop a comprehensive foreign currency risk management strategy for USD-denominated debt",
+      "Increase transparency in independent power producer agreements to address civil society concerns"
+    ]
+  },
+  {
+    "id": "SOECEO-002",
+    "name": "Ms. Grace Mwila Kabwe",
+    "role": "Chief Executive Officer",
+    "organization": "Zambia Railways Limited",
+    "enterpriseName": "Zambia Railways Limited",
+    "sector": "Transport",
+    "appointmentDate": "2023-06-01",
+    "region": "Lusaka",
+    "overallScore": 64,
+    "rating": "Needs Improvement",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-14T11:30:00Z",
+    "details": {
+      "financialPerformance": 55,
+      "publicServiceMandate": 68,
+      "corporateGovernance": 72,
+      "operationalEfficiency": 58,
+      "stakeholderManagement": 66
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Financial Performance",
+        "score": 55,
+        "weight": 25,
+        "weightedScore": 13.75,
+        "explanation": "Zambia Railways continues to operate at a loss, though Ms. Kabwe has initiated cost restructuring measures that have slowed the rate of financial deterioration. Revenue from freight services has shown modest growth, but passenger services remain heavily subsidised and infrastructure rehabilitation costs are substantial.",
+        "positiveFactors": [
+          "Freight revenue increased 12% year-over-year driven by copper cathode transport contracts with mining companies",
+          "Operating costs reduced by 8% through workforce rationalisation and energy efficiency measures",
+          "Secured a ZMW 500 million government guarantee for infrastructure rehabilitation financing"
+        ],
+        "negativeFactors": [
+          "Company continues to operate at a net loss of ZMW 180 million for the financial year",
+          "Passenger services operate at 70% cost recovery, requiring ongoing government subsidy",
+          "Accounts receivable from government agencies aged over 180 days total ZMW 95 million",
+          "Revenue per employee remains significantly below regional rail industry benchmarks"
+        ],
+        "improvementTips": [
+          "Develop a 5-year financial sustainability plan targeting breakeven on freight operations within 3 years",
+          "Negotiate a formal passenger service subsidy agreement with the Ministry of Transport to replace ad-hoc funding",
+          "Aggressively pursue collection of aged government receivables through the Ministry of Finance"
+        ]
+      },
+      {
+        "category": "Public Service Mandate",
+        "score": 68,
+        "weight": 25,
+        "weightedScore": 17.0,
+        "explanation": "Zambia Railways' public service mandate encompasses providing reliable rail transport for both freight (supporting the mining and agricultural sectors) and passengers (serving communities along the line of rail from Livingstone to the Copperbelt). Service delivery has improved modestly but remains below acceptable standards.",
+        "positiveFactors": [
+          "Reinstated passenger service between Lusaka and Livingstone after a 3-year suspension",
+          "Freight reliability for copper cathode shipments improved to 85% on-time delivery",
+          "Introduced subsidised student fares for communities along the line of rail"
+        ],
+        "negativeFactors": [
+          "Passenger train frequency limited to 3 times per week on the Lusaka-Kapiri Mposhi route instead of the mandated daily service",
+          "Average freight transit time from Copperbelt to Dar es Salaam corridor remains 40% slower than road transport",
+          "12 derailments recorded in the past year due to deteriorated track infrastructure",
+          "Rural communities between Kafue and Mazabuka report declining access to rail services"
+        ],
+        "improvementTips": [
+          "Develop a phased plan to increase Lusaka-Kapiri Mposhi passenger frequency to daily service within 18 months",
+          "Prioritise track rehabilitation on the Copperbelt-Kapiri Mposhi segment to improve freight transit times",
+          "Implement a derailment prevention programme including regular track inspections and speed restrictions on degraded sections"
+        ]
+      },
+      {
+        "category": "Corporate Governance",
+        "score": 72,
+        "weight": 20,
+        "weightedScore": 14.4,
+        "explanation": "Corporate governance structures are in place but effectiveness is hampered by board composition challenges, delayed financial reporting, and gaps in procurement compliance. Ms. Kabwe has shown willingness to improve governance but faces institutional inertia.",
+        "positiveFactors": [
+          "Board of Directors reconstituted with appropriate skills mix including transport, finance, and legal expertise",
+          "Initiated a comprehensive internal audit of all major contracts from the previous 5 years",
+          "Adopted the Public Finance Management Act compliance framework for all financial operations"
+        ],
+        "negativeFactors": [
+          "Annual financial statements for the previous year submitted 4 months late to the Auditor General's Office",
+          "Three procurement processes flagged by ZPPA for procedural irregularities inherited from previous management",
+          "Risk management framework remains underdeveloped with no formal enterprise risk register"
+        ],
+        "improvementTips": [
+          "Ensure annual financial statements are submitted to the Auditor General within the statutory 90-day deadline",
+          "Resolve the ZPPA-flagged procurement irregularities and implement corrective measures to prevent recurrence",
+          "Develop and implement a formal enterprise risk management framework with quarterly board oversight"
+        ]
+      },
+      {
+        "category": "Operational Efficiency",
+        "score": 58,
+        "weight": 15,
+        "weightedScore": 8.7,
+        "explanation": "Operational efficiency remains a critical weakness due to ageing rolling stock, deteriorated track infrastructure, and legacy workforce issues. While some improvements have been initiated, the pace of change is insufficient given the scale of operational challenges.",
+        "positiveFactors": [
+          "Locomotive availability improved from 45% to 58% through a targeted maintenance programme",
+          "Introduced a digital train tracking system for real-time freight monitoring",
+          "Reduced fuel consumption per gross tonne-kilometre by 6% through driver training and load optimisation"
+        ],
+        "negativeFactors": [
+          "Locomotive availability at 58% is still well below the 80% industry benchmark",
+          "Only 40% of the 900km mainline track meets minimum speed standards",
+          "Staff absenteeism rate of 12% significantly exceeds the 3% industry norm",
+          "Wagon turnaround time of 8 days is double the regional benchmark"
+        ],
+        "improvementTips": [
+          "Accelerate locomotive rehabilitation programme targeting 75% availability within 18 months",
+          "Implement a track rehabilitation priority plan focused on the highest-traffic freight corridor segments",
+          "Address staff absenteeism through a combination of disciplinary measures and employee wellness programmes",
+          "Reduce wagon turnaround time to 5 days through improved terminal operations and scheduling"
+        ]
+      },
+      {
+        "category": "Stakeholder Management",
+        "score": 66,
+        "weight": 15,
+        "weightedScore": 9.9,
+        "explanation": "Stakeholder management has improved under Ms. Kabwe's leadership, particularly with mining company clients and the Ministry of Transport. However, relationships with labour unions, communities along the line of rail, and development partners need strengthening.",
+        "positiveFactors": [
+          "Negotiated new long-term freight contracts with 3 major mining companies on the Copperbelt",
+          "Regular monthly coordination meetings with the Ministry of Transport and Works",
+          "Initiated community engagement forums at 5 major stations along the line of rail"
+        ],
+        "negativeFactors": [
+          "Strained relationship with the Railway Workers Union of Zambia over workforce rationalisation plans",
+          "Limited engagement with the TAZARA Authority on interoperability and joint service opportunities",
+          "Development partner confidence remains low following delayed implementation of a World Bank-funded rehabilitation project",
+          "Customer satisfaction survey for passenger services shows only 42% satisfaction rate"
+        ],
+        "improvementTips": [
+          "Engage the Railway Workers Union through transparent dialogue on workforce rationalisation with a clear social plan",
+          "Develop a formal collaboration framework with TAZARA for interoperability on the Kapiri Mposhi-Dar es Salaam corridor",
+          "Accelerate World Bank project implementation to rebuild development partner confidence for future funding",
+          "Launch a passenger service improvement plan informed by customer feedback to raise satisfaction above 60%"
+        ]
+      }
+    ],
+    "overallExplanation": "Ms. Grace Mwila Kabwe has inherited significant challenges at Zambia Railways Limited, including decades of underinvestment, deteriorated infrastructure, and institutional dysfunction. While positive steps have been taken -- including reinstating the Lusaka-Livingstone passenger service, improving freight revenue, and initiating governance reforms -- the overall pace of turnaround is insufficient. Continued financial losses, 12 derailments, low locomotive availability, and strained union relations indicate that fundamental operational challenges remain unresolved. A more aggressive and comprehensive turnaround strategy with clear milestones and accountability is needed to restore Zambia Railways to a functional and financially sustainable state.",
+    "topImprovementAreas": [
+      "Develop and implement a comprehensive financial sustainability plan targeting breakeven on core freight operations",
+      "Urgently address track infrastructure deterioration to reduce derailments and improve transit times",
+      "Strengthen stakeholder relationships, particularly with labour unions and development partners, to enable turnaround"
+    ]
+  },
+  {
+    "id": "SOECEO-003",
+    "name": "Mr. Christopher Mulenga",
+    "role": "Postmaster General",
+    "organization": "Zambia Postal Services Corporation",
+    "enterpriseName": "Zambia Postal Services Corporation (ZAMPOST)",
+    "sector": "Postal",
+    "appointmentDate": "2021-11-01",
+    "region": "Lusaka",
+    "overallScore": 76,
+    "rating": "Good",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-18T14:00:00Z",
+    "details": {
+      "financialPerformance": 72,
+      "publicServiceMandate": 78,
+      "corporateGovernance": 80,
+      "operationalEfficiency": 74,
+      "stakeholderManagement": 77
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Financial Performance",
+        "score": 72,
+        "weight": 25,
+        "weightedScore": 18.0,
+        "explanation": "ZAMPOST has shown financial improvement through diversification into financial services, e-commerce logistics, and agency banking. Traditional postal revenue continues to decline but new business lines have partially offset losses, moving the company closer to financial sustainability.",
+        "positiveFactors": [
+          "Total revenue increased 15% driven by growth in agency banking and mobile money services through post offices",
+          "E-commerce parcel delivery revenue grew 40% as ZAMPOST positioned itself as a last-mile logistics provider",
+          "Operating loss reduced by 35% compared to the previous year through cost rationalisation",
+          "Successfully piloted ZAMPOST as a government payment disbursement point for social cash transfer programmes in 5 districts"
+        ],
+        "negativeFactors": [
+          "Traditional letter mail revenue declined 25% continuing a long-term structural trend",
+          "Company still operates at a net loss despite improvements",
+          "Several post office properties generate below-market rental income on legacy leases"
+        ],
+        "improvementTips": [
+          "Accelerate the transition from traditional mail to digital postal services and e-commerce logistics",
+          "Renegotiate below-market property leases at commercially strategic post office locations",
+          "Expand the government payment disbursement pilot to all 116 districts to generate volume-based revenue"
+        ]
+      },
+      {
+        "category": "Public Service Mandate",
+        "score": 78,
+        "weight": 25,
+        "weightedScore": 19.5,
+        "explanation": "ZAMPOST fulfils a critical universal postal service obligation, maintaining postal infrastructure in areas where no private sector alternative exists. Under Mr. Mulenga's leadership, the company has reoriented its public service role towards financial inclusion and digital access for underserved rural communities.",
+        "positiveFactors": [
+          "Maintained operations at 176 post offices across all 10 provinces, including 45 in rural areas with no banking services",
+          "Launched agency banking services in partnership with Zambia National Commercial Bank (ZANACO) at 60 post offices",
+          "ZAMPOST now serves as the primary Social Cash Transfer disbursement point for 120,000 beneficiaries in 5 districts",
+          "Introduced free public Wi-Fi at 20 urban post offices as digital access points"
+        ],
+        "negativeFactors": [
+          "Mail delivery frequency in rural areas reduced from 3 times per week to once per week due to budget constraints",
+          "15 rural post offices operate with reduced hours (half-day only) due to staffing shortages",
+          "International mail delivery times remain significantly slower than private courier alternatives"
+        ],
+        "improvementTips": [
+          "Restore rural mail delivery frequency to at least twice per week to meet universal service obligations",
+          "Address rural post office staffing through a community postal agent model to extend operating hours",
+          "Join the Universal Postal Union's International Bureau fast-track programme to improve international mail delivery times"
+        ]
+      },
+      {
+        "category": "Corporate Governance",
+        "score": 80,
+        "weight": 20,
+        "weightedScore": 16.0,
+        "explanation": "Corporate governance at ZAMPOST has been strengthened under current leadership, with improved board functionality, financial reporting, and procurement compliance. Some legacy governance issues from previous administrations are still being resolved.",
+        "positiveFactors": [
+          "Board of Directors meets regularly with clear committee structures for audit, finance, and human resources",
+          "Annual financial statements audited and submitted to the Auditor General within the statutory deadline",
+          "Implemented a new procurement policy fully aligned with the ZPPA Act",
+          "Completed a comprehensive internal audit of all contracts above ZMW 1 million"
+        ],
+        "negativeFactors": [
+          "Two legacy legal disputes from previous management remain unresolved, with potential liabilities of ZMW 25 million",
+          "Enterprise risk management framework adopted but not yet fully embedded across all departments"
+        ],
+        "improvementTips": [
+          "Seek to resolve the 2 legacy legal disputes through mediation to limit potential financial exposure",
+          "Conduct enterprise risk management training for all department heads and embed risk reporting in monthly management meetings"
+        ]
+      },
+      {
+        "category": "Operational Efficiency",
+        "score": 74,
+        "weight": 15,
+        "weightedScore": 11.1,
+        "explanation": "Operational efficiency is improving through digitalisation of postal services and process optimisation, but legacy systems, ageing infrastructure, and an oversized workforce relative to mail volumes continue to constrain performance.",
+        "positiveFactors": [
+          "Launched a track-and-trace system for parcels and registered mail covering 80% of postal traffic",
+          "Digitalised customer-facing services at 30 urban post offices including bill payments and money transfers",
+          "Vehicle fleet optimised through route consolidation, reducing fuel costs by 15%"
+        ],
+        "negativeFactors": [
+          "Staff-to-revenue ratio remains 40% above regional postal industry benchmarks",
+          "IT systems at 50% of post offices still run on outdated platforms requiring manual processes",
+          "Mail sorting at the Lusaka Central Mail Processing Centre still partially manual"
+        ],
+        "improvementTips": [
+          "Develop a voluntary separation programme to right-size the workforce to current operational needs",
+          "Modernise IT systems at the remaining post offices to enable fully digital operations",
+          "Automate mail sorting at the Lusaka Central Mail Processing Centre to improve throughput and accuracy"
+        ]
+      },
+      {
+        "category": "Stakeholder Management",
+        "score": 77,
+        "weight": 15,
+        "weightedScore": 11.55,
+        "explanation": "Good stakeholder management with effective partnerships across government, banking sector, and development agencies. Mr. Mulenga has positioned ZAMPOST as a relevant institution in Zambia's financial inclusion and digital transformation agenda.",
+        "positiveFactors": [
+          "Strong partnership with the Ministry of Information and Media on ZAMPOST's digital transformation roadmap",
+          "Productive collaboration with ZANACO, Airtel Money, and MTN Mobile Money on agency services",
+          "Engaged the Universal Postal Union for technical assistance on e-commerce logistics development",
+          "Regular communication with the Zambia Union of Postal Workers on operational changes"
+        ],
+        "negativeFactors": [
+          "Limited engagement with the private courier industry on service complementarity and market development",
+          "Customer satisfaction survey not conducted in the past 2 years"
+        ],
+        "improvementTips": [
+          "Establish a dialogue with private courier companies through ZACCI on market development and potential partnerships",
+          "Conduct an annual customer satisfaction survey and publish results for public accountability"
+        ]
+      }
+    ],
+    "overallExplanation": "Mr. Christopher Mulenga has led a meaningful transformation of ZAMPOST from a declining traditional postal service into a diversified public service institution with growing relevance in financial inclusion, e-commerce logistics, and digital access. The pivot to agency banking, social cash transfer disbursement, and e-commerce parcel delivery demonstrates strategic vision adapted to Zambia's evolving needs. While financial sustainability has not yet been achieved and operational efficiency challenges remain, the trajectory is positive. Sustaining the diversification momentum while improving operational efficiency and resolving legacy issues will be critical to ZAMPOST's long-term viability.",
+    "topImprovementAreas": [
+      "Accelerate the transition to financial sustainability through expansion of high-margin service lines like agency banking and e-commerce logistics",
+      "Right-size the workforce and modernise IT systems to bring operational efficiency to regional benchmarks",
+      "Restore rural mail delivery frequency and extend post office operating hours to meet universal service obligations"
+    ]
+  },
+  {
+    "id": "SOECEO-004",
+    "name": "Dr. Monde Kashinga",
+    "role": "Chief Executive Officer",
+    "organization": "Zambia Telecommunications Company Limited",
+    "enterpriseName": "Zambia Telecommunications Company Limited (ZAMTEL)",
+    "sector": "Telecommunications",
+    "appointmentDate": "2023-01-10",
+    "region": "Lusaka",
+    "overallScore": 61,
+    "rating": "Needs Improvement",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-22T10:00:00Z",
+    "details": {
+      "financialPerformance": 52,
+      "publicServiceMandate": 70,
+      "corporateGovernance": 65,
+      "operationalEfficiency": 55,
+      "stakeholderManagement": 62
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Financial Performance",
+        "score": 52,
+        "weight": 25,
+        "weightedScore": 13.0,
+        "explanation": "ZAMTEL's financial performance remains weak despite the growing Zambian telecommunications market. The company has lost significant market share to Airtel and MTN, and heavy infrastructure investment requirements continue to strain cash flows. Revenue growth has been modest relative to market expansion.",
+        "positiveFactors": [
+          "Data revenue grew 22% year-over-year as mobile broadband usage increased across Zambia",
+          "Secured a USD 50 million financing facility from the Development Bank of Zambia for network expansion"
+        ],
+        "negativeFactors": [
+          "Total revenue grew only 8% in a market that expanded 20%, indicating continued market share erosion",
+          "ZAMTEL's mobile subscriber market share declined from 18% to 14% over the past 2 years",
+          "Net loss of ZMW 320 million for the financial year, the third consecutive year of losses",
+          "Accounts payable to equipment suppliers aged over 365 days total ZMW 150 million",
+          "Return on assets is negative, indicating the company is destroying value on its asset base"
+        ],
+        "improvementTips": [
+          "Develop a realistic 3-year financial turnaround plan with quarterly milestones reviewed by the Board and IDC",
+          "Prioritise high-return-on-investment network expansion areas rather than broad coverage that dilutes resources",
+          "Negotiate structured payment plans with aged equipment suppliers to restore vendor confidence and credit terms"
+        ]
+      },
+      {
+        "category": "Public Service Mandate",
+        "score": 70,
+        "weight": 25,
+        "weightedScore": 17.5,
+        "explanation": "ZAMTEL has a critical public service mandate as the national telecommunications carrier, particularly in providing network coverage to rural and underserved areas where private operators have limited commercial incentive. Some progress has been made but coverage gaps remain significant.",
+        "positiveFactors": [
+          "Extended 4G LTE coverage to 15 additional district centres in rural areas under the Smart Zambia programme",
+          "Maintained the national backbone fibre network providing critical connectivity infrastructure",
+          "Provided subsidised internet to 200 government institutions including schools, hospitals, and district offices"
+        ],
+        "negativeFactors": [
+          "Mobile network coverage reaches only 55% of the population compared to 78% for Airtel and 72% for MTN",
+          "Network quality complaints from subscribers increased 30% year-over-year",
+          "Rural areas in Western, Northern, and Luapula Provinces have significant coverage dead zones on ZAMTEL's network",
+          "Broadband speeds on ZAMTEL's network average 40% slower than competitor networks in urban areas"
+        ],
+        "improvementTips": [
+          "Develop a targeted rural coverage expansion plan prioritising district centres and major trading posts still lacking ZAMTEL coverage",
+          "Invest in network quality improvements in existing coverage areas before expanding to new areas",
+          "Negotiate infrastructure-sharing agreements with Airtel and MTN to extend coverage more cost-effectively in underserved areas"
+        ]
+      },
+      {
+        "category": "Corporate Governance",
+        "score": 65,
+        "weight": 20,
+        "weightedScore": 13.0,
+        "explanation": "Corporate governance at ZAMTEL has faced challenges including delayed financial reporting, procurement compliance issues, and questions about strategic decision-making under IDC ownership. Dr. Kashinga has initiated some reforms but progress has been slow.",
+        "positiveFactors": [
+          "Board of Directors includes telecommunications industry expertise and meets regularly",
+          "Initiated a review of all major procurement contracts from the previous 3 years",
+          "Adopted a new code of ethics and business conduct policy for all employees"
+        ],
+        "negativeFactors": [
+          "Annual financial statements submitted 5 months late to the Auditor General, exceeding the statutory deadline",
+          "Auditor General's report identified 4 material findings in the most recent audit",
+          "Two senior management procurement decisions overruled by the ZPPA on compliance grounds",
+          "No formal conflict of interest register maintained for senior management"
+        ],
+        "improvementTips": [
+          "Ensure annual financial statements are submitted within the statutory deadline without exception",
+          "Address all 4 Auditor General material findings with documented corrective action plans and timelines",
+          "Implement a mandatory conflict of interest declaration and register for all senior management",
+          "Strengthen procurement department capacity and independence to prevent future ZPPA overrulings"
+        ]
+      },
+      {
+        "category": "Operational Efficiency",
+        "score": 55,
+        "weight": 15,
+        "weightedScore": 8.25,
+        "explanation": "Operational efficiency at ZAMTEL is significantly below industry standards. The company has a bloated cost structure, underutilised network assets, and slow service delivery processes that contribute to customer churn and financial losses.",
+        "positiveFactors": [
+          "Launched a network operations centre (NOC) for centralised monitoring of all network infrastructure",
+          "Digitalised SIM registration and customer onboarding processes"
+        ],
+        "negativeFactors": [
+          "Revenue per employee is 60% below the industry average for Zambian telecom operators",
+          "Network utilisation rate at only 45% suggests significant overinvestment in underperforming areas",
+          "Customer churn rate of 35% annually is nearly double the industry average",
+          "Average time to resolve network faults is 72 hours versus an industry benchmark of 24 hours"
+        ],
+        "improvementTips": [
+          "Conduct a comprehensive operational efficiency review with external telecommunications consultants",
+          "Implement a customer retention programme with loyalty incentives to reduce the 35% churn rate",
+          "Set a 24-hour network fault resolution target and invest in field maintenance capacity to achieve it",
+          "Redeploy or decommission underutilised network assets in areas with minimal subscriber uptake"
+        ]
+      },
+      {
+        "category": "Stakeholder Management",
+        "score": 62,
+        "weight": 15,
+        "weightedScore": 9.3,
+        "explanation": "Stakeholder management needs improvement, particularly in relationships with the regulator (ZICTA), subscribers, and the parent company (IDC). Dr. Kashinga has maintained reasonable government relations but faces credibility challenges with other stakeholders.",
+        "positiveFactors": [
+          "Regular coordination with the Ministry of Technology and Science on ICT development priorities",
+          "Participated in ZICTA's spectrum allocation consultation process constructively"
+        ],
+        "negativeFactors": [
+          "ZICTA issued 2 compliance notices to ZAMTEL for quality of service standard violations",
+          "Customer satisfaction score of 38% is the lowest among Zambia's mobile operators",
+          "IDC (parent company) publicly expressed concern about the pace of ZAMTEL's turnaround",
+          "Limited engagement with Zambia's technology startup ecosystem despite potential for partnership"
+        ],
+        "improvementTips": [
+          "Address the ZICTA compliance notices immediately and implement a quality of service improvement programme",
+          "Launch a comprehensive customer experience transformation programme targeting 55% satisfaction within 12 months",
+          "Develop a clear turnaround roadmap with milestones for regular reporting to IDC",
+          "Establish a technology startup partnership programme leveraging ZAMTEL's network infrastructure"
+        ]
+      }
+    ],
+    "overallExplanation": "Dr. Monde Kashinga faces a formidable challenge at ZAMTEL, a state-owned telecommunications company that has steadily lost market share and financial viability in an otherwise thriving Zambian telecom market. While some positive steps have been taken -- including rural 4G LTE expansion, data revenue growth, and governance reforms -- the overall trajectory remains concerning. Three consecutive years of losses, declining market share, the lowest customer satisfaction in the industry, and regulatory compliance issues indicate that the current pace of reform is insufficient. ZAMTEL requires a bold and accelerated turnaround strategy with clear accountability milestones to justify continued public investment in the enterprise.",
+    "topImprovementAreas": [
+      "Develop and execute an aggressive financial turnaround plan to halt market share erosion and return to profitability",
+      "Transform customer experience to address the critically low 38% satisfaction score and 35% churn rate",
+      "Resolve regulatory compliance issues with ZICTA and address all Auditor General material findings"
+    ]
+  },
+  {
+    "id": "SOECEO-005",
+    "name": "Ms. Lillian Bwalya Tembo",
+    "role": "Chief Executive Officer",
+    "organization": "Industrial Development Corporation",
+    "enterpriseName": "Industrial Development Corporation (IDC)",
+    "sector": "Finance",
+    "appointmentDate": "2022-08-20",
+    "region": "Lusaka",
+    "overallScore": 83,
+    "rating": "Good",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-26T16:00:00Z",
+    "details": {
+      "financialPerformance": 82,
+      "publicServiceMandate": 85,
+      "corporateGovernance": 88,
+      "operationalEfficiency": 78,
+      "stakeholderManagement": 84
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Financial Performance",
+        "score": 82,
+        "weight": 25,
+        "weightedScore": 20.5,
+        "explanation": "IDC's financial performance has been solid under Ms. Tembo's leadership, with improved returns from the portfolio of state-owned enterprises and strategic investments. Dividend income from profitable subsidiaries has increased and the IDC's balance sheet has strengthened through disciplined asset management.",
+        "positiveFactors": [
+          "Portfolio dividend income increased 25% year-over-year driven by improved performance at ZESCO and Mopani Copper Mines",
+          "Successfully divested a 30% stake in a non-core subsidiary at a 15% premium to book value",
+          "IDC's net asset value grew 12% reflecting improved valuations across the portfolio",
+          "Secured ZMW 2 billion credit facility from local banks for strategic investment opportunities"
+        ],
+        "negativeFactors": [
+          "Five portfolio companies (including ZAMTEL and Zambia Railways) continue to operate at losses, dragging overall returns",
+          "Foreign currency exposure on USD-denominated investments creates valuation volatility",
+          "Administrative costs grew 10%, slightly outpacing revenue growth"
+        ],
+        "improvementTips": [
+          "Develop explicit turnaround milestones and accountability frameworks for each loss-making subsidiary",
+          "Implement a portfolio-level foreign currency hedging strategy to manage valuation volatility",
+          "Implement a zero-based budgeting approach to control administrative cost growth"
+        ]
+      },
+      {
+        "category": "Public Service Mandate",
+        "score": 85,
+        "weight": 25,
+        "weightedScore": 21.25,
+        "explanation": "IDC's public service mandate is to manage and grow the state's commercial investments for the benefit of the Zambian people. Ms. Tembo has advanced this mandate through strategic investments in priority sectors, improved SOE oversight, and initiatives to leverage state assets for economic development.",
+        "positiveFactors": [
+          "Approved 3 new strategic investments in agriculture processing, renewable energy, and pharmaceuticals manufacturing totalling ZMW 1.5 billion",
+          "Strengthened performance management frameworks for all 35 SOEs under IDC oversight",
+          "Launched the IDC Impact Fund targeting ZMW 500 million for SME development in underserved provinces",
+          "Facilitated job creation of 2,500 positions across the IDC portfolio companies"
+        ],
+        "negativeFactors": [
+          "Some portfolio SOEs continue to underperform their mandates despite strengthened oversight",
+          "IDC Impact Fund disbursement rate at 40% of target, suggesting slow implementation"
+        ],
+        "improvementTips": [
+          "Apply stronger consequences for SOE leadership that fails to meet agreed performance targets",
+          "Accelerate IDC Impact Fund disbursement by streamlining the application and approval process",
+          "Publish an annual IDC Impact Report quantifying the economic and social impact of state investments"
+        ]
+      },
+      {
+        "category": "Corporate Governance",
+        "score": 88,
+        "weight": 20,
+        "weightedScore": 17.6,
+        "explanation": "Strong corporate governance at IDC, reflecting Ms. Tembo's emphasis on transparency, accountability, and compliance. IDC has become a model for SOE governance practices in Zambia, with robust board oversight, clean audits, and proactive anti-corruption measures.",
+        "positiveFactors": [
+          "Clean audit opinion from the Auditor General for 3 consecutive years",
+          "Board of Directors includes independent members with strong private sector credentials",
+          "Implemented a comprehensive SOE governance code applicable to all IDC subsidiaries",
+          "Proactive engagement with the Financial Intelligence Centre on anti-money laundering compliance across the portfolio",
+          "Published IDC's first annual integrated report combining financial and non-financial performance"
+        ],
+        "negativeFactors": [
+          "Governance code adoption rate across IDC subsidiaries is only 65%, indicating uneven implementation"
+        ],
+        "improvementTips": [
+          "Set a 12-month deadline for 100% governance code adoption across all IDC subsidiaries with consequences for non-compliance",
+          "Establish a governance peer review mechanism among SOE boards to share best practices"
+        ]
+      },
+      {
+        "category": "Operational Efficiency",
+        "score": 78,
+        "weight": 15,
+        "weightedScore": 11.7,
+        "explanation": "IDC's operational efficiency has improved through digitalisation of investment management processes and strengthened portfolio monitoring. However, the small team relative to the large number of subsidiaries creates capacity constraints.",
+        "positiveFactors": [
+          "Implemented a digital investment management platform for real-time portfolio monitoring",
+          "Reduced average investment approval time from 6 months to 4 months through process streamlining",
+          "Established a centralised procurement function for common goods and services across IDC subsidiaries"
+        ],
+        "negativeFactors": [
+          "IDC manages 35 SOEs with a professional staff of only 45, creating significant capacity constraints",
+          "Board appointment processes for subsidiaries still average 4 months due to bureaucratic approval chains",
+          "IT infrastructure at IDC headquarters requires modernisation to support the digital investment platform"
+        ],
+        "improvementTips": [
+          "Recruit additional investment professionals and sector specialists to strengthen portfolio oversight capacity",
+          "Streamline subsidiary board appointment processes through pre-approved candidate pools and delegated authority",
+          "Invest in IT infrastructure modernisation to fully leverage the digital investment management platform"
+        ]
+      },
+      {
+        "category": "Stakeholder Management",
+        "score": 84,
+        "weight": 15,
+        "weightedScore": 12.6,
+        "explanation": "Effective stakeholder management across government, development partners, the private sector, and the public. Ms. Tembo has elevated IDC's profile as a credible and professional investment holding company.",
+        "positiveFactors": [
+          "Strong working relationship with the Ministry of Finance and National Planning on state investment policy",
+          "Successfully attracted co-investment from the IFC and African Development Bank for portfolio companies",
+          "Regular engagement with the Zambia Association of Chambers of Commerce and Industry (ZACCI) on public-private partnerships",
+          "Conducted 4 public forums on IDC's investment strategy and SOE performance across provinces"
+        ],
+        "negativeFactors": [
+          "Civil society organisations request greater transparency on IDC's investment decision-making criteria",
+          "Limited direct engagement with communities affected by SOE operations"
+        ],
+        "improvementTips": [
+          "Publish IDC's investment decision-making criteria and process on the corporate website for public transparency",
+          "Establish community liaison mechanisms for major SOE operations to address local concerns and measure social impact"
+        ]
+      }
+    ],
+    "overallExplanation": "Ms. Lillian Bwalya Tembo has provided strong leadership at the Industrial Development Corporation, Zambia's sovereign wealth and investment holding entity. Under her tenure, IDC has improved portfolio returns, strengthened SOE governance frameworks, attracted international co-investment, and initiated strategic investments in agriculture, energy, and pharmaceuticals. The clean audit record, integrated reporting, and proactive governance code for subsidiaries set a positive standard. However, the continued underperformance of key subsidiaries like ZAMTEL and Zambia Railways, slow IDC Impact Fund disbursement, and capacity constraints remain challenges. Holding underperforming SOE leaders more firmly accountable and scaling the team would further strengthen IDC's mandate delivery.",
+    "topImprovementAreas": [
+      "Enforce stronger accountability mechanisms for underperforming SOE leadership across the portfolio",
+      "Accelerate IDC Impact Fund disbursement to support SME development in underserved provinces",
+      "Scale IDC's professional capacity to provide adequate oversight of the 35-company SOE portfolio"
+    ]
+  },
+  {
+    "id": "SOECEO-006",
+    "name": "Mr. Kelvin Masumba",
+    "role": "Executive Director",
+    "organization": "Food Reserve Agency",
+    "enterpriseName": "Food Reserve Agency (FRA)",
+    "sector": "Agriculture",
+    "appointmentDate": "2024-02-01",
+    "region": "Lusaka",
+    "overallScore": 42,
+    "rating": "Poor",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-02-01T08:30:00Z",
+    "details": {
+      "financialPerformance": 35,
+      "publicServiceMandate": 48,
+      "corporateGovernance": 40,
+      "operationalEfficiency": 38,
+      "stakeholderManagement": 45
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Financial Performance",
+        "score": 35,
+        "weight": 25,
+        "weightedScore": 8.75,
+        "explanation": "FRA's financial performance is critically weak, characterised by massive operating losses, unsustainable government subsidies, and significant stock losses. The agency's maize purchase and storage operations consistently operate well above market cost due to inefficiencies and above-market producer prices set by government policy.",
+        "positiveFactors": [
+          "Successfully disbursed ZMW 3.2 billion in farmer payments during the 2025 crop marketing season"
+        ],
+        "negativeFactors": [
+          "Operating loss of ZMW 1.8 billion for the financial year, funded entirely by Treasury transfers",
+          "Maize purchase price set 35% above market price, creating a structural loss on every tonne purchased",
+          "Stock losses of 45,000 metric tonnes (approximately 8% of total stock) due to poor storage conditions",
+          "ZMW 480 million in farmer payments delayed by 3-6 months, causing severe hardship for smallholder farmers",
+          "Outstanding debt to the Bank of Zambia for previous season crop financing exceeds ZMW 2.5 billion"
+        ],
+        "improvementTips": [
+          "Engage the Ministry of Agriculture on transitioning to cost-reflective maize purchase pricing to reduce structural losses",
+          "Implement a real-time stock management system to reduce the 8% stock loss rate to below 3%",
+          "Develop a timely farmer payment plan that ensures all disbursements are made within 30 days of crop delivery",
+          "Propose a structured debt repayment plan to the Bank of Zambia and Ministry of Finance"
+        ]
+      },
+      {
+        "category": "Public Service Mandate",
+        "score": 48,
+        "weight": 25,
+        "weightedScore": 12.0,
+        "explanation": "FRA's public service mandate is to maintain national food security through strategic grain reserves and to provide a guaranteed market for smallholder maize farmers. Delivery on both elements of this mandate has been inadequate, with depleted strategic reserves and delayed farmer payments undermining food security and farmer livelihoods.",
+        "positiveFactors": [
+          "Purchased maize from 520,000 smallholder farmers across all 10 provinces during the 2025 crop marketing season",
+          "Maintained 32 satellite depot operations across the country for farmer accessibility"
+        ],
+        "negativeFactors": [
+          "Strategic grain reserve fell to 150,000 metric tonnes, well below the 500,000 metric tonne national food security threshold",
+          "Delayed farmer payments (3-6 months) caused 85,000 farmers to sell to private traders at lower prices rather than wait",
+          "Grain distribution to drought-affected districts in Southern and Western Provinces was delayed by 6 weeks",
+          "Several satellite depots in Northern Province were not operational during the crop marketing season due to infrastructure disrepair",
+          "FRA maize sold to millers at subsidised prices, undercutting private sector grain traders"
+        ],
+        "improvementTips": [
+          "Develop an emergency plan to rebuild the strategic grain reserve to the 500,000 metric tonne threshold within 2 crop seasons",
+          "Prioritise timely farmer payments as the single most important service delivery metric",
+          "Pre-position grain stocks in drought-prone districts before the lean season to enable rapid emergency response",
+          "Repair and maintain all satellite depots to ensure operational readiness before each crop marketing season"
+        ]
+      },
+      {
+        "category": "Corporate Governance",
+        "score": 40,
+        "weight": 20,
+        "weightedScore": 8.0,
+        "explanation": "Corporate governance at FRA is severely deficient. The Auditor General has issued adverse findings for 3 consecutive years, procurement irregularities have been documented, and financial reporting is consistently late and unreliable.",
+        "positiveFactors": [
+          "Board of Directors reconstituted in 2025 with improved expertise in agriculture and finance"
+        ],
+        "negativeFactors": [
+          "Auditor General issued a qualified audit opinion with 8 material findings in the most recent report",
+          "ZPPA identified procurement irregularities in 6 major contracts totalling ZMW 800 million",
+          "Annual financial statements submitted 7 months late, exceeding the statutory deadline by 4 months",
+          "Anti-Corruption Commission (ACC) has active investigations into 2 former senior managers for suspected theft",
+          "Internal audit function is understaffed and reports indicate limited independence from management"
+        ],
+        "improvementTips": [
+          "Address all 8 Auditor General material findings with documented corrective action plans within 90 days",
+          "Cooperate fully with ZPPA and ACC investigations and implement all recommended procurement reforms",
+          "Ensure annual financial statements are submitted within the statutory deadline for the current financial year",
+          "Strengthen and ensure independence of the internal audit function by having it report directly to the Board Audit Committee",
+          "Implement a comprehensive anti-corruption programme with mandatory training for all staff"
+        ]
+      },
+      {
+        "category": "Operational Efficiency",
+        "score": 38,
+        "weight": 15,
+        "weightedScore": 5.7,
+        "explanation": "Operational efficiency at FRA is critically low. Grain handling costs are among the highest in Southern Africa, storage losses are excessive, and logistics operations are poorly managed. The agency's operational model has not been modernised in over a decade.",
+        "positiveFactors": [
+          "Initiated a review of grain storage practices in partnership with the World Food Programme (WFP)"
+        ],
+        "negativeFactors": [
+          "Grain handling cost per metric tonne is 3 times higher than the regional average for Southern Africa",
+          "8% stock loss rate is 4 times the acceptable industry standard of 2%",
+          "Transport fleet availability at only 40% due to poor maintenance, requiring expensive private transporter hire",
+          "Weighbridge irregularities at 5 satellite depots identified during spot checks, suggesting potential fraud",
+          "No digital systems for stock management; all records maintained manually in paper-based ledgers"
+        ],
+        "improvementTips": [
+          "Implement WFP-recommended grain storage improvements across all depots within the next crop marketing season",
+          "Adopt digital stock management and weighbridge monitoring systems to eliminate manual record-keeping and reduce fraud risk",
+          "Rehabilitate the transport fleet to achieve at least 70% availability and reduce reliance on private transporters",
+          "Investigate weighbridge irregularities at all 5 identified depots and take appropriate disciplinary action"
+        ]
+      },
+      {
+        "category": "Stakeholder Management",
+        "score": 45,
+        "weight": 15,
+        "weightedScore": 6.75,
+        "explanation": "Stakeholder management is weak, with strained relationships across government, farmers, the private sector, and development partners. FRA's operational failures have eroded trust with nearly all key stakeholders.",
+        "positiveFactors": [
+          "Maintained regular attendance at Ministry of Agriculture coordination meetings",
+          "Engaged the Zambia National Farmers Union (ZNFU) on crop marketing season planning"
+        ],
+        "negativeFactors": [
+          "Farmer complaints about delayed payments reached the Parliamentary Committee on Agriculture, generating negative publicity",
+          "Ministry of Finance expressed concerns about FRA's unsustainable fiscal demands in the national budget",
+          "Private grain traders lodged formal complaints with the Competition and Consumer Protection Commission about FRA's market-distorting practices",
+          "Development partners (World Bank, EU) paused discussions on FRA reform support due to governance concerns",
+          "Media coverage of FRA is overwhelmingly negative, focusing on stock losses, payment delays, and corruption allegations"
+        ],
+        "improvementTips": [
+          "Develop a comprehensive stakeholder communication plan addressing each stakeholder group's specific concerns",
+          "Proactively engage Parliament's Agriculture Committee with a transparent reform and improvement plan",
+          "Engage private grain traders through ZNFU and ZACCI on complementary roles in the grain market",
+          "Address development partner governance concerns to unlock technical and financial support for FRA reform",
+          "Implement a proactive media relations strategy focused on transparency and reform progress"
+        ]
+      }
+    ],
+    "overallExplanation": "Mr. Kelvin Masumba's leadership at the Food Reserve Agency presents serious concerns across every dimension of assessment. FRA is an institution in crisis: strategic grain reserves are dangerously below the food security threshold, 45,000 metric tonnes of grain were lost to poor storage, 85,000 farmers were driven to seek alternative buyers due to payment delays, and the Auditor General has flagged 8 material findings. The financial model is unsustainable, operational efficiency is among the worst in the region, and governance failures have attracted ACC investigations and stalled development partner engagement. While Mr. Masumba was appointed relatively recently and inherited many systemic problems, the pace of reform has been inadequate to the urgency of the situation. Immediate, comprehensive intervention is required to prevent further deterioration of national food security infrastructure.",
+    "topImprovementAreas": [
+      "Urgently rebuild the strategic grain reserve to the 500,000 metric tonne food security threshold and eliminate storage losses",
+      "Ensure all farmer payments are made within 30 days of crop delivery to restore farmer confidence and prevent market distortion",
+      "Address all Auditor General findings and procurement irregularities to restore governance credibility and unlock development partner support"
+    ]
+  }
+]

@@ -1,0 +1,1128 @@
+[
+  {
+    "id": "GOV-001",
+    "entityName": "City of Metropolis",
+    "score": 85,
+    "rating": "Good",
+    "details": {
+      "administrativePerformance": 90,
+      "legalCompliance": 80,
+      "fiscalResponsibility": 88,
+      "publicTrust": 82,
+      "localProcurement": 78,
+      "cdfUtilization": 0
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Administrative Performance",
+        "score": 90,
+        "weight": 25,
+        "weightedScore": 22.5,
+        "explanation": "The city consistently delivers public services on time with high citizen satisfaction. E-government portal handles 85% of service requests digitally, setting a strong benchmark for municipal service delivery.",
+        "positiveFactors": [
+          "E-government portal reduced service wait times by 60%",
+          "98% of business licenses processed within 5 working days",
+          "Implemented 24/7 emergency response coordination center"
+        ],
+        "negativeFactors": [
+          "Water infrastructure maintenance backlog in 2 suburban districts",
+          "Public transport scheduling system still uses legacy software"
+        ],
+        "improvementTips": [
+          "Allocate emergency budget to clear water infrastructure backlog within 6 months",
+          "Migrate public transport scheduling to modern cloud-based platform",
+          "Expand e-government portal to cover 95% of all citizen services"
+        ]
+      },
+      {
+        "category": "Legal Compliance",
+        "score": 80,
+        "weight": 21,
+        "weightedScore": 16.8,
+        "explanation": "Strong legal framework adherence with minor procurement regulation gaps identified in recent audit cycle. The city maintains zero active lawsuits and proactively adopts new regulatory frameworks.",
+        "positiveFactors": [
+          "Zero pending lawsuits from citizens regarding service delivery",
+          "All environmental regulations met for city development projects",
+          "Proactive adoption of new data protection regulations"
+        ],
+        "negativeFactors": [
+          "3 procurement processes flagged for incomplete documentation",
+          "Delayed implementation of updated building code standards"
+        ],
+        "improvementTips": [
+          "Implement automated procurement compliance checklist system",
+          "Fast-track building code update adoption with contractor training programs",
+          "Conduct quarterly legal compliance self-assessments across all departments"
+        ]
+      },
+      {
+        "category": "Fiscal Responsibility",
+        "score": 88,
+        "weight": 21,
+        "weightedScore": 18.48,
+        "explanation": "Budget utilization at 94% with clean external audit. Revenue collection improved 15% year-over-year through digital payment adoption, demonstrating strong financial stewardship.",
+        "positiveFactors": [
+          "Clean external audit for 4th consecutive year",
+          "Digital payment channels increased revenue collection by 15%",
+          "Debt-to-revenue ratio maintained below 30% threshold"
+        ],
+        "negativeFactors": [
+          "Capital project spending 8% under plan due to contractor delays",
+          "Property tax collection rate at 78%, below 85% target"
+        ],
+        "improvementTips": [
+          "Pre-qualify contractors and maintain standby list to avoid project delays",
+          "Implement automated property tax reminders via SMS and mobile app",
+          "Review and renegotiate supplier contracts for better value"
+        ]
+      },
+      {
+        "category": "Public Trust",
+        "score": 82,
+        "weight": 18,
+        "weightedScore": 14.76,
+        "explanation": "Public satisfaction survey shows 82% trust rating. Social media sentiment positive at 75%. Town hall meetings held monthly with strong attendance across urban areas.",
+        "positiveFactors": [
+          "Monthly town hall meetings with average 200+ attendees",
+          "Open budget dashboard viewed by 50,000 unique visitors quarterly",
+          "Citizen complaint resolution improved from 21 to 14 days average"
+        ],
+        "negativeFactors": [
+          "Rural community engagement 20% lower than urban areas",
+          "Youth satisfaction (18-25) dropped 5% due to limited recreational facilities"
+        ],
+        "improvementTips": [
+          "Launch mobile town hall sessions in rural communities quarterly",
+          "Invest in youth recreational facilities and community programs",
+          "Create citizen advisory panels for each district to improve representation"
+        ]
+      },
+      {
+        "category": "Local Procurement & Contracts to Zambians",
+        "score": 78,
+        "weight": 15,
+        "weightedScore": 11.7,
+        "explanation": "The City of Metropolis has made commendable progress in directing procurement spending toward local Zambian businesses. Approximately 72% of contracts by value were awarded to Zambian-owned firms in the last fiscal year, though there is room for improvement in construction and IT sectors.",
+        "positiveFactors": [
+          "72% of procurement spend directed to Zambian-owned businesses",
+          "Established a local supplier development program with 50 enrolled SMEs",
+          "Preferential scoring for local bidders incorporated into tender evaluation criteria"
+        ],
+        "negativeFactors": [
+          "IT and specialized engineering contracts still predominantly awarded to foreign firms",
+          "Local supplier database not regularly updated, excluding newer Zambian businesses"
+        ],
+        "improvementTips": [
+          "Partner with local tech incubators to build capacity among Zambian IT firms for municipal contracts",
+          "Conduct quarterly updates of the local supplier database and actively recruit new Zambian vendors",
+          "Set annual targets to increase local procurement share to 80% within 2 years"
+        ]
+      }
+    ],
+    "overallExplanation": "The City of Metropolis demonstrates strong administrative performance and fiscal discipline, supported by effective digital transformation initiatives. Key strengths include e-government services, clean audits, and growing commitment to local procurement. Focus areas include closing the rural-urban engagement gap, modernizing legacy infrastructure systems, and increasing local procurement in specialized sectors.",
+    "topImprovementAreas": [
+      "Accelerate water infrastructure maintenance in suburban districts",
+      "Improve rural community engagement and youth satisfaction programs",
+      "Strengthen procurement documentation compliance and increase local procurement share"
+    ]
+  },
+  {
+    "id": "GOV-002",
+    "entityName": "Town of Smallville",
+    "score": 72,
+    "rating": "Needs Improvement",
+    "details": {
+      "administrativePerformance": 75,
+      "legalCompliance": 70,
+      "fiscalResponsibility": 78,
+      "publicTrust": 65,
+      "localProcurement": 65,
+      "cdfUtilization": 0
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Administrative Performance",
+        "score": 75,
+        "weight": 25,
+        "weightedScore": 18.75,
+        "explanation": "Service delivery is adequate but hampered by staff shortages and outdated manual processes. Average processing time for permits exceeds 15 working days, well above acceptable benchmarks.",
+        "positiveFactors": [
+          "Waste management services maintained at acceptable standards",
+          "New community health center opened on schedule"
+        ],
+        "negativeFactors": [
+          "Permit processing takes 15+ days vs 5-day target",
+          "30% staff vacancy rate in public works department",
+          "No digital service delivery channels available to citizens"
+        ],
+        "improvementTips": [
+          "Recruit and fill critical public works vacancies within 3 months",
+          "Implement basic online permit application system to reduce processing time",
+          "Establish service delivery KPIs with monthly reporting to council"
+        ]
+      },
+      {
+        "category": "Legal Compliance",
+        "score": 70,
+        "weight": 21,
+        "weightedScore": 14.7,
+        "explanation": "Several compliance gaps identified including outdated bylaws and incomplete tender documentation. No legal violations have occurred, but systemic weaknesses present risks if not addressed promptly.",
+        "positiveFactors": [
+          "No active legal proceedings against the council",
+          "Environmental impact assessments completed for all new projects"
+        ],
+        "negativeFactors": [
+          "12 bylaws overdue for review and modernization",
+          "Tender documentation incomplete in 5 of 20 recent procurements",
+          "Data protection officer position unfilled for 8 months"
+        ],
+        "improvementTips": [
+          "Appoint a data protection officer immediately to meet regulatory requirements",
+          "Schedule quarterly bylaw review sessions with legal counsel",
+          "Mandate procurement checklist sign-off before any tender publication"
+        ]
+      },
+      {
+        "category": "Fiscal Responsibility",
+        "score": 78,
+        "weight": 21,
+        "weightedScore": 16.38,
+        "explanation": "Budget management is reasonable with 87% utilization, but revenue collection underperforms and capital project cost overruns occurred twice in the past fiscal year.",
+        "positiveFactors": [
+          "Operating budget maintained within approved limits",
+          "Successfully secured 2 intergovernmental grants for infrastructure"
+        ],
+        "negativeFactors": [
+          "Revenue collection rate at 68%, well below 85% target",
+          "2 capital projects exceeded budget by 15-20%",
+          "External audit qualified opinion on fixed asset register accuracy"
+        ],
+        "improvementTips": [
+          "Implement door-to-door revenue collection in areas with low payment rates",
+          "Require independent cost estimates before approving capital projects",
+          "Conduct full fixed asset verification and update the register"
+        ]
+      },
+      {
+        "category": "Public Trust",
+        "score": 65,
+        "weight": 18,
+        "weightedScore": 11.7,
+        "explanation": "Public satisfaction at 65% reflecting concerns about service quality, transparency, and responsiveness. Community meetings are irregular and poorly attended, eroding trust in local governance.",
+        "positiveFactors": [
+          "Council meetings open to public with published agendas",
+          "Started publishing quarterly financial summaries"
+        ],
+        "negativeFactors": [
+          "Community meetings held only twice in past year vs monthly target",
+          "Citizen complaint backlog of 45 unresolved cases older than 60 days",
+          "No online feedback mechanism available"
+        ],
+        "improvementTips": [
+          "Resume monthly community meetings with structured feedback collection",
+          "Clear complaint backlog within 30 days and implement tracking system",
+          "Launch simple SMS/WhatsApp feedback channel for citizen input"
+        ]
+      },
+      {
+        "category": "Local Procurement & Contracts to Zambians",
+        "score": 65,
+        "weight": 15,
+        "weightedScore": 9.75,
+        "explanation": "The Town of Smallville has a modest local procurement track record, with approximately 58% of contracts awarded to Zambian-owned firms. Limited supplier engagement and a lack of formal local procurement policy hinder progress in this area.",
+        "positiveFactors": [
+          "58% of contracts by value awarded to local Zambian businesses",
+          "Council resolution passed to prioritize local suppliers where possible"
+        ],
+        "negativeFactors": [
+          "No formal local procurement policy or targets established",
+          "Limited outreach to local SMEs about available tender opportunities",
+          "Some high-value contracts awarded to firms outside the province without justification"
+        ],
+        "improvementTips": [
+          "Develop and adopt a formal local procurement policy with measurable annual targets",
+          "Host quarterly supplier engagement workshops to connect local SMEs with town procurement needs",
+          "Require written justification when contracts are awarded to non-local firms"
+        ]
+      }
+    ],
+    "overallExplanation": "The Town of Smallville faces significant challenges in service delivery capacity, public engagement, and revenue collection. While there are no legal violations and basic fiscal management is maintained, the council needs urgent investment in staff recruitment, digital services, citizen communication, and a formal local procurement strategy to rebuild public trust and support the local economy.",
+    "topImprovementAreas": [
+      "Recruit critical staff and implement digital service delivery",
+      "Improve revenue collection from 68% to 85% target",
+      "Rebuild public trust through regular community engagement and establish formal local procurement policy"
+    ]
+  },
+  {
+    "id": "GOV-003",
+    "entityName": "Province of Copperbelt",
+    "score": 91,
+    "rating": "Excellent",
+    "details": {
+      "administrativePerformance": 93,
+      "legalCompliance": 90,
+      "fiscalResponsibility": 92,
+      "publicTrust": 88,
+      "localProcurement": 88,
+      "cdfUtilization": 0
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Administrative Performance",
+        "score": 93,
+        "weight": 25,
+        "weightedScore": 23.25,
+        "explanation": "Provincial administration sets the benchmark for service delivery with fully digital processes, same-day permit approvals for standard requests, and a 97% KPI achievement rate across all departments.",
+        "positiveFactors": [
+          "97% of all KPIs met or exceeded across all departments",
+          "Same-day processing for standard permits and applications",
+          "Won National Public Service Excellence Award 2025"
+        ],
+        "negativeFactors": [
+          "Minor delays in rural clinic staffing rotation schedules"
+        ],
+        "improvementTips": [
+          "Implement predictive staffing model for rural health facilities",
+          "Share best practices with neighboring provinces through mentorship"
+        ]
+      },
+      {
+        "category": "Legal Compliance",
+        "score": 90,
+        "weight": 21,
+        "weightedScore": 18.9,
+        "explanation": "Exemplary legal compliance with proactive adoption of new regulations and zero litigation. All procurement follows prescribed procedures, and the province was the first to implement the new data protection framework.",
+        "positiveFactors": [
+          "Zero litigation against the provincial administration",
+          "100% procurement compliance verified by independent audit",
+          "First province to fully implement new data protection framework"
+        ],
+        "negativeFactors": [
+          "2 minor administrative errors in contract documentation corrected post-signing"
+        ],
+        "improvementTips": [
+          "Implement AI-assisted contract review to catch administrative errors before signing",
+          "Conduct annual legal compliance training refresher for all staff"
+        ]
+      },
+      {
+        "category": "Fiscal Responsibility",
+        "score": 92,
+        "weight": 21,
+        "weightedScore": 19.32,
+        "explanation": "Outstanding fiscal management with 97% budget utilization, revenue targets exceeded by 8%, and unqualified audit opinion for 6 consecutive years. The province is a model of financial stewardship.",
+        "positiveFactors": [
+          "Unqualified audit opinion for 6th consecutive year",
+          "Revenue collection exceeded target by 8%",
+          "Saved 12% on procurement through competitive bidding reforms"
+        ],
+        "negativeFactors": [
+          "Minor underspending on training budget due to scheduling conflicts"
+        ],
+        "improvementTips": [
+          "Implement rolling training calendar to ensure full budget utilization",
+          "Explore additional revenue streams from provincial assets"
+        ]
+      },
+      {
+        "category": "Public Trust",
+        "score": 88,
+        "weight": 18,
+        "weightedScore": 15.84,
+        "explanation": "88% citizen satisfaction rating driven by strong social media engagement and active citizen participation in governance through digital platforms. The province leads in transparency and public communication.",
+        "positiveFactors": [
+          "88% citizen satisfaction in independent survey",
+          "Active social media presence with 50,000+ followers",
+          "Digital citizen participation platform used by 25,000 residents"
+        ],
+        "negativeFactors": [
+          "Mining communities report lower satisfaction due to environmental concerns"
+        ],
+        "improvementTips": [
+          "Launch dedicated environmental monitoring program for mining-affected areas",
+          "Establish mining community liaison office with regular engagement"
+        ]
+      },
+      {
+        "category": "Local Procurement & Contracts to Zambians",
+        "score": 88,
+        "weight": 15,
+        "weightedScore": 13.2,
+        "explanation": "The Province of Copperbelt leads in local procurement, with 85% of contracts awarded to Zambian-owned businesses. The province has a formal local content policy and actively supports capacity building among local suppliers in the mining supply chain.",
+        "positiveFactors": [
+          "85% of procurement spend directed to Zambian-owned firms across all categories",
+          "Formal local content policy with annual targets reviewed by provincial leadership",
+          "Partnership with Zambian Chamber of Commerce to develop 120 local suppliers in the mining value chain",
+          "Preferential bid margins for local firms codified in procurement regulations"
+        ],
+        "negativeFactors": [
+          "Specialized mining equipment contracts still sourced internationally due to limited local capacity"
+        ],
+        "improvementTips": [
+          "Invest in local manufacturing incubation programs for mining equipment components",
+          "Establish a provincial supplier excellence program to certify and promote high-quality Zambian vendors"
+        ]
+      }
+    ],
+    "overallExplanation": "The Province of Copperbelt is a top performer across all governance dimensions, demonstrating excellence in digital service delivery, fiscal management, public engagement, and local procurement. The province serves as a model for others and should focus on maintaining standards while addressing specific mining community environmental concerns and building local capacity in specialized procurement areas.",
+    "topImprovementAreas": [
+      "Address mining community environmental concerns with dedicated programs",
+      "Optimize rural clinic staffing to maintain healthcare delivery standards",
+      "Build local manufacturing capacity for specialized mining equipment to further boost local procurement"
+    ]
+  },
+  {
+    "id": "GOV-004",
+    "entityName": "MP: Hon. Mutale Nalumango - Mansa Central",
+    "score": 82,
+    "rating": "Good",
+    "details": {
+      "administrativePerformance": 85,
+      "legalCompliance": 80,
+      "fiscalResponsibility": 84,
+      "publicTrust": 78,
+      "localProcurement": 86,
+      "cdfUtilization": 80
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Administrative Performance",
+        "score": 85,
+        "weight": 15,
+        "weightedScore": 12.75,
+        "explanation": "Hon. Nalumango demonstrates strong administrative capacity, maintaining an active constituency office with regular operating hours and responsive staff. Her office processes constituent requests within an average of 7 working days, well within acceptable standards.",
+        "positiveFactors": [
+          "Constituency office open 5 days a week with dedicated staff handling inquiries",
+          "Regular weekly constituency clinics held across 4 wards on a rotating basis",
+          "Maintains a digital register of constituent cases with follow-up tracking"
+        ],
+        "negativeFactors": [
+          "Occasional delays in responding to complex land dispute cases",
+          "Limited coverage in remote areas of the constituency beyond the 4 main wards"
+        ],
+        "improvementTips": [
+          "Establish mobile constituency office days for remote areas at least twice monthly",
+          "Partner with traditional leaders to set up satellite complaint referral points in hard-to-reach areas",
+          "Hire an additional caseworker to handle specialized land and property matters"
+        ]
+      },
+      {
+        "category": "Legal Compliance",
+        "score": 80,
+        "weight": 15,
+        "weightedScore": 12.0,
+        "explanation": "The MP has a clean legal record with no pending court cases or ethics complaints. Parliamentary attendance is strong at 88%, and all required financial declarations have been submitted on time.",
+        "positiveFactors": [
+          "88% parliamentary attendance rate, above the 75% benchmark",
+          "All asset and financial declarations filed on time with the Integrity Commission",
+          "No ethics complaints or disciplinary proceedings on record"
+        ],
+        "negativeFactors": [
+          "Missed 3 committee sessions due to scheduling conflicts with constituency travel",
+          "One late submission of quarterly CDF expenditure report"
+        ],
+        "improvementTips": [
+          "Coordinate committee schedules with constituency visit calendar to minimize conflicts",
+          "Set up automated reminders for all statutory reporting deadlines",
+          "Appoint a parliamentary liaison officer to ensure attendance records are maintained"
+        ]
+      },
+      {
+        "category": "Fiscal Responsibility",
+        "score": 84,
+        "weight": 15,
+        "weightedScore": 12.6,
+        "explanation": "Hon. Nalumango demonstrates responsible fiscal management of CDF and constituency resources. Budget utilization stands at 89% with clear documentation for expenditures, though some minor discrepancies were noted in petty cash management.",
+        "positiveFactors": [
+          "89% CDF budget utilization with documented expenditures",
+          "Engages independent auditors annually for constituency account reviews",
+          "Transparent procurement processes for all projects above K50,000"
+        ],
+        "negativeFactors": [
+          "Minor petty cash discrepancies totalling K12,000 identified in last audit",
+          "One infrastructure project came in 8% over budget due to material price increases"
+        ],
+        "improvementTips": [
+          "Implement stricter petty cash controls with dual-signatory requirements",
+          "Include price escalation clauses in construction contracts to manage cost overruns",
+          "Publish quarterly CDF financial statements on constituency notice boards and social media"
+        ]
+      },
+      {
+        "category": "Public Trust",
+        "score": 78,
+        "weight": 15,
+        "weightedScore": 11.7,
+        "explanation": "The MP enjoys moderate public trust with a 78% approval rating in the latest constituency survey. She holds regular community meetings but could improve communication of parliamentary activities and project updates to constituents.",
+        "positiveFactors": [
+          "Monthly community town hall meetings held in at least 3 wards",
+          "Active WhatsApp group with 2,000+ constituents for real-time updates",
+          "Personally accessible during constituency weeks, meeting walk-in constituents"
+        ],
+        "negativeFactors": [
+          "Youth constituents report feeling underrepresented in her priorities",
+          "Limited reporting back on how she votes on key parliamentary bills"
+        ],
+        "improvementTips": [
+          "Establish a youth advisory council to ensure young people's concerns are heard",
+          "Publish monthly parliamentary activity reports through community notice boards and social media",
+          "Conduct annual constituency satisfaction surveys to track public sentiment"
+        ]
+      },
+      {
+        "category": "Local Procurement & Contracts to Zambians",
+        "score": 86,
+        "weight": 20,
+        "weightedScore": 17.2,
+        "explanation": "Hon. Nalumango actively champions local procurement, ensuring that CDF-funded projects prioritize Zambian contractors and suppliers based in Mansa and the wider Luapula Province. She has been vocal in Parliament about strengthening local content requirements in government procurement.",
+        "positiveFactors": [
+          "90% of CDF-funded construction contracts awarded to Mansa-based Zambian contractors",
+          "Advocated for amendments to the Public Procurement Act to strengthen local content provisions",
+          "Established a constituency supplier register with 35 vetted local businesses",
+          "Required all CDF projects to source building materials from local Zambian suppliers where available"
+        ],
+        "negativeFactors": [
+          "Some specialized electrical and plumbing subcontracts awarded to Lusaka-based firms",
+          "Local supplier register needs updating as some businesses have become inactive"
+        ],
+        "improvementTips": [
+          "Partner with TEVETA to train local artisans in specialized trades to reduce dependence on out-of-district contractors",
+          "Conduct annual updates of the constituency supplier register to ensure accuracy",
+          "Negotiate bulk purchasing arrangements among local suppliers to improve cost competitiveness"
+        ]
+      },
+      {
+        "category": "CDF Utilization & Community Projects",
+        "score": 80,
+        "weight": 20,
+        "weightedScore": 16.0,
+        "explanation": "CDF utilization is strong at 80%, with funds directed toward community boreholes, school infrastructure, and health facility improvements. Most projects are completed on time, though a few have experienced delays due to rainy season scheduling challenges.",
+        "positiveFactors": [
+          "12 community boreholes drilled and operational, serving 8,000+ residents",
+          "Constructed 2 classroom blocks at Mansa Central Primary School ahead of schedule",
+          "Health post renovation at Lubwe completed with community labour contribution",
+          "CDF project selection involves community consultations at ward level"
+        ],
+        "negativeFactors": [
+          "2 borehole projects delayed by 3 months due to rainy season access issues",
+          "One school renovation project still awaiting final roofing materials delivery"
+        ],
+        "improvementTips": [
+          "Schedule all construction projects to begin in the dry season (May-October) to avoid weather delays",
+          "Pre-order critical materials like roofing sheets well in advance of project start dates",
+          "Establish a CDF project monitoring committee with community representatives for real-time progress tracking"
+        ]
+      }
+    ],
+    "overallExplanation": "Hon. Mutale Nalumango is a well-performing Member of Parliament who demonstrates strong administrative capability, responsible fiscal management, and genuine commitment to local procurement and community development. Her CDF utilization is effective with tangible projects benefiting Mansa Central constituents. Key improvement areas include better engagement with youth constituents, scheduling construction projects around weather patterns, and expanding coverage to remote areas of the constituency.",
+    "topImprovementAreas": [
+      "Improve youth engagement and representation in constituency priorities",
+      "Schedule CDF construction projects during the dry season to prevent weather-related delays",
+      "Expand constituency office coverage to remote areas through mobile service points"
+    ]
+  },
+  {
+    "id": "GOV-005",
+    "entityName": "MP: Hon. Jack Mwiimbu - Monze Central",
+    "score": 88,
+    "rating": "Good",
+    "details": {
+      "administrativePerformance": 90,
+      "legalCompliance": 92,
+      "fiscalResponsibility": 88,
+      "publicTrust": 85,
+      "localProcurement": 82,
+      "cdfUtilization": 90
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Administrative Performance",
+        "score": 90,
+        "weight": 15,
+        "weightedScore": 13.5,
+        "explanation": "Hon. Mwiimbu runs one of the most efficient constituency offices in the Southern Province. His office maintains structured case management, timely responses, and proactive outreach. His legal background contributes to well-organized parliamentary and constituency operations.",
+        "positiveFactors": [
+          "Constituency office processes 95% of requests within 5 working days",
+          "Employs 4 full-time constituency staff covering all major wards",
+          "Maintains comprehensive database of all constituency projects, cases, and correspondence",
+          "Regular coordination meetings with district officials to align development priorities"
+        ],
+        "negativeFactors": [
+          "High staff workload during parliamentary recess when constituency demand peaks"
+        ],
+        "improvementTips": [
+          "Recruit temporary staff during parliamentary recess to handle increased constituency demand",
+          "Implement an online constituent request portal to streamline case intake",
+          "Establish ward-level volunteer coordinators to assist with local issue resolution"
+        ]
+      },
+      {
+        "category": "Legal Compliance",
+        "score": 92,
+        "weight": 15,
+        "weightedScore": 13.8,
+        "explanation": "As a seasoned legal practitioner, Hon. Mwiimbu maintains impeccable legal compliance. His parliamentary attendance is among the highest in the National Assembly, and he actively participates in legislative drafting and committee work with rigorous attention to procedural requirements.",
+        "positiveFactors": [
+          "95% parliamentary attendance rate, among the top 10 MPs nationally",
+          "Active member of the Legal Affairs Committee with 100% committee attendance",
+          "All statutory declarations and disclosures filed ahead of deadlines",
+          "Zero ethics complaints or legal proceedings throughout his tenure"
+        ],
+        "negativeFactors": [
+          "Occasional procedural objections from opposition colleagues on committee matters, though all resolved within rules"
+        ],
+        "improvementTips": [
+          "Continue mentoring junior MPs on parliamentary procedure and legal compliance standards",
+          "Publish an annual compliance report for constituents to demonstrate transparency"
+        ]
+      },
+      {
+        "category": "Fiscal Responsibility",
+        "score": 88,
+        "weight": 15,
+        "weightedScore": 13.2,
+        "explanation": "Fiscal management is strong with meticulous record-keeping and 95% CDF budget utilization. All expenditures are properly documented and verified. The MP actively supports the Auditor General's office in constituency-level financial oversight.",
+        "positiveFactors": [
+          "95% CDF budget utilization with complete supporting documentation",
+          "Voluntarily submits to annual independent audit of constituency accounts",
+          "Established constituency budget oversight committee with community representatives",
+          "No audit findings or queries in the last 3 fiscal years"
+        ],
+        "negativeFactors": [
+          "Some community members request more granular financial reporting at ward level",
+          "Minor delays in processing final payments to contractors on 2 projects"
+        ],
+        "improvementTips": [
+          "Introduce ward-level budget breakdowns in quarterly financial reports",
+          "Streamline contractor payment processes with milestone-based payment schedules",
+          "Publish financial summaries in local language (Tonga) for wider community accessibility"
+        ]
+      },
+      {
+        "category": "Public Trust",
+        "score": 85,
+        "weight": 15,
+        "weightedScore": 12.75,
+        "explanation": "Hon. Mwiimbu enjoys high public trust, bolstered by his long record of public service and consistent community engagement. His 85% approval rating reflects constituents' confidence in his integrity and responsiveness to their needs.",
+        "positiveFactors": [
+          "85% constituency approval rating in the most recent independent survey",
+          "Holds monthly public accountability forums in rotating wards",
+          "Active social media engagement with regular updates on parliamentary proceedings",
+          "Well-known for personally visiting project sites and engaging directly with beneficiaries"
+        ],
+        "negativeFactors": [
+          "Younger constituents desire more digital engagement and less traditional meeting formats",
+          "Some rural communities feel their ward receives less attention than urban Monze"
+        ],
+        "improvementTips": [
+          "Launch a constituency mobile app or USSD service for real-time project updates",
+          "Ensure equitable ward-by-ward project allocation and publish distribution data publicly",
+          "Host dedicated youth forums quarterly to address concerns of younger constituents"
+        ]
+      },
+      {
+        "category": "Local Procurement & Contracts to Zambians",
+        "score": 82,
+        "weight": 20,
+        "weightedScore": 16.4,
+        "explanation": "Hon. Mwiimbu supports local procurement and has ensured that most CDF contracts go to Monze-based and Southern Province contractors. However, some specialized health and education infrastructure contracts have been awarded to firms outside the constituency due to capacity limitations among local contractors.",
+        "positiveFactors": [
+          "78% of CDF contracts awarded to Monze-based Zambian firms",
+          "Supports local artisans by requiring Zambian-made furniture and fittings in all CDF-funded buildings",
+          "Sponsored a constituency contractors' capacity-building workshop with 25 local firms"
+        ],
+        "negativeFactors": [
+          "22% of contracts (by value) went to Lusaka and Livingstone-based firms for specialized health facility construction",
+          "No formal constituency-level local content policy document in place"
+        ],
+        "improvementTips": [
+          "Develop a formal constituency local procurement policy to formalize current good practices",
+          "Partner with the National Council for Construction to upskill local contractors for specialized health infrastructure work",
+          "Require joint ventures between outside firms and local contractors when specialized capacity is needed"
+        ]
+      },
+      {
+        "category": "CDF Utilization & Community Projects",
+        "score": 90,
+        "weight": 20,
+        "weightedScore": 18.0,
+        "explanation": "CDF utilization is excellent at 95% fund disbursement, with all projects fully accounted for and regular community progress reports issued. Hon. Mwiimbu has delivered transformative community projects including health posts, feeder roads, and school infrastructure that directly benefit thousands of constituents.",
+        "positiveFactors": [
+          "95% of CDF allocation disbursed and accounted for with complete documentation",
+          "Built 3 community health posts now serving 15,000+ residents across rural wards",
+          "Rehabilitated 12km of feeder roads connecting farming communities to Monze market",
+          "Constructed a 1x3 classroom block and teachers' house at Hamusonde Community School"
+        ],
+        "negativeFactors": [
+          "Feeder road rehabilitation faced 2-month delay due to late equipment mobilization",
+          "One health post experiencing minor structural issues requiring remedial works"
+        ],
+        "improvementTips": [
+          "Negotiate equipment pre-mobilization clauses in road construction contracts to prevent delays",
+          "Implement 12-month defect liability retention on all construction contracts for quality assurance",
+          "Establish community project maintenance committees to ensure long-term sustainability of completed projects"
+        ]
+      }
+    ],
+    "overallExplanation": "Hon. Jack Mwiimbu is among the top-performing Members of Parliament, demonstrating excellence across administrative efficiency, legal compliance, fiscal responsibility, and CDF utilization. His 95% fund disbursement rate and portfolio of completed community projects set a high standard. Areas for improvement include formalizing local procurement policies, improving digital engagement with younger constituents, and ensuring equitable ward-level project distribution.",
+    "topImprovementAreas": [
+      "Formalize a constituency-level local procurement policy to sustain and improve local content",
+      "Enhance digital engagement channels for younger constituents",
+      "Ensure equitable project distribution across all wards with published allocation data"
+    ]
+  },
+  {
+    "id": "GOV-006",
+    "entityName": "MP: Hon. Elias Mubanga - Kasama Central",
+    "score": 65,
+    "rating": "Needs Improvement",
+    "details": {
+      "administrativePerformance": 68,
+      "legalCompliance": 60,
+      "fiscalResponsibility": 55,
+      "publicTrust": 72,
+      "localProcurement": 70,
+      "cdfUtilization": 48
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Administrative Performance",
+        "score": 68,
+        "weight": 15,
+        "weightedScore": 10.2,
+        "explanation": "Hon. Mubanga's constituency office operates irregularly, with limited staff capacity and inconsistent operating hours. Constituent requests frequently go unanswered for weeks, and there is no structured case management system in place.",
+        "positiveFactors": [
+          "Constituency office exists and is located in an accessible area of Kasama town",
+          "MP is personally approachable during constituency visits and attends community events"
+        ],
+        "negativeFactors": [
+          "Office staffed by only one part-time assistant with no formal training",
+          "No case tracking system resulting in lost or forgotten constituent requests",
+          "Office closed for 3 consecutive weeks during the last parliamentary session with no alternative contact"
+        ],
+        "improvementTips": [
+          "Hire at least 2 full-time constituency staff and provide customer service training",
+          "Implement a basic case management register (even paper-based) to track all constituent requests",
+          "Ensure the office remains open during parliamentary sessions with a designated officer in charge"
+        ]
+      },
+      {
+        "category": "Legal Compliance",
+        "score": 60,
+        "weight": 15,
+        "weightedScore": 9.0,
+        "explanation": "Legal compliance is below acceptable standards. Parliamentary attendance has dropped to 72%, below the 75% benchmark. There have been two formal complaints to the Ethics Committee regarding undisclosed business interests, both under investigation.",
+        "positiveFactors": [
+          "Asset declaration submitted, though one amendment was filed late",
+          "No criminal proceedings or convictions on record"
+        ],
+        "negativeFactors": [
+          "Parliamentary attendance at 72%, below the 75% minimum benchmark",
+          "2 formal ethics complaints regarding undisclosed business interests currently under investigation",
+          "One quarterly CDF report submitted 45 days past the deadline"
+        ],
+        "improvementTips": [
+          "Prioritize parliamentary attendance and maintain minimum 80% attendance going forward",
+          "Cooperate fully with Ethics Committee investigations and proactively update all asset declarations",
+          "Establish a compliance calendar with automated reminders for all statutory reporting deadlines"
+        ]
+      },
+      {
+        "category": "Fiscal Responsibility",
+        "score": 55,
+        "weight": 15,
+        "weightedScore": 8.25,
+        "explanation": "Fiscal management is poor, with incomplete documentation for several CDF expenditures and a qualified audit opinion on the constituency accounts. Budget utilization is at 65% but the quality of spending is questionable with several projects showing cost irregularities.",
+        "positiveFactors": [
+          "Basic financial records are maintained for major expenditures",
+          "Cooperated with auditors during the annual review process"
+        ],
+        "negativeFactors": [
+          "Qualified audit opinion citing K180,000 in inadequately documented expenditures",
+          "3 CDF projects show cost overruns of 25-40% with insufficient justification",
+          "No independent oversight of constituency financial management"
+        ],
+        "improvementTips": [
+          "Engage a qualified accountant to manage CDF finances and maintain proper books of account",
+          "Establish a constituency financial oversight committee with community representatives",
+          "Implement milestone-based payment processing for all projects to prevent cost overruns"
+        ]
+      },
+      {
+        "category": "Public Trust",
+        "score": 72,
+        "weight": 15,
+        "weightedScore": 10.8,
+        "explanation": "Despite administrative shortcomings, Hon. Mubanga maintains moderate public trust due to his personal charisma and community presence at social events. However, trust is eroding as constituents become increasingly aware of CDF management issues and incomplete projects.",
+        "positiveFactors": [
+          "Personally attends funerals, weddings, and community events maintaining social visibility",
+          "Donated personal funds to support 15 vulnerable households during flood emergencies",
+          "72% approval in constituency survey, though down from 81% two years ago"
+        ],
+        "negativeFactors": [
+          "Approval rating dropped 9 percentage points in two years due to project delivery concerns",
+          "Community leaders in 3 wards publicly criticized lack of development progress",
+          "No formal accountability meetings or financial reporting to constituents"
+        ],
+        "improvementTips": [
+          "Institute quarterly public accountability meetings with project status updates and financial reports",
+          "Address community leaders' concerns directly with a published constituency development action plan",
+          "Establish a constituency feedback mechanism (suggestion boxes, phone line) for ongoing input"
+        ]
+      },
+      {
+        "category": "Local Procurement & Contracts to Zambians",
+        "score": 70,
+        "weight": 20,
+        "weightedScore": 14.0,
+        "explanation": "Hon. Mubanga has made moderate efforts to support local procurement, with roughly 65% of CDF contracts awarded to Kasama-based businesses. However, implementation is inconsistent, and there are concerns about some contracts being awarded to firms with connections to the MP rather than through competitive processes.",
+        "positiveFactors": [
+          "65% of CDF contracts awarded to Kasama-based Zambian firms",
+          "Publicly advocates for buy-Zambian principles at community forums",
+          "Local hardware stores benefit from material purchases for CDF projects"
+        ],
+        "negativeFactors": [
+          "3 contracts awarded to firms with alleged personal connections without competitive bidding",
+          "No formal supplier vetting process or local procurement policy",
+          "Some construction materials sourced from Tanzania despite local availability"
+        ],
+        "improvementTips": [
+          "Implement competitive bidding for all CDF contracts regardless of value",
+          "Develop a transparent supplier pre-qualification process open to all Kasama-based firms",
+          "Require documented justification for any procurement from non-local sources"
+        ]
+      },
+      {
+        "category": "CDF Utilization & Community Projects",
+        "score": 48,
+        "weight": 20,
+        "weightedScore": 9.6,
+        "explanation": "CDF utilization is critically low at only 48% of allocated funds disbursed. Of 10 planned projects, only 4 have been completed, with 3 stalled due to funding disputes and contractor abandonment. Community consultation in project selection has been minimal, leading to projects that do not align with residents' most urgent priorities.",
+        "positiveFactors": [
+          "4 of 10 planned projects completed including a borehole and school renovation",
+          "Allocated funds for a community market shelter, responding to traders' longstanding request"
+        ],
+        "negativeFactors": [
+          "Only 48% of CDF allocation disbursed, leaving over K500,000 unspent",
+          "3 projects stalled mid-construction with contractors citing non-payment",
+          "Limited community consultation led to a project prioritization mismatch with resident needs",
+          "Market shelter project started but abandoned at foundation stage with no explanation"
+        ],
+        "improvementTips": [
+          "Immediately disburse outstanding CDF allocations and resolve contractor payment disputes",
+          "Conduct ward-level community needs assessments before selecting new CDF projects",
+          "Establish a project monitoring committee with ward representatives to track progress and escalate issues promptly"
+        ]
+      }
+    ],
+    "overallExplanation": "Hon. Elias Mubanga's performance as MP for Kasama Central needs significant improvement across multiple dimensions. While he maintains moderate personal popularity, his CDF utilization rate of 48% is among the lowest in the Northern Province, with stalled projects and accountability gaps undermining development in the constituency. Urgent action is needed on fiscal management, project completion, and transparent procurement to restore constituent confidence and deliver on development mandates.",
+    "topImprovementAreas": [
+      "Urgently disburse unspent CDF funds and complete stalled construction projects",
+      "Improve fiscal accountability by engaging qualified financial management support and establishing community oversight",
+      "Increase parliamentary attendance to meet the minimum 75% benchmark and resolve pending ethics complaints"
+    ]
+  },
+  {
+    "id": "GOV-007",
+    "entityName": "MP: Hon. Brenda Tambatamba - Kasempa",
+    "score": 76,
+    "rating": "Good",
+    "details": {
+      "administrativePerformance": 78,
+      "legalCompliance": 82,
+      "fiscalResponsibility": 75,
+      "publicTrust": 70,
+      "localProcurement": 80,
+      "cdfUtilization": 72
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Administrative Performance",
+        "score": 78,
+        "weight": 15,
+        "weightedScore": 11.7,
+        "explanation": "Hon. Tambatamba maintains a functional constituency office in Kasempa town with dedicated staff. The office handles constituent inquiries adequately, though the remote and vast nature of the Kasempa constituency makes comprehensive coverage challenging.",
+        "positiveFactors": [
+          "Well-organized constituency office with 2 full-time staff members",
+          "Monthly ward rotation visits reaching 6 of 12 wards per quarter",
+          "Good coordination with the District Commissioner's office on development matters"
+        ],
+        "negativeFactors": [
+          "6 of 12 wards receive constituency visits only once per quarter due to vast distances",
+          "No communication infrastructure (phone/internet) in remote wards limits constituent contact"
+        ],
+        "improvementTips": [
+          "Establish community liaison volunteers in remote wards to serve as contact points between visits",
+          "Invest in a satellite phone or radio communication system for hard-to-reach areas",
+          "Coordinate with traditional leaders to collect and relay constituent concerns from remote wards"
+        ]
+      },
+      {
+        "category": "Legal Compliance",
+        "score": 82,
+        "weight": 15,
+        "weightedScore": 12.3,
+        "explanation": "Legal compliance is solid with 85% parliamentary attendance and all statutory obligations met. Hon. Tambatamba participates actively in the Agriculture and Lands Committee and has a clean disciplinary record.",
+        "positiveFactors": [
+          "85% parliamentary attendance rate, above the 75% benchmark",
+          "All asset declarations and financial disclosures filed on time",
+          "Active participation in the Agriculture and Lands Committee with constructive contributions",
+          "Zero ethics complaints or disciplinary proceedings"
+        ],
+        "negativeFactors": [
+          "Missed 2 plenary debates on mining legislation relevant to Kasempa constituency"
+        ],
+        "improvementTips": [
+          "Prioritize attendance at debates on mining and natural resource legislation given Kasempa's mining interests",
+          "File motions or questions on key constituency issues during parliamentary sessions to increase legislative impact"
+        ]
+      },
+      {
+        "category": "Fiscal Responsibility",
+        "score": 75,
+        "weight": 15,
+        "weightedScore": 11.25,
+        "explanation": "Fiscal management is adequate but not exemplary. CDF budget utilization is at 78%, and while there are no audit qualifications, documentation could be more thorough. Some projects have experienced cost overruns attributed to the high transport costs of operating in a remote constituency.",
+        "positiveFactors": [
+          "78% CDF budget utilization with no qualified audit findings",
+          "Financial records maintained in orderly manner by trained accounts assistant",
+          "Successfully secured supplementary funding from an NGO for a water project"
+        ],
+        "negativeFactors": [
+          "2 projects exceeded budget by 12-18% due to high transport and logistics costs",
+          "Financial reporting to constituents is infrequent and not in accessible formats"
+        ],
+        "improvementTips": [
+          "Build transport and logistics cost contingencies of 15-20% into project budgets for remote areas",
+          "Publish quarterly CDF financial summaries in simplified Kaonde language for community accessibility",
+          "Explore partnerships with development organizations to co-fund projects and stretch CDF allocations further"
+        ]
+      },
+      {
+        "category": "Public Trust",
+        "score": 70,
+        "weight": 15,
+        "weightedScore": 10.5,
+        "explanation": "Public trust is moderate at 70%, reflecting appreciation for the MP's personal commitment to the constituency but frustration with the slow pace of project delivery. Constituents in remote wards feel underserved compared to those near Kasempa town.",
+        "positiveFactors": [
+          "Known for personal dedication and willingness to travel to remote areas despite difficult terrain",
+          "Strong relationship with traditional chiefs who endorse her community engagement",
+          "70% approval rating in constituency survey, stable over the past year"
+        ],
+        "negativeFactors": [
+          "Remote ward constituents report feeling neglected in development project allocation",
+          "Limited communication about parliamentary activities and how she votes on key bills",
+          "Youth groups in Kasempa town expressed frustration about lack of employment-focused programs"
+        ],
+        "improvementTips": [
+          "Publish a ward-by-ward project allocation plan to demonstrate equitable distribution across the constituency",
+          "Launch a quarterly constituency newsletter (print and radio) reporting on parliamentary activities and project progress",
+          "Develop a youth skills training program in partnership with local mines and TEVETA"
+        ]
+      },
+      {
+        "category": "Local Procurement & Contracts to Zambians",
+        "score": 80,
+        "weight": 20,
+        "weightedScore": 16.0,
+        "explanation": "Hon. Tambatamba is a strong advocate for local procurement in rural development, consistently pushing for Zambian suppliers and contractors in Kasempa constituency projects. She has been particularly effective in ensuring that CDF-funded agricultural and water projects use locally available materials and labour.",
+        "positiveFactors": [
+          "82% of CDF contracts awarded to Zambian-owned firms, with priority given to Kasempa-based businesses",
+          "All CDF construction projects use locally sourced materials (bricks, timber, sand) where available",
+          "Advocated in Parliament for rural procurement preferences to support remote constituency economies",
+          "Engaged local women's cooperatives for school feeding program supply contracts"
+        ],
+        "negativeFactors": [
+          "Limited pool of qualified local contractors in Kasempa results in some contracts going to Solwezi-based firms",
+          "No formal local content monitoring mechanism to track procurement outcomes"
+        ],
+        "improvementTips": [
+          "Partner with the National Council for Construction to run contractor training programs in Kasempa",
+          "Establish a constituency procurement monitoring committee to track local content achievements quarterly",
+          "Encourage joint ventures between experienced Solwezi contractors and emerging Kasempa firms to build local capacity"
+        ]
+      },
+      {
+        "category": "CDF Utilization & Community Projects",
+        "score": 72,
+        "weight": 20,
+        "weightedScore": 14.4,
+        "explanation": "CDF utilization stands at 72% with funds allocated across 8 projects, but implementation has been slow. Only 3 of 8 projects have been completed, with the remaining 5 at various stages of progress. The remote terrain and seasonal road impassability in Kasempa contribute to delays, but better project planning could mitigate these challenges.",
+        "positiveFactors": [
+          "3 of 8 CDF projects completed: 2 boreholes and 1 school rehabilitation",
+          "Boreholes serving 3,000+ residents in areas that previously had no clean water access",
+          "Community involvement in project identification through chief-led consultations"
+        ],
+        "negativeFactors": [
+          "5 of 8 projects incomplete, with 2 behind schedule by more than 6 months",
+          "Road grading project in Mushima ward stalled due to equipment breakdown with no contingency plan",
+          "Limited dry-season construction window not adequately factored into project timelines"
+        ],
+        "improvementTips": [
+          "Plan all CDF construction to commence at the start of the dry season (May) to maximize the construction window",
+          "Include equipment contingency provisions in contracts, requiring contractors to have backup machinery",
+          "Prioritize project completion over starting new projects until the current 5 outstanding projects are finished"
+        ]
+      }
+    ],
+    "overallExplanation": "Hon. Brenda Tambatamba is a dedicated MP for Kasempa who faces genuine challenges posed by the constituency's vast size and remote terrain. She demonstrates good legal compliance and commitment to local procurement, but CDF project delivery is behind schedule with only 3 of 8 projects completed. Improving project planning around seasonal constraints, expanding communication with constituents, and accelerating stalled projects should be her immediate priorities.",
+    "topImprovementAreas": [
+      "Accelerate completion of 5 outstanding CDF projects by resolving contractor and scheduling issues",
+      "Improve communication with remote ward constituents through radio, newsletters, and liaison volunteers",
+      "Develop a youth employment and skills program in partnership with local mining companies"
+    ]
+  },
+  {
+    "id": "GOV-008",
+    "entityName": "MP: Hon. Christopher Kang'ombe - Kamfinsa",
+    "score": 45,
+    "rating": "Poor",
+    "details": {
+      "administrativePerformance": 50,
+      "legalCompliance": 42,
+      "fiscalResponsibility": 38,
+      "publicTrust": 40,
+      "localProcurement": 55,
+      "cdfUtilization": 30
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Administrative Performance",
+        "score": 50,
+        "weight": 15,
+        "weightedScore": 7.5,
+        "explanation": "Hon. Kang'ombe's constituency office is poorly managed, with irregular operating hours and frequent staff turnover. Constituents report that the office is often closed during working hours and that requests submitted are rarely followed up on, creating significant frustration.",
+        "positiveFactors": [
+          "Constituency office exists in a reasonably accessible location in Kamfinsa",
+          "MP attended 2 community events in the last quarter showing some constituency presence"
+        ],
+        "negativeFactors": [
+          "Office closed during working hours on 40% of random inspection visits",
+          "4 different office assistants in 18 months indicating severe staff retention problems",
+          "No case management system, constituent complaints frequently lost or ignored",
+          "Ward councillors report inability to reach the MP's office for coordination on development matters"
+        ],
+        "improvementTips": [
+          "Hire competent, permanent constituency staff with proper employment contracts and competitive pay",
+          "Implement fixed office hours (8am-5pm weekdays) with a published schedule and public accountability",
+          "Establish a basic case tracking register and commit to responding to all constituent requests within 14 days"
+        ]
+      },
+      {
+        "category": "Legal Compliance",
+        "score": 42,
+        "weight": 15,
+        "weightedScore": 6.3,
+        "explanation": "Legal compliance is critically poor. Parliamentary attendance has fallen to 62%, well below the 75% minimum. The MP faces ongoing investigations by the Anti-Corruption Commission regarding CDF fund management, and his asset declaration was filed 4 months late with suspected omissions.",
+        "positiveFactors": [
+          "Engaged legal counsel to respond to ACC investigation, indicating willingness to cooperate",
+          "No criminal convictions on record to date"
+        ],
+        "negativeFactors": [
+          "Parliamentary attendance at 62%, significantly below the 75% minimum benchmark",
+          "Under active investigation by the Anti-Corruption Commission for suspected CDF fund mismanagement",
+          "Asset declaration filed 4 months late with suspected undisclosed properties",
+          "Failed to attend 6 consecutive committee meetings without providing valid reasons"
+        ],
+        "improvementTips": [
+          "Immediately prioritize parliamentary attendance and achieve minimum 80% for the remainder of the session",
+          "Cooperate fully and transparently with the Anti-Corruption Commission investigation",
+          "File a comprehensive amended asset declaration addressing all suspected omissions without further delay"
+        ]
+      },
+      {
+        "category": "Fiscal Responsibility",
+        "score": 38,
+        "weight": 15,
+        "weightedScore": 5.7,
+        "explanation": "Fiscal management is severely deficient. The Auditor General's report flagged K850,000 in CDF expenditures with missing or inadequate supporting documentation. Multiple payments were made to companies with no verifiable track record, and project costs were inflated compared to market rates by 35-60%.",
+        "positiveFactors": [
+          "Basic bank accounts for CDF exist and some transaction records are available"
+        ],
+        "negativeFactors": [
+          "K850,000 in CDF expenditures flagged for missing or inadequate supporting documentation",
+          "Project cost inflation of 35-60% above market rates on 4 construction contracts",
+          "Payments totalling K320,000 made to companies with no verifiable business registration or track record",
+          "No independent financial oversight or community financial monitoring committee"
+        ],
+        "improvementTips": [
+          "Submit all missing financial documentation to the Auditor General within 30 days",
+          "Engage an independent, reputable accounting firm to manage all future CDF financial transactions",
+          "Establish a constituency financial oversight committee with civil society and community representation to approve all expenditures above K50,000"
+        ]
+      },
+      {
+        "category": "Public Trust",
+        "score": 40,
+        "weight": 15,
+        "weightedScore": 6.0,
+        "explanation": "Public trust has collapsed to 40%, the lowest among Copperbelt Province MPs. Constituents are deeply frustrated by the lack of visible development, allegations of CDF mismanagement, and the MP's perceived absence from the constituency. Local media coverage has been overwhelmingly negative.",
+        "positiveFactors": [
+          "Some loyal supporters in his home ward still express personal support",
+          "Attended a recent community crisis meeting on water supply, showing some responsiveness under public pressure"
+        ],
+        "negativeFactors": [
+          "40% approval rating, the lowest among all Copperbelt Province MPs",
+          "Three community petitions submitted to the Speaker of the National Assembly requesting recall proceedings",
+          "Local newspapers published investigative reports alleging CDF fund diversion, with no rebuttal from the MP",
+          "Community leaders from 5 of 8 wards publicly declared a vote of no confidence"
+        ],
+        "improvementTips": [
+          "Issue a comprehensive public statement addressing all allegations with evidence and documentation",
+          "Commit to monthly open accountability forums in every ward with published project and financial updates",
+          "Engage an independent community development organization to conduct a constituency needs assessment and rebuild trust through transparent, community-driven project selection"
+        ]
+      },
+      {
+        "category": "Local Procurement & Contracts to Zambians",
+        "score": 55,
+        "weight": 20,
+        "weightedScore": 11.0,
+        "explanation": "Local procurement practices are deeply concerning. While some contracts have gone to Kamfinsa-based businesses, investigations reveal that several high-value contracts were awarded to companies registered to individuals with close personal and business ties to the MP, rather than through competitive processes open to all local firms.",
+        "positiveFactors": [
+          "Some construction materials purchased from local Kamfinsa hardware stores",
+          "A few small-value contracts awarded to genuine local artisans for painting and minor works"
+        ],
+        "negativeFactors": [
+          "5 contracts totalling K1.2 million awarded to companies allegedly owned by associates of the MP without competitive bidding",
+          "Legitimate local contractors report being excluded from CDF tender opportunities",
+          "No transparent tender process for any CDF contract exceeding K100,000",
+          "Two companies that received contracts had been registered only weeks before contract award, raising red flags"
+        ],
+        "improvementTips": [
+          "Implement mandatory open competitive bidding for all CDF contracts above K50,000 with public notice requirements",
+          "Engage the Zambia Public Procurement Authority to conduct an independent review of all CDF contracts awarded in the last 2 years",
+          "Establish a constituency procurement committee with representation from local business associations, civil society, and ward councillors to oversee all future contract awards"
+        ]
+      },
+      {
+        "category": "CDF Utilization & Community Projects",
+        "score": 30,
+        "weight": 20,
+        "weightedScore": 6.0,
+        "explanation": "CDF utilization is critically poor at only 30%, the lowest in the Copperbelt Province. Audit findings reveal that of the funds disbursed, a significant portion cannot be traced to completed physical projects. Community project reports have not been filed for two consecutive quarters, and constituents report seeing no tangible development from CDF allocations.",
+        "positiveFactors": [
+          "One borehole project in Wusakile ward was completed and is functional"
+        ],
+        "negativeFactors": [
+          "Only 30% of CDF allocation utilized, leaving K2.1 million unspent or unaccounted for",
+          "Audit trail missing for K650,000 in funds classified as disbursed but with no corresponding project deliverables",
+          "No community project reports filed for 2 consecutive quarters as required by CDF guidelines",
+          "Constituents in 6 wards report zero visible CDF-funded projects in 18 months",
+          "A school construction project in Mindolo ward was abandoned at slab level with paid contractor absconding"
+        ],
+        "improvementTips": [
+          "Subject all CDF accounts to an immediate independent forensic audit and publish the findings publicly",
+          "Disburse all remaining CDF allocations through a reconstituted constituency development committee with civil society oversight",
+          "Complete all abandoned and stalled projects as an urgent priority before initiating any new projects, with weekly progress reporting to the community"
+        ]
+      }
+    ],
+    "overallExplanation": "Hon. Christopher Kang'ombe's performance as MP for Kamfinsa is critically poor across all governance dimensions. With only 30% CDF utilization, ongoing Anti-Corruption Commission investigations, collapsed public trust at 40%, and serious procurement irregularities, his tenure represents a significant failure in constituency representation. Immediate corrective action is required including full cooperation with investigations, forensic auditing of CDF accounts, and transparent community engagement to address the severe deficit of trust and development delivery in Kamfinsa constituency.",
+    "topImprovementAreas": [
+      "Submit to an immediate independent forensic audit of all CDF accounts and publish findings",
+      "Cooperate fully with the Anti-Corruption Commission investigation and file complete, accurate asset declarations",
+      "Complete all stalled projects, implement transparent competitive procurement, and establish community oversight of all future CDF spending"
+    ]
+  }
+]

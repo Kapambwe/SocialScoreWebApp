@@ -1,0 +1,1316 @@
+[
+  {
+    "id": "SOEBM-001",
+    "name": "Chilufya Banda",
+    "role": "Board Member",
+    "organization": "ZESCO Limited",
+    "region": "Copperbelt Province",
+    "overallScore": 88,
+    "rating": "Good",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-10T08:00:00Z",
+    "enterpriseName": "ZESCO Limited",
+    "sector": "Energy",
+    "boardPosition": "Chairperson",
+    "appointmentDate": "2020-04-01",
+    "details": {
+      "governanceOversight": 90,
+      "fiduciaryResponsibility": 88,
+      "boardParticipation": 92,
+      "ethicalConductIndependence": 85,
+      "strategicContribution": 86
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Governance Oversight",
+        "score": 90,
+        "weight": 25,
+        "weightedScore": 22.5,
+        "explanation": "Chilufya Banda has provided exemplary governance oversight as Chairperson, ensuring that ZESCO's board operates with proper structure, accountability, and alignment with the State Enterprises Governance Act and the Corporate Governance Code for State-Owned Enterprises.",
+        "positiveFactors": [
+          "Chaired all four quarterly board meetings and both special sessions with full preparation and structured agendas",
+          "Established a board effectiveness evaluation program with independent facilitation conducted annually",
+          "Ensured all board committees have approved terms of reference reviewed annually"
+        ],
+        "negativeFactors": [
+          "Board succession planning not yet formalized despite two members approaching the end of their terms"
+        ],
+        "improvementTips": [
+          "Develop a formal board succession plan identifying required competencies and a staggered renewal timeline",
+          "Engage the Industrial Development Corporation on proactive board member recruitment to avoid governance gaps"
+        ]
+      },
+      {
+        "category": "Fiduciary Responsibility",
+        "score": 88,
+        "weight": 20,
+        "weightedScore": 17.6,
+        "explanation": "Strong fiduciary oversight demonstrated through active engagement with financial reports, approval of the annual budget, and oversight of the external audit process. Ensures that ZESCO's financial resources are managed in the public interest.",
+        "positiveFactors": [
+          "Personally reviews and challenges quarterly financial statements before board approval",
+          "Championed the establishment of a dedicated capital project oversight sub-committee for mega-projects",
+          "Ensured board approval of a revised procurement policy aligned with the Public Procurement Act 2020"
+        ],
+        "negativeFactors": [
+          "Board-approved risk appetite statement not yet updated to reflect ZESCO's expanded renewable energy portfolio",
+          "Delayed approval of the revised investment policy allowing temporary policy gaps during a critical capital deployment period"
+        ],
+        "improvementTips": [
+          "Update the board-approved risk appetite statement to explicitly address renewable energy project risks including construction, technology, and offtake risks",
+          "Establish a policy review calendar ensuring all major financial policies are reviewed and renewed before expiry"
+        ]
+      },
+      {
+        "category": "Board Participation",
+        "score": 92,
+        "weight": 20,
+        "weightedScore": 18.4,
+        "explanation": "Exceptional board participation record with 100% attendance at board and committee meetings, active contribution to deliberations, and effective facilitation of diverse viewpoints among board members.",
+        "positiveFactors": [
+          "100% attendance at all board and committee meetings over the entire tenure",
+          "Facilitated robust debate on the cost-reflective tariff application resulting in a well-considered board position",
+          "Regularly engages with management between meetings on emerging issues without undermining management authority"
+        ],
+        "negativeFactors": [
+          "Board meeting duration averaging 6 hours suggests potential for improved time management and agenda efficiency"
+        ],
+        "improvementTips": [
+          "Implement consent agenda procedures for routine items to focus board time on strategic and high-risk matters",
+          "Introduce pre-meeting briefing papers with clear decision requirements to streamline in-meeting deliberation"
+        ]
+      },
+      {
+        "category": "Ethical Conduct & Independence",
+        "score": 85,
+        "weight": 15,
+        "weightedScore": 12.75,
+        "explanation": "Maintains a strong ethical reputation with full compliance with the Leaders Code of Conduct under Chapter 2 of the Zambian Constitution. One historical association with a ZESCO supplier required disclosure and management through the conflict-of-interest register.",
+        "positiveFactors": [
+          "Full compliance with the Leaders Code of Conduct including timely asset and liability declarations",
+          "Voluntarily disclosed and recused from discussions involving a company where a family member holds a minority interest",
+          "Champion of the ZESCO whistleblower policy with visible support for anonymous reporting mechanisms"
+        ],
+        "negativeFactors": [
+          "Historical business association with a ZESCO fuel supplier required retrospective declaration and register entry",
+          "Perception of potential influence due to previous professional relationship with the current CEO appointed during her tenure as Chairperson"
+        ],
+        "improvementTips": [
+          "Commission an independent review of all related-party transactions during the period when the historical association was undisclosed",
+          "Establish a formal protocol for managing the Chairperson-CEO relationship including annual independent assessment of the working dynamic"
+        ]
+      },
+      {
+        "category": "Strategic Contribution",
+        "score": 86,
+        "weight": 20,
+        "weightedScore": 17.2,
+        "explanation": "Significant strategic contribution including guiding the development of ZESCO's 2025-2035 Corporate Strategy, the renewable energy diversification agenda, and the regional power trading framework under the Southern African Power Pool.",
+        "positiveFactors": [
+          "Led the board strategy retreat that produced ZESCO's 2025-2035 Corporate Strategy approved by the Minister of Energy",
+          "Championed the renewable energy diversification reducing ZESCO's hydroelectric dependence from 95% to 85% target",
+          "Facilitated board engagement with the Southern African Power Pool on regional power trading opportunities"
+        ],
+        "negativeFactors": [
+          "Board-level monitoring of strategy implementation milestones could be more systematic with formal quarterly tracking",
+          "Insufficient board attention to ZESCO's digital transformation agenda relative to its strategic importance"
+        ],
+        "improvementTips": [
+          "Implement a formal strategy implementation scorecard presented at every board meeting with RAG status indicators",
+          "Establish a board digital transformation sub-committee or designate a board member with specific digital oversight responsibilities"
+        ]
+      }
+    ],
+    "overallExplanation": "Chilufya Banda is an effective Chairperson who has strengthened ZESCO's governance framework, maintained exemplary board participation, and provided strategic direction during a critical period of energy sector transformation. The establishment of board effectiveness evaluations and capital project oversight mechanisms demonstrate proactive governance leadership. Areas for improvement include formalizing board succession planning, updating the risk appetite statement for the expanded renewable energy portfolio, and systematizing strategy implementation monitoring at board level.",
+    "topImprovementAreas": [
+      "Formalize board succession planning with a staggered renewal timeline and competency mapping",
+      "Update the risk appetite statement to address renewable energy portfolio risks",
+      "Implement a formal strategy implementation scorecard for systematic board-level monitoring"
+    ]
+  },
+  {
+    "id": "SOEBM-002",
+    "name": "Mubanga Chipimo",
+    "role": "Board Member",
+    "organization": "ZESCO Limited",
+    "region": "Lusaka Province",
+    "overallScore": 79,
+    "rating": "Good",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-10T08:00:00Z",
+    "enterpriseName": "ZESCO Limited",
+    "sector": "Energy",
+    "boardPosition": "Independent Director",
+    "appointmentDate": "2022-01-15",
+    "details": {
+      "governanceOversight": 78,
+      "fiduciaryResponsibility": 82,
+      "boardParticipation": 75,
+      "ethicalConductIndependence": 84,
+      "strategicContribution": 78
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Governance Oversight",
+        "score": 78,
+        "weight": 25,
+        "weightedScore": 19.5,
+        "explanation": "As an Independent Director and Chair of the Audit Committee, Mubanga Chipimo provides competent governance oversight with strong financial expertise. However, the transition from private sector governance norms to state-owned enterprise governance requirements has presented a learning curve.",
+        "positiveFactors": [
+          "Chairs the Audit Committee with professional competence as a Fellow of the Association of Chartered Certified Accountants",
+          "Introduced a structured audit finding follow-up process tracking management remediation of audit recommendations",
+          "Requested and obtained independent legal opinions on two complex related-party transactions"
+        ],
+        "negativeFactors": [
+          "Initial unfamiliarity with the State Enterprises Governance Act requirements required additional onboarding time",
+          "Audit Committee meeting minutes not consistently finalized within the 14-day target period"
+        ],
+        "improvementTips": [
+          "Complete the IDC-sponsored state-owned enterprise governance training program for new board appointees",
+          "Implement a standardized Audit Committee minutes template with mandatory sign-off within 14 days of each meeting"
+        ]
+      },
+      {
+        "category": "Fiduciary Responsibility",
+        "score": 82,
+        "weight": 20,
+        "weightedScore": 16.4,
+        "explanation": "Strong fiduciary awareness demonstrated through rigorous scrutiny of ZESCO's financial statements, challenging management on revenue recognition policies, and ensuring the external audit engagement is conducted independently.",
+        "positiveFactors": [
+          "Challenged management's revenue recognition treatment for a K200 million power purchase agreement resulting in a policy correction",
+          "Ensured external auditor independence by conducting a private session with auditors without management present at each Audit Committee meeting",
+          "Drove the implementation of a quarterly financial risk dashboard reporting directly to the board"
+        ],
+        "negativeFactors": [
+          "Did not formally challenge the approval of a K150 million supplementary budget despite concerns about cost justification",
+          "Limited engagement with the valuation methodology for ZESCO's infrastructure assets on the balance sheet"
+        ],
+        "improvementTips": [
+          "Exercise formal dissent mechanisms when concerns about significant financial decisions are not adequately addressed",
+          "Engage with the external valuers directly during the next infrastructure asset revaluation to understand and challenge key assumptions"
+        ]
+      },
+      {
+        "category": "Board Participation",
+        "score": 75,
+        "weight": 20,
+        "weightedScore": 15.0,
+        "explanation": "Board participation is adequate but affected by competing professional commitments. Attendance record shows 75% board meeting attendance and 83% Audit Committee attendance over the past year.",
+        "positiveFactors": [
+          "Provides well-prepared written inputs when unable to attend board meetings in person",
+          "Active contributor to Audit Committee discussions with deep financial expertise",
+          "Participated in the annual board strategy retreat and contributed financial modelling insights"
+        ],
+        "negativeFactors": [
+          "Missed 2 of 8 board meetings in the past year due to conflicting professional engagements",
+          "Attendance at 75% falls below the 80% minimum expected under the ZESCO board charter",
+          "Did not attend 1 of 6 Audit Committee meetings as Chair, requiring the vice-chair to preside"
+        ],
+        "improvementTips": [
+          "Review and reduce competing board commitments to ensure minimum 80% attendance at ZESCO board and committee meetings",
+          "Establish a personal calendar management protocol that prioritizes ZESCO board dates at least 12 months in advance"
+        ]
+      },
+      {
+        "category": "Ethical Conduct & Independence",
+        "score": 84,
+        "weight": 15,
+        "weightedScore": 12.6,
+        "explanation": "Maintains independence consistent with the Independent Director designation. No conflicts of interest identified and all declarations submitted on time. Professional reputation in the accounting profession supports credibility.",
+        "positiveFactors": [
+          "No conflicts of interest identified or declared during the entire tenure",
+          "Compliance with the independence criteria under the Corporate Governance Code for State-Owned Enterprises fully verified",
+          "Known for impartial and evidence-based contributions to board deliberations"
+        ],
+        "negativeFactors": [
+          "Serves on three other boards simultaneously which may compromise the time available for independent oversight of ZESCO",
+          "Has not undertaken any continuing professional development specific to the energy sector during the current year"
+        ],
+        "improvementTips": [
+          "Reduce the total number of concurrent board seats to a maximum of three including ZESCO to ensure adequate time commitment",
+          "Attend at least two energy sector conferences or training programs annually to deepen industry-specific knowledge"
+        ]
+      },
+      {
+        "category": "Strategic Contribution",
+        "score": 78,
+        "weight": 20,
+        "weightedScore": 15.6,
+        "explanation": "Strategic contribution is primarily financial in nature, bringing valuable perspectives on capital structure, financing strategy, and financial risk management. Broader strategic engagement on energy policy and operational matters could be strengthened.",
+        "positiveFactors": [
+          "Provided critical input on the optimal capital structure for ZESCO's K2.8 billion renewable energy financing",
+          "Recommended the establishment of a treasury management function resulting in improved cash management",
+          "Contributed analysis on tariff reform financial implications supporting the board's engagement with the Energy Regulation Board"
+        ],
+        "negativeFactors": [
+          "Strategic contributions concentrated in financial areas with limited engagement on operational and technology strategy",
+          "Did not actively participate in discussions on ZESCO's workforce transformation and skills development strategy"
+        ],
+        "improvementTips": [
+          "Broaden strategic engagement beyond financial matters by conducting facility visits to key ZESCO operations",
+          "Actively participate in board discussions on workforce transformation, digital strategy, and customer experience improvement"
+        ]
+      }
+    ],
+    "overallExplanation": "Mubanga Chipimo brings strong financial expertise to ZESCO's board as an Independent Director and Audit Committee Chair. His professional qualifications and rigorous approach to financial oversight add significant value. However, board participation has been affected by competing commitments resulting in below-threshold attendance. Broadening strategic contributions beyond financial matters and increasing sector-specific knowledge would enhance his overall effectiveness as a board member.",
+    "topImprovementAreas": [
+      "Improve board meeting attendance to meet the minimum 80% threshold by reducing competing board commitments",
+      "Broaden strategic engagement beyond financial matters to include operational, technology, and workforce strategy",
+      "Undertake energy sector continuing professional development to deepen industry-specific knowledge"
+    ]
+  },
+  {
+    "id": "SOEBM-003",
+    "name": "Namakau Mutemwa",
+    "role": "Board Member",
+    "organization": "Zambia Railways Limited",
+    "region": "Southern Province",
+    "overallScore": 62,
+    "rating": "Satisfactory",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-12T10:30:00Z",
+    "enterpriseName": "Zambia Railways Limited",
+    "sector": "Transport",
+    "boardPosition": "Chairperson",
+    "appointmentDate": "2021-08-01",
+    "details": {
+      "governanceOversight": 65,
+      "fiduciaryResponsibility": 58,
+      "boardParticipation": 70,
+      "ethicalConductIndependence": 60,
+      "strategicContribution": 55
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Governance Oversight",
+        "score": 65,
+        "weight": 25,
+        "weightedScore": 16.25,
+        "explanation": "Governance oversight at Zambia Railways has been challenging given the enterprise's severe financial distress, management instability, and the CEO conflict-of-interest matter that occurred under the board's watch. While governance structures are in place, their effectiveness has been questioned.",
+        "positiveFactors": [
+          "Maintained board meeting regularity with quarterly meetings held consistently despite organizational turbulence",
+          "Established an integrity committee to investigate and manage the CEO conflict-of-interest matter",
+          "Commissioned an independent governance review to identify systemic weaknesses in oversight mechanisms"
+        ],
+        "negativeFactors": [
+          "CEO conflict-of-interest matter was not detected through board oversight mechanisms and was instead revealed by media reporting",
+          "Board attendance averaged only 68% across the year, below the 80% governance code minimum",
+          "Audit Committee functioned without a qualified financial professional as Chair for six months due to a vacancy"
+        ],
+        "improvementTips": [
+          "Implement mandatory annual conflict-of-interest re-declarations for all executives with independent verification procedures",
+          "Enforce board attendance requirements and initiate replacement proceedings for chronically absent members through the IDC",
+          "Prioritize recruitment of a qualified financial professional to chair the Audit Committee as an urgent governance requirement"
+        ]
+      },
+      {
+        "category": "Fiduciary Responsibility",
+        "score": 58,
+        "weight": 20,
+        "weightedScore": 11.6,
+        "explanation": "Fiduciary oversight has been insufficient given the scale of financial distress at Zambia Railways. The board approved budgets that relied on government bailouts without sufficient challenge, and the going-concern qualification was not addressed with adequate urgency.",
+        "positiveFactors": [
+          "Board requested an independent forensic review of procurement transactions during the period of the CEO conflict of interest",
+          "Engaged proactively with the Ministry of Finance on a government support framework for the railway"
+        ],
+        "negativeFactors": [
+          "Approved an operating budget dependent on a K180 million government bailout without a credible plan to reduce subsidy dependence",
+          "Going-concern qualified audit opinion not addressed with a formal remediation plan for two consecutive years",
+          "Board did not challenge the K95 million in aged supplier payables or demand a creditor management strategy"
+        ],
+        "improvementTips": [
+          "Mandate management to present a credible going-concern remediation plan within 90 days for board approval and external auditor engagement",
+          "Require all future budgets to include a subsidy reduction trajectory with measurable milestones",
+          "Establish a creditor management policy requiring board reporting on all payables aged beyond 90 days"
+        ]
+      },
+      {
+        "category": "Board Participation",
+        "score": 70,
+        "weight": 20,
+        "weightedScore": 14.0,
+        "explanation": "Board participation as Chairperson has been consistent with good personal attendance. However, the overall board dynamics have been strained by the governance challenges and low collective attendance rates.",
+        "positiveFactors": [
+          "Personal attendance record of 88% at board meetings exceeding the minimum threshold",
+          "Convened two emergency board sessions to address the CEO conflict-of-interest matter promptly",
+          "Engaged individually with all board members to maintain cohesion during a difficult governance period"
+        ],
+        "negativeFactors": [
+          "Unable to secure consistent board attendance from all members, with 3 of 8 members averaging below 60% attendance",
+          "Board meetings sometimes lacked quorum at the scheduled start time requiring delayed commencement"
+        ],
+        "improvementTips": [
+          "Formally escalate the attendance issue to the IDC as the appointing authority with a recommendation to replace chronically absent members",
+          "Implement a board member performance agreement including minimum attendance and preparation requirements"
+        ]
+      },
+      {
+        "category": "Ethical Conduct & Independence",
+        "score": 60,
+        "weight": 15,
+        "weightedScore": 9.0,
+        "explanation": "While no personal ethical breaches have been identified, the Chairperson's credibility has been impacted by the failure to detect and prevent the CEO conflict-of-interest matter. The perception of inadequate oversight has drawn scrutiny from the Parliamentary Committee on Parastatal Bodies.",
+        "positiveFactors": [
+          "No personal conflicts of interest or ethical violations identified during tenure",
+          "Cooperated fully with the Parliamentary Committee on Parastatal Bodies inquiry",
+          "Personally reported the CEO matter to the Anti-Corruption Commission once it came to light"
+        ],
+        "negativeFactors": [
+          "Parliamentary Committee on Parastatal Bodies issued a formal rebuke for inadequate board oversight of executive conduct",
+          "Public perception of board effectiveness negatively impacted by media coverage of governance failures",
+          "Did not establish proactive executive conduct monitoring mechanisms until after the conflict-of-interest matter surfaced"
+        ],
+        "improvementTips": [
+          "Implement a comprehensive executive conduct monitoring framework including annual lifestyle audits for all senior executives",
+          "Engage a professional public relations firm to develop a stakeholder communication strategy addressing governance improvement actions",
+          "Establish regular engagement with the Parliamentary Committee on Parastatal Bodies to demonstrate ongoing governance commitment"
+        ]
+      },
+      {
+        "category": "Strategic Contribution",
+        "score": 55,
+        "weight": 20,
+        "weightedScore": 11.0,
+        "explanation": "Strategic contribution has been overshadowed by the need to manage governance crises and financial distress. While a turnaround strategy has been initiated, the board has been reactive rather than proactive in setting strategic direction for the railway's revival.",
+        "positiveFactors": [
+          "Initiated the development of a turnaround strategy in partnership with the IDC and Ministry of Transport",
+          "Advocated for inclusion of Zambia Railways in the national railway sector master plan being developed with African Development Bank support"
+        ],
+        "negativeFactors": [
+          "No comprehensive strategic plan approved by the board since appointment as Chairperson",
+          "Board has not provided strategic direction on the railway's role in the regional logistics corridor connecting Zambia to ports in Tanzania and Mozambique",
+          "Strategic discussions consumed by short-term crisis management rather than long-term transformation planning"
+        ],
+        "improvementTips": [
+          "Commission a comprehensive strategic review and plan development for Zambia Railways with a professional strategy consulting firm",
+          "Establish a board strategy committee to ensure dedicated time and focus on long-term strategic planning separate from crisis management",
+          "Engage with regional railway operators and corridor development bodies to position Zambia Railways in emerging logistics opportunities"
+        ]
+      }
+    ],
+    "overallExplanation": "Namakau Mutemwa has served as Chairperson of Zambia Railways during an exceptionally challenging period marked by financial distress, the CEO conflict-of-interest scandal, and Parliamentary scrutiny. While maintaining personal integrity and taking corrective action once issues surfaced, the governance failures that allowed the CEO matter to go undetected represent a significant shortcoming. The board's strategic agenda has been dominated by crisis management at the expense of long-term transformation planning. The most critical priorities are rebuilding governance credibility, developing a credible strategic turnaround plan, and addressing the going-concern audit qualification.",
+    "topImprovementAreas": [
+      "Implement executive conduct monitoring mechanisms including annual lifestyle audits to prevent future governance failures",
+      "Commission and approve a comprehensive strategic turnaround plan for Zambia Railways",
+      "Address the going-concern audit qualification with a formal remediation plan and engage proactively with external auditors"
+    ]
+  },
+  {
+    "id": "SOEBM-004",
+    "name": "Kalaba Mwansa",
+    "role": "Board Member",
+    "organization": "Zambia Railways Limited",
+    "region": "Lusaka Province",
+    "overallScore": 72,
+    "rating": "Satisfactory",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-12T10:30:00Z",
+    "enterpriseName": "Zambia Railways Limited",
+    "sector": "Transport",
+    "boardPosition": "Non-Executive Director",
+    "appointmentDate": "2022-03-01",
+    "details": {
+      "governanceOversight": 74,
+      "fiduciaryResponsibility": 72,
+      "boardParticipation": 78,
+      "ethicalConductIndependence": 70,
+      "strategicContribution": 68
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Governance Oversight",
+        "score": 74,
+        "weight": 25,
+        "weightedScore": 18.5,
+        "explanation": "As a Non-Executive Director and member of the Human Resources Committee, Kalaba Mwansa has provided reasonable governance oversight despite the challenging environment at Zambia Railways. Particular contribution has been in workforce governance and labour relations oversight.",
+        "positiveFactors": [
+          "Chaired the Human Resources Committee overseeing executive remuneration and workforce policies",
+          "Recommended the establishment of a formal executive performance management system with KPIs linked to the turnaround plan",
+          "Advocated for independent investigation of the CEO conflict-of-interest matter rather than internal management"
+        ],
+        "negativeFactors": [
+          "Did not escalate concerns about executive oversight gaps to the full board until the conflict-of-interest matter became public",
+          "Human Resources Committee met only twice during the year against a requirement of four quarterly meetings"
+        ],
+        "improvementTips": [
+          "Ensure the Human Resources Committee meets quarterly as required and establishes a rolling agenda covering all governance responsibilities",
+          "Develop a formal escalation protocol for governance concerns identified by individual board members or committees"
+        ]
+      },
+      {
+        "category": "Fiduciary Responsibility",
+        "score": 72,
+        "weight": 20,
+        "weightedScore": 14.4,
+        "explanation": "Fiduciary engagement is reasonable with active participation in budget discussions and monitoring of staff cost reduction initiatives. Understanding of the complex railway financial landscape is developing.",
+        "positiveFactors": [
+          "Actively challenged the staff cost ratio of 78% and proposed a workforce restructuring framework",
+          "Reviewed and provided input on the draft turnaround business plan financial projections",
+          "Raised concerns about the sustainability of government bailout dependence at multiple board meetings"
+        ],
+        "negativeFactors": [
+          "Limited financial expertise relative to the complexity of the railway's financial restructuring requirements",
+          "Did not formally request management action on the aged supplier payables reported in the financial statements"
+        ],
+        "improvementTips": [
+          "Undertake a financial acumen development program specifically covering public enterprise financial management and restructuring",
+          "Work closely with the Audit Committee Chair to ensure key financial concerns from the HR Committee are integrated into financial oversight"
+        ]
+      },
+      {
+        "category": "Board Participation",
+        "score": 78,
+        "weight": 20,
+        "weightedScore": 15.6,
+        "explanation": "Board participation is consistent with an 88% attendance record. Contributions are well-prepared and reflect genuine engagement with the board agenda items, particularly those relating to workforce and organizational development matters.",
+        "positiveFactors": [
+          "88% board meeting attendance rate exceeding the minimum 80% threshold",
+          "Prepares substantive written contributions for agenda items within area of expertise",
+          "Participated actively in both emergency board sessions called to address the CEO matter"
+        ],
+        "negativeFactors": [
+          "Contributions are primarily concentrated in HR and workforce matters with less engagement on financial and operational topics",
+          "Missed one critical board meeting where the supplementary budget was approved"
+        ],
+        "improvementTips": [
+          "Broaden preparation and contribution across all board agenda items, not only HR and workforce matters",
+          "Prioritize attendance at meetings where significant financial decisions are on the agenda"
+        ]
+      },
+      {
+        "category": "Ethical Conduct & Independence",
+        "score": 70,
+        "weight": 15,
+        "weightedScore": 10.5,
+        "explanation": "Ethical conduct is satisfactory with no personal conflicts identified. However, as a political appointee, perceptions of independence from government influence require active management.",
+        "positiveFactors": [
+          "No personal conflicts of interest identified or declared during tenure",
+          "All asset declarations filed with the Anti-Corruption Commission within statutory deadlines",
+          "Supported the board decision to report the CEO matter to the Anti-Corruption Commission"
+        ],
+        "negativeFactors": [
+          "Perceived proximity to the appointing political authority creates questions about independence on politically sensitive matters",
+          "Did not publicly challenge the government-directed hiring of 50 additional staff during a period of financial distress"
+        ],
+        "improvementTips": [
+          "Maintain a documented record of instances where independent judgment was exercised on matters involving government directives",
+          "Participate in governance training focused on maintaining independence as a Non-Executive Director in politically sensitive environments"
+        ]
+      },
+      {
+        "category": "Strategic Contribution",
+        "score": 68,
+        "weight": 20,
+        "weightedScore": 13.6,
+        "explanation": "Strategic contribution centres on workforce transformation and organizational development, bringing relevant expertise from a background in human resource management. Broader strategic engagement on commercial and infrastructure matters is limited.",
+        "positiveFactors": [
+          "Developed a comprehensive workforce transformation proposal including voluntary separation, retraining, and performance management components",
+          "Contributed strategic perspectives on the organizational design requirements for a modernized railway operation",
+          "Advocated for investment in employee safety training and occupational health programs"
+        ],
+        "negativeFactors": [
+          "Limited contribution to strategic discussions on commercial freight strategy, infrastructure investment priorities, and regional connectivity",
+          "Workforce transformation proposal not yet translated into a costed implementation plan for board approval"
+        ],
+        "improvementTips": [
+          "Translate the workforce transformation proposal into a fully costed implementation plan with timelines and measurable outcomes",
+          "Undertake familiarization visits to Zambia Railways operational sites to develop deeper understanding of the business for broader strategic contributions"
+        ]
+      }
+    ],
+    "overallExplanation": "Kalaba Mwansa is a committed Non-Executive Director who brings valuable workforce and organizational development expertise to Zambia Railways' board. His contribution to workforce governance and the development of a workforce transformation proposal addresses one of the railway's most critical challenges. However, strategic contribution is concentrated in HR matters, and the perception of limited independence as a political appointee requires active management. Broadening engagement across all aspects of the railway's business and strengthening financial acumen would enhance overall board effectiveness.",
+    "topImprovementAreas": [
+      "Broaden strategic engagement beyond HR matters to include commercial, financial, and infrastructure strategy",
+      "Complete the workforce transformation implementation plan with costings and measurable milestones",
+      "Strengthen financial acumen through targeted training in public enterprise financial management and restructuring"
+    ]
+  },
+  {
+    "id": "SOEBM-005",
+    "name": "Mutinta Simulota",
+    "role": "Board Member",
+    "organization": "Zambia Postal Services Corporation",
+    "region": "Lusaka Province",
+    "overallScore": 74,
+    "rating": "Satisfactory",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-14T14:00:00Z",
+    "enterpriseName": "Zambia Postal Services Corporation",
+    "sector": "Communications",
+    "boardPosition": "Non-Executive Director",
+    "appointmentDate": "2022-06-01",
+    "details": {
+      "governanceOversight": 76,
+      "fiduciaryResponsibility": 72,
+      "boardParticipation": 80,
+      "ethicalConductIndependence": 74,
+      "strategicContribution": 70
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Governance Oversight",
+        "score": 76,
+        "weight": 25,
+        "weightedScore": 19.0,
+        "explanation": "Mutinta Simulota provides solid governance oversight as a Non-Executive Director and member of the Risk and Compliance Committee. She has been instrumental in strengthening ZAMPOST's compliance framework for its expanding agency banking operations.",
+        "positiveFactors": [
+          "Led the Risk and Compliance Committee's review of ZAMPOST's agency banking risk management framework",
+          "Recommended the adoption of a formal compliance calendar for all regulatory obligations across PTRA, Bank of Zambia, and Universal Postal Union requirements",
+          "Ensured regular reporting to the board on the status of internal and external audit recommendations"
+        ],
+        "negativeFactors": [
+          "Risk and Compliance Committee terms of reference not updated to reflect ZAMPOST's expanded financial services activities",
+          "Board risk register does not adequately capture technology and cybersecurity risks associated with the digital transformation strategy"
+        ],
+        "improvementTips": [
+          "Update the Risk and Compliance Committee terms of reference to explicitly cover agency banking, e-commerce, and digital transformation risks",
+          "Commission a cybersecurity risk assessment and ensure technology risks are prominently featured in the enterprise risk register"
+        ]
+      },
+      {
+        "category": "Fiduciary Responsibility",
+        "score": 72,
+        "weight": 20,
+        "weightedScore": 14.4,
+        "explanation": "Fiduciary engagement demonstrates care for ZAMPOST's financial resources though the complexity of the transformation from postal operator to diversified logistics and financial services company presents oversight challenges.",
+        "positiveFactors": [
+          "Challenged management's proposal for a K50 million head office renovation requesting a cost-benefit analysis first",
+          "Requested independent verification of the agency banking trust fund compliance with Bank of Zambia requirements",
+          "Advocated for quarterly reporting on branch-level profitability to support network rationalization decisions"
+        ],
+        "negativeFactors": [
+          "Did not challenge the approval of operating expenditure for 42 loss-making post offices without a rationalization plan",
+          "Limited engagement with the legacy tax arrears settlement strategy and its financial implications"
+        ],
+        "improvementTips": [
+          "Require management to present a formal post office network rationalization business case for board consideration within six months",
+          "Engage actively with the legacy tax arrears settlement to understand the financial impact and ensure adequate provisioning"
+        ]
+      },
+      {
+        "category": "Board Participation",
+        "score": 80,
+        "weight": 20,
+        "weightedScore": 16.0,
+        "explanation": "Board participation is consistent and well-prepared. Contributes effectively to discussions particularly on risk management, compliance, and organizational transformation matters.",
+        "positiveFactors": [
+          "85% attendance record at board and committee meetings",
+          "Consistently provides written input on agenda items in advance of meetings facilitating focused discussions",
+          "Actively participated in the board workshop on ZAMPOST's five-year transformation strategy"
+        ],
+        "negativeFactors": [
+          "Board meeting contributions occasionally focus on operational details rather than strategic governance-level oversight",
+          "Did not attend the annual board strategy retreat due to a scheduling conflict"
+        ],
+        "improvementTips": [
+          "Maintain governance-level focus in board discussions, raising operational concerns through committee channels rather than full board meetings",
+          "Prioritize attendance at annual strategy retreats as they are among the most consequential governance events"
+        ]
+      },
+      {
+        "category": "Ethical Conduct & Independence",
+        "score": 74,
+        "weight": 15,
+        "weightedScore": 11.1,
+        "explanation": "Ethical conduct is satisfactory with full compliance with declaration requirements. Independence is maintained though external perception is affected by a previous consultancy engagement with ZAMPOST prior to board appointment.",
+        "positiveFactors": [
+          "All conflict-of-interest and asset declarations submitted on time and verified",
+          "No related-party transactions identified during tenure",
+          "Disclosed the previous consultancy engagement during the board appointment process and obtained clearance from the IDC"
+        ],
+        "negativeFactors": [
+          "Previous consultancy engagement with ZAMPOST on postal sector reform creates a perceived independence question despite formal clearance",
+          "Social media activity related to ZAMPOST could be perceived as advocacy rather than independent oversight"
+        ],
+        "improvementTips": [
+          "Maintain clear boundaries between personal social media commentary and the board oversight role",
+          "Document and present the previous consultancy engagement disclosure process to ensure transparency with all stakeholders"
+        ]
+      },
+      {
+        "category": "Strategic Contribution",
+        "score": 70,
+        "weight": 20,
+        "weightedScore": 14.0,
+        "explanation": "Strategic contribution reflects expertise in risk management and regulatory compliance, providing valuable perspectives on the risk dimensions of ZAMPOST's transformation strategy. Broader commercial strategic input is developing.",
+        "positiveFactors": [
+          "Provided critical risk assessment input to the five-year transformation strategy identifying 12 key risk factors requiring mitigation plans",
+          "Recommended the establishment of a change management program to support the workforce through organizational transformation",
+          "Contributed strategic perspectives on regulatory requirements for ZAMPOST's planned e-commerce logistics expansion"
+        ],
+        "negativeFactors": [
+          "Limited contribution to revenue diversification strategy discussions and commercial partnership evaluation",
+          "No engagement with the commodity exchange feasibility study being considered as a ZAMPOST service diversification opportunity"
+        ],
+        "improvementTips": [
+          "Develop knowledge of e-commerce logistics business models through benchmarking with international postal operators that have successfully diversified",
+          "Engage with the commodity exchange feasibility study to assess the risk and compliance dimensions of this diversification opportunity"
+        ]
+      }
+    ],
+    "overallExplanation": "Mutinta Simulota is a competent Non-Executive Director who brings valuable risk management and compliance expertise to ZAMPOST's board during a critical transformation period. Her contribution to strengthening the agency banking risk framework and regulatory compliance processes addresses key governance needs. Areas for improvement include broadening strategic engagement into commercial and revenue diversification discussions, updating committee terms of reference for the expanded scope of ZAMPOST's activities, and managing perceptions related to the prior consultancy engagement.",
+    "topImprovementAreas": [
+      "Update Risk and Compliance Committee terms of reference to cover all expanded business activities including agency banking and e-commerce",
+      "Broaden strategic contribution to include revenue diversification and commercial partnership evaluation",
+      "Commission a cybersecurity risk assessment and integrate technology risks into the enterprise risk register"
+    ]
+  },
+  {
+    "id": "SOEBM-006",
+    "name": "Lubinda Habasonda",
+    "role": "Board Member",
+    "organization": "ZAMTEL",
+    "region": "Lusaka Province",
+    "overallScore": 82,
+    "rating": "Good",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-16T09:15:00Z",
+    "enterpriseName": "ZAMTEL",
+    "sector": "Telecommunications",
+    "boardPosition": "Independent Director",
+    "appointmentDate": "2021-02-15",
+    "details": {
+      "governanceOversight": 84,
+      "fiduciaryResponsibility": 80,
+      "boardParticipation": 86,
+      "ethicalConductIndependence": 82,
+      "strategicContribution": 80
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Governance Oversight",
+        "score": 84,
+        "weight": 25,
+        "weightedScore": 21.0,
+        "explanation": "Lubinda Habasonda provides strong governance oversight as an Independent Director and Chair of the Technology and Innovation Committee. His technology sector expertise has been instrumental in strengthening board oversight of ZAMTEL's digital transformation and network investment decisions.",
+        "positiveFactors": [
+          "Established the Technology and Innovation Committee as a formal board committee with approved terms of reference",
+          "Implemented a structured technology investment approval framework requiring business case presentation for all projects exceeding K20 million",
+          "Championed the adoption of cybersecurity governance standards aligned with the NIST framework"
+        ],
+        "negativeFactors": [
+          "Technology and Innovation Committee recommendations sometimes lack formal follow-up mechanisms to track management implementation",
+          "Board oversight of mobile money technology platform risks could be more systematic given the rapid growth of this service"
+        ],
+        "improvementTips": [
+          "Implement a formal recommendation tracking system for all Technology and Innovation Committee decisions with quarterly progress reporting",
+          "Establish dedicated board-level oversight of mobile money technology platform risks including vendor management and system resilience"
+        ]
+      },
+      {
+        "category": "Fiduciary Responsibility",
+        "score": 80,
+        "weight": 20,
+        "weightedScore": 16.0,
+        "explanation": "Fiduciary oversight is competent with active engagement in reviewing technology capital expenditure proposals, vendor contracts, and the financial performance of ZAMTEL's digital services. Understanding of broader financial matters has strengthened through experience.",
+        "positiveFactors": [
+          "Challenged the K500 million 4G network rollout contract terms and secured improved performance guarantees from the vendor",
+          "Requested independent technical due diligence on the mobile money platform upgrade before board approval",
+          "Contributed to the review of ZAMTEL's interconnect agreements ensuring fair revenue sharing arrangements"
+        ],
+        "negativeFactors": [
+          "Limited engagement with ZAMTEL's overall balance sheet management and working capital challenges",
+          "Did not formally challenge the capital expenditure overrun of 22% on the 4G network rollout"
+        ],
+        "improvementTips": [
+          "Engage more actively with the Audit Committee outputs to develop a broader understanding of ZAMTEL's financial position",
+          "Establish technology capital expenditure monitoring protocols with milestone-based approval gates to prevent cost overruns"
+        ]
+      },
+      {
+        "category": "Board Participation",
+        "score": 86,
+        "weight": 20,
+        "weightedScore": 17.2,
+        "explanation": "Excellent board participation with consistent attendance and well-prepared contributions. Brings a unique technology perspective that enriches board deliberations on ZAMTEL's competitive positioning and innovation agenda.",
+        "positiveFactors": [
+          "92% attendance at board and committee meetings, well above the minimum threshold",
+          "Regularly provides industry benchmarking data and technology trend analysis to inform board discussions",
+          "Facilitated a board education session on 5G technology implications and investment requirements"
+        ],
+        "negativeFactors": [
+          "Occasionally dominates technology discussions, potentially limiting contributions from other board members on technology matters"
+        ],
+        "improvementTips": [
+          "Adopt a facilitative approach in technology discussions, actively soliciting diverse perspectives from non-technical board members",
+          "Provide pre-meeting technology briefing notes to enable more informed participation from all board members"
+        ]
+      },
+      {
+        "category": "Ethical Conduct & Independence",
+        "score": 82,
+        "weight": 15,
+        "weightedScore": 12.3,
+        "explanation": "Independence is well-maintained with transparent disclosure of all professional relationships. Technology sector consulting background requires ongoing vigilance regarding potential conflicts with ZAMTEL's technology vendors.",
+        "positiveFactors": [
+          "Proactively disclosed all professional relationships with technology companies prior to board appointment and annually thereafter",
+          "Recused from a board discussion involving a vendor where a former business associate held a senior position",
+          "Annual independence declaration confirmed by the board governance committee"
+        ],
+        "negativeFactors": [
+          "Technology consulting background creates an ongoing perception risk regarding relationships with ZAMTEL's international technology vendors",
+          "Provided informal technology advice to management between board meetings which could blur the governance boundary"
+        ],
+        "improvementTips": [
+          "Formalize any technology advisory engagement between board meetings through documented requests and responses to maintain governance boundaries",
+          "Maintain an updated conflict-of-interest register entry listing all current and former technology vendor relationships"
+        ]
+      },
+      {
+        "category": "Strategic Contribution",
+        "score": 80,
+        "weight": 20,
+        "weightedScore": 16.0,
+        "explanation": "Strong strategic contribution in technology and innovation domains, providing valuable input on ZAMTEL's network investment strategy, digital services roadmap, and competitive positioning against MTN and Airtel.",
+        "positiveFactors": [
+          "Co-authored the board position paper on ZAMTEL's 5G spectrum allocation strategy submitted to ZICTA",
+          "Contributed strategic analysis on ZAMTEL's competitive positioning recommending a focus on underserved rural markets as a differentiation strategy",
+          "Guided the board's evaluation of potential strategic technology partnerships for mobile money platform enhancement"
+        ],
+        "negativeFactors": [
+          "Strategic input concentrated on technology matters with limited contribution to discussions on regulatory strategy, organizational culture, and stakeholder management",
+          "No engagement with ZAMTEL's customer experience strategy which is increasingly technology-driven"
+        ],
+        "improvementTips": [
+          "Actively contribute to board discussions on customer experience strategy given its strong technology dimensions",
+          "Develop perspectives on the regulatory and policy environment to complement technology expertise in board deliberations"
+        ]
+      }
+    ],
+    "overallExplanation": "Lubinda Habasonda is a valuable Independent Director whose technology sector expertise significantly strengthens ZAMTEL's board governance. The establishment of the Technology and Innovation Committee and the introduction of structured technology investment approval processes are notable governance improvements. His participation record is excellent and contributions are well-prepared. Key areas for development include broadening strategic engagement beyond technology matters, strengthening oversight of mobile money platform risks, and maintaining clear governance boundaries in his advisory interactions with management.",
+    "topImprovementAreas": [
+      "Broaden strategic contribution beyond technology to include regulatory strategy, customer experience, and organizational matters",
+      "Establish dedicated board-level oversight of mobile money technology platform risks",
+      "Formalize any advisory interactions with management between board meetings to maintain clear governance boundaries"
+    ]
+  },
+  {
+    "id": "SOEBM-007",
+    "name": "Wezi Kaunda",
+    "role": "Board Member",
+    "organization": "ZAMTEL",
+    "region": "Copperbelt Province",
+    "overallScore": 70,
+    "rating": "Satisfactory",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-16T09:15:00Z",
+    "enterpriseName": "ZAMTEL",
+    "sector": "Telecommunications",
+    "boardPosition": "Non-Executive Director",
+    "appointmentDate": "2023-05-01",
+    "details": {
+      "governanceOversight": 68,
+      "fiduciaryResponsibility": 70,
+      "boardParticipation": 72,
+      "ethicalConductIndependence": 74,
+      "strategicContribution": 66
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Governance Oversight",
+        "score": 68,
+        "weight": 25,
+        "weightedScore": 17.0,
+        "explanation": "As a relatively new Non-Executive Director, Wezi Kaunda is still developing her governance effectiveness at ZAMTEL. Initial contributions have been concentrated in the Audit Committee where her legal background provides useful perspectives on regulatory compliance and corporate governance matters.",
+        "positiveFactors": [
+          "Brings valuable legal expertise to Audit Committee discussions on regulatory compliance and corporate governance",
+          "Raised concerns about the adequacy of ZAMTEL's data protection policies under the Data Protection Act 2021",
+          "Requested a review of ZAMTEL's litigation register and contingent liability provisions"
+        ],
+        "negativeFactors": [
+          "Limited understanding of telecommunications sector technical and operational governance requirements in the early period of tenure",
+          "Governance contributions occasionally reference private sector governance norms that may not directly apply to state-owned enterprises"
+        ],
+        "improvementTips": [
+          "Complete the IDC state-owned enterprise governance induction program within the next quarter",
+          "Request a comprehensive briefing from ZAMTEL management on telecommunications sector regulatory framework and technical operations"
+        ]
+      },
+      {
+        "category": "Fiduciary Responsibility",
+        "score": 70,
+        "weight": 20,
+        "weightedScore": 14.0,
+        "explanation": "Fiduciary engagement is developing with a legal perspective that adds value to the review of major contracts, litigation exposure, and regulatory risk assessment. Financial oversight capabilities are growing through Audit Committee participation.",
+        "positiveFactors": [
+          "Provided detailed legal review of a K300 million network equipment supply contract identifying unfavorable penalty clauses",
+          "Raised the need for adequate provisioning for the K45 million spectrum licence tax dispute based on legal risk assessment",
+          "Requested disclosure of all pending litigation and regulatory proceedings in quarterly board reports"
+        ],
+        "negativeFactors": [
+          "Financial analysis capabilities still developing, limiting the depth of challenge on financial performance reports",
+          "Did not engage with the working capital management challenges highlighted in the financial statements"
+        ],
+        "improvementTips": [
+          "Undertake financial literacy training specifically covering telecommunications industry financial metrics and KPIs",
+          "Partner with the Audit Committee Chair to develop a deeper understanding of ZAMTEL's financial position and key financial risks"
+        ]
+      },
+      {
+        "category": "Board Participation",
+        "score": 72,
+        "weight": 20,
+        "weightedScore": 14.4,
+        "explanation": "Board participation shows positive engagement patterns though contributions are primarily in areas of legal and compliance expertise. Attendance is satisfactory and preparation is evident.",
+        "positiveFactors": [
+          "82% attendance at board and committee meetings, meeting the minimum threshold",
+          "Contributes detailed written observations on legal and compliance aspects of board agenda items",
+          "Participated actively in the board's review of ZAMTEL's governance framework and board charter revision"
+        ],
+        "negativeFactors": [
+          "Contributions are heavily concentrated in legal matters with limited engagement on commercial, technical, and operational topics",
+          "Attendance dipped in the second half of the year due to a personal legal practice caseload increase"
+        ],
+        "improvementTips": [
+          "Consciously broaden board meeting contributions to include observations and questions on commercial and operational matters",
+          "Manage external professional commitments to ensure consistent board attendance throughout the year"
+        ]
+      },
+      {
+        "category": "Ethical Conduct & Independence",
+        "score": 74,
+        "weight": 15,
+        "weightedScore": 11.1,
+        "explanation": "Ethical conduct is exemplary with full transparency in all declarations and a strong professional reputation in the legal community. Independence as a Non-Executive Director is appropriately maintained.",
+        "positiveFactors": [
+          "Comprehensive conflict-of-interest declarations submitted proactively covering personal legal practice client relationships",
+          "No conflicts identified between personal legal practice clients and ZAMTEL's business relationships",
+          "Actively advocates for ethical standards in board discussions and supported the strengthening of ZAMTEL's whistleblower policy"
+        ],
+        "negativeFactors": [
+          "Dual role as a practising lawyer and board member requires ongoing vigilance to prevent any future conflicts of interest",
+          "Has not completed the recommended annual declaration update during the most recent cycle"
+        ],
+        "improvementTips": [
+          "Submit the annual conflict-of-interest declaration update promptly and establish a personal reminder system",
+          "Implement a personal quarterly review of legal practice client relationships against ZAMTEL's vendor and partner register"
+        ]
+      },
+      {
+        "category": "Strategic Contribution",
+        "score": 66,
+        "weight": 20,
+        "weightedScore": 13.2,
+        "explanation": "Strategic contribution is nascent, primarily focused on legal and regulatory strategy dimensions. The relatively short tenure means strategic understanding of the telecommunications landscape is still developing.",
+        "positiveFactors": [
+          "Contributed strategic legal perspectives on ZAMTEL's regulatory engagement strategy with ZICTA",
+          "Provided input on the legal framework requirements for ZAMTEL's planned fintech subsidiary establishment",
+          "Raised strategic implications of the Data Protection Act 2021 for ZAMTEL's customer data monetization opportunities"
+        ],
+        "negativeFactors": [
+          "No contribution to strategic discussions on network investment priorities, competitive positioning, or revenue growth strategy",
+          "Has not participated in any telecommunications industry events or training since board appointment"
+        ],
+        "improvementTips": [
+          "Attend key telecommunications industry events such as the ZICTA annual conference and GSMA regional forums",
+          "Develop a personal learning plan covering telecommunications industry dynamics, technology trends, and competitive landscape"
+        ]
+      }
+    ],
+    "overallExplanation": "Wezi Kaunda is a developing board member whose legal expertise adds value to ZAMTEL's governance, particularly in contract review, regulatory compliance, and data protection matters. As a relatively new appointee, she is still building sector knowledge and broadening her contribution beyond legal matters. The most impactful improvement would be accelerating telecommunications sector learning through industry events and management briefings, combined with financial literacy development to strengthen overall board effectiveness.",
+    "topImprovementAreas": [
+      "Accelerate telecommunications sector knowledge development through industry events, management briefings, and sector-specific training",
+      "Broaden board contributions beyond legal matters to include commercial, operational, and technology strategy topics",
+      "Develop financial literacy specific to telecommunications industry metrics and KPIs"
+    ]
+  },
+  {
+    "id": "SOEBM-008",
+    "name": "Kampamba Mulenga",
+    "role": "Board Member",
+    "organization": "Industrial Development Corporation",
+    "region": "Lusaka Province",
+    "overallScore": 93,
+    "rating": "Excellent",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-18T11:00:00Z",
+    "enterpriseName": "Industrial Development Corporation",
+    "sector": "Investment & Development Finance",
+    "boardPosition": "Chairperson",
+    "appointmentDate": "2019-01-15",
+    "details": {
+      "governanceOversight": 95,
+      "fiduciaryResponsibility": 92,
+      "boardParticipation": 96,
+      "ethicalConductIndependence": 90,
+      "strategicContribution": 94
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Governance Oversight",
+        "score": 95,
+        "weight": 25,
+        "weightedScore": 23.75,
+        "explanation": "Kampamba Mulenga has established IDC as the gold standard for state-owned enterprise governance in Zambia. Under his chairmanship, the IDC board governance framework has been recognized by the African Peer Review Mechanism as a best practice example for the continent.",
+        "positiveFactors": [
+          "IDC board governance framework recognized by the African Peer Review Mechanism as a continental best practice",
+          "Implemented a comprehensive board effectiveness evaluation program with independent assessment and published improvement plans",
+          "Established a governance standards cascade requiring all IDC portfolio companies to adopt minimum governance standards within two years",
+          "Board committee structure covers all key governance domains: Audit, Risk, Investment, HR and Remuneration, and Social and Ethics"
+        ],
+        "negativeFactors": [
+          "Board governance standards cascade to portfolio companies has achieved compliance in only 22 of 35 portfolio companies to date"
+        ],
+        "improvementTips": [
+          "Accelerate governance standards adoption in the remaining 13 portfolio companies by deploying dedicated governance advisors from the IDC corporate governance unit",
+          "Publish an annual IDC Group Governance Report benchmarking all portfolio companies against the minimum governance standards"
+        ]
+      },
+      {
+        "category": "Fiduciary Responsibility",
+        "score": 92,
+        "weight": 20,
+        "weightedScore": 18.4,
+        "explanation": "Exceptional fiduciary stewardship with rigorous oversight of IDC's K28 billion investment portfolio. The establishment of a formal investment approval framework with clear delegated authorities and post-investment monitoring demonstrates exemplary fiduciary practice.",
+        "positiveFactors": [
+          "Established a formal investment approval framework with board-level approval required for investments exceeding K500 million",
+          "Post-investment monitoring program tracks financial and developmental performance of all portfolio investments quarterly",
+          "Oversaw the successful issuance of IDC's K5 billion corporate bond with appropriate governance approvals and risk assessment",
+          "Required independent fairness opinions for all acquisitions and disposals exceeding K100 million"
+        ],
+        "negativeFactors": [
+          "Two portfolio company investments underperformed projections by over 40% without timely board escalation of performance concerns"
+        ],
+        "improvementTips": [
+          "Establish automatic board escalation triggers when portfolio company performance deviates beyond 25% of projection for two consecutive quarters",
+          "Conduct a lessons-learned review of the underperforming investments to strengthen the investment due diligence process"
+        ]
+      },
+      {
+        "category": "Board Participation",
+        "score": 96,
+        "weight": 20,
+        "weightedScore": 19.2,
+        "explanation": "Outstanding board participation setting the standard for all board members. 100% attendance record combined with thorough preparation, effective facilitation of board deliberations, and strong engagement with management between meetings.",
+        "positiveFactors": [
+          "100% attendance at all board and committee meetings for the entire tenure as Chairperson",
+          "Conducts individual pre-meeting consultations with board members to ensure all perspectives are heard and agendas are appropriate",
+          "Facilitated the annual board strategy retreat that produced IDC's acclaimed 2025-2035 investment strategy",
+          "Maintains regular but appropriately bounded engagement with the CEO ensuring management accountability without overreach"
+        ],
+        "negativeFactors": [
+          "The high standard of preparation and participation set by the Chairperson can create an implicit pressure that may inhibit newer board members from contributing"
+        ],
+        "improvementTips": [
+          "Implement structured mentoring of newer board members to build their confidence and contribution levels",
+          "Actively create space in board discussions for less experienced members to contribute by specifically inviting their perspectives"
+        ]
+      },
+      {
+        "category": "Ethical Conduct & Independence",
+        "score": 90,
+        "weight": 15,
+        "weightedScore": 13.5,
+        "explanation": "Exemplary ethical conduct with a distinguished reputation for integrity in both professional and public life. Comprehensive asset declarations, transparent conflict management, and visible commitment to ethical standards across the IDC group.",
+        "positiveFactors": [
+          "Comprehensive asset and interest declarations filed proactively, exceeding the statutory minimum requirements",
+          "Championed the IDC Group Ethics Charter which has been adopted as a model by other SOEs",
+          "Voluntarily recused from two investment decisions where potential conflicts were identified, setting a strong tone at the top",
+          "Active participant in the national corporate governance reform dialogue as a recognized thought leader"
+        ],
+        "negativeFactors": [
+          "Multiple concurrent public roles including membership on government advisory committees create potential time and attention conflicts"
+        ],
+        "improvementTips": [
+          "Conduct a periodic review of concurrent public roles to ensure they do not create real or perceived conflicts or compromise time commitment to IDC",
+          "Formalize the process for managing advisory committee engagements to ensure transparency with the IDC board"
+        ]
+      },
+      {
+        "category": "Strategic Contribution",
+        "score": 94,
+        "weight": 20,
+        "weightedScore": 18.8,
+        "explanation": "Exceptional strategic contribution as the architect of IDC's transformation from a passive holding company to an active investment catalyst for national economic development. The 2025-2035 investment strategy has been widely praised for balancing commercial returns with developmental impact.",
+        "positiveFactors": [
+          "Led the development of IDC's 2025-2035 investment strategy aligned with the Eighth National Development Plan and Vision 2030",
+          "Guided IDC's expansion into regional investments in Tanzania and the DRC, diversifying the portfolio geographically",
+          "Championed the establishment of IDC's innovation fund supporting early-stage Zambian technology companies",
+          "Facilitated strategic partnerships with international development finance institutions including the IFC, CDC, and AfDB"
+        ],
+        "negativeFactors": [
+          "Strategic diversification into agriculture value chains and tourism sectors progressing slower than the approved strategy timeline"
+        ],
+        "improvementTips": [
+          "Establish a dedicated agriculture and tourism investment team to accelerate diversification into these priority sectors",
+          "Conduct a mid-strategy review to assess progress against the 2025-2035 investment strategy milestones and recalibrate where necessary"
+        ]
+      }
+    ],
+    "overallExplanation": "Kampamba Mulenga is an outstanding Chairperson whose governance leadership has positioned IDC as the benchmark for state-owned enterprise governance in Zambia and the broader African continent. His combination of strategic vision, fiduciary rigour, ethical leadership, and unmatched board participation creates an exceptional governance profile. The IDC's growth from K15 billion to K28 billion in portfolio value under his chairmanship reflects the effectiveness of the governance and strategic frameworks he has established. The primary improvement opportunity is accelerating the governance standards cascade across all 35 portfolio companies and the portfolio diversification into agriculture and tourism sectors.",
+    "topImprovementAreas": [
+      "Accelerate governance standards adoption in the remaining 13 portfolio companies that have not yet achieved minimum compliance",
+      "Fast-track portfolio diversification into agriculture value chains and tourism aligned with the 2025-2035 strategy",
+      "Establish automatic escalation triggers for portfolio company performance deviations to enable earlier board intervention"
+    ]
+  },
+  {
+    "id": "SOEBM-009",
+    "name": "Chilekwa Nkole",
+    "role": "Board Member",
+    "organization": "Food Reserve Agency",
+    "region": "Central Province",
+    "overallScore": 65,
+    "rating": "Satisfactory",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-20T15:30:00Z",
+    "enterpriseName": "Food Reserve Agency",
+    "sector": "Agriculture & Food Security",
+    "boardPosition": "Non-Executive Director",
+    "appointmentDate": "2022-11-01",
+    "details": {
+      "governanceOversight": 66,
+      "fiduciaryResponsibility": 62,
+      "boardParticipation": 70,
+      "ethicalConductIndependence": 68,
+      "strategicContribution": 60
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Governance Oversight",
+        "score": 66,
+        "weight": 25,
+        "weightedScore": 16.5,
+        "explanation": "Governance oversight at the Food Reserve Agency is complicated by the political dimension of food security operations and the tension between government policy directives and sound corporate governance. Chilekwa Nkole has contributed to governance improvement efforts but progress has been slow.",
+        "positiveFactors": [
+          "Advocated for the establishment of a formal governance framework aligned with the Food Reserve Act and the State Enterprises Governance Act",
+          "Contributed to the development of terms of reference for the newly established Audit and Risk Committee",
+          "Raised governance concerns about the practice of government-directed procurement decisions bypassing normal board approval processes"
+        ],
+        "negativeFactors": [
+          "Board governance framework still not formally approved after 18 months of development",
+          "Government-directed maize purchases continue to bypass board-approved procurement policies without formal board challenge",
+          "Board meeting agendas dominated by operational matters rather than strategic governance oversight"
+        ],
+        "improvementTips": [
+          "Escalate the board governance framework for formal approval within the next board meeting cycle",
+          "Advocate for a formal protocol governing the board's response to government policy directives, including documentation and risk assessment requirements",
+          "Restructure board meeting agendas to allocate at least 60% of time to strategic and governance matters"
+        ]
+      },
+      {
+        "category": "Fiduciary Responsibility",
+        "score": 62,
+        "weight": 20,
+        "weightedScore": 12.4,
+        "explanation": "Fiduciary oversight is challenged by the inherent financial tensions in FRA's operating model, where government-directed above-market grain purchases create structural losses. Board-level financial oversight needs strengthening.",
+        "positiveFactors": [
+          "Requested a detailed financial impact analysis of the government-directed maize pricing policy for board consideration",
+          "Challenged management on the 8% grain storage losses and requested an action plan for loss reduction",
+          "Advocated for quarterly reporting on depot-level financial performance"
+        ],
+        "negativeFactors": [
+          "Board approved the annual budget without adequate challenge of the 25% contingency for emergency grain purchases despite historical pattern of overruns",
+          "Did not demand a formal plan for resolving the K25 million NAPSA contribution arrears inherited from prior management",
+          "Limited engagement with the qualified audit opinion and its implications for FRA's financial credibility"
+        ],
+        "improvementTips": [
+          "Require a formal NAPSA arrears resolution plan as a standing board agenda item until fully settled",
+          "Engage directly with the external auditors through the Audit Committee to understand the path to resolving the qualified audit opinion",
+          "Demand more rigorous budget challenge including stress testing of key assumptions before board approval"
+        ]
+      },
+      {
+        "category": "Board Participation",
+        "score": 70,
+        "weight": 20,
+        "weightedScore": 14.0,
+        "explanation": "Board participation is consistent with regular attendance and genuine engagement with agenda items. Agricultural sector expertise provides useful perspectives on operational and strategic matters.",
+        "positiveFactors": [
+          "83% attendance at board meetings, meeting the minimum threshold",
+          "Provides valuable agricultural sector expertise informed by prior experience as a provincial agricultural coordinator",
+          "Actively participates in depot inspection visits, visiting 8 of 45 depots during the year"
+        ],
+        "negativeFactors": [
+          "Contributions are primarily operational in nature, reflecting agricultural technical expertise rather than governance-level strategic input",
+          "Attendance at Audit and Risk Committee meetings lower at 67%, below the expected minimum"
+        ],
+        "improvementTips": [
+          "Improve Audit and Risk Committee attendance to at least 80% and prepare specifically for financial oversight agenda items",
+          "Elevate contributions from operational-level observations to governance-level strategic recommendations"
+        ]
+      },
+      {
+        "category": "Ethical Conduct & Independence",
+        "score": 68,
+        "weight": 15,
+        "weightedScore": 10.2,
+        "explanation": "Ethical conduct is generally satisfactory though the appointment process and previous government employment create perceived independence limitations. Asset declarations are filed but personal farming interests require careful conflict management.",
+        "positiveFactors": [
+          "All conflict-of-interest declarations submitted including disclosure of personal farming operations in Central Province",
+          "Recused from board discussions on grain purchasing in Central Province where personal farming operations are located",
+          "No ethical complaints or integrity concerns raised during tenure"
+        ],
+        "negativeFactors": [
+          "Personal farming operations in Central Province, a key FRA purchasing district, create ongoing perceived conflict of interest",
+          "Previous government employment in the Ministry of Agriculture raises questions about independence from government policy direction",
+          "Conflict management protocol for the farming interest relies on self-declaration without independent verification"
+        ],
+        "improvementTips": [
+          "Request independent verification that personal farming operations have not directly or indirectly benefited from FRA purchasing decisions",
+          "Establish a documented protocol for managing the farming interest conflict including annual independent review",
+          "Clearly demonstrate independence from government policy direction through documented instances of constructive challenge"
+        ]
+      },
+      {
+        "category": "Strategic Contribution",
+        "score": 60,
+        "weight": 20,
+        "weightedScore": 12.0,
+        "explanation": "Strategic contribution is limited by the board's overall focus on operational crisis management and the political constraints on FRA's strategic direction. Agricultural expertise provides useful operational insights but strategic financial and organizational transformation input is lacking.",
+        "positiveFactors": [
+          "Contributed practical agricultural expertise to the evaluation of modern grain storage technologies proposed in the World Bank project",
+          "Advocated for diversification of FRA's strategic reserve beyond maize to include cassava, rice, and sorghum",
+          "Provided input on seasonal crop forecasting methodologies to improve FRA's grain purchasing planning"
+        ],
+        "negativeFactors": [
+          "No contribution to discussions on FRA's financial sustainability strategy or commercial operating model transition",
+          "Limited engagement with the commodity exchange feasibility study or other revenue diversification initiatives",
+          "Has not contributed strategic perspectives on regional food security cooperation or cross-border grain trade opportunities"
+        ],
+        "improvementTips": [
+          "Develop strategic perspectives on FRA's financial sustainability by studying comparable agencies in the region such as Kenya's National Cereals and Produce Board",
+          "Engage with the commodity exchange feasibility study to provide agricultural market expertise and assess practical implementation considerations",
+          "Contribute to discussions on regional food security cooperation through SADC and COMESA frameworks"
+        ]
+      }
+    ],
+    "overallExplanation": "Chilekwa Nkole brings valuable agricultural sector expertise to the FRA board, providing practical operational insights on grain storage, crop forecasting, and strategic reserve diversification. However, governance effectiveness is constrained by the political operating environment, personal farming interests that require careful conflict management, and a tendency toward operational rather than strategic-level engagement. Key priorities include strengthening financial oversight, formalizing the board governance framework, and developing broader strategic perspectives beyond agricultural operations to support FRA's transformation into a financially sustainable entity.",
+    "topImprovementAreas": [
+      "Formalize the board governance framework and establish a protocol for managing government policy directives",
+      "Strengthen financial oversight engagement including the qualified audit opinion resolution and NAPSA arrears settlement",
+      "Establish independent verification of the personal farming interest conflict management to maintain board credibility"
+    ]
+  },
+  {
+    "id": "SOEBM-010",
+    "name": "Inonge Sampa",
+    "role": "Board Member",
+    "organization": "Food Reserve Agency",
+    "region": "Lusaka Province",
+    "overallScore": 77,
+    "rating": "Good",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-20T15:30:00Z",
+    "enterpriseName": "Food Reserve Agency",
+    "sector": "Agriculture & Food Security",
+    "boardPosition": "Independent Director",
+    "appointmentDate": "2023-03-15",
+    "details": {
+      "governanceOversight": 80,
+      "fiduciaryResponsibility": 78,
+      "boardParticipation": 76,
+      "ethicalConductIndependence": 80,
+      "strategicContribution": 72
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Governance Oversight",
+        "score": 80,
+        "weight": 25,
+        "weightedScore": 20.0,
+        "explanation": "Inonge Sampa has brought a fresh governance perspective to the FRA board as an Independent Director with a background in public financial management. Her appointment has strengthened the board's ability to provide oversight independent of government policy influence.",
+        "positiveFactors": [
+          "Chairs the Audit and Risk Committee with professional competence from a public financial management background",
+          "Introduced a structured approach to reviewing and tracking management responses to audit recommendations",
+          "Advocated for an independent review of FRA's procurement practices following concerns about contract splitting",
+          "Requested the development of a formal risk appetite statement for board approval"
+        ],
+        "negativeFactors": [
+          "Audit and Risk Committee still operating without a finalized risk appetite statement eight months after the request",
+          "Limited success in shifting board culture from operational management to strategic governance oversight"
+        ],
+        "improvementTips": [
+          "Escalate the risk appetite statement development as a board-level priority with a defined completion deadline",
+          "Propose a board governance workshop focused on the distinction between operational management and strategic governance oversight"
+        ]
+      },
+      {
+        "category": "Fiduciary Responsibility",
+        "score": 78,
+        "weight": 20,
+        "weightedScore": 15.6,
+        "explanation": "Strong fiduciary orientation demonstrated through active engagement with FRA's financial challenges. Her public financial management expertise provides valuable perspectives on government funding mechanisms, public accountability, and value-for-money considerations.",
+        "positiveFactors": [
+          "Initiated a comprehensive review of FRA's government grant accounting policies ensuring alignment with IPSAS requirements",
+          "Challenged management to present a costed plan for reducing grain storage losses from 8% to 3%",
+          "Requested an actuarial assessment of the NAPSA arrears including penalties and interest to quantify the total liability",
+          "Advocated for value-for-money audits of major grain storage infrastructure investments"
+        ],
+        "negativeFactors": [
+          "Has not yet secured board commitment to address the government-directed pricing policy impact on FRA's financial sustainability",
+          "Limited engagement with FRA's revenue diversification financial projections and business case quality"
+        ],
+        "improvementTips": [
+          "Prepare a formal board paper quantifying the cumulative financial impact of government-directed pricing and recommend a policy engagement strategy",
+          "Review and challenge the financial projections underlying each revenue diversification business case presented for board approval"
+        ]
+      },
+      {
+        "category": "Board Participation",
+        "score": 76,
+        "weight": 20,
+        "weightedScore": 15.2,
+        "explanation": "Board participation is good with consistent attendance and substantive contributions. The relatively short tenure means the impact of governance initiatives is still materializing.",
+        "positiveFactors": [
+          "86% attendance at board and committee meetings, comfortably above the minimum threshold",
+          "Well-prepared for meetings with evidence-based contributions drawing on public financial management expertise",
+          "Participated in four depot visits providing practical exposure to FRA's operational challenges"
+        ],
+        "negativeFactors": [
+          "Time-sharing between FRA and other professional commitments occasionally results in delayed feedback on board papers",
+          "Has not yet established a regular engagement rhythm with management between board meetings"
+        ],
+        "improvementTips": [
+          "Establish a bi-monthly engagement with the Financial Director and CEO between board meetings to stay current on emerging issues",
+          "Implement a personal deadline system ensuring board paper feedback is provided at least 48 hours before meetings"
+        ]
+      },
+      {
+        "category": "Ethical Conduct & Independence",
+        "score": 80,
+        "weight": 15,
+        "weightedScore": 12.0,
+        "explanation": "Independence is well-maintained with no conflicts of interest and a strong professional reputation in public financial management. The Independent Director designation is supported by clear separation from government and agricultural sector interests.",
+        "positiveFactors": [
+          "No conflicts of interest identified with no personal agricultural, commercial, or government employment relationships",
+          "Independence verified by the IDC governance review process at the time of appointment",
+          "Demonstrated willingness to express dissenting views on matters where government policy directives conflict with sound governance",
+          "All declarations and compliance requirements met within statutory timelines"
+        ],
+        "negativeFactors": [
+          "The expression of dissenting views on government policy matters, while appropriate, has created some tension with politically-appointed board members"
+        ],
+        "improvementTips": [
+          "Document all instances of dissenting views and their governance rationale to create a record of independent oversight",
+          "Build coalition support among other board members for governance positions before formal board discussions to strengthen collective independence"
+        ]
+      },
+      {
+        "category": "Strategic Contribution",
+        "score": 72,
+        "weight": 20,
+        "weightedScore": 14.4,
+        "explanation": "Strategic contribution centres on public financial management and accountability perspectives. Contributions to FRA's transformation strategy are growing as understanding of the agricultural sector deepens.",
+        "positiveFactors": [
+          "Contributed a compelling analysis of international food reserve agency financial models for board consideration drawing on examples from India, Thailand, and Kenya",
+          "Advocated for FRA to develop a public accountability framework including published performance metrics and annual public reports",
+          "Provided strategic input on the structuring of the World Bank storage modernization project to maximize leverage and accountability"
+        ],
+        "negativeFactors": [
+          "Limited agricultural sector expertise constrains the depth of contribution to strategic discussions on crop diversification and market dynamics",
+          "Has not yet developed a position on FRA's role in the proposed agricultural commodity exchange"
+        ],
+        "improvementTips": [
+          "Undertake familiarization with Zambian agricultural policy and commodity markets through engagement with the Ministry of Agriculture and stakeholder organizations",
+          "Develop a position on FRA's strategic role in the proposed commodity exchange based on international benchmarking and public interest considerations"
+        ]
+      }
+    ],
+    "overallExplanation": "Inonge Sampa is a valuable addition to the FRA board, bringing strong public financial management expertise and genuine independence that strengthens the board's oversight capability. Her initiatives to improve audit recommendation tracking, review government grant accounting, and introduce risk appetite frameworks demonstrate proactive governance leadership. The relatively short tenure means many initiatives are still in progress and their full impact will be realized over the coming year. Key priorities include securing board commitment to address the financial impact of government-directed pricing, deepening agricultural sector knowledge, and building broader board support for governance reforms.",
+    "topImprovementAreas": [
+      "Secure board commitment to address the cumulative financial impact of government-directed maize pricing on FRA's sustainability",
+      "Deepen agricultural sector knowledge to strengthen the breadth of strategic contribution",
+      "Complete the risk appetite statement development and achieve formal board approval"
+    ]
+  }
+]

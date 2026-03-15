@@ -1,0 +1,1063 @@
+[
+  {
+    "id": "LLO-001",
+    "name": "Mwamba Chilufya",
+    "role": "District Clerk",
+    "organization": "Lusaka District Administration",
+    "region": "Lusaka",
+    "overallScore": 82,
+    "rating": "Good",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-15T00:00:00",
+    "department": "District Administration",
+    "gradeLevel": "GS-9",
+    "details": {
+      "workPerformance": 85,
+      "publicServiceInteraction": 80,
+      "complianceEthics": 84,
+      "attendancePunctuality": 78,
+      "professionalDevelopment": 82
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Work Performance",
+        "score": 85,
+        "weight": 30,
+        "weightedScore": 25.5,
+        "explanation": "Mwamba consistently processes district administrative filings ahead of schedule, maintaining a 94% on-time completion rate for council meeting minutes and correspondence. His meticulous record-keeping has been commended during two consecutive internal audits.",
+        "positiveFactors": [
+          "94% on-time completion rate for council meeting minutes and official correspondence",
+          "Implemented a digital filing index that reduced document retrieval time by 40%",
+          "Zero errors found in official council records during the last two internal audits"
+        ],
+        "negativeFactors": [
+          "Backlog of 15 land allocation records pending data entry from the previous quarter",
+          "Occasionally delays response to inter-departmental document requests by 3-5 days"
+        ],
+        "improvementTips": [
+          "Dedicate two hours each Friday to clearing the land allocation records backlog",
+          "Set up an automated tracking system for inter-departmental document requests with response deadlines",
+          "Cross-train one junior clerk to assist with peak-period workload and provide backup coverage"
+        ]
+      },
+      {
+        "category": "Public Service Interaction",
+        "score": 80,
+        "weight": 20,
+        "weightedScore": 16.0,
+        "explanation": "Citizens generally report positive interactions at the District Clerk's office, with an 80% satisfaction rating in the latest survey. Mwamba is courteous and knowledgeable but the office occasionally experiences long wait times during peak registration periods.",
+        "positiveFactors": [
+          "80% citizen satisfaction rating in the quarterly public service survey",
+          "Personally assists elderly and disabled citizens with form completion without being prompted",
+          "Maintains a clear information board with updated requirements and fee schedules"
+        ],
+        "negativeFactors": [
+          "Average wait time of 45 minutes during peak registration periods in January and July",
+          "Two formal complaints received about insufficient guidance on document requirements"
+        ],
+        "improvementTips": [
+          "Implement a queue numbering system with estimated wait times during peak periods",
+          "Create a simple checklist handout in English and Nyanja listing required documents for common services",
+          "Coordinate with management to deploy temporary additional staff during January and July peak periods"
+        ]
+      },
+      {
+        "category": "Compliance & Ethics",
+        "score": 84,
+        "weight": 20,
+        "weightedScore": 16.8,
+        "explanation": "Strong adherence to public service regulations and ethical standards. All mandatory declarations have been submitted on time, and Mwamba has never been subject to disciplinary proceedings or corruption allegations.",
+        "positiveFactors": [
+          "All annual asset declarations and conflict-of-interest forms submitted ahead of deadlines",
+          "Zero disciplinary proceedings or ethics complaints throughout 7-year tenure",
+          "Completed the Anti-Corruption Commission's public officer integrity training programme"
+        ],
+        "negativeFactors": [
+          "One instance of processing a colleague's application without following the standard recusal procedure",
+          "Delayed reporting of a minor procurement irregularity observed in a neighbouring office"
+        ],
+        "improvementTips": [
+          "Always follow the formal recusal procedure when processing applications involving known colleagues or relatives",
+          "Report any observed irregularities immediately through the designated whistleblower channel",
+          "Attend the annual ethics refresher course offered by the Public Service Management Division"
+        ]
+      },
+      {
+        "category": "Attendance & Punctuality",
+        "score": 78,
+        "weight": 15,
+        "weightedScore": 11.7,
+        "explanation": "Attendance is generally reliable at 92% but punctuality has been inconsistent, with Mwamba arriving late on average 3 days per month. Leave requests are submitted properly but last-minute absences have occurred twice in the past quarter.",
+        "positiveFactors": [
+          "92% attendance rate over the past 12 months, above the 90% departmental benchmark",
+          "All annual and sick leave requests submitted through proper channels with documentation",
+          "Voluntarily worked overtime during the local government elections period without complaint"
+        ],
+        "negativeFactors": [
+          "Late arrival (more than 15 minutes) recorded on average 3 days per month",
+          "Two unplanned absences in the past quarter with less than 2 hours' notice to supervisor"
+        ],
+        "improvementTips": [
+          "Adjust morning routine to arrive at least 15 minutes before the 08:00 start time",
+          "Notify the supervisor by 06:30 for any unplanned absence to allow workload redistribution",
+          "Use the biometric attendance system consistently to build a verifiable punctuality record"
+        ]
+      },
+      {
+        "category": "Professional Development",
+        "score": 82,
+        "weight": 15,
+        "weightedScore": 12.3,
+        "explanation": "Mwamba actively pursues professional growth, having completed two relevant short courses in the past year and regularly mentoring new clerks. He is currently enrolled in a part-time diploma programme in public administration.",
+        "positiveFactors": [
+          "Completed a certificate in Records Management from the National Institute of Public Administration",
+          "Currently pursuing a Diploma in Public Administration through distance learning",
+          "Mentors two junior clerks, both of whom received positive performance appraisals"
+        ],
+        "negativeFactors": [
+          "Has not yet obtained certification in the new e-Government document management system",
+          "Missed the deadline to apply for the Ministry-sponsored leadership development programme"
+        ],
+        "improvementTips": [
+          "Complete the e-Government document management system certification within the next 3 months",
+          "Set calendar reminders for all professional development application deadlines",
+          "Apply for the next cohort of the Ministry-sponsored leadership development programme opening in Q3"
+        ]
+      }
+    ],
+    "overallExplanation": "Mwamba Chilufya is a reliable and competent District Clerk who demonstrates strong work performance and ethical conduct. His initiative in digitizing filing processes and mentoring junior staff reflects a commitment to continuous improvement. Punctuality and peak-period citizen service management are the primary areas requiring attention. With targeted improvements in time management and completion of the e-Government certification, Mwamba is well-positioned for advancement to a senior administrative role.",
+    "topImprovementAreas": [
+      "Improve punctuality by consistently arriving before the 08:00 start time",
+      "Clear the land allocation records backlog and implement a system to prevent future backlogs",
+      "Complete the e-Government document management system certification to support digital transformation"
+    ]
+  },
+  {
+    "id": "LLO-002",
+    "name": "Bwalya Mutale",
+    "role": "Tax Officer",
+    "organization": "Zambia Revenue Authority",
+    "region": "Ndola",
+    "overallScore": 68,
+    "rating": "Needs Improvement",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-20T00:00:00",
+    "department": "Domestic Taxes Division",
+    "gradeLevel": "GS-8",
+    "details": {
+      "workPerformance": 65,
+      "publicServiceInteraction": 62,
+      "complianceEthics": 72,
+      "attendancePunctuality": 70,
+      "professionalDevelopment": 68
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Work Performance",
+        "score": 65,
+        "weight": 30,
+        "weightedScore": 19.5,
+        "explanation": "Bwalya's tax assessment processing rate falls below the ZRA target of 25 assessments per week, averaging only 18. Accuracy on completed assessments is acceptable at 88% but error rates on Copperbelt mining company filings have been flagged by the quality assurance unit.",
+        "positiveFactors": [
+          "88% accuracy rate on completed tax assessments, meeting the minimum quality threshold",
+          "Successfully processed 12 complex mining sector tax audits in the past fiscal year",
+          "Identified K2.3 million in undeclared income during routine assessments"
+        ],
+        "negativeFactors": [
+          "Processing rate of 18 assessments per week against a target of 25",
+          "Error rate of 15% on mining company filings, double the 7% acceptable threshold",
+          "Backlog of 42 unprocessed taxpayer objections exceeding the 30-day resolution target"
+        ],
+        "improvementTips": [
+          "Attend the ZRA specialist training on mining sector tax provisions to reduce filing errors",
+          "Dedicate mornings exclusively to assessment processing to improve throughput before interruptions",
+          "Request supervisory support to prioritize and clear the 42 pending taxpayer objections within 60 days"
+        ]
+      },
+      {
+        "category": "Public Service Interaction",
+        "score": 62,
+        "weight": 20,
+        "weightedScore": 12.4,
+        "explanation": "Taxpayer feedback indicates room for improvement in communication and responsiveness. Several small business owners in Ndola have reported difficulty understanding assessment notices and feeling that their queries are not addressed promptly.",
+        "positiveFactors": [
+          "Conducted 3 taxpayer education workshops for small businesses in Ndola town centre",
+          "Available for in-person consultations during all scheduled office hours"
+        ],
+        "negativeFactors": [
+          "4 formal complaints from SME taxpayers about unclear assessment notice explanations",
+          "Average response time to taxpayer email queries is 12 working days, above the 5-day ZRA standard",
+          "Taxpayer satisfaction survey score of 58% for the Ndola office, lowest among Copperbelt ZRA stations"
+        ],
+        "improvementTips": [
+          "Use plain language in all assessment notices with a summary section explaining the calculation in simple terms",
+          "Respond to all taxpayer email queries within 3 working days and escalate complex matters to the supervisor",
+          "Increase taxpayer education outreach to at least one workshop per month targeting Ndola's SME community"
+        ]
+      },
+      {
+        "category": "Compliance & Ethics",
+        "score": 72,
+        "weight": 20,
+        "weightedScore": 14.4,
+        "explanation": "No corruption or ethical violations on record. However, there was one instance of a delayed declaration of a family member's business interest that was subsequently resolved. Bwalya adheres to ZRA's code of conduct but needs to be more proactive about conflict-of-interest management.",
+        "positiveFactors": [
+          "Zero corruption allegations or disciplinary proceedings in 5-year ZRA tenure",
+          "Completed the ZRA annual integrity declaration on time for the past 3 years",
+          "Participates in the ZRA internal ethics awareness programme"
+        ],
+        "negativeFactors": [
+          "Delayed declaration of a sibling's business interest in a taxpaying entity for 4 months",
+          "Processed two assessments for a company linked to the undeclared family interest before recusing"
+        ],
+        "improvementTips": [
+          "Declare all family business interests immediately upon becoming aware, regardless of perceived materiality",
+          "Maintain a personal register of all known family and associate business connections updated quarterly",
+          "Consult the ZRA Ethics Office proactively when any potential conflict of interest arises"
+        ]
+      },
+      {
+        "category": "Attendance & Punctuality",
+        "score": 70,
+        "weight": 15,
+        "weightedScore": 10.5,
+        "explanation": "Attendance record shows 88% for the past year, below the 90% ZRA standard. Bwalya has used 18 sick leave days, 6 of which lacked timely medical documentation. Punctuality is satisfactory when present.",
+        "positiveFactors": [
+          "Punctual on 95% of days when present, consistently arriving before 07:45",
+          "Properly submitted all annual leave requests through the ZRA HR system"
+        ],
+        "negativeFactors": [
+          "88% attendance rate, below the 90% ZRA minimum standard",
+          "18 sick leave days in the past year, with 6 lacking timely medical documentation",
+          "Absent for 3 consecutive Mondays in one month without adequate explanation"
+        ],
+        "improvementTips": [
+          "Submit medical certificates within 48 hours for all sick leave absences as required by ZRA policy",
+          "Discuss any ongoing health concerns with the ZRA occupational health unit for appropriate support",
+          "Maintain attendance above 92% for the next two quarters to demonstrate improvement"
+        ]
+      },
+      {
+        "category": "Professional Development",
+        "score": 68,
+        "weight": 15,
+        "weightedScore": 10.2,
+        "explanation": "Bwalya has not completed the recommended annual professional development hours and has not yet obtained the updated Certified Tax Practitioner credential required for senior officer progression.",
+        "positiveFactors": [
+          "Completed 15 of the required 30 annual Continuing Professional Development hours",
+          "Attended the ZRA national conference on digital tax administration in Lusaka"
+        ],
+        "negativeFactors": [
+          "Only 15 of 30 required CPD hours completed with 3 months remaining in the cycle",
+          "Has not enrolled in the updated Certified Tax Practitioner programme despite 2-year eligibility",
+          "Declined the opportunity to participate in a cross-posting to the Large Taxpayer Office for experience"
+        ],
+        "improvementTips": [
+          "Complete the remaining 15 CPD hours through ZRA's online learning platform within the next 3 months",
+          "Enrol in the Certified Tax Practitioner programme in the next intake to qualify for senior officer promotion",
+          "Accept cross-posting and secondment opportunities to broaden tax administration experience"
+        ]
+      }
+    ],
+    "overallExplanation": "Bwalya Mutale is a Tax Officer with adequate foundational skills but performance gaps in processing speed, taxpayer communication, and professional development that require focused improvement. While there are no integrity concerns, the delayed family interest declaration and below-target assessment throughput indicate a need for greater diligence and proactive engagement. Completing the Certified Tax Practitioner programme and improving taxpayer responsiveness should be immediate priorities to align with ZRA performance expectations.",
+    "topImprovementAreas": [
+      "Increase tax assessment processing rate from 18 to at least 25 per week to meet ZRA targets",
+      "Improve taxpayer communication by responding to queries within 3 working days",
+      "Enrol in and complete the Certified Tax Practitioner programme within the next 12 months"
+    ]
+  },
+  {
+    "id": "LLO-003",
+    "name": "Naomi Phiri",
+    "role": "Immigration Officer",
+    "organization": "Department of Immigration",
+    "region": "Kitwe",
+    "overallScore": 91,
+    "rating": "Excellent",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-02-01T00:00:00",
+    "department": "Border Management",
+    "gradeLevel": "GS-10",
+    "details": {
+      "workPerformance": 93,
+      "publicServiceInteraction": 90,
+      "complianceEthics": 95,
+      "attendancePunctuality": 88,
+      "professionalDevelopment": 90
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Work Performance",
+        "score": 93,
+        "weight": 30,
+        "weightedScore": 27.9,
+        "explanation": "Naomi is the highest-performing Immigration Officer at the Kasumbalesa border post, processing an average of 120 travellers per shift with a 99.2% accuracy rate on document verification. She identified 8 fraudulent travel documents in the past quarter, the highest detection rate in the Copperbelt region.",
+        "positiveFactors": [
+          "Processes 120 travellers per shift, 30% above the departmental average of 92",
+          "99.2% accuracy rate on travel document verification with zero wrongful denials overturned on appeal",
+          "Detected 8 fraudulent documents in one quarter, contributing to a regional crackdown on document fraud"
+        ],
+        "negativeFactors": [
+          "Occasionally bypasses the secondary screening referral protocol for borderline cases to maintain throughput"
+        ],
+        "improvementTips": [
+          "Always refer borderline cases to secondary screening regardless of queue pressure to maintain security standards",
+          "Document and share the document fraud detection techniques with colleagues through a best-practice guide"
+        ]
+      },
+      {
+        "category": "Public Service Interaction",
+        "score": 90,
+        "weight": 20,
+        "weightedScore": 18.0,
+        "explanation": "Travellers consistently praise Naomi's professionalism and efficiency. She communicates clearly in English, Bemba, and basic Swahili, which is particularly valuable at the Kasumbalesa border serving cross-border traders from the Democratic Republic of Congo.",
+        "positiveFactors": [
+          "Received 15 written commendations from travellers in the past 6 months",
+          "Trilingual capability (English, Bemba, Swahili) facilitates effective communication with cross-border traders",
+          "Maintains a calm and respectful demeanour even during high-pressure peak crossing periods"
+        ],
+        "negativeFactors": [
+          "One complaint from a Congolese trader about insufficient explanation of a visa requirement change"
+        ],
+        "improvementTips": [
+          "Prepare multilingual information leaflets about any visa or documentation requirement changes for distribution at the border",
+          "Coordinate with the DRC immigration counterpart to ensure consistent messaging on cross-border requirements"
+        ]
+      },
+      {
+        "category": "Compliance & Ethics",
+        "score": 95,
+        "weight": 20,
+        "weightedScore": 19.0,
+        "explanation": "Exemplary ethical conduct with zero integrity concerns throughout her career. Naomi has reported two attempted bribery incidents to the department's integrity unit and actively participates in the anti-corruption awareness programme for border officers.",
+        "positiveFactors": [
+          "Reported 2 attempted bribery incidents to the integrity unit, leading to successful prosecutions",
+          "Zero disciplinary proceedings, ethics complaints, or suspicious activity flags in 9-year career",
+          "Serves as a peer integrity champion for the Kasumbalesa border post team"
+        ],
+        "negativeFactors": [
+          "No negative factors identified in compliance and ethics"
+        ],
+        "improvementTips": [
+          "Continue serving as an integrity role model and expand peer mentorship to newly posted officers",
+          "Consider contributing to the department's national anti-corruption training curriculum development"
+        ]
+      },
+      {
+        "category": "Attendance & Punctuality",
+        "score": 88,
+        "weight": 15,
+        "weightedScore": 13.2,
+        "explanation": "Strong attendance at 96% with all absences properly documented. Naomi is consistently punctual for shift changes, which is critical at a 24-hour border post. She has volunteered for holiday shifts on multiple occasions.",
+        "positiveFactors": [
+          "96% attendance rate over the past 12 months, above the 93% border post benchmark",
+          "Volunteered for 4 public holiday shifts, demonstrating commitment to the service",
+          "Zero instances of late shift handover in the past year"
+        ],
+        "negativeFactors": [
+          "Requested 3 short-notice shift swaps in one month due to personal commitments, creating scheduling challenges"
+        ],
+        "improvementTips": [
+          "Plan personal commitments around the published shift roster and request swaps with at least 7 days' notice",
+          "Coordinate with the shift supervisor to establish a formal shift swap process that minimizes disruption"
+        ]
+      },
+      {
+        "category": "Professional Development",
+        "score": 90,
+        "weight": 15,
+        "weightedScore": 13.5,
+        "explanation": "Naomi is highly committed to professional growth, having completed advanced training in document forensics and border security management. She is one of only 12 officers nationally certified in the ICAO 9303 travel document examination standard.",
+        "positiveFactors": [
+          "Certified in ICAO 9303 travel document examination, one of only 12 officers nationally",
+          "Completed the INTERPOL Border Management Training programme with distinction",
+          "Currently pursuing a Bachelor's degree in Security Studies through the University of Zambia distance programme"
+        ],
+        "negativeFactors": [
+          "Has not yet completed the departmental supervisory skills course required for promotion to Senior Immigration Officer"
+        ],
+        "improvementTips": [
+          "Enrol in the supervisory skills course in the next available intake to qualify for promotion",
+          "Apply for the SADC regional border management exchange programme to gain international experience"
+        ]
+      }
+    ],
+    "overallExplanation": "Naomi Phiri is an outstanding Immigration Officer who exemplifies excellence in border management. Her exceptional processing speed, fraud detection capability, and unwavering ethical standards make her a model officer within the Department of Immigration. Her multilingual skills and professional certifications add significant value to operations at the strategically important Kasumbalesa border post. Completing the supervisory skills course would position her for well-deserved promotion to Senior Immigration Officer.",
+    "topImprovementAreas": [
+      "Complete the departmental supervisory skills course to qualify for promotion to Senior Immigration Officer",
+      "Always follow secondary screening referral protocols even under high queue pressure",
+      "Plan shift swap requests further in advance to minimize scheduling disruptions for the border post team"
+    ]
+  },
+  {
+    "id": "LLO-004",
+    "name": "Joseph Banda",
+    "role": "Land Registry Officer",
+    "organization": "Ministry of Lands and Natural Resources",
+    "region": "Livingstone",
+    "overallScore": 75,
+    "rating": "Good",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-28T00:00:00",
+    "department": "Lands and Deeds Registry",
+    "gradeLevel": "GS-7",
+    "details": {
+      "workPerformance": 78,
+      "publicServiceInteraction": 72,
+      "complianceEthics": 76,
+      "attendancePunctuality": 74,
+      "professionalDevelopment": 75
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Work Performance",
+        "score": 78,
+        "weight": 30,
+        "weightedScore": 23.4,
+        "explanation": "Joseph processes title deed applications and land transfers at an acceptable rate, handling 35 cases per month against a target of 40. His knowledge of the Livingstone and Southern Province land tenure systems is strong, but digital records migration has been slower than expected.",
+        "positiveFactors": [
+          "Processes 35 land title cases per month, close to the 40-case target",
+          "Deep knowledge of customary and leasehold land tenure systems in Southern Province",
+          "Successfully resolved 5 complex historical boundary disputes through careful records research"
+        ],
+        "negativeFactors": [
+          "Digital records migration project is 3 months behind the planned timeline",
+          "5 title deed applications returned to applicants due to incomplete verification checks"
+        ],
+        "improvementTips": [
+          "Dedicate specific hours each week to the digital records migration to get back on schedule",
+          "Implement a pre-submission verification checklist to catch incomplete applications before formal processing",
+          "Request temporary assistance from Lusaka headquarters to accelerate the records migration project"
+        ]
+      },
+      {
+        "category": "Public Service Interaction",
+        "score": 72,
+        "weight": 20,
+        "weightedScore": 14.4,
+        "explanation": "Citizens visiting the Livingstone Lands Office report mixed experiences. While Joseph is knowledgeable, the office can feel unwelcoming, and applicants often must make multiple visits due to unclear upfront guidance on document requirements.",
+        "positiveFactors": [
+          "Well-regarded by legal practitioners and surveyors for his technical knowledge of land law",
+          "Personally assists traditional leaders with customary land documentation requests"
+        ],
+        "negativeFactors": [
+          "Applicants make an average of 3.2 visits to complete a single transaction, above the 2-visit target",
+          "3 formal complaints about unclear communication of fees and processing timelines",
+          "Office reception area lacks adequate signage and information materials for walk-in applicants"
+        ],
+        "improvementTips": [
+          "Create and display a clear process map showing all steps, required documents, fees, and estimated timelines for each service",
+          "Implement a telephone pre-screening service so applicants arrive with complete documentation",
+          "Install bilingual (English and Tonga) signage and information boards in the reception area"
+        ]
+      },
+      {
+        "category": "Compliance & Ethics",
+        "score": 76,
+        "weight": 20,
+        "weightedScore": 15.2,
+        "explanation": "No corruption findings but a recent internal audit flagged that 3 land valuations processed by Joseph's office lacked the required independent verification stamp. The matter was attributed to an oversight rather than intent, but it highlights a process discipline gap.",
+        "positiveFactors": [
+          "Zero corruption allegations or disciplinary actions in 6-year tenure",
+          "All personal asset declarations submitted on time and verified by the Ministry",
+          "Cooperated fully with the internal audit and implemented corrective measures immediately"
+        ],
+        "negativeFactors": [
+          "3 land valuations processed without the required independent verification stamp",
+          "One file accessed outside of normal working hours without prior supervisory authorization"
+        ],
+        "improvementTips": [
+          "Never process a land valuation without confirming the independent verification stamp is present in the file",
+          "Obtain written supervisory authorization before accessing any files outside normal working hours",
+          "Implement a peer review step where a colleague verifies all valuation files before final processing"
+        ]
+      },
+      {
+        "category": "Attendance & Punctuality",
+        "score": 74,
+        "weight": 15,
+        "weightedScore": 11.1,
+        "explanation": "Attendance at 90% meets the minimum threshold but is not exemplary. Joseph has a pattern of extending lunch breaks by 15-20 minutes, which has been noted by the supervisor on several occasions.",
+        "positiveFactors": [
+          "90% attendance rate meeting the Ministry minimum standard",
+          "Available during all scheduled public consultation days without exception"
+        ],
+        "negativeFactors": [
+          "Pattern of extended lunch breaks noted 8 times in the past quarter by the supervisor",
+          "Left the office 30 minutes early on 2 occasions without authorization",
+          "4 sick leave days taken without same-day notification to the supervisor"
+        ],
+        "improvementTips": [
+          "Adhere strictly to the scheduled lunch break duration and return on time consistently",
+          "Never leave the office before the official closing time without written supervisory approval",
+          "Notify the supervisor by phone or SMS before 08:00 on any day of unplanned absence"
+        ]
+      },
+      {
+        "category": "Professional Development",
+        "score": 75,
+        "weight": 15,
+        "weightedScore": 11.25,
+        "explanation": "Joseph has completed the basic land administration certificate but has not pursued further qualifications. He expresses interest in GIS mapping training but has not yet enrolled in available programmes.",
+        "positiveFactors": [
+          "Holds a Certificate in Land Administration from the Zambia Institute of Advanced Legal Education",
+          "Attended a 3-day workshop on the new Lands Act provisions organized by the Ministry"
+        ],
+        "negativeFactors": [
+          "Has not pursued advanced qualifications despite being eligible for the Diploma in Land Surveying",
+          "Expressed interest in GIS training 18 months ago but has not enrolled in any programme",
+          "Only 10 of 25 required CPD hours completed for the current cycle"
+        ],
+        "improvementTips": [
+          "Enrol in the GIS mapping training programme offered by the University of Zambia School of Mines",
+          "Complete the remaining 15 CPD hours through Ministry-approved online courses before the cycle deadline",
+          "Apply for the Diploma in Land Surveying programme to enhance career progression prospects"
+        ]
+      }
+    ],
+    "overallExplanation": "Joseph Banda is a competent Land Registry Officer with solid technical knowledge of Southern Province land tenure systems. His ability to resolve complex boundary disputes is a notable strength. However, improvements are needed in citizen-facing service delivery, punctuality discipline, and professional development progression. Completing the digital records migration project on a revised timeline and improving the applicant experience at the Livingstone office should be his immediate priorities.",
+    "topImprovementAreas": [
+      "Accelerate the digital records migration project and get back on the planned schedule",
+      "Reduce the average number of citizen visits per transaction from 3.2 to the 2-visit target",
+      "Enrol in GIS mapping training and the Diploma in Land Surveying to advance professional qualifications"
+    ]
+  },
+  {
+    "id": "LLO-005",
+    "name": "Grace Zulu",
+    "role": "Social Welfare Officer",
+    "organization": "Ministry of Community Development and Social Services",
+    "region": "Chipata",
+    "overallScore": 64,
+    "rating": "Needs Improvement",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-10T00:00:00",
+    "department": "Social Welfare Division",
+    "gradeLevel": "GS-6",
+    "details": {
+      "workPerformance": 60,
+      "publicServiceInteraction": 68,
+      "complianceEthics": 65,
+      "attendancePunctuality": 62,
+      "professionalDevelopment": 60
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Work Performance",
+        "score": 60,
+        "weight": 30,
+        "weightedScore": 18.0,
+        "explanation": "Grace manages a caseload of 180 Social Cash Transfer beneficiaries across Chipata District, above the recommended maximum of 150. While she maintains basic records, case follow-up visits are significantly behind schedule with only 40% of the quarterly home visits completed.",
+        "positiveFactors": [
+          "Manages a caseload of 180 beneficiaries, demonstrating willingness to take on heavy workload",
+          "Successfully enrolled 25 new beneficiaries into the Social Cash Transfer programme this quarter",
+          "Maintains paper-based beneficiary records that are organized and accessible"
+        ],
+        "negativeFactors": [
+          "Only 40% of required quarterly home visits completed, against a 90% target",
+          "12 beneficiary grievances unresolved beyond the 14-day resolution target",
+          "Data entry into the national MIS system is 2 months behind, affecting programme reporting"
+        ],
+        "improvementTips": [
+          "Request a caseload review with the District Social Welfare Office to bring numbers to the 150 maximum",
+          "Prioritize home visits for the most vulnerable beneficiaries and complete a catch-up schedule within 6 weeks",
+          "Dedicate one full day per week to clearing the MIS data entry backlog with support from IT"
+        ]
+      },
+      {
+        "category": "Public Service Interaction",
+        "score": 68,
+        "weight": 20,
+        "weightedScore": 13.6,
+        "explanation": "Beneficiaries appreciate Grace's empathy and willingness to listen but report frustration with the slow resolution of grievances and difficulty reaching her between scheduled community visits. Community leaders in remote areas of Chipata District feel underserved.",
+        "positiveFactors": [
+          "Beneficiaries describe Grace as empathetic and patient during community interactions",
+          "Organized 2 community awareness sessions on social protection programmes in Chipata township",
+          "Maintains a good working relationship with traditional leaders in accessible areas of the district"
+        ],
+        "negativeFactors": [
+          "Beneficiaries in 4 remote community zones report having no contact with the Social Welfare Office for 6 months",
+          "No dedicated phone line or contact mechanism for beneficiaries between scheduled visits",
+          "Community leaders in Chadiza border area submitted a formal complaint about neglect of their zone"
+        ],
+        "improvementTips": [
+          "Establish a monthly phone contact schedule for beneficiaries in remote zones using a dedicated mobile number",
+          "Coordinate with Community Welfare Assistants to conduct visits in remote areas on her behalf between personal visits",
+          "Respond to the Chadiza border area complaint formally and schedule a priority visit within 2 weeks"
+        ]
+      },
+      {
+        "category": "Compliance & Ethics",
+        "score": 65,
+        "weight": 20,
+        "weightedScore": 13.0,
+        "explanation": "No corruption allegations, but a compliance review found that Grace had not updated beneficiary eligibility assessments for 30 households as required by programme guidelines. Additionally, cash transfer disbursement reconciliation records for one payment cycle were incomplete.",
+        "positiveFactors": [
+          "Zero corruption allegations or misuse of programme funds throughout her tenure",
+          "Participates in the Ministry's quarterly ethics awareness sessions",
+          "Cooperated fully with the compliance review and began corrective actions immediately"
+        ],
+        "negativeFactors": [
+          "30 beneficiary eligibility re-assessments overdue, some by more than 8 months",
+          "Incomplete disbursement reconciliation for the October payment cycle affecting audit trail",
+          "Failed to report a suspected ghost beneficiary identified during a community meeting to the supervisor"
+        ],
+        "improvementTips": [
+          "Complete all 30 overdue eligibility re-assessments within the next 8 weeks on a structured schedule",
+          "Reconcile all cash transfer disbursements within 5 working days of each payment cycle going forward",
+          "Report any suspected irregularities including ghost beneficiaries immediately through the proper channel"
+        ]
+      },
+      {
+        "category": "Attendance & Punctuality",
+        "score": 62,
+        "weight": 15,
+        "weightedScore": 9.3,
+        "explanation": "Attendance has been problematic at 84%, below the 90% Ministry standard. Grace has been absent frequently on Mondays and Fridays, and field visit reports indicate that she often arrives late to scheduled community meetings.",
+        "positiveFactors": [
+          "Consistently present during major programme events such as payment days and registration drives",
+          "Submitted all leave requests through the proper HR system"
+        ],
+        "negativeFactors": [
+          "84% attendance rate, 6 points below the 90% Ministry standard",
+          "Pattern of Monday and Friday absences noted in 4 of the past 6 months",
+          "Late arrival to 5 scheduled community meetings, causing delays for waiting beneficiaries and community leaders"
+        ],
+        "improvementTips": [
+          "Address the Monday-Friday absence pattern and maintain above 90% attendance for the next quarter",
+          "Arrive at least 15 minutes before all scheduled community meetings to set up and receive early arrivals",
+          "Discuss any underlying health or personal challenges with the District Social Welfare Officer for appropriate support"
+        ]
+      },
+      {
+        "category": "Professional Development",
+        "score": 60,
+        "weight": 15,
+        "weightedScore": 9.0,
+        "explanation": "Grace has not completed any formal professional development activities in the past 18 months. She has not enrolled in the mandatory Social Protection Programme Management course that all welfare officers are required to complete by year-end.",
+        "positiveFactors": [
+          "Expressed interest in attending the UNICEF-sponsored social protection capacity building workshop",
+          "Has a Diploma in Social Work from Evelyn Hone College, providing a solid academic foundation"
+        ],
+        "negativeFactors": [
+          "Zero CPD hours completed in the past 18 months against a 20-hour annual requirement",
+          "Has not enrolled in the mandatory Social Protection Programme Management course due by December",
+          "Declined a peer learning exchange visit to a high-performing district, citing personal reasons"
+        ],
+        "improvementTips": [
+          "Enrol immediately in the Social Protection Programme Management course to meet the year-end deadline",
+          "Complete at least 10 CPD hours through the Ministry's online learning platform within the next 3 months",
+          "Accept the next available peer learning exchange opportunity to observe best practices in other districts"
+        ]
+      }
+    ],
+    "overallExplanation": "Grace Zulu faces significant performance challenges stemming from an excessive caseload, inconsistent attendance, and stalled professional development. While her empathy and rapport with beneficiaries are genuine strengths, the backlog in home visits, overdue eligibility reassessments, and data entry delays are undermining programme effectiveness in Chipata District. Urgent attention to caseload management, attendance improvement, and enrolment in mandatory training courses is needed to bring her performance to acceptable standards.",
+    "topImprovementAreas": [
+      "Request a caseload review and complete all overdue home visits and eligibility reassessments",
+      "Improve attendance from 84% to above 90% and eliminate the Monday-Friday absence pattern",
+      "Enrol in and complete the mandatory Social Protection Programme Management course before year-end"
+    ]
+  },
+  {
+    "id": "LLO-006",
+    "name": "Patrick Sakala",
+    "role": "Passport Processing Officer",
+    "organization": "Department of National Registration, Passports and Citizenship",
+    "region": "Kabwe",
+    "overallScore": 62,
+    "rating": "Needs Improvement",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-02-05T00:00:00",
+    "department": "Passport Services Division",
+    "gradeLevel": "GS-5",
+    "details": {
+      "workPerformance": 58,
+      "publicServiceInteraction": 55,
+      "complianceEthics": 68,
+      "attendancePunctuality": 65,
+      "professionalDevelopment": 62
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Work Performance",
+        "score": 58,
+        "weight": 30,
+        "weightedScore": 17.4,
+        "explanation": "Patrick's passport application processing rate is well below expectations at 12 applications per day against a target of 20. The Kabwe passport office has developed a 6-week backlog largely attributed to his processing speed and frequent system-related delays that he has not effectively escalated.",
+        "positiveFactors": [
+          "Accurate data capture with only 2% error rate on biometric and biographic data entry",
+          "Successfully processed 8 emergency passport applications within the 24-hour turnaround requirement"
+        ],
+        "negativeFactors": [
+          "Processing rate of 12 applications per day, 40% below the 20-application target",
+          "6-week backlog of pending applications at the Kabwe passport office",
+          "Failed to escalate recurring system connectivity issues that contribute to processing delays"
+        ],
+        "improvementTips": [
+          "Work with the IT support team to resolve system connectivity issues and escalate unresolved problems formally in writing",
+          "Reorganize the daily workflow to batch similar application types for more efficient processing",
+          "Request a temporary secondment of additional staff from Lusaka to clear the 6-week backlog"
+        ]
+      },
+      {
+        "category": "Public Service Interaction",
+        "score": 55,
+        "weight": 20,
+        "weightedScore": 11.0,
+        "explanation": "Citizen feedback for the Kabwe passport office is poor. Applicants report long queues starting from 04:00 to secure a place, unclear communication about application status, and a perception that connected individuals receive faster service.",
+        "positiveFactors": [
+          "Provides accurate information about passport application requirements when asked directly",
+          "Polite and professional in face-to-face interactions during normal office operations"
+        ],
+        "negativeFactors": [
+          "6 formal complaints about perceived favouritism in queue management",
+          "No mechanism for applicants to check their application status remotely",
+          "Applicants report queuing from as early as 04:00, indicating capacity or scheduling problems",
+          "Reception area lacks basic amenities such as seating and shade for waiting applicants"
+        ],
+        "improvementTips": [
+          "Implement a strict first-come-first-served numbering system visible to all applicants to eliminate favouritism perceptions",
+          "Create an SMS-based application status notification system so applicants can track progress remotely",
+          "Coordinate with the District Commissioner's office to provide basic seating and shade at the passport office"
+        ]
+      },
+      {
+        "category": "Compliance & Ethics",
+        "score": 68,
+        "weight": 20,
+        "weightedScore": 13.6,
+        "explanation": "No proven corruption but the 6 complaints about perceived favouritism require investigation and resolution. Patrick has completed his integrity declarations but needs to be more transparent about queue management practices to dispel public concerns.",
+        "positiveFactors": [
+          "All integrity declarations and conflict-of-interest forms submitted on time",
+          "No proven corruption or ethical violation findings after preliminary review of complaints",
+          "Cooperating with the departmental review of queue management practices"
+        ],
+        "negativeFactors": [
+          "6 formal complaints about perceived favouritism, even if unproven, indicate a trust deficit",
+          "Queue management process is informal and undocumented, creating vulnerability to abuse",
+          "One applicant's file was found to have been moved ahead in the queue without documented justification"
+        ],
+        "improvementTips": [
+          "Document and formalize the queue management process with clear, transparent rules applied equally to all applicants",
+          "Ensure every instance of expedited processing is documented with a valid justification signed by the supervisor",
+          "Display the citizen charter and complaints procedure prominently in the waiting area"
+        ]
+      },
+      {
+        "category": "Attendance & Punctuality",
+        "score": 65,
+        "weight": 15,
+        "weightedScore": 9.75,
+        "explanation": "Attendance at 86% is below the departmental standard of 90%. Patrick has been absent for 4 consecutive days on two separate occasions with documentation submitted late. Punctuality is average with periodic late arrivals.",
+        "positiveFactors": [
+          "Available during all scheduled Saturday passport collection days without exception",
+          "Notifies the supervisor of planned leave at least one week in advance"
+        ],
+        "negativeFactors": [
+          "86% attendance rate, 4 points below the 90% departmental standard",
+          "Two instances of 4 consecutive days' absence with medical certificates submitted more than a week late",
+          "Late arrival recorded 6 times in the past 2 months"
+        ],
+        "improvementTips": [
+          "Submit medical certificates within 48 hours of returning to work for all sick leave absences",
+          "Set a personal target of 93% attendance for the next quarter to demonstrate improvement",
+          "Address the root causes of late arrivals and commit to arriving by 07:45 daily"
+        ]
+      },
+      {
+        "category": "Professional Development",
+        "score": 62,
+        "weight": 15,
+        "weightedScore": 9.3,
+        "explanation": "Patrick has basic competency in passport processing but has not pursued additional training. He has not completed the department's updated biometric systems training, which is essential for the new passport issuance platform being rolled out nationally.",
+        "positiveFactors": [
+          "Completed the initial passport processing orientation programme when first posted",
+          "Expressed willingness to attend the biometric systems training when it becomes available in Central Province"
+        ],
+        "negativeFactors": [
+          "Has not completed the updated biometric systems training available since Q2 last year",
+          "Zero professional development hours recorded in the past 12 months",
+          "Has not applied for any of the 3 available training opportunities circulated by the department"
+        ],
+        "improvementTips": [
+          "Complete the biometric systems training within 2 months, travelling to Lusaka if the course is not yet available locally",
+          "Register for at least one professional development course through the Public Service Training Institute",
+          "Proactively check and apply for training opportunities circulated through the departmental notice board and email"
+        ]
+      }
+    ],
+    "overallExplanation": "Patrick Sakala's performance as a Passport Processing Officer at the Kabwe office is below acceptable standards across most dimensions. The significant processing backlog, citizen complaints about perceived favouritism, below-standard attendance, and lack of professional development are all areas requiring urgent corrective action. While his data accuracy is commendable and no proven ethical violations exist, the overall service delivery experience at the Kabwe passport office needs substantial improvement. Immediate priorities include clearing the backlog, formalizing queue management, and completing the biometric systems training.",
+    "topImprovementAreas": [
+      "Increase processing rate to 20 applications per day and clear the 6-week backlog with support from headquarters",
+      "Formalize queue management with a transparent numbering system to eliminate favouritism complaints",
+      "Complete the updated biometric systems training and achieve at least 90% attendance"
+    ]
+  },
+  {
+    "id": "LLO-007",
+    "name": "Mulenga Chishimba",
+    "role": "Court Clerk",
+    "organization": "Judiciary of Zambia",
+    "region": "Solwezi",
+    "overallScore": 79,
+    "rating": "Good",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-25T00:00:00",
+    "department": "Subordinate Court Registry",
+    "gradeLevel": "GS-12",
+    "details": {
+      "workPerformance": 80,
+      "publicServiceInteraction": 78,
+      "complianceEthics": 82,
+      "attendancePunctuality": 76,
+      "professionalDevelopment": 80
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Work Performance",
+        "score": 80,
+        "weight": 30,
+        "weightedScore": 24.0,
+        "explanation": "Mulenga manages the Solwezi Subordinate Court registry efficiently, maintaining accurate case records and ensuring timely preparation of court files for hearings. His performance on case file management is strong but court order processing turnaround has slipped in recent months.",
+        "positiveFactors": [
+          "99% of court files prepared and delivered to judges at least 24 hours before scheduled hearings",
+          "Implemented a colour-coded filing system that reduced misplaced files by 70%",
+          "Accurately maintained the case register with zero discrepancies found in the annual registry audit"
+        ],
+        "negativeFactors": [
+          "Court order processing turnaround increased from 3 days to 7 days in the past quarter",
+          "8 litigants reported difficulty obtaining certified copies of court records within the promised 5-day timeline"
+        ],
+        "improvementTips": [
+          "Restore the court order processing turnaround to 3 days by prioritizing orders immediately after judgement delivery",
+          "Implement a log for all certified copy requests with a tracking number provided to litigants for follow-up",
+          "Request additional registry staff during court term periods when case volumes peak"
+        ]
+      },
+      {
+        "category": "Public Service Interaction",
+        "score": 78,
+        "weight": 20,
+        "weightedScore": 15.6,
+        "explanation": "Mulenga is respected by legal practitioners for his knowledge of court procedures. Members of the public, however, find the court registry processes confusing and report that Mulenga, while not unfriendly, does not proactively explain procedures to self-represented litigants.",
+        "positiveFactors": [
+          "Legal practitioners in Solwezi regard him as one of the most knowledgeable court clerks in North-Western Province",
+          "Responds to written inquiries from lawyers within 2 working days",
+          "Treats all court users with courtesy and professionalism"
+        ],
+        "negativeFactors": [
+          "Self-represented litigants report feeling confused and unsupported when navigating court filing procedures",
+          "No information pamphlets or guides available at the registry counter for members of the public",
+          "2 complaints about insufficient explanation of court fee structures"
+        ],
+        "improvementTips": [
+          "Create simple, plain-language guides in English and Kaonde for common court procedures such as filing claims and appeals",
+          "Spend an additional 5 minutes with each self-represented litigant to explain the next steps and required documents",
+          "Display the court fee schedule prominently at the registry counter with clear explanations"
+        ]
+      },
+      {
+        "category": "Compliance & Ethics",
+        "score": 82,
+        "weight": 20,
+        "weightedScore": 16.4,
+        "explanation": "Strong ethical standing with no integrity concerns. Mulenga handles sensitive case information with appropriate confidentiality and has never been involved in any record tampering or unauthorized disclosure. He maintains the chain of custody for all court exhibits properly.",
+        "positiveFactors": [
+          "Zero breaches of case confidentiality or unauthorized information disclosure throughout 10-year career",
+          "Proper chain of custody maintained for all court exhibits with documented handover records",
+          "Completed the Judicial Service Commission's annual ethics and integrity certification"
+        ],
+        "negativeFactors": [
+          "One instance of allowing a court file to be reviewed by a party's representative without verifying their authorization letter",
+          "Registry closing time procedures not always followed, with files occasionally left on the counter overnight"
+        ],
+        "improvementTips": [
+          "Always verify authorization letters against the court record before allowing any third-party file access",
+          "Implement a strict end-of-day registry security procedure ensuring all files are returned to secure storage",
+          "Conduct monthly spot checks on exhibit storage and chain of custody documentation"
+        ]
+      },
+      {
+        "category": "Attendance & Punctuality",
+        "score": 76,
+        "weight": 15,
+        "weightedScore": 11.4,
+        "explanation": "Attendance at 91% is acceptable but Mulenga has been late to open the registry on 4 court sitting days, causing delays to the start of proceedings. For a court clerk, punctuality on sitting days is critically important.",
+        "positiveFactors": [
+          "91% attendance rate, above the 90% Judicial Service Commission minimum",
+          "Present for all high-profile and extended-hours court sessions without exception"
+        ],
+        "negativeFactors": [
+          "Late registry opening on 4 court sitting days, delaying the commencement of proceedings",
+          "One unauthorized early departure on a non-sitting day noted by the Resident Magistrate"
+        ],
+        "improvementTips": [
+          "Arrive at least 30 minutes before the first scheduled court sitting to prepare the registry and files",
+          "Never depart early without explicit permission from the Resident Magistrate, even on non-sitting days",
+          "Set multiple alarms and plan transport arrangements the evening before each court sitting day"
+        ]
+      },
+      {
+        "category": "Professional Development",
+        "score": 80,
+        "weight": 15,
+        "weightedScore": 12.0,
+        "explanation": "Mulenga has a strong educational background and actively seeks professional growth. He completed the Court Administration Certificate and is pursuing further studies. His knowledge of the new electronic case management system being piloted is an asset.",
+        "positiveFactors": [
+          "Holds a Court Administration Certificate from the Judicial Training Institute",
+          "Among the first cohort of court clerks trained on the new Electronic Case Management System pilot",
+          "Pursuing a Bachelor of Laws degree part-time through the University of Zambia"
+        ],
+        "negativeFactors": [
+          "Has not yet completed the advanced records management module required for promotion to Senior Court Clerk",
+          "Missed the annual Judicial Service Commission professional development conference due to scheduling conflict"
+        ],
+        "improvementTips": [
+          "Prioritize completion of the advanced records management module in the next available intake",
+          "Plan well in advance to attend the next Judicial Service Commission professional development conference",
+          "Share Electronic Case Management System knowledge with colleagues to build capacity across the court registry"
+        ]
+      }
+    ],
+    "overallExplanation": "Mulenga Chishimba is a capable Court Clerk with strong technical knowledge and an exemplary ethical record. His case file management accuracy and commitment to professional growth are notable strengths. The key areas for improvement are restoring the court order processing turnaround time, improving support for self-represented litigants, and ensuring punctuality on court sitting days. Completing the advanced records management module would position him well for promotion to Senior Court Clerk.",
+    "topImprovementAreas": [
+      "Restore court order processing turnaround from 7 days back to the 3-day standard",
+      "Develop plain-language guides and improve support for self-represented litigants navigating court procedures",
+      "Ensure punctual registry opening on all court sitting days without exception"
+    ]
+  },
+  {
+    "id": "LLO-008",
+    "name": "Chanda Mwape",
+    "role": "Municipal Planning Officer",
+    "organization": "Kasama Municipal Council",
+    "region": "Kasama",
+    "overallScore": 42,
+    "rating": "Poor",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-02-10T00:00:00",
+    "department": "Planning and Development Control",
+    "gradeLevel": "GS-11",
+    "details": {
+      "workPerformance": 38,
+      "publicServiceInteraction": 40,
+      "complianceEthics": 42,
+      "attendancePunctuality": 45,
+      "professionalDevelopment": 35
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Work Performance",
+        "score": 38,
+        "weight": 30,
+        "weightedScore": 11.4,
+        "explanation": "Chanda's performance is critically deficient. Of 60 building permit applications received in the past quarter, only 18 have been processed, creating a severe backlog that is frustrating developers and residents alike. Site inspections are rarely conducted, and enforcement actions against illegal constructions in Kasama have effectively ceased under his watch.",
+        "positiveFactors": [
+          "Processed 3 complex commercial building permit applications correctly with detailed technical reviews"
+        ],
+        "negativeFactors": [
+          "Only 18 of 60 building permit applications processed, a 30% completion rate against an 85% target",
+          "Zero enforcement actions taken against 14 reported illegal constructions in the past 6 months",
+          "Site inspection schedule abandoned, with no inspections conducted in the last 2 months",
+          "The Kasama land use master plan update project, assigned to Chanda 12 months ago, has not progressed beyond the initial draft"
+        ],
+        "improvementTips": [
+          "Immediately resume site inspections with a minimum of 5 per week and document all findings",
+          "Process all 42 backlogged building permit applications within 8 weeks with a structured daily target",
+          "Submit a revised timeline and progress report for the land use master plan update to the Town Clerk within 2 weeks"
+        ]
+      },
+      {
+        "category": "Public Service Interaction",
+        "score": 40,
+        "weight": 20,
+        "weightedScore": 8.0,
+        "explanation": "Public feedback is overwhelmingly negative. Developers, architects, and residents report that Chanda is difficult to reach, unresponsive to inquiries, and dismissive when confronted about application delays. The Kasama business community has formally written to the Town Clerk expressing dissatisfaction.",
+        "positiveFactors": [
+          "When accessible, provides technically accurate guidance on building regulations and zoning requirements"
+        ],
+        "negativeFactors": [
+          "Formal complaint letter from the Kasama Chamber of Commerce citing unreasonable permit processing delays",
+          "8 individual complaints about unreturned phone calls and unanswered emails over a 3-month period",
+          "Architects report that scheduled meetings with Chanda are cancelled without notice more than 50% of the time",
+          "No public information sessions or stakeholder consultations held despite the ongoing master plan update"
+        ],
+        "improvementTips": [
+          "Respond to all phone calls and emails within 24 hours, even if only to acknowledge receipt and provide a timeline",
+          "Honour all scheduled meetings and provide at least 24 hours' notice if rescheduling is genuinely necessary",
+          "Hold a public stakeholder consultation on the Kasama master plan update within 4 weeks to re-engage the community"
+        ]
+      },
+      {
+        "category": "Compliance & Ethics",
+        "score": 42,
+        "weight": 20,
+        "weightedScore": 8.4,
+        "explanation": "Serious compliance concerns have emerged. An internal investigation found that Chanda approved 3 building permits that did not meet zoning requirements, and there are unresolved allegations that he received gifts from a property developer whose application was expedited. His asset declaration for the current year is overdue.",
+        "positiveFactors": [
+          "Cooperated with the internal investigation by providing requested documentation",
+          "No prior disciplinary record before the current investigation"
+        ],
+        "negativeFactors": [
+          "3 building permits approved in violation of zoning requirements, identified by the internal investigation",
+          "Unresolved allegations of receiving gifts from a property developer whose permit was expedited",
+          "Current year asset declaration overdue by 3 months with no explanation provided",
+          "Failed to declare a personal interest in a plot of land adjacent to a rezoning application he processed"
+        ],
+        "improvementTips": [
+          "Submit the overdue asset declaration immediately and ensure all personal interests are fully disclosed",
+          "Cooperate transparently with the ongoing investigation and provide all requested information without delay",
+          "Recuse from all planning decisions involving areas where personal property interests exist"
+        ]
+      },
+      {
+        "category": "Attendance & Punctuality",
+        "score": 45,
+        "weight": 15,
+        "weightedScore": 6.75,
+        "explanation": "Attendance is critically poor at 74%, well below the 90% council standard. Chanda is frequently absent without proper notification and has been found to be away from the office during working hours without authorization on multiple occasions.",
+        "positiveFactors": [
+          "Present during the 2 council planning committee meetings held in the past quarter"
+        ],
+        "negativeFactors": [
+          "74% attendance rate, 16 points below the 90% council standard",
+          "Found absent from the office during working hours without authorization on 5 separate occasions by the Town Clerk",
+          "Failed to notify the supervisor on 8 days of absence in the past 3 months",
+          "Colleagues report that he is frequently unreachable by phone during working hours"
+        ],
+        "improvementTips": [
+          "Maintain a minimum 90% attendance rate immediately and notify the supervisor by 07:30 for any absence",
+          "Remain in the office or at authorized field locations during all working hours with phone accessibility",
+          "Accept that continued unauthorized absences will result in formal disciplinary proceedings under council regulations"
+        ]
+      },
+      {
+        "category": "Professional Development",
+        "score": 35,
+        "weight": 15,
+        "weightedScore": 5.25,
+        "explanation": "Chanda has shown no commitment to professional development in the past 2 years. He has not completed any CPD hours, has not attended any training offered by the council or professional bodies, and his membership in the Zambia Institute of Planners has lapsed due to non-payment of subscriptions.",
+        "positiveFactors": [
+          "Holds a Bachelor's degree in Urban and Regional Planning from Copperbelt University"
+        ],
+        "negativeFactors": [
+          "Zero CPD hours completed in the past 2 years against a 30-hour annual requirement",
+          "Zambia Institute of Planners membership lapsed 14 months ago due to unpaid subscriptions",
+          "Declined 3 training opportunities offered by the council including a GIS course and leadership workshop",
+          "Has not updated professional knowledge on the revised Urban and Regional Planning Act amendments"
+        ],
+        "improvementTips": [
+          "Reinstate Zambia Institute of Planners membership immediately and attend the next available professional event",
+          "Complete at least 15 CPD hours in the next 6 months through available council-funded training programmes",
+          "Study the revised Urban and Regional Planning Act amendments and pass the departmental competency assessment"
+        ]
+      }
+    ],
+    "overallExplanation": "Chanda Mwape's performance as Municipal Planning Officer for Kasama is critically poor across all dimensions and represents a significant risk to the council's planning and development control functions. The severe permit processing backlog, cessation of enforcement activities, allegations of impropriety, chronic absenteeism, and complete absence of professional development paint a deeply concerning picture. The Town Clerk must intervene urgently with a formal performance improvement plan, and the ongoing investigation into zoning violations and gift allegations must be concluded promptly. Failure to demonstrate significant improvement within 90 days should result in disciplinary action.",
+    "topImprovementAreas": [
+      "Clear the building permit backlog and resume site inspections and enforcement actions immediately",
+      "Cooperate fully with the internal investigation and submit all overdue declarations and disclosures",
+      "Achieve and maintain 90% attendance and reinstate professional membership and development activities"
+    ]
+  }
+]

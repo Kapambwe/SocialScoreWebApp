@@ -1,0 +1,3445 @@
+[
+  {
+    "id": "PVT-001",
+    "companyName": "TechCorp",
+    "sector": "Technology",
+    "score": 92,
+    "rating": "Excellent",
+    "details": {
+      "legalCompliance": 95,
+      "financialCredibility": 90,
+      "contractualPerformance": 94,
+      "productQuality": 88,
+      "serviceQuality": 90,
+      "localContent": 82
+    },
+    "leader": {
+      "id": "LDR-001",
+      "name": "John Doe",
+      "score": 95,
+      "rating": "Excellent",
+      "details": {
+        "financialHistory": 98,
+        "legalCompliance": 92,
+        "socialBehavior": 95
+      },
+      "scoreBreakdown": [
+        {
+          "category": "Financial History",
+          "score": 98,
+          "weight": 40,
+          "weightedScore": 39.2,
+          "explanation": "John Doe maintains an impeccable personal financial record with zero defaults, consistently high credit standing, and transparent asset declarations over the past 15 years.",
+          "positiveFactors": [
+            "Zero loan defaults or late payments across all personal accounts",
+            "Complete and verified asset declarations filed annually for 15 consecutive years",
+            "Personal net worth grown steadily by 12% per annum through legitimate investments"
+          ],
+          "negativeFactors": [
+            "Minor tax filing delay of 5 days recorded in 2022, subsequently resolved"
+          ],
+          "improvementTips": [
+            "Automate personal tax filing reminders to ensure zero delays going forward",
+            "Consider diversifying investment portfolio to reduce sector concentration risk"
+          ]
+        },
+        {
+          "category": "Legal Compliance",
+          "score": 92,
+          "weight": 30,
+          "weightedScore": 27.6,
+          "explanation": "Excellent legal standing with no criminal record, no pending litigation, and proactive adherence to corporate governance best practices as a director.",
+          "positiveFactors": [
+            "Zero criminal or civil proceedings in personal capacity",
+            "Serves on industry ethics board and promotes corporate governance standards",
+            "Completed advanced corporate governance certification in 2024"
+          ],
+          "negativeFactors": [
+            "One historic directorship in a company that received a minor regulatory warning (resolved 2020)"
+          ],
+          "improvementTips": [
+            "Continue annual corporate governance training to maintain best-in-class director standing",
+            "Mentor emerging business leaders on legal compliance and ethical leadership"
+          ]
+        },
+        {
+          "category": "Social Behavior",
+          "score": 95,
+          "weight": 30,
+          "weightedScore": 28.5,
+          "explanation": "Exceptional community standing with significant philanthropic contributions, strong public reputation, and consistent engagement in social responsibility initiatives.",
+          "positiveFactors": [
+            "Founded STEM scholarship program benefiting 200+ students annually",
+            "Active board member of two national charitable organizations",
+            "Recognized with National Business Leadership Award 2024 for community impact"
+          ],
+          "negativeFactors": [
+            "Limited direct engagement with rural community outreach programs"
+          ],
+          "improvementTips": [
+            "Expand scholarship program to include rural and underserved communities",
+            "Partner with local NGOs to extend social impact beyond urban centers"
+          ]
+        }
+      ],
+      "overallExplanation": "John Doe exemplifies outstanding leadership integrity with near-perfect financial transparency, strong legal compliance, and meaningful community contributions. His track record as CEO of TechCorp directly supports the company's excellent credit standing.",
+      "topImprovementAreas": [
+        "Extend philanthropic and social impact initiatives into rural communities",
+        "Ensure all personal tax and filing deadlines are met with zero delays",
+        "Diversify personal investment portfolio to reduce sector concentration"
+      ]
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Legal Compliance",
+        "score": 95,
+        "weight": 18,
+        "weightedScore": 17.1,
+        "explanation": "TechCorp demonstrates exemplary legal compliance across all jurisdictions it operates in. The company proactively adopts new regulations and maintains a dedicated compliance team that conducts quarterly internal audits.",
+        "positiveFactors": [
+          "Zero regulatory violations in the past 5 years across all operating jurisdictions",
+          "Dedicated compliance team of 12 specialists conducting quarterly audits",
+          "Early adopter of new data protection and privacy regulations ahead of enforcement deadlines"
+        ],
+        "negativeFactors": [
+          "Minor labeling documentation gap identified in one export shipment, corrected within 48 hours"
+        ],
+        "improvementTips": [
+          "Implement AI-driven regulatory change monitoring to stay ahead of new legislation",
+          "Extend compliance training to all contractor and third-party vendor staff"
+        ]
+      },
+      {
+        "category": "Financial Credibility",
+        "score": 90,
+        "weight": 18,
+        "weightedScore": 16.2,
+        "explanation": "Strong financial position with consistent revenue growth, low debt-to-equity ratio, and timely payment of all obligations. Clean external audit for 7 consecutive years.",
+        "positiveFactors": [
+          "Revenue growth of 18% year-over-year for 3 consecutive years",
+          "Debt-to-equity ratio maintained at healthy 0.3, well below industry average of 0.8",
+          "Unqualified external audit opinion received for 7th consecutive year"
+        ],
+        "negativeFactors": [
+          "R&D expenditure increased sharply by 25%, temporarily reducing operating margins",
+          "One supplier payment delayed by 10 days due to system migration"
+        ],
+        "improvementTips": [
+          "Establish automated payment scheduling to prevent delays during system transitions",
+          "Communicate R&D investment strategy to stakeholders to maintain investor confidence"
+        ]
+      },
+      {
+        "category": "Contractual Performance",
+        "score": 94,
+        "weight": 18,
+        "weightedScore": 16.92,
+        "explanation": "TechCorp consistently delivers on contractual obligations with a 97% on-time delivery rate and 99% SLA compliance.",
+        "positiveFactors": [
+          "97% on-time delivery rate across 450+ active contracts",
+          "99% SLA compliance with average response time 40% better than contracted levels",
+          "Average client retention period of 6.5 years, indicating deep trust and reliability"
+        ],
+        "negativeFactors": [
+          "2 contracts experienced scope change disputes resolved through mediation"
+        ],
+        "improvementTips": [
+          "Implement proactive scope management protocols with change request thresholds",
+          "Introduce quarterly client satisfaction surveys with action tracking for all major accounts"
+        ]
+      },
+      {
+        "category": "Product Quality",
+        "score": 88,
+        "weight": 18,
+        "weightedScore": 15.84,
+        "explanation": "Products are well-regarded in the market with strong user reviews, ISO 9001 certification, and low defect rates.",
+        "positiveFactors": [
+          "ISO 9001:2015 certified across all product lines",
+          "Product defect rate of 0.3%, significantly below the 2% industry average",
+          "Average user rating of 4.7/5.0 across enterprise software products"
+        ],
+        "negativeFactors": [
+          "Post-launch support ticket resolution time averages 48 hours vs 24-hour target"
+        ],
+        "improvementTips": [
+          "Hire additional Tier 2 support engineers to reduce resolution time to under 24 hours",
+          "Implement automated QA pipelines to prevent feature release delays"
+        ]
+      },
+      {
+        "category": "Service Quality",
+        "score": 90,
+        "weight": 10,
+        "weightedScore": 9,
+        "explanation": "TechCorp delivers excellent customer service with industry-leading technical support responsiveness and efficient issue resolution. The company's dedicated support team consistently resolves tickets well within SLA targets, and customer onboarding processes are streamlined with comprehensive documentation.",
+        "positiveFactors": [
+          "Average technical support response time of 2 hours, well below the 8-hour industry standard",
+          "Customer onboarding satisfaction rating of 94% with structured 30-day onboarding program",
+          "Comprehensive product documentation library with 500+ articles and video tutorials maintained and updated quarterly"
+        ],
+        "negativeFactors": [
+          "Tier 2 escalation resolution time averages 48 hours, exceeding the 24-hour internal target"
+        ],
+        "improvementTips": [
+          "Hire additional Tier 2 support engineers to reduce escalation resolution time to under 24 hours",
+          "Implement AI-powered chatbot for common technical queries to further reduce first-response times",
+          "Expand product documentation to include interactive troubleshooting wizards for self-service resolution"
+        ]
+      },
+      {
+        "category": "Local Content & Zambian Procurement",
+        "score": 82,
+        "weight": 18,
+        "weightedScore": 14.76,
+        "explanation": "TechCorp sources 65% of its non-specialized procurement from Zambian suppliers and employs 92% local staff, though hardware and specialized components are still largely imported.",
+        "positiveFactors": [
+          "92% of workforce are Zambian nationals including senior management positions",
+          "Office supplies, cleaning, security, and catering 100% sourced from Zambian SMEs",
+          "Partnered with 3 Zambian software development firms for sub-contracted modules"
+        ],
+        "negativeFactors": [
+          "Server hardware and networking equipment 100% imported with no local alternatives considered",
+          "Specialized cloud services contracted exclusively with international providers"
+        ],
+        "improvementTips": [
+          "Explore partnerships with Zambian-based data center providers for hosting needs",
+          "Develop a local tech supplier incubation program to build domestic IT supply capacity",
+          "Set annual targets to increase Zambian procurement percentage by 5% year-over-year"
+        ]
+      }
+    ],
+    "overallExplanation": "TechCorp is a top-performing private sector entity demonstrating excellence across legal compliance, financial management, and contractual reliability. The company's strong leadership under John Doe, combined with consistent innovation investment and high client retention, positions it as a benchmark in the technology sector. Local content contribution is good but can be strengthened in specialized procurement.",
+    "topImprovementAreas": [
+      "Reduce post-launch support resolution time from 48 hours to under 24 hours",
+      "Increase local procurement of technology infrastructure and cloud services",
+      "Strengthen scope management in contracts to prevent mediation-level disputes"
+    ]
+  },
+  {
+    "id": "PVT-002",
+    "companyName": "AgriGrow",
+    "sector": "Agriculture",
+    "score": 78,
+    "rating": "Good",
+    "details": {
+      "legalCompliance": 80,
+      "financialCredibility": 75,
+      "contractualPerformance": 82,
+      "productQuality": 75,
+      "serviceQuality": 75,
+      "localContent": 90
+    },
+    "leader": {
+      "id": "LDR-002",
+      "name": "Jane Smith",
+      "score": 82,
+      "rating": "Good",
+      "details": {
+        "financialHistory": 85,
+        "legalCompliance": 80,
+        "socialBehavior": 81
+      },
+      "scoreBreakdown": [
+        {
+          "category": "Financial History",
+          "score": 85,
+          "weight": 40,
+          "weightedScore": 34,
+          "explanation": "Jane Smith maintains a solid personal financial record with timely debt repayments and transparent asset disclosures.",
+          "positiveFactors": [
+            "All personal loans and credit facilities repaid on schedule for the past 10 years",
+            "Transparent annual asset declarations filed with no discrepancies",
+            "Personal investment portfolio well-diversified across agriculture and real estate sectors"
+          ],
+          "negativeFactors": [
+            "Credit utilization exceeded 80% threshold for 3 months in 2023 due to farm expansion financing",
+            "One personal guarantee on a subsidiary loan that was restructured in 2021"
+          ],
+          "improvementTips": [
+            "Maintain credit utilization below 60% even during expansion periods",
+            "Reduce personal guarantee exposure by transitioning subsidiary loans to corporate-backed facilities"
+          ]
+        },
+        {
+          "category": "Legal Compliance",
+          "score": 80,
+          "weight": 30,
+          "weightedScore": 24,
+          "explanation": "Good legal standing with no criminal record and no active litigation.",
+          "positiveFactors": [
+            "Zero criminal record and no active personal litigation",
+            "Completed corporate governance and ethics training annually since 2019",
+            "Served as industry representative on government agricultural policy committee"
+          ],
+          "negativeFactors": [
+            "Previous directorship in a company that received an environmental compliance notice (2020, resolved)",
+            "Delayed filing of one annual director's interest disclosure by 30 days"
+          ],
+          "improvementTips": [
+            "Set calendar reminders for all regulatory filing deadlines to avoid future delays",
+            "Proactively disclose all directorships and interests ahead of statutory deadlines"
+          ]
+        },
+        {
+          "category": "Social Behavior",
+          "score": 81,
+          "weight": 30,
+          "weightedScore": 24.3,
+          "explanation": "Jane Smith is well-regarded in the agricultural community for her work supporting smallholder farmers and promoting sustainable farming practices.",
+          "positiveFactors": [
+            "Co-founded the Smallholder Farmer Support Initiative reaching 1,500 farmers",
+            "Regular speaker at national agricultural conferences on sustainable practices",
+            "Donated farm equipment worth $120,000 to community cooperatives in 2024"
+          ],
+          "negativeFactors": [
+            "Limited engagement with non-agricultural community programs",
+            "Social media presence is minimal, reducing public visibility of CSR efforts"
+          ],
+          "improvementTips": [
+            "Expand community engagement beyond agriculture to include education and health programs",
+            "Develop a social media strategy to amplify CSR initiatives and community impact"
+          ]
+        }
+      ],
+      "overallExplanation": "Jane Smith is a competent and respected agricultural business leader with a solid financial track record and meaningful contributions to the farming community.",
+      "topImprovementAreas": [
+        "Reduce personal credit utilization and guarantee exposure during business expansion",
+        "Ensure timely filing of all regulatory and disclosure documents",
+        "Broaden community engagement beyond the agricultural sector"
+      ]
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Legal Compliance",
+        "score": 80,
+        "weight": 18,
+        "weightedScore": 14.4,
+        "explanation": "AgriGrow maintains good legal compliance with all major regulations met. Some gaps exist in environmental documentation for new farming operations.",
+        "positiveFactors": [
+          "All agricultural operating licenses current and renewed on schedule",
+          "Zero litigation from employees, suppliers, or customers in the past 3 years",
+          "Successfully passed food safety and phytosanitary inspections with no major findings"
+        ],
+        "negativeFactors": [
+          "Environmental impact assessments incomplete for 2 of 5 new farm expansion sites",
+          "15% of seasonal worker contracts lack standardized terms and conditions"
+        ],
+        "improvementTips": [
+          "Complete all outstanding environmental impact assessments before commencing operations",
+          "Standardize all employment contracts including seasonal and temporary worker agreements"
+        ]
+      },
+      {
+        "category": "Financial Credibility",
+        "score": 75,
+        "weight": 18,
+        "weightedScore": 13.5,
+        "explanation": "Adequate financial position with steady revenue but thin margins due to commodity price volatility.",
+        "positiveFactors": [
+          "Revenue grew 8% year-over-year driven by export market expansion",
+          "Successfully secured agricultural development bank credit line of $2M",
+          "External audit completed with unqualified opinion"
+        ],
+        "negativeFactors": [
+          "Operating margin compressed to 6% from 11% due to fertilizer price increases",
+          "3 supplier payments delayed by 15-30 days during off-season cash flow troughs"
+        ],
+        "improvementTips": [
+          "Implement commodity price hedging strategy to protect margins from input cost volatility",
+          "Negotiate extended payment terms with key suppliers aligned to seasonal cash flow patterns"
+        ]
+      },
+      {
+        "category": "Contractual Performance",
+        "score": 82,
+        "weight": 18,
+        "weightedScore": 14.76,
+        "explanation": "Good track record of fulfilling supply contracts with buyers, though weather-related disruptions have caused some delivery shortfalls.",
+        "positiveFactors": [
+          "90% on-time delivery rate across all buyer contracts",
+          "Long-standing supply agreements with 3 major food processors averaging 5 years",
+          "Proactive communication with buyers during supply disruptions"
+        ],
+        "negativeFactors": [
+          "Two delivery shortfalls of 15-20% due to drought impact on yields",
+          "One export contract penalty of $25,000 incurred for late shipment"
+        ],
+        "improvementTips": [
+          "Invest in irrigation infrastructure to reduce weather dependency on crop yields",
+          "Build strategic grain reserves to buffer against supply shortfalls"
+        ]
+      },
+      {
+        "category": "Product Quality",
+        "score": 75,
+        "weight": 18,
+        "weightedScore": 13.5,
+        "explanation": "Products meet market standards and are generally well-received, but inconsistency in grading has led to buyer complaints.",
+        "positiveFactors": [
+          "Organic certification achieved for 40% of total crop production",
+          "Product accepted by 3 international export markets meeting their quality standards",
+          "Invested $500,000 in new sorting and grading equipment in 2024"
+        ],
+        "negativeFactors": [
+          "5% of shipments downgraded due to inconsistent sizing and grading",
+          "No formal quality management system certification (ISO 22000 in progress)"
+        ],
+        "improvementTips": [
+          "Accelerate ISO 22000 certification to strengthen food safety management system",
+          "Train sorting line staff on updated grading standards to reduce downgrade rates"
+        ]
+      },
+      {
+        "category": "Service Quality",
+        "score": 75,
+        "weight": 10,
+        "weightedScore": 7.5,
+        "explanation": "AgriGrow provides decent service quality with reliable produce delivery to most buyers and good farmer cooperative relations. However, rural delivery logistics present ongoing challenges with occasional delays during rainy seasons and limited communication infrastructure in remote farming areas.",
+        "positiveFactors": [
+          "Proactive buyer communication during supply disruptions with 48-hour advance notifications",
+          "Strong farmer cooperative relations with quarterly feedback sessions and transparent pricing"
+        ],
+        "negativeFactors": [
+          "Rural delivery delays of 3-5 days during rainy season affecting 15% of orders",
+          "Limited digital communication channels for order tracking and status updates"
+        ],
+        "improvementTips": [
+          "Invest in all-weather delivery vehicles and route optimization for rural areas",
+          "Implement mobile-based order tracking system accessible to buyers and cooperative partners",
+          "Establish regional collection points to reduce last-mile delivery challenges"
+        ]
+      },
+      {
+        "category": "Local Content & Zambian Procurement",
+        "score": 90,
+        "weight": 18,
+        "weightedScore": 16.2,
+        "explanation": "AgriGrow is a strong champion of local procurement, sourcing 95% of inputs from Zambian suppliers, employing entirely local staff, and purchasing seeds and fertilizer from Zambian distributors.",
+        "positiveFactors": [
+          "95% of all farm inputs (seeds, fertilizer, tools) purchased from Zambian suppliers and distributors",
+          "100% of workforce are Zambian nationals including farm managers and agronomists",
+          "Partners with 12 local smallholder cooperatives as contract growers, supporting 800+ families",
+          "Transport and logistics contracted exclusively with Zambian-owned trucking companies"
+        ],
+        "negativeFactors": [
+          "Specialized irrigation equipment imported from South Africa due to lack of local manufacturer",
+          "Crop insurance sourced from international reinsurer rather than Zambian insurance provider"
+        ],
+        "improvementTips": [
+          "Explore partnerships with Zambian engineering firms to assemble irrigation systems locally",
+          "Engage Zambian insurance companies to develop tailored agricultural insurance products"
+        ]
+      }
+    ],
+    "overallExplanation": "AgriGrow is a solid agricultural enterprise with outstanding local content contribution, good legal compliance, and reliable contractual performance. The company's main challenges lie in managing commodity price volatility and improving product quality consistency. Its deep commitment to Zambian procurement and smallholder farmer partnerships is exemplary.",
+    "topImprovementAreas": [
+      "Implement commodity hedging and cash flow management to stabilize financial credibility",
+      "Complete ISO 22000 certification and reduce product grading inconsistencies",
+      "Finish environmental impact assessments for all new farm expansion sites"
+    ]
+  },
+  {
+    "id": "PVT-003",
+    "companyName": "MineralWorks Ltd",
+    "sector": "Mining",
+    "score": 55,
+    "rating": "Needs Improvement",
+    "details": {
+      "legalCompliance": 50,
+      "financialCredibility": 58,
+      "contractualPerformance": 60,
+      "productQuality": 52,
+      "serviceQuality": 48,
+      "localContent": 40
+    },
+    "leader": {
+      "id": "LDR-003",
+      "name": "Robert Mwanza",
+      "score": 60,
+      "rating": "Needs Improvement",
+      "details": {
+        "financialHistory": 62,
+        "legalCompliance": 55,
+        "socialBehavior": 63
+      },
+      "scoreBreakdown": [
+        {
+          "category": "Financial History",
+          "score": 62,
+          "weight": 40,
+          "weightedScore": 24.8,
+          "explanation": "Robert Mwanza's personal financial record shows several areas of concern including high personal debt leverage and incomplete asset declarations.",
+          "positiveFactors": [
+            "Primary mortgage and vehicle loans currently in good standing",
+            "No personal bankruptcy filings or court judgments for debt recovery"
+          ],
+          "negativeFactors": [
+            "Personal debt-to-income ratio exceeds 55%, indicating high leverage",
+            "One personal business loan restructured in 2023 after 90-day delinquency",
+            "Asset declaration for 2024 filed 45 days late with 2 properties omitted initially",
+            "Tax assessment dispute with revenue authority pending resolution since 2023"
+          ],
+          "improvementTips": [
+            "Develop a personal debt reduction plan to bring debt-to-income ratio below 40%",
+            "Resolve outstanding tax assessment dispute and ensure full compliance",
+            "Engage a personal financial advisor to ensure complete and timely asset declarations"
+          ]
+        },
+        {
+          "category": "Legal Compliance",
+          "score": 55,
+          "weight": 30,
+          "weightedScore": 16.5,
+          "explanation": "Several legal compliance concerns exist including an ongoing directorship dispute and a pending environmental liability claim.",
+          "positiveFactors": [
+            "No criminal convictions or fraud-related proceedings",
+            "Cooperating fully with ongoing regulatory inquiries"
+          ],
+          "negativeFactors": [
+            "Directorship dispute in related company currently in arbitration",
+            "Annual returns for a subsidiary filed 6 months late, incurring penalties",
+            "Named as respondent in environmental liability claim related to mine site contamination",
+            "Failed to disclose a conflict of interest in one procurement decision"
+          ],
+          "improvementTips": [
+            "Resolve directorship dispute through mediation to avoid protracted arbitration costs",
+            "Appoint a company secretary to ensure all statutory filings are made on time",
+            "Proactively address environmental liability by engaging remediation specialists"
+          ]
+        },
+        {
+          "category": "Social Behavior",
+          "score": 63,
+          "weight": 30,
+          "weightedScore": 18.9,
+          "explanation": "Limited community engagement and some negative media coverage regarding mining community relations.",
+          "positiveFactors": [
+            "Launched apprenticeship program employing 50 local youth in mining trades",
+            "Contributed $80,000 to local school infrastructure development in 2024"
+          ],
+          "negativeFactors": [
+            "Negative media coverage regarding community relocation disputes at two mine sites",
+            "No formal community engagement framework or stakeholder management plan",
+            "Social media sentiment predominantly negative at 35% approval rating"
+          ],
+          "improvementTips": [
+            "Develop and publish a formal community engagement and stakeholder management plan",
+            "Hire a dedicated community relations officer to manage mining-affected community concerns",
+            "Increase transparency by publishing community impact reports annually"
+          ]
+        }
+      ],
+      "overallExplanation": "Robert Mwanza faces significant challenges in personal financial management, legal compliance, and community relations that directly impact MineralWorks Ltd's credit standing.",
+      "topImprovementAreas": [
+        "Resolve tax dispute and reduce personal debt-to-income ratio below 40%",
+        "Address environmental liability claim and directorship dispute promptly",
+        "Develop a formal community engagement framework to improve public sentiment"
+      ]
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Legal Compliance",
+        "score": 50,
+        "weight": 18,
+        "weightedScore": 9,
+        "explanation": "MineralWorks Ltd has significant legal compliance gaps including unresolved environmental violations and incomplete mining license renewals.",
+        "positiveFactors": [
+          "Primary mining license valid and operational for main mine site",
+          "Engaged external legal counsel to address compliance backlog"
+        ],
+        "negativeFactors": [
+          "3 environmental violation notices issued for improper waste disposal at tailings dam",
+          "2 mining license renewals overdue by 4+ months for satellite operations",
+          "Labor inspection found 12% of workers on non-compliant contracts",
+          "Outstanding fine of $150,000 for air quality standard exceedance unpaid for 6 months"
+        ],
+        "improvementTips": [
+          "Pay outstanding environmental fines immediately and implement corrective action plan",
+          "Expedite mining license renewals for all satellite operations within 60 days",
+          "Conduct urgent review of all worker contracts to include mandatory safety provisions"
+        ]
+      },
+      {
+        "category": "Financial Credibility",
+        "score": 58,
+        "weight": 18,
+        "weightedScore": 10.44,
+        "explanation": "Financial position is under pressure with declining margins, high debt levels, and qualified audit opinion.",
+        "positiveFactors": [
+          "Revenue of $45M maintained despite commodity price headwinds",
+          "Successfully renegotiated one major debt facility extending maturity by 2 years"
+        ],
+        "negativeFactors": [
+          "External audit issued qualified opinion on going concern basis",
+          "Debt-to-equity ratio at 2.1, significantly above industry average of 1.2",
+          "35% of supplier payments overdue by 30+ days",
+          "Operating margin declined from 15% to 4% over past 2 years"
+        ],
+        "improvementTips": [
+          "Develop and present a credible turnaround plan to lenders to restore credit lines",
+          "Implement strict cash flow forecasting and prioritize critical supplier payments"
+        ]
+      },
+      {
+        "category": "Contractual Performance",
+        "score": 60,
+        "weight": 18,
+        "weightedScore": 10.8,
+        "explanation": "Contractual delivery has been inconsistent with multiple shortfalls in ore supply commitments.",
+        "positiveFactors": [
+          "Maintained primary offtake agreement with largest buyer for 8 years",
+          "Proactively communicated production challenges to key buyers"
+        ],
+        "negativeFactors": [
+          "Ore supply shortfalls of 20-30% on 3 long-term contracts due to equipment breakdowns",
+          "Penalty clauses totaling $420,000 triggered across 3 contracts",
+          "One buyer terminated contract early citing persistent delivery reliability concerns"
+        ],
+        "improvementTips": [
+          "Implement preventive maintenance program to reduce equipment breakdown frequency by 50%",
+          "Build a 30-day buffer stockpile to fulfill contracts during production disruptions"
+        ]
+      },
+      {
+        "category": "Product Quality",
+        "score": 52,
+        "weight": 18,
+        "weightedScore": 9.36,
+        "explanation": "Product quality is the weakest area with recurring grade inconsistency and high impurity levels.",
+        "positiveFactors": [
+          "New ore processing plant includes advanced beneficiation technology",
+          "Hired a qualified metallurgist to lead quality assurance function"
+        ],
+        "negativeFactors": [
+          "Average metal content 8% below contracted grade specifications over past 12 months",
+          "Impurity levels exceeded buyer tolerances on 6 of 20 shipments",
+          "No ISO 9001 or equivalent quality management system certification"
+        ],
+        "improvementTips": [
+          "Fast-track commissioning of new processing plant to replace legacy equipment",
+          "Begin ISO 9001 certification process with target completion within 12 months"
+        ]
+      },
+      {
+        "category": "Service Quality",
+        "score": 48,
+        "weight": 10,
+        "weightedScore": 4.8,
+        "explanation": "MineralWorks Ltd has poor service quality with significant deficiencies in contractor relations, community engagement, and environmental complaint response. Stakeholder grievances are frequently left unaddressed for extended periods, and permit reporting is consistently delayed.",
+        "positiveFactors": [
+          "Recently appointed a dedicated community liaison officer to improve stakeholder engagement"
+        ],
+        "negativeFactors": [
+          "Environmental complaints from surrounding communities take an average of 90 days to receive any response",
+          "Contractor payment disputes unresolved for 6+ months affecting 8 service providers",
+          "Stakeholder engagement meetings held only twice per year, well below the quarterly industry standard"
+        ],
+        "improvementTips": [
+          "Establish a 14-day maximum response time for all environmental and community complaints",
+          "Create a formal contractor dispute resolution mechanism with clear timelines and escalation procedures",
+          "Increase stakeholder engagement meetings to quarterly with published agendas and follow-up action tracking"
+        ]
+      },
+      {
+        "category": "Local Content & Zambian Procurement",
+        "score": 40,
+        "weight": 18,
+        "weightedScore": 7.2,
+        "explanation": "MineralWorks Ltd has a poor track record of awarding contracts to Zambian businesses. Only 22% of total procurement spend goes to local suppliers, with major contracts consistently awarded to foreign firms.",
+        "positiveFactors": [
+          "Catering and cleaning services contracted to local Zambian companies",
+          "Basic PPE and safety equipment purchased from Zambian distributors"
+        ],
+        "negativeFactors": [
+          "Only 22% of total procurement spend directed to Zambian-owned businesses",
+          "All major drilling and blasting contracts awarded to South African and Australian firms",
+          "Equipment maintenance contracts given to foreign OEM service providers despite local alternatives",
+          "Transport of ore concentrate contracted to international logistics firm bypassing Zambian trucking companies",
+          "No local supplier development program or mentorship initiative in place"
+        ],
+        "improvementTips": [
+          "Establish a mandatory local content plan with annual targets reaching 50% within 3 years",
+          "Create a Zambian supplier development and mentorship program for mining services",
+          "Unbundle large contracts into smaller packages accessible to Zambian SMEs",
+          "Partner with Zambian engineering and fabrication firms for equipment maintenance and repair",
+          "Award transport and logistics contracts to Zambian-owned trucking companies"
+        ]
+      }
+    ],
+    "overallExplanation": "MineralWorks Ltd is facing significant challenges across all credit dimensions, most critically in local content where only 22% of procurement goes to Zambian businesses. Environmental compliance failures, deteriorating financial health, and product quality issues compound the problem. A structured turnaround plan addressing local procurement, legal compliance, and debt restructuring is essential.",
+    "topImprovementAreas": [
+      "Increase Zambian procurement from 22% to at least 50% by developing local supplier partnerships",
+      "Resolve all environmental violations and pay outstanding fines",
+      "Develop a credible financial turnaround plan to address debt levels and restore lender confidence"
+    ]
+  },
+  {
+    "id": "PVT-004",
+    "companyName": "Kansanshi Copper Holdings",
+    "sector": "Mining",
+    "score": 86,
+    "rating": "Good",
+    "details": {
+      "legalCompliance": 90,
+      "financialCredibility": 88,
+      "contractualPerformance": 85,
+      "productQuality": 92,
+      "serviceQuality": 78,
+      "localContent": 72
+    },
+    "leader": {
+      "id": "LDR-004",
+      "name": "David Chilufya",
+      "score": 88,
+      "rating": "Good",
+      "details": {
+        "financialHistory": 90,
+        "legalCompliance": 88,
+        "socialBehavior": 86
+      },
+      "scoreBreakdown": [
+        {
+          "category": "Financial History",
+          "score": 90,
+          "weight": 40,
+          "weightedScore": 36,
+          "explanation": "David Chilufya has an excellent personal financial record with clean credit history, transparent declarations, and prudent investment management.",
+          "positiveFactors": [
+            "Zero loan defaults across personal and business accounts for 20 years",
+            "Transparent and timely asset declarations filed with the Anti-Corruption Commission",
+            "Diversified personal investment portfolio across mining, real estate, and government bonds"
+          ],
+          "negativeFactors": [
+            "One minor delay of 7 days in property tax payment due to administrative oversight"
+          ],
+          "improvementTips": [
+            "Set up automated payment reminders for all property and tax obligations"
+          ]
+        },
+        {
+          "category": "Legal Compliance",
+          "score": 88,
+          "weight": 30,
+          "weightedScore": 26.4,
+          "explanation": "Strong legal standing with no criminal proceedings, active participation in industry governance, and clean directorship record.",
+          "positiveFactors": [
+            "Zero criminal or civil proceedings in personal capacity",
+            "Chair of the Zambia Chamber of Mines governance committee since 2022",
+            "Proactive disclosure of all potential conflicts of interest"
+          ],
+          "negativeFactors": [
+            "One historic association with a company that faced a tax dispute (resolved 2019 with no personal liability)"
+          ],
+          "improvementTips": [
+            "Continue active industry governance leadership to strengthen mining sector standards"
+          ]
+        },
+        {
+          "category": "Social Behavior",
+          "score": 86,
+          "weight": 30,
+          "weightedScore": 25.8,
+          "explanation": "Strong community engagement through mining community development programs and educational sponsorships.",
+          "positiveFactors": [
+            "Founded mining community skills training center benefiting 500+ youth annually",
+            "Personal donations of K2 million to Solwezi District Hospital expansion",
+            "Active patron of the Zambian Mining Education Trust"
+          ],
+          "negativeFactors": [
+            "Community perception surveys show some distrust related to land acquisition processes"
+          ],
+          "improvementTips": [
+            "Establish a transparent community dialogue forum to address land acquisition concerns directly",
+            "Publish annual personal community impact report to build trust"
+          ]
+        }
+      ],
+      "overallExplanation": "David Chilufya demonstrates strong personal integrity, financial transparency, and meaningful community contributions that positively support Kansanshi Copper Holdings' reputation.",
+      "topImprovementAreas": [
+        "Address community distrust around land acquisition through transparent dialogue",
+        "Continue leadership in mining sector governance reform",
+        "Automate personal tax and payment obligations to maintain spotless record"
+      ]
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Legal Compliance",
+        "score": 90,
+        "weight": 18,
+        "weightedScore": 16.2,
+        "explanation": "Kansanshi maintains excellent legal compliance with full adherence to mining regulations, environmental standards, and labor laws. Regular voluntary audits exceed minimum requirements.",
+        "positiveFactors": [
+          "Full compliance with Mines and Minerals Development Act in all annual inspections",
+          "Environmental Management Plan approved and actively monitored by ZEMA with zero violations",
+          "All mining licenses current with 100% on-time renewals",
+          "Voluntary adoption of International Council on Mining and Metals (ICMM) standards"
+        ],
+        "negativeFactors": [
+          "One minor community grievance regarding dust levels near processing plant, addressed within 30 days"
+        ],
+        "improvementTips": [
+          "Install real-time air quality monitoring stations at all community boundary points",
+          "Publish quarterly environmental compliance reports publicly"
+        ]
+      },
+      {
+        "category": "Financial Credibility",
+        "score": 88,
+        "weight": 18,
+        "weightedScore": 15.84,
+        "explanation": "Strong financial position supported by consistent copper production, healthy margins, and stable revenue streams from long-term offtake agreements.",
+        "positiveFactors": [
+          "Revenue of $1.2 billion with 18% operating margin maintained for 3 consecutive years",
+          "Debt-to-equity ratio at 0.4, well within industry norms",
+          "Unqualified external audit opinion from Big Four auditor for 8th consecutive year",
+          "All tax obligations paid on time with zero disputes with Zambia Revenue Authority"
+        ],
+        "negativeFactors": [
+          "Copper price volatility caused 8% revenue dip in Q3 2025 before recovering",
+          "Capital expenditure on new shaft exceeded budget by 12%"
+        ],
+        "improvementTips": [
+          "Implement copper price hedging strategy to smooth quarterly revenue fluctuations",
+          "Strengthen capital project cost estimation and management processes"
+        ]
+      },
+      {
+        "category": "Contractual Performance",
+        "score": 85,
+        "weight": 18,
+        "weightedScore": 15.3,
+        "explanation": "Reliable delivery track record with 94% fulfillment rate on offtake agreements. Minor disruptions during planned maintenance shutdowns.",
+        "positiveFactors": [
+          "94% on-time delivery against all offtake contracts over past 3 years",
+          "Long-term supply agreements with 5 international smelters averaging 7 years duration",
+          "Zero force majeure claims filed in the past 5 years"
+        ],
+        "negativeFactors": [
+          "Two planned maintenance shutdowns caused 10-day delivery delays to 2 buyers",
+          "One quality dispute on a concentrate shipment resolved through price adjustment"
+        ],
+        "improvementTips": [
+          "Schedule major maintenance during low-demand periods to minimize delivery impact",
+          "Build 15-day buffer stockpile of concentrate to cover maintenance windows"
+        ]
+      },
+      {
+        "category": "Product Quality",
+        "score": 92,
+        "weight": 18,
+        "weightedScore": 16.56,
+        "explanation": "Industry-leading copper concentrate quality with consistent grade specifications, low impurity levels, and ISO 9001 certification.",
+        "positiveFactors": [
+          "Copper concentrate grade consistently at 28-30%, exceeding the 25% industry standard",
+          "ISO 9001:2015 and ISO 14001:2015 certified across all operations",
+          "Zero rejected shipments in the past 24 months",
+          "State-of-the-art ore processing plant commissioned in 2023 improved recovery rates by 8%"
+        ],
+        "negativeFactors": [
+          "Minor variation in arsenic levels on 2 of 50 shipments, within tolerance but flagged by buyer"
+        ],
+        "improvementTips": [
+          "Install inline arsenic monitoring at processing plant to flag variations before shipping",
+          "Pursue ISO 45001 certification to complete the integrated management system"
+        ]
+      },
+      {
+        "category": "Service Quality",
+        "score": 78,
+        "weight": 10,
+        "weightedScore": 7.8,
+        "explanation": "Kansanshi Copper Holdings maintains good service quality with well-structured contractor relations and proactive stakeholder engagement. The company's Zambian Supplier Development Programme demonstrates commitment to contractor support, though environmental complaint response times could be improved.",
+        "positiveFactors": [
+          "Dedicated contractor management team with quarterly performance reviews and feedback sessions",
+          "Stakeholder engagement forums held quarterly in all affected communities with published action items",
+          "Permit and regulatory reporting submitted on time with 100% compliance record for the past 3 years"
+        ],
+        "negativeFactors": [
+          "Environmental complaint response time averages 35 days, above the 14-day best practice target",
+          "Some community members report insufficient follow-through on engagement forum commitments"
+        ],
+        "improvementTips": [
+          "Reduce environmental complaint response time to under 14 days through a dedicated complaints tracking system",
+          "Implement a public action-tracking dashboard for stakeholder engagement commitments",
+          "Extend contractor support services to include technical training and capacity building for Zambian firms"
+        ]
+      },
+      {
+        "category": "Local Content & Zambian Procurement",
+        "score": 72,
+        "weight": 18,
+        "weightedScore": 12.96,
+        "explanation": "Kansanshi has made progress on local procurement with 48% of total spend going to Zambian businesses, but major mining contracts for drilling, blasting, and heavy equipment remain dominated by international firms.",
+        "positiveFactors": [
+          "48% of total procurement spend ($180M) directed to Zambian-owned businesses",
+          "All catering, security, cleaning, and transport services contracted to Zambian firms",
+          "Established Zambian Supplier Development Programme training 60 local SMEs annually",
+          "Invested $5M in a local fabrication workshop to build mine support structures in-country",
+          "97% of workforce are Zambian nationals with active succession planning for expatriate roles"
+        ],
+        "negativeFactors": [
+          "Drilling and blasting contracts (worth $40M annually) awarded to South African firm",
+          "Heavy earth-moving equipment exclusively sourced from international OEMs with no local assembly",
+          "Technical consulting services ($8M annually) contracted to Australian and Canadian firms",
+          "Only 15% of CAPEX projects awarded to Zambian engineering and construction companies"
+        ],
+        "improvementTips": [
+          "Unbundle drilling and blasting contracts to allow Zambian firms to bid on specific components",
+          "Partner with Zambian universities to develop local technical consulting capacity in mining engineering",
+          "Set a target of 30% CAPEX project awards to Zambian engineering firms within 3 years",
+          "Explore local assembly partnerships for heavy equipment maintenance and parts manufacturing",
+          "Create a ring-fenced procurement fund for Zambian-owned mining services startups"
+        ]
+      }
+    ],
+    "overallExplanation": "Kansanshi Copper Holdings is a well-managed mining operation with strong legal compliance, excellent product quality, and solid financial health. The company's Zambian Supplier Development Programme is a positive step, but significant room remains to increase local content from 48% particularly in high-value mining contracts for drilling, blasting, and technical consulting that continue to be awarded to international firms.",
+    "topImprovementAreas": [
+      "Increase Zambian procurement share from 48% to 65% by unbundling major contracts for local firms",
+      "Award more CAPEX engineering projects to Zambian construction and engineering companies",
+      "Develop local technical consulting capacity through university partnerships"
+    ]
+  },
+  {
+    "id": "PVT-005",
+    "companyName": "Lumwana Mineral Resources",
+    "sector": "Mining",
+    "score": 79,
+    "rating": "Good",
+    "details": {
+      "legalCompliance": 82,
+      "financialCredibility": 80,
+      "contractualPerformance": 78,
+      "productQuality": 84,
+      "serviceQuality": 72,
+      "localContent": 65
+    },
+    "leader": {
+      "id": "LDR-005",
+      "name": "Patricia Banda",
+      "score": 84,
+      "rating": "Good",
+      "details": {
+        "financialHistory": 86,
+        "legalCompliance": 82,
+        "socialBehavior": 84
+      },
+      "scoreBreakdown": [
+        {
+          "category": "Financial History",
+          "score": 86,
+          "weight": 40,
+          "weightedScore": 34.4,
+          "explanation": "Patricia Banda has a strong personal financial record with consistent asset growth and transparent declarations.",
+          "positiveFactors": [
+            "Zero loan defaults or restructured debts in personal capacity",
+            "Asset declarations filed on time every year since appointment",
+            "Personal investments diversified across mining equities, agriculture, and bonds"
+          ],
+          "negativeFactors": [
+            "One credit card utilization spike to 75% during personal property acquisition"
+          ],
+          "improvementTips": [
+            "Maintain credit utilization below 50% by planning large purchases in advance"
+          ]
+        },
+        {
+          "category": "Legal Compliance",
+          "score": 82,
+          "weight": 30,
+          "weightedScore": 24.6,
+          "explanation": "Good legal standing with proactive governance practices and industry engagement.",
+          "positiveFactors": [
+            "No criminal record or pending personal litigation",
+            "Active member of the Extractive Industries Transparency Initiative (EITI) Zambia multi-stakeholder group",
+            "Completed international mining governance certification"
+          ],
+          "negativeFactors": [
+            "One late filing of director's interest disclosure by 15 days"
+          ],
+          "improvementTips": [
+            "Automate all regulatory filing deadlines with calendar alerts and backup signatories"
+          ]
+        },
+        {
+          "category": "Social Behavior",
+          "score": 84,
+          "weight": 30,
+          "weightedScore": 25.2,
+          "explanation": "Active community contributor with focus on education and women's empowerment in mining communities.",
+          "positiveFactors": [
+            "Founded Women in Mining Zambia scholarship fund supporting 100 female students annually",
+            "Personally sponsored construction of 2 community health posts near mine operations",
+            "Regular community engagement forums held quarterly in Lumwana district"
+          ],
+          "negativeFactors": [
+            "Some community leaders feel engagement is tokenistic rather than participatory"
+          ],
+          "improvementTips": [
+            "Transition from informational community forums to participatory decision-making processes",
+            "Establish community advisory board with elected local representatives"
+          ]
+        }
+      ],
+      "overallExplanation": "Patricia Banda is a well-respected mining executive with strong financial integrity and genuine community commitment, particularly in women's empowerment.",
+      "topImprovementAreas": [
+        "Deepen community engagement from informational to participatory decision-making",
+        "Maintain spotless filing record with automated compliance systems",
+        "Continue leadership in women's empowerment in the mining sector"
+      ]
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Legal Compliance",
+        "score": 82,
+        "weight": 18,
+        "weightedScore": 14.76,
+        "explanation": "Good compliance record with all major mining licenses current. Minor gaps in community relocation documentation.",
+        "positiveFactors": [
+          "All mining and environmental licenses current and properly maintained",
+          "ZEMA environmental audits passed with no major findings for 3 consecutive years",
+          "Labor compliance above industry average with 98% of workers on proper contracts"
+        ],
+        "negativeFactors": [
+          "Community relocation documentation for Phase 3 expansion incomplete",
+          "One minor safety incident reporting delay of 48 hours (subsequently reported and addressed)"
+        ],
+        "improvementTips": [
+          "Complete all community relocation documentation before Phase 3 expansion proceeds",
+          "Implement real-time safety incident reporting system to eliminate reporting delays"
+        ]
+      },
+      {
+        "category": "Financial Credibility",
+        "score": 80,
+        "weight": 18,
+        "weightedScore": 14.4,
+        "explanation": "Solid financial position with growing revenue, though heavily dependent on single copper commodity.",
+        "positiveFactors": [
+          "Revenue of $800M with stable 15% operating margin",
+          "Zero outstanding tax disputes with Zambia Revenue Authority",
+          "Clean unqualified audit opinion for 5 consecutive years"
+        ],
+        "negativeFactors": [
+          "100% revenue dependence on copper creates commodity price risk",
+          "Capital expenditure overruns of 15% on tailings dam expansion project"
+        ],
+        "improvementTips": [
+          "Explore gold and cobalt by-product recovery to diversify revenue streams",
+          "Strengthen project cost management with independent quantity surveyor reviews"
+        ]
+      },
+      {
+        "category": "Contractual Performance",
+        "score": 78,
+        "weight": 18,
+        "weightedScore": 14.04,
+        "explanation": "Generally reliable delivery but affected by power supply interruptions and equipment age-related breakdowns.",
+        "positiveFactors": [
+          "88% on-time delivery rate on all offtake agreements",
+          "Zero force majeure claims in current contract period",
+          "Strong buyer relationships with average contract duration of 5 years"
+        ],
+        "negativeFactors": [
+          "ZESCO power outages caused 15-day production halt affecting 3 delivery schedules",
+          "Aging crusher fleet caused 2 unplanned shutdowns totaling 18 days of lost production"
+        ],
+        "improvementTips": [
+          "Invest in 20MW backup power generation to mitigate ZESCO supply interruptions",
+          "Accelerate crusher fleet replacement program to reduce unplanned downtime"
+        ]
+      },
+      {
+        "category": "Product Quality",
+        "score": 84,
+        "weight": 18,
+        "weightedScore": 15.12,
+        "explanation": "Good product quality with consistent copper concentrate grades and ISO certification.",
+        "positiveFactors": [
+          "Copper concentrate grade maintained at 26-28%, meeting all buyer specifications",
+          "ISO 9001 certified with annual surveillance audits passed consistently",
+          "New flotation circuit improved copper recovery rate by 5%"
+        ],
+        "negativeFactors": [
+          "3 of 40 shipments had moisture content slightly above contracted maximum",
+          "Lab testing equipment requires calibration upgrade"
+        ],
+        "improvementTips": [
+          "Install automated moisture monitoring at ship-loading point",
+          "Upgrade laboratory equipment and implement quarterly calibration schedule"
+        ]
+      },
+      {
+        "category": "Service Quality",
+        "score": 72,
+        "weight": 10,
+        "weightedScore": 7.2,
+        "explanation": "Lumwana Mineral Resources provides adequate service quality with functional contractor relations and regular stakeholder engagement, though there is clear room for improvement. Community engagement is sometimes perceived as informational rather than participatory, and environmental complaint handling processes need strengthening.",
+        "positiveFactors": [
+          "Regular community engagement forums held quarterly in Lumwana district",
+          "Contractor onboarding process streamlined with clear expectations and performance metrics"
+        ],
+        "negativeFactors": [
+          "Community members perceive engagement as tokenistic rather than genuinely participatory",
+          "Environmental complaint handling lacks formal tracking system, leading to inconsistent response times"
+        ],
+        "improvementTips": [
+          "Transition from informational community forums to participatory decision-making processes with community advisory board",
+          "Implement a formal environmental complaint tracking and response system with published resolution timelines",
+          "Conduct annual contractor satisfaction surveys and publish results with improvement action plans"
+        ]
+      },
+      {
+        "category": "Local Content & Zambian Procurement",
+        "score": 65,
+        "weight": 18,
+        "weightedScore": 11.7,
+        "explanation": "Lumwana directs 42% of procurement to Zambian businesses but major contracts for drilling, equipment, and technical services remain with international firms. The company has a growing local supplier program but progress is slow.",
+        "positiveFactors": [
+          "42% of procurement spend ($130M) goes to Zambian-owned businesses",
+          "All security, catering, and camp management services contracted locally",
+          "Local supplier development program enrolled 30 Zambian SMEs in 2025",
+          "95% of workforce are Zambian nationals"
+        ],
+        "negativeFactors": [
+          "Drilling contracts ($25M annually) awarded exclusively to Canadian firm",
+          "Mine planning and geological consulting sourced from Australian firm",
+          "Heavy equipment spare parts procured through international OEM channels only",
+          "No Zambian-owned firms involved in mine rehabilitation or closure planning"
+        ],
+        "improvementTips": [
+          "Split drilling contracts to include at least 30% allocation to Zambian drilling companies",
+          "Partner with University of Zambia School of Mines for geological consulting internship pipeline",
+          "Develop local spare parts warehousing and distribution through Zambian partners",
+          "Include Zambian environmental firms in mine rehabilitation planning from early stages"
+        ]
+      }
+    ],
+    "overallExplanation": "Lumwana Mineral Resources is a solid mining operation with good legal compliance and product quality. Local content at 42% shows commitment but needs significant improvement, particularly in awarding drilling, consulting, and technical contracts to Zambian businesses. Power supply risks and equipment aging are operational concerns that require investment.",
+    "topImprovementAreas": [
+      "Increase Zambian procurement from 42% to 60% by splitting major contracts to include local firms",
+      "Invest in backup power generation to mitigate ZESCO supply interruptions",
+      "Replace aging crusher fleet to reduce unplanned production downtime"
+    ]
+  },
+  {
+    "id": "PVT-006",
+    "companyName": "Shoppers Choice Zambia",
+    "sector": "Retail",
+    "score": 75,
+    "rating": "Good",
+    "details": {
+      "legalCompliance": 82,
+      "financialCredibility": 78,
+      "contractualPerformance": 76,
+      "productQuality": 70,
+      "serviceQuality": 80,
+      "localContent": 58
+    },
+    "leader": {
+      "id": "LDR-006",
+      "name": "Grace Tembo",
+      "score": 80,
+      "rating": "Good",
+      "details": {
+        "financialHistory": 82,
+        "legalCompliance": 78,
+        "socialBehavior": 80
+      },
+      "scoreBreakdown": [
+        {
+          "category": "Financial History",
+          "score": 82,
+          "weight": 40,
+          "weightedScore": 32.8,
+          "explanation": "Grace Tembo has a solid financial history with good personal credit standing and transparent declarations.",
+          "positiveFactors": [
+            "All personal loans in good standing with zero late payments in 12 years",
+            "Personal asset declarations filed on time and verified by external auditors"
+          ],
+          "negativeFactors": [
+            "Personal guarantee on company lease created temporary debt-to-income ratio spike"
+          ],
+          "improvementTips": [
+            "Transition personal guarantees to corporate-backed facilities as company grows"
+          ]
+        },
+        {
+          "category": "Legal Compliance",
+          "score": 78,
+          "weight": 30,
+          "weightedScore": 23.4,
+          "explanation": "Good legal standing with no criminal record. One prior regulatory notice resolved.",
+          "positiveFactors": [
+            "Zero criminal or civil proceedings",
+            "Active member of Zambia National Commercial Bank retail advisory board"
+          ],
+          "negativeFactors": [
+            "One prior regulatory notice regarding incomplete company annual returns (resolved)"
+          ],
+          "improvementTips": [
+            "Engage a dedicated company secretary for timely regulatory filings"
+          ]
+        },
+        {
+          "category": "Social Behavior",
+          "score": 80,
+          "weight": 30,
+          "weightedScore": 24,
+          "explanation": "Active in community development with focus on youth employment and food security programs.",
+          "positiveFactors": [
+            "Employs 50 youth trainees through government Youth Empowerment Programme",
+            "Donates near-expiry food products to 5 local orphanages weekly",
+            "Sponsors annual Lusaka business women's networking conference"
+          ],
+          "negativeFactors": [
+            "Community programs concentrated in Lusaka with limited reach to other provinces"
+          ],
+          "improvementTips": [
+            "Expand community programs to Copperbelt and Southern Province as store network grows"
+          ]
+        }
+      ],
+      "overallExplanation": "Grace Tembo is a respected retail executive with strong financial integrity and meaningful community engagement, particularly in youth employment.",
+      "topImprovementAreas": [
+        "Expand community programs beyond Lusaka to match store footprint",
+        "Transition personal guarantees to corporate backing",
+        "Continue leadership in youth empowerment initiatives"
+      ]
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Legal Compliance",
+        "score": 82,
+        "weight": 18,
+        "weightedScore": 14.76,
+        "explanation": "Good regulatory compliance across food safety, employment, and trading standards. Minor gaps in product labeling.",
+        "positiveFactors": [
+          "All 28 store trading licenses current and properly renewed",
+          "Food safety inspections passed with zero critical findings across all locations",
+          "Full compliance with minimum wage and employment regulations"
+        ],
+        "negativeFactors": [
+          "Product labeling non-compliance on 8 house-brand items (missing Zambian nutritional info format)",
+          "One store location received noise complaint from municipal council"
+        ],
+        "improvementTips": [
+          "Update all house-brand product labels to comply with ZABS labeling standards",
+          "Conduct noise impact assessment at flagged location and implement mitigation measures"
+        ]
+      },
+      {
+        "category": "Financial Credibility",
+        "score": 78,
+        "weight": 18,
+        "weightedScore": 14.04,
+        "explanation": "Healthy revenue growth driven by store expansion but margins are under pressure from import costs and competition.",
+        "positiveFactors": [
+          "Revenue grew 15% year-over-year to K850M driven by 5 new store openings",
+          "Clean unqualified audit opinion for 4th consecutive year",
+          "All supplier payments made within agreed 30-day terms"
+        ],
+        "negativeFactors": [
+          "Gross margins declined from 28% to 24% due to Kwacha depreciation increasing import costs",
+          "Store expansion funded partially through short-term debt creating refinancing risk"
+        ],
+        "improvementTips": [
+          "Increase proportion of locally sourced products to reduce import cost exposure",
+          "Refinance short-term expansion debt into medium-term facilities"
+        ]
+      },
+      {
+        "category": "Contractual Performance",
+        "score": 76,
+        "weight": 18,
+        "weightedScore": 13.68,
+        "explanation": "Generally meets supplier and landlord obligations but has experienced some stockout issues and lease payment delays during expansion.",
+        "positiveFactors": [
+          "92% product availability maintained across core product lines",
+          "All franchise and licensing agreements in good standing",
+          "Zero legal disputes with suppliers or landlords"
+        ],
+        "negativeFactors": [
+          "Stockout rate of 12% on imported products due to supply chain disruptions",
+          "2 lease payments delayed by 15 days during rapid expansion phase"
+        ],
+        "improvementTips": [
+          "Build safety stock for high-demand imported products to reduce stockout rates",
+          "Establish dedicated treasury function to manage payment schedules during expansion"
+        ]
+      },
+      {
+        "category": "Product Quality",
+        "score": 70,
+        "weight": 18,
+        "weightedScore": 12.6,
+        "explanation": "Product range is adequate but house-brand quality is inconsistent and customer complaints about freshness in produce section are rising.",
+        "positiveFactors": [
+          "Wide product range of 15,000+ SKUs serving diverse customer needs",
+          "Implemented cold chain monitoring for dairy and meat products",
+          "Customer satisfaction survey shows 78% overall approval"
+        ],
+        "negativeFactors": [
+          "House-brand products received 45 quality complaints in past 6 months",
+          "Produce section freshness complaints increased 20% quarter-over-quarter",
+          "No formal quality assurance team for house-brand product sourcing"
+        ],
+        "improvementTips": [
+          "Establish a dedicated quality assurance team for house-brand product sourcing and testing",
+          "Improve produce supply chain to ensure delivery within 24 hours of harvest",
+          "Implement customer feedback loop with monthly quality review meetings"
+        ]
+      },
+      {
+        "category": "Service Quality",
+        "score": 80,
+        "weight": 10,
+        "weightedScore": 8,
+        "explanation": "Shoppers Choice Zambia delivers a good in-store customer experience with well-trained staff and efficient checkout processes. The company's customer complaint handling is responsive, and return/exchange policies are clearly communicated. Store cleanliness standards are consistently maintained across all locations.",
+        "positiveFactors": [
+          "Customer service training provided to all staff with quarterly refresher sessions",
+          "Average checkout time under 5 minutes with express lanes available at peak hours",
+          "Store cleanliness audit scores averaging 88% across all 28 locations"
+        ],
+        "negativeFactors": [
+          "Return and exchange processing takes 7-10 days, above the 3-day industry best practice",
+          "Customer complaint resolution rate is 82%, below the 90% target"
+        ],
+        "improvementTips": [
+          "Streamline return and exchange processes to achieve same-day or next-day resolution",
+          "Implement a customer feedback kiosk system at store exits to capture real-time satisfaction data",
+          "Introduce a dedicated customer service desk in larger stores for complaint handling and returns"
+        ]
+      },
+      {
+        "category": "Local Content & Zambian Procurement",
+        "score": 58,
+        "weight": 18,
+        "weightedScore": 10.44,
+        "explanation": "Shoppers Choice sources only 35% of shelf products from Zambian manufacturers and producers. The majority of packaged goods, household items, and processed foods are imported from South Africa, Kenya, and China despite local alternatives being available.",
+        "positiveFactors": [
+          "Fresh produce (fruits, vegetables) 90% sourced from Zambian farmers and cooperatives",
+          "Zambian meats and poultry exclusively from local abattoirs (Zambeef, Nourish Foods)",
+          "Bread and bakery products 100% supplied by Zambian bakeries",
+          "Employs 850 Zambian nationals across all 28 stores"
+        ],
+        "negativeFactors": [
+          "Only 35% of total shelf products sourced from Zambian companies",
+          "Household cleaning products imported from South Africa despite Zambian manufacturer Trade Kings producing equivalent products",
+          "Processed foods (canned goods, sauces, snacks) predominantly imported from Kenya and South Africa",
+          "House-brand products manufactured in South Africa and China with no Zambian co-manufacturing",
+          "Stationery and school supplies imported despite local producers like Bimzi Paper"
+        ],
+        "improvementTips": [
+          "Switch household cleaning product procurement to Trade Kings and other Zambian manufacturers",
+          "Develop house-brand products with Zambian co-manufacturers to replace imported lines",
+          "Create a 'Proudly Zambian' shelf section in every store promoting local products with premium placement",
+          "Partner with Zambian food processors for canned goods, sauces, and snack production",
+          "Set annual targets to increase Zambian shelf share from 35% to 55% within 2 years",
+          "Source stationery and school supplies from Zambian paper and printing companies"
+        ]
+      }
+    ],
+    "overallExplanation": "Shoppers Choice Zambia is a growing retail chain with good legal compliance and reasonable financial health. However, its local procurement record is a significant weakness - only 35% of shelf products come from Zambian companies despite readily available alternatives in cleaning products, processed foods, and household items. While fresh produce sourcing from local farmers is excellent, the reliance on imports for packaged goods hurts both the company's credit score and its contribution to the Zambian economy.",
+    "topImprovementAreas": [
+      "Increase Zambian product shelf share from 35% to 55% by switching to local manufacturers like Trade Kings",
+      "Develop house-brand products through Zambian co-manufacturing partnerships",
+      "Improve produce freshness and establish quality assurance for house-brand products"
+    ]
+  },
+  {
+    "id": "PVT-007",
+    "companyName": "Zambian Home & Living",
+    "sector": "Retail",
+    "score": 82,
+    "rating": "Good",
+    "details": {
+      "legalCompliance": 85,
+      "financialCredibility": 80,
+      "contractualPerformance": 84,
+      "productQuality": 78,
+      "serviceQuality": 85,
+      "localContent": 88
+    },
+    "leader": {
+      "id": "LDR-007",
+      "name": "Mulenga Kapwepwe",
+      "score": 85,
+      "rating": "Good",
+      "details": {
+        "financialHistory": 88,
+        "legalCompliance": 84,
+        "socialBehavior": 83
+      },
+      "scoreBreakdown": [
+        {
+          "category": "Financial History",
+          "score": 88,
+          "weight": 40,
+          "weightedScore": 35.2,
+          "explanation": "Mulenga Kapwepwe has a strong personal financial record with clean credit history and consistent wealth growth through local business investments.",
+          "positiveFactors": [
+            "Zero defaults on personal or business-related loans over 18 years",
+            "Transparent asset declarations and tax filings with zero disputes",
+            "Invested in 4 Zambian small businesses creating 120+ jobs"
+          ],
+          "negativeFactors": [
+            "One credit facility restructured voluntarily to extend term (no delinquency)"
+          ],
+          "improvementTips": [
+            "Continue personal investment strategy focused on Zambian enterprise development"
+          ]
+        },
+        {
+          "category": "Legal Compliance",
+          "score": 84,
+          "weight": 30,
+          "weightedScore": 25.2,
+          "explanation": "Strong legal compliance with no criminal record and active advocacy for ethical business standards in the retail sector.",
+          "positiveFactors": [
+            "Zero criminal or civil proceedings in personal or professional capacity",
+            "Vice-Chair of Zambia Retailers Association promoting ethical sourcing standards",
+            "Published thought leadership articles on local procurement compliance"
+          ],
+          "negativeFactors": [
+            "One minor late filing of annual business interest disclosure"
+          ],
+          "improvementTips": [
+            "Implement automated filing calendar for all regulatory disclosures"
+          ]
+        },
+        {
+          "category": "Social Behavior",
+          "score": 83,
+          "weight": 30,
+          "weightedScore": 24.9,
+          "explanation": "Strong champion of Zambian artisans and local manufacturing with meaningful community impact.",
+          "positiveFactors": [
+            "Personally mentors 15 Zambian artisan entrepreneurs through Buy Zambia Build Zambia initiative",
+            "Sponsored renovation of 3 community market stalls in Lusaka's Soweto Market",
+            "Regular media appearances promoting 'Buy Zambian' consumer awareness"
+          ],
+          "negativeFactors": [
+            "Community support programs focused mainly on Lusaka with limited reach to rural artisans"
+          ],
+          "improvementTips": [
+            "Extend artisan mentorship program to Copperbelt and Northern Province craft communities"
+          ]
+        }
+      ],
+      "overallExplanation": "Mulenga Kapwepwe is a passionate advocate for Zambian enterprise with strong personal integrity, active industry leadership, and meaningful support for local artisans and entrepreneurs.",
+      "topImprovementAreas": [
+        "Extend community and artisan support programs beyond Lusaka",
+        "Continue public advocacy for 'Buy Zambian' movement",
+        "Maintain spotless regulatory filing record"
+      ]
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Legal Compliance",
+        "score": 85,
+        "weight": 18,
+        "weightedScore": 15.3,
+        "explanation": "Strong compliance with trading, consumer protection, and employment regulations across all store locations.",
+        "positiveFactors": [
+          "All 15 store trading licenses current with zero lapses",
+          "Full compliance with Consumer Protection Act including returns and warranty policies",
+          "Employment practices exceed minimum legal requirements with enhanced benefits"
+        ],
+        "negativeFactors": [
+          "2 products recalled due to supplier labeling errors (retailer not at fault, but process gap identified)"
+        ],
+        "improvementTips": [
+          "Implement incoming goods labeling verification checks before products reach shelves"
+        ]
+      },
+      {
+        "category": "Financial Credibility",
+        "score": 80,
+        "weight": 18,
+        "weightedScore": 14.4,
+        "explanation": "Stable financial position with growing revenue driven by demand for locally-made home products.",
+        "positiveFactors": [
+          "Revenue grew 12% to K420M driven by strong demand for Zambian-made homeware",
+          "Debt-to-equity ratio at manageable 0.5",
+          "All supplier payments made within 21-day terms, faster than industry average"
+        ],
+        "negativeFactors": [
+          "Operating margins at 8%, below the 12% retail industry benchmark",
+          "High rental costs in premium mall locations compress profitability"
+        ],
+        "improvementTips": [
+          "Negotiate longer-term lease agreements to lock in favorable rental rates",
+          "Explore standalone store formats in high-traffic areas to reduce mall dependency"
+        ]
+      },
+      {
+        "category": "Contractual Performance",
+        "score": 84,
+        "weight": 18,
+        "weightedScore": 15.12,
+        "explanation": "Excellent supplier relationship management with 95% on-time payment and reliable ordering patterns.",
+        "positiveFactors": [
+          "95% on-time payment to all 180+ Zambian supplier partners",
+          "Long-term supply agreements with 45 Zambian artisan cooperatives",
+          "Zero contract disputes or legal claims from suppliers"
+        ],
+        "negativeFactors": [
+          "Occasional order cancellations during slow sales periods affecting small suppliers",
+          "Lead times for custom-made furniture orders sometimes communicated poorly to customers"
+        ],
+        "improvementTips": [
+          "Implement minimum order guarantees for small artisan suppliers to provide income stability",
+          "Improve customer communication on custom order lead times with automated updates"
+        ]
+      },
+      {
+        "category": "Product Quality",
+        "score": 78,
+        "weight": 18,
+        "weightedScore": 14.04,
+        "explanation": "Good product quality for locally-made items though consistency varies across artisan suppliers. Customer satisfaction is strong.",
+        "positiveFactors": [
+          "Customer satisfaction rating of 82% with strong loyalty program adoption",
+          "Quality control team inspects all incoming artisan products before display",
+          "Furniture and textiles carry 1-year quality guarantee"
+        ],
+        "negativeFactors": [
+          "Quality variation across different artisan suppliers for similar product categories",
+          "8 customer returns due to furniture construction defects in past quarter",
+          "No formal product testing laboratory for materials durability"
+        ],
+        "improvementTips": [
+          "Establish standardized quality specifications shared with all artisan suppliers",
+          "Set up basic materials testing facility for furniture durability and textile colorfastness",
+          "Implement a supplier quality scorecard with regular feedback sessions"
+        ]
+      },
+      {
+        "category": "Service Quality",
+        "score": 85,
+        "weight": 10,
+        "weightedScore": 8.5,
+        "explanation": "Zambian Home & Living has an excellent customer service culture that is deeply embedded in its operations. Staff are passionate about Zambian products and provide knowledgeable, personalized service. The company's return policy is generous, and complaint resolution is handled promptly with genuine care for customer satisfaction.",
+        "positiveFactors": [
+          "Customer satisfaction rating of 82% with strong repeat customer base and loyalty program adoption",
+          "Personalized customer service with knowledgeable staff trained on Zambian artisan product stories and origins",
+          "Complaint resolution within 48 hours with follow-up satisfaction call for every case"
+        ],
+        "negativeFactors": [
+          "Custom furniture order lead time communication could be improved with automated status updates",
+          "Peak season wait times in-store can exceed 15 minutes during weekends and holidays"
+        ],
+        "improvementTips": [
+          "Implement automated order status updates via SMS and email for custom furniture orders",
+          "Introduce an appointment-based personal shopping service for high-value home furnishing purchases",
+          "Deploy digital queue management system to reduce peak-hour wait times"
+        ]
+      },
+      {
+        "category": "Local Content & Zambian Procurement",
+        "score": 88,
+        "weight": 18,
+        "weightedScore": 15.84,
+        "explanation": "Zambian Home & Living is an industry leader in local procurement with 82% of all products sourced from Zambian manufacturers, artisans, and cooperatives. The company actively champions the 'Buy Zambian' movement.",
+        "positiveFactors": [
+          "82% of all products sourced from Zambian manufacturers, artisans, and cooperatives",
+          "Direct partnerships with 45 Zambian artisan cooperatives across 6 provinces",
+          "Zambian-made furniture comprises 90% of furniture range, sourced from local carpenters and workshops",
+          "Textiles, baskets, and decorative items 95% sourced from Zambian women's cooperatives",
+          "Operates 'Buy Zambian' in-store promotions with prominent local product displays",
+          "100% of store fixtures and fittings built by Zambian carpenters and fabricators"
+        ],
+        "negativeFactors": [
+          "Electronics and appliances (18% of sales) still 100% imported with no local assembly",
+          "Packaging materials partially imported from South Africa"
+        ],
+        "improvementTips": [
+          "Explore partnerships with Zambian electronics assemblers for basic home appliances",
+          "Source packaging from Zambian paper and plastics manufacturers",
+          "Expand artisan partnerships to include Northern and Luapula Province craft communities"
+        ]
+      }
+    ],
+    "overallExplanation": "Zambian Home & Living is an exemplary retailer demonstrating that a successful business model can be built on predominantly Zambian-sourced products. With 82% local procurement, direct partnerships with 45 artisan cooperatives, and active 'Buy Zambian' promotion, the company sets the standard for local content in retail. Areas for improvement include managing operating margins and achieving product quality consistency across artisan suppliers.",
+    "topImprovementAreas": [
+      "Improve product quality consistency by establishing standardized specifications for artisan suppliers",
+      "Reduce operating costs through strategic lease negotiations and standalone store formats",
+      "Expand artisan supplier network to Northern and Luapula provinces"
+    ]
+  },
+  {
+    "id": "PVT-008",
+    "companyName": "Zambezi Steel Manufacturing",
+    "sector": "Manufacturing",
+    "score": 80,
+    "rating": "Good",
+    "details": {
+      "legalCompliance": 84,
+      "financialCredibility": 78,
+      "contractualPerformance": 82,
+      "productQuality": 80,
+      "serviceQuality": 70,
+      "localContent": 76
+    },
+    "leader": {
+      "id": "LDR-008",
+      "name": "Emmanuel Mutale",
+      "score": 83,
+      "rating": "Good",
+      "details": {
+        "financialHistory": 85,
+        "legalCompliance": 82,
+        "socialBehavior": 82
+      },
+      "scoreBreakdown": [
+        {
+          "category": "Financial History",
+          "score": 85,
+          "weight": 40,
+          "weightedScore": 34,
+          "explanation": "Emmanuel Mutale has a clean personal financial record with consistent asset growth and timely obligations.",
+          "positiveFactors": [
+            "Zero loan defaults in personal capacity over 15 years",
+            "Transparent asset declarations filed annually with Anti-Corruption Commission",
+            "Personal investments focused on Zambian manufacturing and agriculture"
+          ],
+          "negativeFactors": [
+            "Personal guarantee on company equipment lease creates moderate exposure"
+          ],
+          "improvementTips": [
+            "Transition equipment lease guarantees to corporate-backed as company balance sheet strengthens"
+          ]
+        },
+        {
+          "category": "Legal Compliance",
+          "score": 82,
+          "weight": 30,
+          "weightedScore": 24.6,
+          "explanation": "Good legal standing with active participation in manufacturing industry governance.",
+          "positiveFactors": [
+            "No criminal record or pending litigation",
+            "Board member of Zambia Association of Manufacturers promoting local content standards",
+            "Proactive compliance with ZABS product certification requirements"
+          ],
+          "negativeFactors": [
+            "One regulatory notice regarding factory emissions resolved within 60 days"
+          ],
+          "improvementTips": [
+            "Install continuous emissions monitoring system to prevent future notices"
+          ]
+        },
+        {
+          "category": "Social Behavior",
+          "score": 82,
+          "weight": 30,
+          "weightedScore": 24.6,
+          "explanation": "Active community contributor with focus on vocational training and youth employment in manufacturing.",
+          "positiveFactors": [
+            "Operates apprenticeship program placing 40 youth in welding and fabrication trades annually",
+            "Donated K500,000 to Kafue technical training institute equipment fund",
+            "Sponsors annual Zambian Manufacturing Excellence Awards"
+          ],
+          "negativeFactors": [
+            "Apprenticeship program available only in Kafue, not yet extended to other factory locations"
+          ],
+          "improvementTips": [
+            "Extend apprenticeship program to Ndola and Kitwe factory locations"
+          ]
+        }
+      ],
+      "overallExplanation": "Emmanuel Mutale is a committed manufacturing executive with strong financial integrity and meaningful contributions to vocational training and youth employment in Zambia.",
+      "topImprovementAreas": [
+        "Extend apprenticeship programs to all factory locations",
+        "Transition personal guarantees to corporate-backed facilities",
+        "Continue advocacy for local content standards in manufacturing"
+      ]
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Legal Compliance",
+        "score": 84,
+        "weight": 18,
+        "weightedScore": 15.12,
+        "explanation": "Strong compliance with manufacturing regulations, ZABS product certification, and environmental standards.",
+        "positiveFactors": [
+          "All ZABS product certifications current for roofing sheets, steel bars, and structural sections",
+          "Environmental Impact Assessment approved and compliant for all 3 factory locations",
+          "Zero OSHA violations in past 2 years with safety record above industry average"
+        ],
+        "negativeFactors": [
+          "One emissions exceedance at Kafue plant during furnace malfunction, corrected within 48 hours",
+          "Pending renewal of one effluent discharge permit (application submitted, awaiting approval)"
+        ],
+        "improvementTips": [
+          "Install continuous stack emissions monitoring with automatic furnace shutdown triggers",
+          "Submit permit renewals 90 days in advance to avoid gaps in authorization"
+        ]
+      },
+      {
+        "category": "Financial Credibility",
+        "score": 78,
+        "weight": 18,
+        "weightedScore": 14.04,
+        "explanation": "Stable revenue with growing domestic market share, though energy costs and raw material price volatility pressure margins.",
+        "positiveFactors": [
+          "Revenue grew 10% to K650M driven by construction sector demand",
+          "Zero outstanding tax disputes with ZRA",
+          "Successfully secured K50M development bank loan for capacity expansion"
+        ],
+        "negativeFactors": [
+          "Energy costs represent 30% of production cost, compressing margins to 10%",
+          "Raw steel scrap prices volatile, causing 15% cost increase in Q2 2025",
+          "3 customer payments overdue by 45+ days affecting working capital"
+        ],
+        "improvementTips": [
+          "Invest in energy-efficient electric arc furnace to reduce energy cost per ton",
+          "Implement scrap metal forward purchasing contracts to hedge price volatility",
+          "Strengthen credit control with deposit requirements for new customers"
+        ]
+      },
+      {
+        "category": "Contractual Performance",
+        "score": 82,
+        "weight": 18,
+        "weightedScore": 14.76,
+        "explanation": "Good delivery track record with 91% on-time performance. Occasional delays during peak construction season.",
+        "positiveFactors": [
+          "91% on-time delivery rate across 200+ active customer accounts",
+          "Preferred supplier status with 3 major Zambian construction companies",
+          "Zero contractual disputes or penalty claims in past 18 months"
+        ],
+        "negativeFactors": [
+          "Peak season (May-October) delivery backlogs of 7-14 days for standard orders",
+          "One government infrastructure contract delivery delayed by 3 weeks due to raw material shortage"
+        ],
+        "improvementTips": [
+          "Build finished goods buffer stock of 2 weeks production before peak construction season",
+          "Diversify raw material suppliers to include 2 additional scrap dealers for supply security"
+        ]
+      },
+      {
+        "category": "Product Quality",
+        "score": 80,
+        "weight": 18,
+        "weightedScore": 14.4,
+        "explanation": "Products meet ZABS standards and are competitive with imports. New quality lab has improved consistency.",
+        "positiveFactors": [
+          "All products carry valid ZABS certification marks",
+          "New in-house quality testing laboratory operational since 2024",
+          "Customer complaint rate reduced by 30% year-over-year following lab implementation"
+        ],
+        "negativeFactors": [
+          "3 batches of roofing sheets returned due to gauge inconsistency (thickness variation)",
+          "Competitor imports from China still perceived as cheaper despite lower quality"
+        ],
+        "improvementTips": [
+          "Upgrade rolling mill controls to improve gauge consistency to +/- 0.1mm tolerance",
+          "Launch marketing campaign highlighting ZABS certification and quality advantage over imports"
+        ]
+      },
+      {
+        "category": "Service Quality",
+        "score": 70,
+        "weight": 10,
+        "weightedScore": 7,
+        "explanation": "Zambezi Steel Manufacturing provides adequate customer service but delivery timeliness is a recurring concern, especially during peak construction season. Post-delivery support is functional but reactive rather than proactive, and customer communication about order status could be more consistent.",
+        "positiveFactors": [
+          "Dedicated account managers for the 3 largest construction company clients",
+          "Product consistency has improved 30% year-over-year since new quality lab was established"
+        ],
+        "negativeFactors": [
+          "Peak season delivery backlogs of 7-14 days reported by multiple customers",
+          "No automated order status communication system, requiring customers to call for updates",
+          "Post-delivery support limited to defect replacement with no proactive follow-up"
+        ],
+        "improvementTips": [
+          "Implement an automated order tracking and status notification system for all customers",
+          "Build finished goods buffer stock before peak construction season to prevent delivery backlogs",
+          "Introduce proactive post-delivery follow-up calls within 7 days of delivery to verify satisfaction"
+        ]
+      },
+      {
+        "category": "Local Content & Zambian Procurement",
+        "score": 76,
+        "weight": 18,
+        "weightedScore": 13.68,
+        "explanation": "Zambezi Steel sources 68% of inputs from Zambian suppliers, primarily scrap metal, but key consumables and specialized equipment are still imported. The company is a significant buyer from Zambian scrap dealers and transporters.",
+        "positiveFactors": [
+          "68% of total procurement spend directed to Zambian businesses",
+          "100% of scrap metal (primary raw material) purchased from 25+ Zambian scrap dealers and collectors",
+          "All transport and logistics contracted to Zambian trucking companies",
+          "Factory maintenance and civil works contracted to local Zambian firms",
+          "Packaging (strapping, labeling) sourced from Zambian plastics and printing companies"
+        ],
+        "negativeFactors": [
+          "Refractory bricks and furnace linings imported from South Africa ($2M annually)",
+          "Rolling mill spare parts and rollers imported from India and China",
+          "Specialized testing chemicals and calibration gases imported",
+          "Electricity represents largest cost but no Zambian alternative energy suppliers explored"
+        ],
+        "improvementTips": [
+          "Explore Zambian firebrick manufacturers or invest in local refractory production capacity",
+          "Partner with Zambian engineering firms to manufacture basic rolling mill spare parts locally",
+          "Investigate solar power installation to reduce dependence on ZESCO grid electricity",
+          "Source testing chemicals from Zambian-based laboratory supply distributors where available"
+        ]
+      }
+    ],
+    "overallExplanation": "Zambezi Steel Manufacturing is a growing Zambian manufacturer with good compliance, quality, and a solid commitment to local procurement at 68%. As a buyer from 25+ Zambian scrap dealers and user of local transport and maintenance services, the company supports significant local economic activity. Key improvement areas include reducing energy costs, improving product consistency, and finding local alternatives for imported furnace consumables and spare parts.",
+    "topImprovementAreas": [
+      "Reduce energy costs through efficient furnace technology and explore solar power alternatives",
+      "Increase local procurement above 75% by sourcing refractory materials and spare parts locally",
+      "Improve roofing sheet gauge consistency through rolling mill control upgrades"
+    ]
+  },
+  {
+    "id": "PVT-009",
+    "companyName": "Kafue Foods Processing",
+    "sector": "Manufacturing",
+    "score": 84,
+    "rating": "Good",
+    "details": {
+      "legalCompliance": 86,
+      "financialCredibility": 82,
+      "contractualPerformance": 85,
+      "productQuality": 84,
+      "serviceQuality": 82,
+      "localContent": 92
+    },
+    "leader": {
+      "id": "LDR-009",
+      "name": "Chilala Mwansa",
+      "score": 86,
+      "rating": "Good",
+      "details": {
+        "financialHistory": 88,
+        "legalCompliance": 85,
+        "socialBehavior": 85
+      },
+      "scoreBreakdown": [
+        {
+          "category": "Financial History",
+          "score": 88,
+          "weight": 40,
+          "weightedScore": 35.2,
+          "explanation": "Chilala Mwansa has an excellent personal financial record with prudent management and significant investment in Zambian food sector businesses.",
+          "positiveFactors": [
+            "Zero loan defaults or late payments across all personal accounts",
+            "Personal investments in 3 Zambian agricultural cooperatives and food processing ventures",
+            "Transparent asset declarations with independent verification"
+          ],
+          "negativeFactors": [
+            "None identified"
+          ],
+          "improvementTips": [
+            "Continue diversifying personal investments across Zambian economic sectors"
+          ]
+        },
+        {
+          "category": "Legal Compliance",
+          "score": 85,
+          "weight": 30,
+          "weightedScore": 25.5,
+          "explanation": "Strong legal compliance with active participation in food industry standards development.",
+          "positiveFactors": [
+            "Zero criminal or civil proceedings in any capacity",
+            "Member of ZABS technical committee for food product standards development",
+            "Proactively files all regulatory disclosures ahead of statutory deadlines"
+          ],
+          "negativeFactors": [
+            "None identified"
+          ],
+          "improvementTips": [
+            "Continue industry standards leadership and mentor emerging food sector entrepreneurs"
+          ]
+        },
+        {
+          "category": "Social Behavior",
+          "score": 85,
+          "weight": 30,
+          "weightedScore": 25.5,
+          "explanation": "Significant contributor to food security and smallholder farmer livelihoods through direct procurement and training programs.",
+          "positiveFactors": [
+            "Established out-grower scheme providing guaranteed market to 2,000+ smallholder farmers",
+            "Donated processing equipment worth K800,000 to community cooperative mills",
+            "Regular community nutrition education programs reaching 5,000 families annually"
+          ],
+          "negativeFactors": [
+            "Out-grower scheme concentrated in Southern Province with limited reach to other regions"
+          ],
+          "improvementTips": [
+            "Expand out-grower scheme to Eastern and Central Provinces to reach more farmers"
+          ]
+        }
+      ],
+      "overallExplanation": "Chilala Mwansa exemplifies responsible business leadership with impeccable personal integrity, active industry governance participation, and meaningful impact on smallholder farmer livelihoods.",
+      "topImprovementAreas": [
+        "Expand out-grower scheme geographically to benefit more farming communities",
+        "Continue food industry standards development leadership",
+        "Mentor emerging Zambian food processing entrepreneurs"
+      ]
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Legal Compliance",
+        "score": 86,
+        "weight": 18,
+        "weightedScore": 15.48,
+        "explanation": "Excellent regulatory compliance across food safety, environmental, and employment standards.",
+        "positiveFactors": [
+          "HACCP certified food processing facility with zero critical findings in annual audits",
+          "ZABS product certification current for all 35 product lines",
+          "Environmental compliance certificate valid with zero effluent violations",
+          "Full compliance with Food Safety Act labeling and traceability requirements"
+        ],
+        "negativeFactors": [
+          "One minor observation regarding pest control documentation in warehouse area (addressed same day)"
+        ],
+        "improvementTips": [
+          "Implement digital pest control monitoring system for real-time documentation",
+          "Pursue ISO 22000 certification to complement existing HACCP system"
+        ]
+      },
+      {
+        "category": "Financial Credibility",
+        "score": 82,
+        "weight": 18,
+        "weightedScore": 14.76,
+        "explanation": "Strong revenue growth driven by increasing demand for locally-produced food products and successful retail partnerships.",
+        "positiveFactors": [
+          "Revenue grew 20% to K380M driven by new retail partnerships and export contracts",
+          "Operating margin at 14%, above industry average of 10%",
+          "Zero outstanding debts to ZRA or any financial institution"
+        ],
+        "negativeFactors": [
+          "Seasonal raw material price fluctuations impact quarterly profitability",
+          "Single large retail customer represents 35% of revenue, creating concentration risk"
+        ],
+        "improvementTips": [
+          "Implement forward contracts with farmers to stabilize input costs",
+          "Diversify customer base to reduce dependence on single retail partner below 25%"
+        ]
+      },
+      {
+        "category": "Contractual Performance",
+        "score": 85,
+        "weight": 18,
+        "weightedScore": 15.3,
+        "explanation": "Excellent delivery track record with 95% on-time fulfillment across retail and wholesale customers.",
+        "positiveFactors": [
+          "95% on-time delivery rate across all customer contracts",
+          "Zero contractual penalties incurred in the past 2 years",
+          "Supply agreements with 8 major retail chains maintained without interruption"
+        ],
+        "negativeFactors": [
+          "One 5-day delay during maize supply shortage affecting 2 product lines",
+          "Export order to DRC delayed by 1 week due to customs documentation error"
+        ],
+        "improvementTips": [
+          "Build 30-day raw material buffer stock to cover supply disruptions",
+          "Engage customs clearing agent with DRC-specific expertise for export orders"
+        ]
+      },
+      {
+        "category": "Product Quality",
+        "score": 84,
+        "weight": 18,
+        "weightedScore": 15.12,
+        "explanation": "High product quality with ZABS certification, growing consumer brand recognition, and low complaint rates.",
+        "positiveFactors": [
+          "All 35 products carry valid ZABS certification marks",
+          "Customer complaint rate of 0.2%, well below 1% industry average",
+          "Won 'Best Zambian Food Product' award at 2025 Agricultural and Commercial Show",
+          "In-house quality lab conducts batch testing for every production run"
+        ],
+        "negativeFactors": [
+          "2 batches of mealie meal had minor packaging seal failures detected at warehouse",
+          "Shelf life consistency varies by 5-10% between production runs for one product line"
+        ],
+        "improvementTips": [
+          "Upgrade packaging line sealing equipment to eliminate seal failure risk",
+          "Implement statistical process control for shelf life consistency across all product lines"
+        ]
+      },
+      {
+        "category": "Service Quality",
+        "score": 82,
+        "weight": 10,
+        "weightedScore": 8.2,
+        "explanation": "Kafue Foods Processing delivers good service quality with reliable order fulfillment and strong customer communication. The company's 95% on-time delivery rate reflects well-managed logistics, and its quality lab ensures consistent product standards that minimize customer complaints.",
+        "positiveFactors": [
+          "Order fulfillment accuracy of 98% with batch testing for every production run",
+          "Dedicated customer service team handling order queries with same-day response guarantee",
+          "Regular customer satisfaction surveys with published improvement actions"
+        ],
+        "negativeFactors": [
+          "Export order documentation errors have caused occasional delays",
+          "No online ordering portal for retail chain buyers, requiring manual order processing"
+        ],
+        "improvementTips": [
+          "Develop an online ordering and tracking portal for retail chain and wholesale buyers",
+          "Engage customs clearing agent with DRC and regional export expertise to eliminate documentation errors",
+          "Implement automated reorder notifications for repeat customers based on historical ordering patterns"
+        ]
+      },
+      {
+        "category": "Local Content & Zambian Procurement",
+        "score": 92,
+        "weight": 18,
+        "weightedScore": 16.56,
+        "explanation": "Kafue Foods is an outstanding champion of Zambian procurement, sourcing 94% of all inputs from Zambian suppliers. The company's out-grower scheme directly supports 2,000+ smallholder farmers, and all packaging, transport, and services are contracted locally.",
+        "positiveFactors": [
+          "94% of total procurement spend directed to Zambian businesses and farmers",
+          "Maize, soya, and groundnuts sourced entirely from 2,000+ Zambian smallholder out-growers",
+          "Packaging (bags, cartons, labels) 100% sourced from Zambian manufacturers (Paknet, Bimzi)",
+          "All transport contracted to 8 Zambian-owned trucking companies",
+          "Factory maintenance, cleaning, and security contracted to local Zambian firms",
+          "Sugar and salt inputs sourced from Zambia Sugar and local salt producers",
+          "Invested K2M in out-grower training on improved farming techniques and post-harvest handling"
+        ],
+        "negativeFactors": [
+          "Food-grade processing chemicals imported from South Africa (no local manufacturer)",
+          "Some specialized packaging films (retort pouches) imported due to no local producer"
+        ],
+        "improvementTips": [
+          "Collaborate with Zambian chemical distributors to establish local food-grade chemical supply chains",
+          "Explore investment in flexible packaging production facility jointly with other food processors"
+        ]
+      }
+    ],
+    "overallExplanation": "Kafue Foods Processing is a standout Zambian manufacturer with exceptional local content at 94%, strong food safety compliance, and growing financial success. The company's out-grower scheme supporting 2,000+ farmers exemplifies how manufacturing can drive inclusive economic growth. With every input from maize to packaging sourced locally, Kafue Foods demonstrates that Zambian manufacturers can compete successfully while maximizing local value addition.",
+    "topImprovementAreas": [
+      "Diversify customer base to reduce 35% revenue concentration on single retail partner",
+      "Pursue ISO 22000 food safety management certification",
+      "Explore collaborative investment in local specialized packaging production"
+    ]
+  },
+  {
+    "id": "PVT-010",
+    "companyName": "Copperbelt Plastics & Packaging",
+    "sector": "Manufacturing",
+    "score": 70,
+    "rating": "Needs Improvement",
+    "details": {
+      "legalCompliance": 72,
+      "financialCredibility": 68,
+      "contractualPerformance": 74,
+      "productQuality": 66,
+      "serviceQuality": 65,
+      "localContent": 60
+    },
+    "leader": {
+      "id": "LDR-010",
+      "name": "Joseph Phiri",
+      "score": 72,
+      "rating": "Needs Improvement",
+      "details": {
+        "financialHistory": 74,
+        "legalCompliance": 70,
+        "socialBehavior": 72
+      },
+      "scoreBreakdown": [
+        {
+          "category": "Financial History",
+          "score": 74,
+          "weight": 40,
+          "weightedScore": 29.6,
+          "explanation": "Joseph Phiri has an adequate financial record with some concerns around personal debt levels and one restructured facility.",
+          "positiveFactors": [
+            "Primary mortgage and vehicle loans in good standing",
+            "Asset declarations filed on time with no discrepancies"
+          ],
+          "negativeFactors": [
+            "Personal debt-to-income ratio at 48%, above recommended 40% threshold",
+            "One personal business loan restructured after 60-day delinquency in 2023"
+          ],
+          "improvementTips": [
+            "Reduce personal debt-to-income ratio to below 40% through accelerated repayments",
+            "Avoid further personal guarantees on business debt"
+          ]
+        },
+        {
+          "category": "Legal Compliance",
+          "score": 70,
+          "weight": 30,
+          "weightedScore": 21,
+          "explanation": "Adequate legal standing but with one ongoing regulatory matter regarding factory emissions.",
+          "positiveFactors": [
+            "No criminal record or fraud-related proceedings",
+            "Active member of Zambia Association of Manufacturers"
+          ],
+          "negativeFactors": [
+            "ZEMA compliance order pending regarding plastic waste management at factory",
+            "One late filing of annual company returns"
+          ],
+          "improvementTips": [
+            "Comply with ZEMA order immediately and implement waste management improvements",
+            "Engage company secretary for timely regulatory filings"
+          ]
+        },
+        {
+          "category": "Social Behavior",
+          "score": 72,
+          "weight": 30,
+          "weightedScore": 21.6,
+          "explanation": "Moderate community engagement with some positive initiatives but limited scope.",
+          "positiveFactors": [
+            "Employs 20 youth apprentices in plastics manufacturing trades",
+            "Donates recycled plastic products to 3 community schools for playground equipment"
+          ],
+          "negativeFactors": [
+            "Some community concerns about plastic waste from factory operations",
+            "Limited engagement with environmental advocacy groups"
+          ],
+          "improvementTips": [
+            "Establish community plastic waste collection and recycling program",
+            "Partner with environmental NGOs on plastic pollution reduction initiatives"
+          ]
+        }
+      ],
+      "overallExplanation": "Joseph Phiri has adequate personal integrity but needs to address personal debt levels and factory environmental compliance matters to improve both personal and company credit standing.",
+      "topImprovementAreas": [
+        "Reduce personal debt-to-income ratio below 40%",
+        "Resolve ZEMA compliance order regarding factory waste management",
+        "Strengthen community engagement around environmental responsibility"
+      ]
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Legal Compliance",
+        "score": 72,
+        "weight": 18,
+        "weightedScore": 12.96,
+        "explanation": "Mixed compliance record with valid operating licenses but outstanding environmental compliance issues.",
+        "positiveFactors": [
+          "Factory operating license and ZABS product certifications current",
+          "Employment practices compliant with labor laws for all 180 workers"
+        ],
+        "negativeFactors": [
+          "ZEMA compliance order issued for inadequate plastic waste disposal and storage",
+          "Fire safety inspection identified 3 deficiencies requiring immediate correction",
+          "One ZABS product certification lapsed for 2 months before renewal (now current)"
+        ],
+        "improvementTips": [
+          "Implement comprehensive waste management system including plastic recycling",
+          "Address all fire safety deficiencies immediately and schedule quarterly fire drills",
+          "Set up automated reminders for all certification renewals 90 days before expiry"
+        ]
+      },
+      {
+        "category": "Financial Credibility",
+        "score": 68,
+        "weight": 18,
+        "weightedScore": 12.24,
+        "explanation": "Financial position is under pressure with tight margins, competition from Chinese imports, and increasing raw material costs.",
+        "positiveFactors": [
+          "Revenue maintained at K180M despite difficult market conditions",
+          "Secured new contract with 2 Zambian food manufacturers for packaging supply"
+        ],
+        "negativeFactors": [
+          "Operating margin compressed to 5% from 12% over past 2 years due to competition",
+          "15% of supplier payments overdue by 30+ days",
+          "Debt-to-equity ratio at 1.5, above industry comfort level of 1.0",
+          "External audit noted going concern risk paragraph"
+        ],
+        "improvementTips": [
+          "Develop differentiation strategy focusing on customized packaging for Zambian manufacturers",
+          "Implement strict working capital management to improve payment timeliness",
+          "Explore equity investment or asset disposal to strengthen balance sheet"
+        ]
+      },
+      {
+        "category": "Contractual Performance",
+        "score": 74,
+        "weight": 18,
+        "weightedScore": 13.32,
+        "explanation": "Generally meets delivery obligations but inconsistency during peak demand periods affects customer confidence.",
+        "positiveFactors": [
+          "85% on-time delivery rate for standard product orders",
+          "New automated production line improved throughput by 20%",
+          "Zero legal disputes with customers"
+        ],
+        "negativeFactors": [
+          "Peak season delivery delays of 10-15 days affecting 4 key customers",
+          "2 custom order specifications not met, requiring re-production at company cost"
+        ],
+        "improvementTips": [
+          "Build finished goods inventory buffer of 2 weeks before peak season",
+          "Implement order specification review process with customer sign-off before production"
+        ]
+      },
+      {
+        "category": "Product Quality",
+        "score": 66,
+        "weight": 18,
+        "weightedScore": 11.88,
+        "explanation": "Product quality is adequate but falls below industry leaders. Consistency issues and lack of advanced testing equipment are concerns.",
+        "positiveFactors": [
+          "ZABS certification maintained for core product lines (bags, containers, films)",
+          "New blow molding machine producing higher quality containers"
+        ],
+        "negativeFactors": [
+          "Product thickness variation of +/- 8%, above the 5% industry standard",
+          "15 customer complaints about bag seal strength in past 6 months",
+          "No ISO 9001 certification or formal quality management system",
+          "Testing equipment outdated with last calibration 14 months ago"
+        ],
+        "improvementTips": [
+          "Calibrate all testing equipment immediately and establish quarterly calibration schedule",
+          "Begin ISO 9001 certification process to formalize quality management",
+          "Upgrade bag sealing equipment and implement seal strength testing for every batch",
+          "Install inline thickness monitoring to reduce gauge variation below 5%"
+        ]
+      },
+      {
+        "category": "Service Quality",
+        "score": 65,
+        "weight": 10,
+        "weightedScore": 6.5,
+        "explanation": "Copperbelt Plastics & Packaging has received customer complaints about product quality consistency and delivery reliability. While the company fulfills most orders, inconsistent product specifications and gauge variations have eroded customer confidence. Customer communication during delays is inadequate.",
+        "positiveFactors": [
+          "New automated production line improved throughput and reduced lead times by 20%",
+          "Zero legal disputes with customers, indicating willingness to resolve issues commercially"
+        ],
+        "negativeFactors": [
+          "15 customer complaints about bag seal strength in the past 6 months affecting buyer confidence",
+          "Limited customer communication during peak season delivery delays",
+          "No formal post-delivery quality feedback mechanism in place"
+        ],
+        "improvementTips": [
+          "Implement a formal customer complaint tracking and resolution system with defined SLAs",
+          "Establish proactive customer communication protocols for order delays with advance notifications",
+          "Create a post-delivery quality feedback loop with customer scorecards for continuous improvement"
+        ]
+      },
+      {
+        "category": "Local Content & Zambian Procurement",
+        "score": 60,
+        "weight": 18,
+        "weightedScore": 10.8,
+        "explanation": "Copperbelt Plastics sources only 45% of inputs from Zambian suppliers. The primary raw material (plastic resin/granules) is entirely imported, and key machinery consumables come from foreign suppliers despite some local availability.",
+        "positiveFactors": [
+          "All transport and logistics contracted to Zambian trucking companies",
+          "Factory maintenance and cleaning services provided by local Zambian firms",
+          "Recycled plastic collected from Zambian waste dealers for 20% of production input",
+          "100% Zambian workforce of 180 employees"
+        ],
+        "negativeFactors": [
+          "Virgin plastic resin (60% of raw material cost) 100% imported from South Africa and Middle East",
+          "Printing inks and colorants imported from India despite local paint/chemical companies",
+          "Packaging machinery spare parts sourced exclusively through international dealers",
+          "No partnership with Zambian petrochemical sector for local resin development"
+        ],
+        "improvementTips": [
+          "Increase recycled plastic content from 20% to 40% by strengthening Zambian waste collection partnerships",
+          "Source printing inks and colorants from Zambian chemical manufacturers where available",
+          "Partner with Zambian engineering workshops for basic machinery spare parts fabrication",
+          "Advocate for local plastic resin production facility through Zambia Association of Manufacturers",
+          "Explore bio-based plastic alternatives using Zambian agricultural waste (cassava starch, sugarcane)"
+        ]
+      }
+    ],
+    "overallExplanation": "Copperbelt Plastics & Packaging faces significant challenges from Chinese import competition, environmental compliance issues, and limited local procurement at 45%. While the company provides essential packaging products to Zambian manufacturers, its heavy dependence on imported raw materials and quality consistency issues require urgent attention. Increasing recycled content and sourcing more inputs locally would both improve credit standing and reduce import cost exposure.",
+    "topImprovementAreas": [
+      "Increase Zambian procurement from 45% to 65% by boosting recycled content and sourcing inks locally",
+      "Resolve ZEMA waste management compliance order and improve environmental practices",
+      "Achieve ISO 9001 certification and upgrade quality control equipment"
+    ]
+  },
+  {
+    "id": "PVT-011",
+    "companyName": "Shoprite Zambia",
+    "sector": "Retail",
+    "score": 73,
+    "rating": "Needs Improvement",
+    "details": {
+      "legalCompliance": 80,
+      "financialCredibility": 85,
+      "contractualPerformance": 78,
+      "productQuality": 70,
+      "serviceQuality": 72,
+      "localContent": 45
+    },
+    "leader": {
+      "id": "LDR-011",
+      "name": "Michael Pietersen",
+      "score": 76,
+      "rating": "Good",
+      "details": {
+        "financialHistory": 82,
+        "legalCompliance": 78,
+        "socialBehavior": 68
+      },
+      "scoreBreakdown": [
+        {
+          "category": "Financial History",
+          "score": 82,
+          "weight": 40,
+          "weightedScore": 32.8,
+          "explanation": "Michael Pietersen maintains a strong personal financial record backed by his long tenure in the Shoprite group. His asset declarations are transparent and his personal credit standing is solid, reflecting disciplined financial management over the years.",
+          "positiveFactors": [
+            "Zero personal loan defaults or late payments across all accounts over 18 years",
+            "Personal asset declarations consistently filed on time and verified by independent auditors",
+            "Stable personal net worth growth averaging 10% per annum through diversified investments"
+          ],
+          "negativeFactors": [
+            "High personal exposure through guarantees on Shoprite Zambia's lease portfolio",
+            "Investment portfolio heavily concentrated in South African retail equities with limited Zambian holdings"
+          ],
+          "improvementTips": [
+            "Diversify personal investment portfolio to include Zambian-listed equities and bonds",
+            "Transition personal lease guarantees to corporate-backed instruments as Zambian operations mature"
+          ]
+        },
+        {
+          "category": "Legal Compliance",
+          "score": 78,
+          "weight": 30,
+          "weightedScore": 23.4,
+          "explanation": "Michael Pietersen has a clean legal record with no criminal or civil proceedings. However, as a South African national managing Zambian operations, there have been minor administrative delays in immigration and work permit renewals.",
+          "positiveFactors": [
+            "Zero criminal or civil proceedings in any jurisdiction",
+            "Registered as a director with PACRA in full compliance with Zambian company law",
+            "Active participant in Zambia Chamber of Commerce retail working group"
+          ],
+          "negativeFactors": [
+            "Work permit renewal delayed by 30 days on one occasion due to administrative oversight",
+            "One regulatory query regarding transfer pricing between Shoprite South Africa and Zambia operations"
+          ],
+          "improvementTips": [
+            "Engage dedicated immigration counsel to manage work permit renewals proactively",
+            "Ensure full transparency on intercompany pricing to avoid transfer pricing regulatory scrutiny"
+          ]
+        },
+        {
+          "category": "Social Behavior",
+          "score": 68,
+          "weight": 30,
+          "weightedScore": 20.4,
+          "explanation": "While Michael Pietersen oversees some corporate social initiatives, his personal community engagement in Zambia is limited compared to locally-rooted business leaders. As a South African expatriate, deeper integration into Zambian community and business networks is needed.",
+          "positiveFactors": [
+            "Oversees Shoprite's corporate social responsibility program including food donations to 8 orphanages",
+            "Participates in Zambia Retailers Association as a board member"
+          ],
+          "negativeFactors": [
+            "Limited personal involvement in Zambian community organizations beyond corporate mandates",
+            "No participation in local mentorship or youth empowerment programs in a personal capacity",
+            "Perceived as primarily focused on South African head office interests rather than Zambian community development"
+          ],
+          "improvementTips": [
+            "Personally engage in Zambian youth mentorship and entrepreneurship programs",
+            "Join local community development boards to strengthen personal ties to Zambian society",
+            "Champion Zambian supplier development initiatives as a personal leadership priority"
+          ]
+        }
+      ],
+      "overallExplanation": "Michael Pietersen is a financially disciplined executive with a strong track record in the Shoprite group. However, as a South African-based leader managing Zambian operations, he needs to improve his personal engagement with Zambian communities and demonstrate stronger commitment to developing local supplier networks and community partnerships.",
+      "topImprovementAreas": [
+        "Increase Zambian supplier contracts and champion local procurement within Shoprite's supply chain",
+        "Engage more with local farming cooperatives and Zambian food processor networks",
+        "Strengthen personal community involvement beyond corporate CSR mandates"
+      ]
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Legal Compliance",
+        "score": 80,
+        "weight": 18,
+        "weightedScore": 14.4,
+        "explanation": "Shoprite Zambia maintains good regulatory compliance across its store network, benefiting from the parent company's robust compliance frameworks. All trading licenses are current and food safety standards are generally well-maintained across all locations.",
+        "positiveFactors": [
+          "All 35 store trading licenses current and properly renewed across Lusaka, Copperbelt, and Southern Province",
+          "Food safety inspections passed with zero critical findings at 33 out of 35 locations",
+          "Full compliance with Zambian employment laws including minimum wage, overtime, and leave provisions",
+          "ZABS product labeling standards met for all Shoprite house-brand products sold in Zambia"
+        ],
+        "negativeFactors": [
+          "Two stores received minor health inspection findings regarding temperature control in deli sections",
+          "One store operating in a building with expired fire safety certificate (since renewed)",
+          "Municipal council noise complaint filed against distribution center for early morning truck operations"
+        ],
+        "improvementTips": [
+          "Install automated temperature monitoring and alert systems in all deli and cold sections",
+          "Implement centralized compliance dashboard to track all certificates, licenses, and permit renewals",
+          "Adjust distribution center operating hours or install noise mitigation barriers to address community complaints"
+        ]
+      },
+      {
+        "category": "Financial Credibility",
+        "score": 85,
+        "weight": 23,
+        "weightedScore": 19.55,
+        "explanation": "As a subsidiary of the Shoprite Holdings group, one of Africa's largest retailers, the company benefits from strong financial backing, institutional credibility, and access to capital. Revenue performance is solid and growing with the expanding store footprint.",
+        "positiveFactors": [
+          "Revenue of K2.1 billion with 12% year-over-year growth driven by 5 new store openings",
+          "Clean unqualified audit opinion for 6th consecutive year from a Big Four auditor",
+          "All supplier payments processed within agreed 45-day terms with zero defaults",
+          "Strong balance sheet backed by Shoprite Holdings group guarantee"
+        ],
+        "negativeFactors": [
+          "Profit margins under pressure from Kwacha depreciation increasing cost of imported goods",
+          "Heavy reliance on intercompany funding from South African parent rather than local banking relationships",
+          "Foreign exchange exposure on imported inventory estimated at 65% of cost of goods sold"
+        ],
+        "improvementTips": [
+          "Increase proportion of locally sourced products to naturally hedge against Kwacha depreciation",
+          "Develop independent banking relationships in Zambia to reduce reliance on parent company funding",
+          "Implement formal foreign exchange hedging strategy to manage import cost volatility"
+        ]
+      },
+      {
+        "category": "Contractual Performance",
+        "score": 78,
+        "weight": 18,
+        "weightedScore": 14.04,
+        "explanation": "Shoprite Zambia generally meets its contractual obligations to landlords, suppliers, and franchise partners. However, some local suppliers report slow onboarding processes and rigid contract terms that disadvantage smaller Zambian businesses.",
+        "positiveFactors": [
+          "95% product availability maintained across core product categories",
+          "All lease agreements current with zero defaults across 35 store locations",
+          "Zero legal disputes with suppliers or landlords in the past 3 years",
+          "Consistent store operating hours maintained as per lease and licensing agreements"
+        ],
+        "negativeFactors": [
+          "Local Zambian suppliers report 6-month onboarding process with excessive documentation requirements",
+          "Rigid payment terms of 60 days applied uniformly, disadvantaging small Zambian suppliers who need faster payment",
+          "3 stockout incidents on locally sourced products due to delayed purchase order issuance"
+        ],
+        "improvementTips": [
+          "Streamline supplier onboarding for Zambian SMEs with a fast-track approval process",
+          "Offer preferential 14-day payment terms for small Zambian suppliers to support their cash flow",
+          "Implement automated purchase order generation for recurring local supplier contracts to prevent stockouts"
+        ]
+      },
+      {
+        "category": "Product Quality",
+        "score": 70,
+        "weight": 13,
+        "weightedScore": 9.1,
+        "explanation": "Product quality is adequate overall, benefiting from Shoprite's established supply chain quality controls. However, produce freshness issues have been reported and house-brand products are primarily manufactured in South Africa without adapting to local taste preferences.",
+        "positiveFactors": [
+          "Wide product range of 25,000+ SKUs with established quality control processes from the group",
+          "Cold chain integrity maintained for dairy, meat, and frozen products across all stores",
+          "Customer satisfaction survey shows 74% overall approval rating"
+        ],
+        "negativeFactors": [
+          "Produce freshness complaints increased 15% as some fruits and vegetables are trucked from South Africa rather than sourced locally",
+          "House-brand products manufactured in South Africa do not always cater to Zambian taste preferences",
+          "52 customer complaints about expired or near-expiry products on shelves in the past quarter"
+        ],
+        "improvementTips": [
+          "Increase local fresh produce sourcing to ensure delivery within 24 hours of harvest",
+          "Develop Zambian-specific house-brand product lines through local co-manufacturing partnerships",
+          "Implement rigorous shelf-life monitoring with automated pull dates for all perishable products"
+        ]
+      },
+      {
+        "category": "Service Quality",
+        "score": 72,
+        "weight": 10,
+        "weightedScore": 7.2,
+        "explanation": "Shoprite Zambia provides an adequate in-store experience leveraging its parent company's established retail systems. However, long checkout queues during peak hours, limited customer support staff, and slow complaint resolution processes detract from the overall customer experience. Store cleanliness is generally maintained but deli sections have received health findings.",
+        "positiveFactors": [
+          "Consistent store layout and product availability of 95% across core categories",
+          "Established return policy aligned with Consumer Protection Act requirements"
+        ],
+        "negativeFactors": [
+          "Average checkout queue time of 12 minutes during peak hours, above the 5-minute industry benchmark",
+          "Customer complaint resolution takes an average of 14 days, well above the 3-day best practice",
+          "Limited dedicated customer service staff with only 1 service desk per store"
+        ],
+        "improvementTips": [
+          "Deploy self-checkout kiosks in high-traffic stores to reduce queue times below 5 minutes",
+          "Hire dedicated customer service staff at a ratio of 1 per 500 daily customers per store",
+          "Implement a digital complaint management system with 48-hour resolution target for all customer issues"
+        ]
+      },
+      {
+        "category": "Local Content & Zambian Procurement",
+        "score": 45,
+        "weight": 18,
+        "weightedScore": 8.1,
+        "explanation": "Shoprite Zambia's local content performance is significantly below expectations. Over 65% of shelf products are sourced through Shoprite's South African distribution network, with limited effort to identify and onboard Zambian manufacturers and producers. This heavy reliance on imports undermines the Zambian manufacturing and agricultural sectors.",
+        "positiveFactors": [
+          "Fresh meats sourced from Zambian suppliers including Zambeef and local abattoirs",
+          "Bread and bakery products supplied by Zambian bakeries in each region",
+          "Employs over 2,200 Zambian nationals across all 35 stores and the distribution center",
+          "Some fresh vegetables sourced from Zambian farmers in Lusaka Province"
+        ],
+        "negativeFactors": [
+          "Over 65% of shelf products sourced from South African suppliers through Shoprite's Centurion distribution hub",
+          "Limited procurement contracts with Zambian farmers and manufacturers for packaged and processed goods",
+          "Few partnerships with local food processors despite available capacity in cooking oil, snacks, and beverages",
+          "House-brand products (Ritebrand, Housebrand lines) manufactured exclusively in South Africa and China",
+          "Cleaning products, toiletries, and household goods almost entirely imported despite Zambian alternatives from Trade Kings and others"
+        ],
+        "improvementTips": [
+          "Set target of 40% Zambian-sourced products within 2 years with quarterly progress reporting",
+          "Establish direct buying programs with Zambian cooperatives for fresh produce, grains, and pulses",
+          "Create a 'Proudly Zambian' shelf section in all stores with premium placement for local products",
+          "Develop co-manufacturing partnerships with Zambian food processors for house-brand product lines",
+          "Switch cleaning products and household goods procurement to Zambian manufacturers like Trade Kings",
+          "Establish a Zambian supplier development fund to help small producers meet quality and volume requirements"
+        ]
+      }
+    ],
+    "overallExplanation": "While Shoprite Zambia maintains strong financial credibility and legal compliance as part of a major international retail group, its local content score is significantly below expectations. The majority of products are imported from South Africa rather than sourced from Zambian suppliers and manufacturers. Over 65% of shelf products flow through Shoprite's South African distribution network, bypassing Zambian producers of equivalent goods in categories like cleaning products, processed foods, and household items. This import-heavy model weakens the company's social credit standing despite its otherwise solid operational performance.",
+    "topImprovementAreas": [
+      "Dramatically increase procurement from Zambian suppliers and manufacturers to reach 40% local content within 2 years",
+      "Establish direct buying contracts with local farming cooperatives for fresh produce and agricultural products",
+      "Develop partnerships with Zambian food processors for private-label products to replace South African imports"
+    ]
+  },
+  {
+    "id": "PVT-012",
+    "companyName": "Pick n Pay Zambia",
+    "sector": "Retail",
+    "score": 70,
+    "rating": "Needs Improvement",
+    "details": {
+      "legalCompliance": 78,
+      "financialCredibility": 80,
+      "contractualPerformance": 75,
+      "productQuality": 68,
+      "serviceQuality": 68,
+      "localContent": 42
+    },
+    "leader": {
+      "id": "LDR-012",
+      "name": "David Sobey",
+      "score": 72,
+      "rating": "Needs Improvement",
+      "details": {
+        "financialHistory": 78,
+        "legalCompliance": 74,
+        "socialBehavior": 64
+      },
+      "scoreBreakdown": [
+        {
+          "category": "Financial History",
+          "score": 78,
+          "weight": 40,
+          "weightedScore": 31.2,
+          "explanation": "David Sobey has a solid personal financial record supported by his position within the Pick n Pay group. His personal finances are well-managed though heavily tied to the parent company's performance and South African assets.",
+          "positiveFactors": [
+            "All personal financial obligations in good standing with zero defaults over 15 years",
+            "Personal asset declarations filed on time and verified by external auditors annually",
+            "Stable personal investment portfolio with consistent growth over the past decade"
+          ],
+          "negativeFactors": [
+            "Personal wealth heavily concentrated in South African retail sector investments with minimal Zambian diversification",
+            "Personal guarantee exposure on Pick n Pay Zambia's primary distribution center lease"
+          ],
+          "improvementTips": [
+            "Diversify personal investments to include Zambian-listed securities and property holdings",
+            "Transition personal lease guarantee to corporate-backed arrangement as Zambian operations stabilize"
+          ]
+        },
+        {
+          "category": "Legal Compliance",
+          "score": 74,
+          "weight": 30,
+          "weightedScore": 22.2,
+          "explanation": "David Sobey has a clean personal legal record with no criminal or civil proceedings. However, there have been administrative delays related to immigration compliance and some regulatory queries regarding intercompany transfer pricing arrangements.",
+          "positiveFactors": [
+            "Zero criminal record or civil proceedings in any jurisdiction",
+            "Properly registered as director with PACRA in compliance with Zambian company law",
+            "Member of the Zambia Chamber of Commerce and active in retail sector policy discussions"
+          ],
+          "negativeFactors": [
+            "Work permit renewal delayed by 45 days due to incomplete documentation on one occasion",
+            "ZRA raised transfer pricing query on management fees charged by Pick n Pay South Africa to Zambia subsidiary",
+            "Late filing of personal tax return in Zambia for one assessment year"
+          ],
+          "improvementTips": [
+            "Engage dedicated immigration and tax counsel in Zambia to manage all personal compliance matters",
+            "Ensure complete documentation and arm's length pricing for all intercompany transactions",
+            "Set up automated reminders for all personal tax and regulatory filing deadlines"
+          ]
+        },
+        {
+          "category": "Social Behavior",
+          "score": 64,
+          "weight": 30,
+          "weightedScore": 19.2,
+          "explanation": "David Sobey's personal community engagement in Zambia is limited. As a South African expatriate managing the Zambian operation, his social ties and community involvement are minimal compared to locally-rooted business leaders. Greater personal investment in Zambian community development is needed.",
+          "positiveFactors": [
+            "Oversees Pick n Pay's corporate food donation program benefiting 5 children's homes",
+            "Participates in Zambia Retailers Association meetings as a company representative"
+          ],
+          "negativeFactors": [
+            "No personal involvement in Zambian community organizations or development programs",
+            "Has not joined any local mentorship, youth empowerment, or entrepreneurship support initiatives",
+            "Perceived by local business community as primarily reporting to South African head office with limited Zambian community investment",
+            "No personal charitable contributions to Zambian causes on public record"
+          ],
+          "improvementTips": [
+            "Personally participate in Zambian youth entrepreneurship and mentorship programs",
+            "Join local community development boards or charitable organizations in Lusaka",
+            "Invest in community development programs focused on local entrepreneurship and skills development",
+            "Champion Zambian supplier development as a personal leadership priority beyond corporate mandates"
+          ]
+        }
+      ],
+      "overallExplanation": "David Sobey is a financially responsible executive with a clean legal record, but as a South African-based leader managing Zambian operations, he needs to significantly improve his personal engagement with Zambian communities and invest more in local supplier relationships and community development to improve his individual credit standing.",
+      "topImprovementAreas": [
+        "Improve local supplier engagement by personally championing Zambian procurement initiatives",
+        "Participate in community development programs and join local charitable organizations",
+        "Strengthen personal ties to Zambian business and social networks beyond corporate obligations"
+      ]
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Legal Compliance",
+        "score": 78,
+        "weight": 18,
+        "weightedScore": 14.04,
+        "explanation": "Pick n Pay Zambia maintains adequate regulatory compliance across its store network, benefiting from the parent company's compliance frameworks. All trading licenses are current though some minor compliance gaps exist in food safety and employment record-keeping.",
+        "positiveFactors": [
+          "All 18 store trading licenses current and properly renewed across Lusaka and Copperbelt",
+          "Food safety inspections passed at 16 out of 18 locations with no critical findings",
+          "Employment contracts compliant with Zambian labor laws for all 1,200 employees",
+          "Tax filings with ZRA current and all assessed taxes paid on time"
+        ],
+        "negativeFactors": [
+          "Two stores received food safety findings regarding cold storage temperature deviations in dairy sections",
+          "Employee overtime records found to be incomplete at 3 store locations during labor inspection",
+          "One store operating with an expired municipal trading permit for 2 months before renewal"
+        ],
+        "improvementTips": [
+          "Install continuous cold chain temperature monitoring with automated alerts in all stores",
+          "Implement digital time and attendance system to ensure complete overtime record-keeping",
+          "Create centralized permit and license tracking system with 90-day advance renewal reminders"
+        ]
+      },
+      {
+        "category": "Financial Credibility",
+        "score": 80,
+        "weight": 23,
+        "weightedScore": 18.4,
+        "explanation": "Pick n Pay Zambia benefits from the financial strength of its South African parent company, providing access to capital and institutional credibility. Revenue performance is stable but profit margins are squeezed by the high cost of importing goods and currency depreciation.",
+        "positiveFactors": [
+          "Revenue of K1.2 billion with 8% year-over-year growth from 3 new store openings",
+          "Clean unqualified audit opinion for 5th consecutive year",
+          "Supplier payments processed within agreed 45-day terms with no defaults",
+          "Backed by Pick n Pay Holdings group balance sheet and guarantee"
+        ],
+        "negativeFactors": [
+          "Net profit margin compressed to 2.5% from 4.8% over two years due to import cost inflation",
+          "Heavy reliance on intercompany funding from South African parent company for working capital",
+          "Foreign exchange losses of K45 million recorded in the past financial year due to Kwacha depreciation on imported inventory",
+          "Limited independent banking relationships in Zambia"
+        ],
+        "improvementTips": [
+          "Increase locally sourced product proportion to reduce foreign exchange exposure on imports",
+          "Develop independent banking relationships with Zambian banks to diversify funding sources",
+          "Implement formal treasury management and FX hedging policy for import purchases",
+          "Explore local equity partnerships or franchise models to strengthen Zambian financial independence"
+        ]
+      },
+      {
+        "category": "Contractual Performance",
+        "score": 75,
+        "weight": 18,
+        "weightedScore": 13.5,
+        "explanation": "Pick n Pay Zambia meets most contractual obligations to landlords and major suppliers but has a poor track record with smaller local suppliers. Contract terms are rigid and onboarding processes are prohibitively complex for Zambian SMEs.",
+        "positiveFactors": [
+          "All 18 lease agreements current with zero rental defaults",
+          "93% product availability maintained across core product categories",
+          "Zero legal disputes with major suppliers or landlords",
+          "Franchise agreement with Pick n Pay Holdings in full compliance"
+        ],
+        "negativeFactors": [
+          "Local Zambian suppliers report an 8-month onboarding process with excessive requirements for small producers",
+          "Uniform 60-day payment terms applied to all suppliers regardless of size, creating cash flow hardship for small Zambian businesses",
+          "4 incidents of delayed purchase orders to local suppliers causing product stockouts and lost revenue for small producers",
+          "No dedicated local supplier relationship manager on staff"
+        ],
+        "improvementTips": [
+          "Create a fast-track onboarding process for certified Zambian SME suppliers with simplified documentation",
+          "Offer 14-day payment terms for small Zambian suppliers with revenue below K5 million per annum",
+          "Hire a dedicated Zambian supplier relationship manager to manage local procurement partnerships",
+          "Automate purchase order generation for recurring local supplier contracts to eliminate delays"
+        ]
+      },
+      {
+        "category": "Product Quality",
+        "score": 68,
+        "weight": 13,
+        "weightedScore": 8.84,
+        "explanation": "Product quality is acceptable overall but below competitors. Fresh produce quality is inconsistent due to long supply chains from South Africa, and house-brand products are not tailored to Zambian consumer preferences. Customer complaint rates have been increasing.",
+        "positiveFactors": [
+          "Product range of 18,000+ SKUs covering broad customer needs",
+          "Cold chain monitoring implemented for meat, dairy, and frozen sections",
+          "Customer satisfaction survey shows 71% overall approval rating"
+        ],
+        "negativeFactors": [
+          "Fresh produce quality inconsistent with 25% of fruits imported from South Africa showing reduced freshness on arrival",
+          "House-brand products (PnP brand) manufactured in South Africa with no adaptation to Zambian taste preferences",
+          "68 customer complaints about product quality issues in the past quarter, up 30% from prior quarter",
+          "No Zambian-specific product development or taste testing program"
+        ],
+        "improvementTips": [
+          "Source 90% of fresh produce from Zambian farmers to ensure maximum freshness within 24 hours of harvest",
+          "Launch Zambian-specific product development program with local taste testing panels",
+          "Establish co-manufacturing partnerships with Zambian food processors for PnP house-brand products",
+          "Implement rigorous quality monitoring with weekly shelf audits and expiry date management"
+        ]
+      },
+      {
+        "category": "Service Quality",
+        "score": 68,
+        "weight": 10,
+        "weightedScore": 6.8,
+        "explanation": "Pick n Pay Zambia's service quality is below expectations with understaffed stores, slow complaint resolution, and limited customer support infrastructure. The rigid operational model inherited from the South African parent does not adequately account for Zambian customer service expectations, and the lack of a dedicated local customer service team is evident.",
+        "positiveFactors": [
+          "Cold chain monitoring maintains product integrity for perishables across all stores",
+          "Basic return and exchange policy in place compliant with Zambian consumer protection laws"
+        ],
+        "negativeFactors": [
+          "Stores consistently understaffed with customer-to-staff ratios 40% above industry benchmarks",
+          "Customer complaint resolution averaging 21 days with no formal tracking or follow-up system",
+          "No dedicated customer service desk in 12 of 18 stores"
+        ],
+        "improvementTips": [
+          "Increase store staffing levels to match Zambian retail industry benchmarks for customer service",
+          "Establish dedicated customer service desks in all 18 stores with trained complaint resolution staff",
+          "Implement a centralized customer complaint management system with 72-hour resolution target and customer follow-up"
+        ]
+      },
+      {
+        "category": "Local Content & Zambian Procurement",
+        "score": 42,
+        "weight": 18,
+        "weightedScore": 7.56,
+        "explanation": "Pick n Pay Zambia's local content performance is the weakest area of its social credit assessment. Nearly 70% of products are imported through Pick n Pay's South African distribution network, with minimal investment in developing Zambian supplier relationships. The company has no formal Zambian supplier development program, and its procurement decisions are largely driven by the South African head office with little regard for local sourcing opportunities.",
+        "positiveFactors": [
+          "Fresh meats sourced from Zambian suppliers including Zambeef and local poultry farms",
+          "Some bread and bakery products supplied by local Zambian bakeries",
+          "Employs 1,200 Zambian nationals across 18 stores and distribution operations",
+          "Limited fresh vegetables sourced from periurban Zambian farmers"
+        ],
+        "negativeFactors": [
+          "Nearly 70% of products imported from South African distribution networks through the Johannesburg hub",
+          "Minimal investment in developing local supplier capacity or providing technical assistance to Zambian producers",
+          "No formal Zambian supplier development program despite operating in the country for over 8 years",
+          "Cleaning products, toiletries, and household goods sourced almost entirely from South Africa despite Trade Kings and other Zambian manufacturers",
+          "Processed foods, canned goods, and snacks imported from South Africa and Kenya with no effort to source Zambian alternatives",
+          "Procurement decisions centralized at South African head office with limited local buyer autonomy"
+        ],
+        "improvementTips": [
+          "Commit to sourcing 35% of products from Zambian suppliers within 3 years with binding annual targets",
+          "Launch a Zambian supplier incubation program to help local producers meet quality, packaging, and volume standards",
+          "Partner with local universities on agricultural value chain research to identify Zambian sourcing opportunities",
+          "Decentralize procurement decisions to give the Zambian buying team authority to source locally",
+          "Switch household and cleaning product procurement to Zambian manufacturers such as Trade Kings",
+          "Create a 'Made in Zambia' promotional program with dedicated shelf space and marketing support for local products"
+        ]
+      }
+    ],
+    "overallExplanation": "Pick n Pay Zambia, as a South African retail chain, shows adequate financial performance but significantly underperforms in local content. The company's heavy reliance on its South African supply chain means very few Zambian businesses benefit from its operations in the country. Nearly 70% of products are imported through Pick n Pay's Johannesburg distribution hub, bypassing Zambian manufacturers and food processors who produce equivalent goods. While employment of Zambian nationals is positive, the lack of a formal supplier development program and centralized South African procurement model severely limits the company's contribution to the local economy.",
+    "topImprovementAreas": [
+      "Establish a formal Zambian supplier development and incubation program with measurable targets",
+      "Shift procurement to prioritize locally manufactured goods and decentralize buying decisions to the Zambian team",
+      "Create community investment programs focused on local entrepreneurship and agricultural value chain development"
+    ]
+  },
+  {
+    "id": "PVT-013",
+    "companyName": "Airtel Zambia",
+    "sector": "Telecommunications",
+    "score": 77,
+    "rating": "Good",
+    "details": {
+      "legalCompliance": 80,
+      "financialCredibility": 82,
+      "contractualPerformance": 75,
+      "productQuality": 72,
+      "serviceQuality": 65,
+      "localContent": 68
+    },
+    "leader": {
+      "id": "LDR-013",
+      "name": "Charles Makeche",
+      "score": 78,
+      "rating": "Good",
+      "details": {
+        "financialHistory": 80,
+        "legalCompliance": 82,
+        "socialBehavior": 72
+      },
+      "scoreBreakdown": [
+        {
+          "category": "Financial History",
+          "score": 80,
+          "weight": 40,
+          "weightedScore": 32,
+          "explanation": "Charles Makeche demonstrates solid personal financial management with consistent asset growth and responsible borrowing. His financial track record reflects stability aligned with managing a major telecommunications operation in Zambia.",
+          "positiveFactors": [
+            "Clean personal credit record with no defaults or late payments",
+            "Consistent personal asset growth over the past 10 years",
+            "Transparent annual asset declarations filed on time"
+          ],
+          "negativeFactors": [
+            "Limited personal investment diversification outside of telecom sector",
+            "One delayed tax filing in 2023, resolved within 30 days"
+          ],
+          "improvementTips": [
+            "Diversify personal investment portfolio beyond telecommunications holdings",
+            "Set up automated reminders for all personal tax and regulatory filing deadlines"
+          ]
+        },
+        {
+          "category": "Legal Compliance",
+          "score": 82,
+          "weight": 30,
+          "weightedScore": 24.6,
+          "explanation": "Strong legal standing with no criminal record or pending litigation. Maintains good standing as a company director and complies with corporate governance requirements for listed and regulated entities.",
+          "positiveFactors": [
+            "Zero criminal or civil proceedings in personal capacity",
+            "Compliant with all ZICTA director disclosure requirements",
+            "Active participant in Zambia Institute of Directors governance programs"
+          ],
+          "negativeFactors": [
+            "One historic directorship in a company that received a ZICTA compliance notice (resolved 2022)"
+          ],
+          "improvementTips": [
+            "Continue annual corporate governance training and certification",
+            "Advocate for enhanced transparency standards across the telecom industry"
+          ]
+        },
+        {
+          "category": "Social Behavior",
+          "score": 72,
+          "weight": 30,
+          "weightedScore": 21.6,
+          "explanation": "Moderate community engagement with some participation in industry and social events but limited personal involvement in grassroots Zambian community initiatives beyond corporate obligations.",
+          "positiveFactors": [
+            "Participates in industry forums promoting digital inclusion in Zambia",
+            "Supports Airtel's corporate social responsibility programs in education"
+          ],
+          "negativeFactors": [
+            "Limited personal engagement with rural community development initiatives",
+            "No significant personal philanthropic activities beyond corporate programs",
+            "Perceived as more aligned with parent company interests than local community"
+          ],
+          "improvementTips": [
+            "Establish personal involvement in Zambian community development initiatives",
+            "Mentor young Zambian professionals in the telecommunications industry",
+            "Increase visibility in local community events beyond corporate-sponsored activities"
+          ]
+        }
+      ],
+      "overallExplanation": "Charles Makeche leads Airtel Zambia with solid financial management and regulatory compliance. As part of the Bharti Airtel group, the company benefits from global expertise but needs to deepen local leadership investment and Zambian community engagement.",
+      "topImprovementAreas": [
+        "Increase investment in Zambian management talent development",
+        "Strengthen community engagement and CSR programs in rural areas"
+      ]
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Legal Compliance",
+        "score": 80,
+        "weight": 18,
+        "weightedScore": 14.4,
+        "explanation": "Generally compliant with ZICTA regulations. Maintains valid operating licenses and meets most reporting requirements.",
+        "positiveFactors": [
+          "Fully compliant with ZICTA licensing requirements",
+          "Timely submission of regulatory filings",
+          "Adopted mobile money regulation framework early"
+        ],
+        "negativeFactors": [
+          "2 customer data handling complaints under investigation",
+          "Delayed implementation of SIM registration audit recommendations"
+        ],
+        "improvementTips": [
+          "Complete data protection compliance review within 6 months",
+          "Implement real-time SIM registration verification system"
+        ]
+      },
+      {
+        "category": "Financial Credibility",
+        "score": 82,
+        "weight": 23,
+        "weightedScore": 18.86,
+        "explanation": "Strong financial backing from Bharti Airtel global group. Revenue growth steady at 8% year-over-year with healthy EBITDA margins.",
+        "positiveFactors": [
+          "Consistent revenue growth of 8% year-over-year",
+          "Strong parent company financial guarantee",
+          "Clean audit reports for 3 consecutive years"
+        ],
+        "negativeFactors": [
+          "High debt-to-equity ratio from network expansion borrowing",
+          "Foreign currency exposure on equipment imports"
+        ],
+        "improvementTips": [
+          "Diversify borrowing sources to include local Zambian banks",
+          "Hedge foreign currency exposure on major equipment purchases"
+        ]
+      },
+      {
+        "category": "Contractual Performance",
+        "score": 75,
+        "weight": 18,
+        "weightedScore": 13.5,
+        "explanation": "Meets most SLA targets but rural network uptime falls below commitments. Tower sharing agreements generally well-maintained.",
+        "positiveFactors": [
+          "99.5% urban network uptime achieved",
+          "Tower sharing agreements with 3 operators maintained successfully"
+        ],
+        "negativeFactors": [
+          "Rural network uptime at 92% vs 98% SLA target",
+          "15% of enterprise contracts had service complaints in past year",
+          "Slow resolution of interconnect billing disputes with other operators"
+        ],
+        "improvementTips": [
+          "Invest in backup power for rural cell towers to improve uptime",
+          "Establish dedicated enterprise client relationship managers",
+          "Create automated interconnect billing reconciliation system"
+        ]
+      },
+      {
+        "category": "Product Quality",
+        "score": 72,
+        "weight": 13,
+        "weightedScore": 9.36,
+        "explanation": "Mobile money (Airtel Money) growing but customer complaints about network coverage in rural areas. Data speeds inconsistent outside major towns.",
+        "positiveFactors": [
+          "Airtel Money service growing 25% year-over-year",
+          "4G coverage in all 10 provincial capitals",
+          "Competitive data pricing for consumers"
+        ],
+        "negativeFactors": [
+          "Poor network coverage in rural and farming areas",
+          "Data speeds drop significantly outside major urban centers",
+          "Customer service wait times averaging 12 minutes"
+        ],
+        "improvementTips": [
+          "Prioritize rural network expansion with focus on farming communities",
+          "Deploy small cells in high-traffic urban areas to improve data speeds",
+          "Reduce customer service wait times to under 5 minutes through AI chatbot"
+        ]
+      },
+      {
+        "category": "Service Quality",
+        "score": 65,
+        "weight": 10,
+        "weightedScore": 6.5,
+        "explanation": "Airtel Zambia's service quality is hampered by long customer care wait times averaging 12 minutes, inconsistent network reliability in rural areas, and slow complaint resolution. While billing accuracy is generally acceptable and service activation is reasonably fast, the overall customer experience falls short of subscriber expectations.",
+        "positiveFactors": [
+          "Service activation (new SIM, data plans) completed within 24 hours for 95% of requests",
+          "Billing accuracy rate of 97% with clear itemized billing statements"
+        ],
+        "negativeFactors": [
+          "Customer care call center wait times averaging 12 minutes, triple the 4-minute industry target",
+          "Network complaint resolution takes an average of 72 hours in rural areas",
+          "Only 60% of customer complaints resolved on first contact"
+        ],
+        "improvementTips": [
+          "Deploy AI-powered chatbot and self-service portal to reduce call center volume and wait times to under 4 minutes",
+          "Establish regional customer service hubs in provincial capitals for faster rural complaint resolution",
+          "Implement first-contact resolution training program targeting 80% resolution rate"
+        ]
+      },
+      {
+        "category": "Local Content & Zambian Procurement",
+        "score": 68,
+        "weight": 18,
+        "weightedScore": 12.24,
+        "explanation": "As an Indian-owned multinational, Airtel sources significant equipment from international suppliers. Limited investment in local Zambian tech talent and suppliers.",
+        "positiveFactors": [
+          "Employs over 500 Zambians directly with local management team",
+          "Partners with Zambian mobile money agents network of 15,000+",
+          "Sponsors local football league and community events"
+        ],
+        "negativeFactors": [
+          "Over 75% of network equipment sourced from international suppliers (Huawei, Nokia)",
+          "Limited procurement from Zambian IT services companies",
+          "Technical leadership positions predominantly held by expatriates"
+        ],
+        "improvementTips": [
+          "Set target to source 30% of services from Zambian companies within 3 years",
+          "Create a Zambian tech talent accelerator program",
+          "Partner with Zambian universities for network engineering internships"
+        ]
+      }
+    ],
+    "overallExplanation": "Airtel Zambia operates as a strong telecommunications player with solid financial backing from its Indian parent company Bharti Airtel. While the company maintains good regulatory compliance and steady financial performance, its local content score reflects the challenge common to multinational telecoms - heavy reliance on international equipment suppliers and expatriate technical leadership. Network quality in rural areas remains a concern.",
+    "topImprovementAreas": [
+      "Expand rural network coverage to serve farming communities",
+      "Increase procurement from Zambian IT services and suppliers",
+      "Develop local technical talent pipeline through university partnerships"
+    ]
+  },
+  {
+    "id": "PVT-014",
+    "companyName": "MTN Zambia",
+    "sector": "Telecommunications",
+    "score": 74,
+    "rating": "Needs Improvement",
+    "details": {
+      "legalCompliance": 76,
+      "financialCredibility": 78,
+      "contractualPerformance": 72,
+      "productQuality": 70,
+      "serviceQuality": 58,
+      "localContent": 65
+    },
+    "leader": {
+      "id": "LDR-014",
+      "name": "Bart Hofker",
+      "score": 72,
+      "rating": "Needs Improvement",
+      "details": {
+        "financialHistory": 76,
+        "legalCompliance": 74,
+        "socialBehavior": 66
+      },
+      "scoreBreakdown": [
+        {
+          "category": "Financial History",
+          "score": 76,
+          "weight": 40,
+          "weightedScore": 30.4,
+          "explanation": "Bart Hofker has an adequate personal financial record with stable income and asset management. However, limited transparency on personal investments in Zambia and heavy reliance on MTN Group compensation structures reduce confidence in long-term local financial commitment.",
+          "positiveFactors": [
+            "No personal loan defaults or adverse credit history",
+            "Stable income history through MTN Group executive positions",
+            "Annual asset declarations filed as required"
+          ],
+          "negativeFactors": [
+            "Limited personal financial investment in Zambian businesses or assets",
+            "Compensation structure heavily tied to MTN Group performance rather than Zambian operations"
+          ],
+          "improvementTips": [
+            "Make personal investments in Zambian financial instruments or businesses to demonstrate local commitment",
+            "Ensure full transparency on all personal financial interests related to MTN Zambia suppliers"
+          ]
+        },
+        {
+          "category": "Legal Compliance",
+          "score": 74,
+          "weight": 30,
+          "weightedScore": 22.2,
+          "explanation": "Generally compliant with legal requirements but has faced scrutiny over slow responses to regulatory demands from ZICTA. No personal legal issues but corporate compliance under his leadership has received warnings.",
+          "positiveFactors": [
+            "No personal criminal or civil proceedings",
+            "Compliant with director disclosure requirements in Zambia"
+          ],
+          "negativeFactors": [
+            "ZICTA issued formal warning to MTN Zambia during his tenure over tariff transparency",
+            "Slow response to regulatory inquiries noted by ZICTA in annual review",
+            "Corporate governance practices rated below industry best practice by independent auditor"
+          ],
+          "improvementTips": [
+            "Establish direct personal oversight of all ZICTA regulatory communications",
+            "Commission independent corporate governance review and implement recommendations",
+            "Attend Zambia Institute of Directors leadership programs"
+          ]
+        },
+        {
+          "category": "Social Behavior",
+          "score": 66,
+          "weight": 30,
+          "weightedScore": 19.8,
+          "explanation": "Limited personal engagement with Zambian community initiatives. As an expatriate executive, perceived as focused primarily on corporate performance targets rather than local community development and social impact.",
+          "positiveFactors": [
+            "Supports MTN Foundation corporate social responsibility programs",
+            "Participates in industry conferences promoting digital inclusion"
+          ],
+          "negativeFactors": [
+            "Minimal personal involvement in Zambian community or charitable activities",
+            "No visible personal commitment to local social development beyond corporate programs",
+            "Perceived as transient expatriate leadership with limited local social investment"
+          ],
+          "improvementTips": [
+            "Establish personal involvement in at least two Zambian community organizations",
+            "Increase personal visibility in local community and social development events",
+            "Champion a personal initiative for youth digital skills development in Zambia"
+          ]
+        }
+      ],
+      "overallExplanation": "Bart Hofker leads MTN Zambia with focus on market growth but has faced scrutiny over network quality complaints and slow response to ZICTA regulatory demands. As a South African-headquartered company, more emphasis on Zambian community investment is needed.",
+      "topImprovementAreas": [
+        "Improve responsiveness to ZICTA regulatory requirements",
+        "Increase personal engagement with Zambian community initiatives"
+      ]
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Legal Compliance",
+        "score": 76,
+        "weight": 18,
+        "weightedScore": 13.68,
+        "explanation": "Generally meets regulatory requirements but has received warnings from ZICTA about tariff transparency and customer complaint handling.",
+        "positiveFactors": [
+          "Valid operating licenses maintained across all services",
+          "Compliance with new mobile money regulations",
+          "Regular submission of interconnect traffic reports"
+        ],
+        "negativeFactors": [
+          "ZICTA warning issued for lack of tariff transparency on data bundles",
+          "4 unresolved customer complaints escalated to regulator",
+          "Delayed rollout of emergency number improvements"
+        ],
+        "improvementTips": [
+          "Overhaul tariff structure for full transparency and clear communication",
+          "Establish dedicated regulatory compliance team",
+          "Complete emergency number system upgrade within 6 months"
+        ]
+      },
+      {
+        "category": "Financial Credibility",
+        "score": 78,
+        "weight": 23,
+        "weightedScore": 17.94,
+        "explanation": "Backed by MTN Group but Zambian operations showing lower margins than other MTN markets. Subscriber growth has plateaued.",
+        "positiveFactors": [
+          "Strong parent company MTN Group guarantee",
+          "Revenue stable at K2.8 billion annually",
+          "Mobile money platform MoMo showing growth"
+        ],
+        "negativeFactors": [
+          "EBITDA margins 5% below MTN Group average for African operations",
+          "Subscriber growth stagnant at 0.5% year-over-year",
+          "High customer churn rate of 18% annually"
+        ],
+        "improvementTips": [
+          "Invest in customer retention programs to reduce churn",
+          "Optimize operating costs to improve margins",
+          "Diversify revenue through enterprise and IoT services"
+        ]
+      },
+      {
+        "category": "Contractual Performance",
+        "score": 72,
+        "weight": 18,
+        "weightedScore": 12.96,
+        "explanation": "Network reliability concerns with frequent outages reported. SLA compliance for enterprise customers below industry benchmarks.",
+        "positiveFactors": [
+          "Core network infrastructure recently upgraded",
+          "Fiber backbone connecting major cities completed"
+        ],
+        "negativeFactors": [
+          "6 major network outages in past 12 months affecting subscribers",
+          "Enterprise SLA compliance at 88% vs 95% target",
+          "Interconnect quality complaints from smaller operators"
+        ],
+        "improvementTips": [
+          "Implement redundant network pathways to prevent single-point failures",
+          "Establish 24/7 network operations center with predictive monitoring",
+          "Create SLA penalty/compensation framework for enterprise clients"
+        ]
+      },
+      {
+        "category": "Product Quality",
+        "score": 70,
+        "weight": 13,
+        "weightedScore": 9.1,
+        "explanation": "Network quality inconsistent. Customers report frequent dropped calls and slow data speeds. Mobile money adoption growing but app reliability needs improvement.",
+        "positiveFactors": [
+          "MoMo mobile money gaining market share",
+          "Recently launched 5G pilot in Lusaka",
+          "Competitive international calling rates"
+        ],
+        "negativeFactors": [
+          "Dropped call rate of 3.5% exceeds 1% industry target",
+          "Mobile app crashes reported by 20% of users monthly",
+          "Data speeds averaging 5Mbps vs advertised 20Mbps in urban areas"
+        ],
+        "improvementTips": [
+          "Prioritize network optimization to reduce dropped call rate below 1%",
+          "Invest in mobile app stability and UX redesign",
+          "Deploy additional 4G capacity in high-demand urban areas"
+        ]
+      },
+      {
+        "category": "Service Quality",
+        "score": 58,
+        "weight": 10,
+        "weightedScore": 5.8,
+        "explanation": "MTN Zambia's service quality is significantly below expectations with frequent network outages, a mobile app that crashes for 20% of users monthly, and dropped call rates well above industry standards. Customer complaint handling is slow, and billing disputes related to data bundle transparency have drawn ZICTA warnings.",
+        "positiveFactors": [
+          "MoMo mobile money platform provides reliable transaction processing for financial services",
+          "Recently launched 5G pilot in Lusaka demonstrates commitment to technology investment"
+        ],
+        "negativeFactors": [
+          "6 major network outages in the past 12 months disrupting service for millions of subscribers",
+          "Mobile app crashes reported by 20% of users monthly, undermining digital service delivery",
+          "Dropped call rate of 3.5% far exceeds the 1% industry target, causing significant customer frustration"
+        ],
+        "improvementTips": [
+          "Invest in redundant network infrastructure to eliminate single points of failure and reduce outages by 80%",
+          "Overhaul mobile app with dedicated QA team and monthly stability releases targeting less than 1% crash rate",
+          "Establish a transparent customer compensation framework for service outages exceeding 4 hours"
+        ]
+      },
+      {
+        "category": "Local Content & Zambian Procurement",
+        "score": 65,
+        "weight": 18,
+        "weightedScore": 11.7,
+        "explanation": "As a South African multinational, MTN sources most technology from international suppliers. Limited local value chain development.",
+        "positiveFactors": [
+          "Direct employment of 400+ Zambians",
+          "Agent network of 12,000 Zambian entrepreneurs for MoMo",
+          "Sponsors Zambian music awards and cultural events"
+        ],
+        "negativeFactors": [
+          "Over 80% of network infrastructure procured from international vendors",
+          "IT development and support largely outsourced to South African offices",
+          "No formal Zambian supplier development program exists"
+        ],
+        "improvementTips": [
+          "Establish a Zambian supplier incubation program for IT services",
+          "Transfer more IT development and support functions to Lusaka office",
+          "Partner with ZICTA and local universities on telecommunications skills training"
+        ]
+      }
+    ],
+    "overallExplanation": "MTN Zambia benefits from the backing of Africa's largest telecoms group but its Zambian operations underperform in several areas. Network reliability and product quality are below customer expectations, with frequent outages and slow data speeds. Local content contributions are limited by heavy reliance on South African and international supply chains. The company needs to invest more in local talent, Zambian procurement, and network quality.",
+    "topImprovementAreas": [
+      "Significantly improve network reliability and reduce outages",
+      "Establish formal Zambian supplier development and procurement program",
+      "Address customer complaints about data speeds and app reliability"
+    ]
+  },
+  {
+    "id": "PVT-015",
+    "companyName": "Zamtel",
+    "sector": "Telecommunications",
+    "score": 62,
+    "rating": "Needs Improvement",
+    "details": {
+      "legalCompliance": 70,
+      "financialCredibility": 55,
+      "contractualPerformance": 58,
+      "productQuality": 60,
+      "serviceQuality": 52,
+      "localContent": 85
+    },
+    "leader": {
+      "id": "LDR-015",
+      "name": "Sydney Mupeta",
+      "score": 65,
+      "rating": "Needs Improvement",
+      "details": {
+        "financialHistory": 60,
+        "legalCompliance": 72,
+        "socialBehavior": 63
+      },
+      "scoreBreakdown": [
+        {
+          "category": "Financial History",
+          "score": 60,
+          "weight": 40,
+          "weightedScore": 24,
+          "explanation": "Sydney Mupeta's personal financial history is adequate but reflects challenges associated with leading a financially struggling state-linked enterprise. Limited personal wealth accumulation and some concerns about oversight of company financial decisions.",
+          "positiveFactors": [
+            "No personal loan defaults or bankruptcy history",
+            "Asset declarations filed as required by public office holder regulations"
+          ],
+          "negativeFactors": [
+            "Personal financial portfolio shows limited growth over tenure at Zamtel",
+            "Questions raised about oversight of company expenditure decisions flagged by Auditor General",
+            "Limited personal financial investment diversification"
+          ],
+          "improvementTips": [
+            "Strengthen personal financial planning and investment diversification",
+            "Proactively address Auditor General findings related to company financial oversight",
+            "Engage a personal financial advisor to improve financial management transparency"
+          ]
+        },
+        {
+          "category": "Legal Compliance",
+          "score": 72,
+          "weight": 30,
+          "weightedScore": 21.6,
+          "explanation": "Generally compliant with legal requirements as a public company executive. However, procurement irregularities at Zamtel during his tenure have raised concerns about governance oversight.",
+          "positiveFactors": [
+            "No personal criminal or civil proceedings",
+            "Compliant with public officer financial disclosure requirements",
+            "Cooperates with regulatory bodies and government auditors"
+          ],
+          "negativeFactors": [
+            "Procurement irregularities flagged by Auditor General occurred under his leadership",
+            "Delayed implementation of governance recommendations from board reviews",
+            "Limited personal advocacy for corporate governance reforms within Zamtel"
+          ],
+          "improvementTips": [
+            "Implement all Auditor General recommendations within published timelines",
+            "Champion corporate governance reforms and transparent procurement processes",
+            "Obtain corporate governance certification from recognized institution"
+          ]
+        },
+        {
+          "category": "Social Behavior",
+          "score": 63,
+          "weight": 30,
+          "weightedScore": 18.9,
+          "explanation": "Moderate community engagement. Committed to Zambian employment and local operations but personal social impact initiatives are limited. Staff morale concerns under his leadership need attention.",
+          "positiveFactors": [
+            "Strong advocate for Zambian employment and local talent development",
+            "Participates in government digital transformation advisory committees"
+          ],
+          "negativeFactors": [
+            "Staff satisfaction surveys indicate morale challenges under current leadership",
+            "Limited personal involvement in community development beyond corporate programs",
+            "Public perception affected by Zamtel's declining service quality"
+          ],
+          "improvementTips": [
+            "Launch personal initiative to improve staff morale and workplace culture at Zamtel",
+            "Increase personal involvement in Zambian education and technology community programs",
+            "Develop a public communication strategy to rebuild trust with Zamtel customers"
+          ]
+        }
+      ],
+      "overallExplanation": "Sydney Mupeta leads Zamtel through a challenging period of market competition from well-funded multinationals. While committed to the Zambian market, leadership has struggled with financial sustainability and operational efficiency. Strong emphasis on local employment is commendable.",
+      "topImprovementAreas": [
+        "Develop a clear financial turnaround strategy for sustainable profitability",
+        "Improve operational decision-making speed and accountability"
+      ]
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Legal Compliance",
+        "score": 70,
+        "weight": 18,
+        "weightedScore": 12.6,
+        "explanation": "As a partly government-owned entity, maintains basic regulatory compliance but has had procurement irregularities flagged by auditors.",
+        "positiveFactors": [
+          "Valid ZICTA licenses maintained for all services",
+          "First telecom to fully comply with Zambian data localization requirements",
+          "Cooperates with law enforcement on lawful intercept requirements"
+        ],
+        "negativeFactors": [
+          "Auditor General flagged 3 procurement irregularities in recent report",
+          "Delayed filing of 2 quarterly ZICTA reports",
+          "Staff disciplinary procedures not aligned with latest labor law amendments"
+        ],
+        "improvementTips": [
+          "Implement independent procurement oversight committee",
+          "Automate ZICTA reporting to eliminate filing delays",
+          "Update HR policies to fully comply with current labor legislation"
+        ]
+      },
+      {
+        "category": "Financial Credibility",
+        "score": 55,
+        "weight": 23,
+        "weightedScore": 12.65,
+        "explanation": "Zamtel faces significant financial challenges with declining revenue, operating losses, and dependence on government support. Debt levels are concerning.",
+        "positiveFactors": [
+          "Government guarantee provides financial backstop",
+          "Recent network investment shows commitment to growth",
+          "Mobile money platform generating new revenue stream"
+        ],
+        "negativeFactors": [
+          "Operating losses for 3 consecutive years totaling K850 million",
+          "Revenue declining 5% year-over-year as market share erodes",
+          "Debt-to-equity ratio exceeding 150%, raising sustainability concerns",
+          "Accounts payable to suppliers overdue by average of 90 days"
+        ],
+        "improvementTips": [
+          "Develop comprehensive financial turnaround plan with clear milestones",
+          "Negotiate debt restructuring with creditors",
+          "Focus on profitable segments like enterprise and fiber services"
+        ]
+      },
+      {
+        "category": "Contractual Performance",
+        "score": 58,
+        "weight": 18,
+        "weightedScore": 10.44,
+        "explanation": "Network reliability below industry standards. Enterprise customers report SLA breaches. Supplier payment delays strain vendor relationships.",
+        "positiveFactors": [
+          "Fiber backbone network provides strong infrastructure foundation",
+          "Successfully completed government connectivity project for schools"
+        ],
+        "negativeFactors": [
+          "Network uptime at 89% vs 98% industry standard",
+          "Enterprise SLA breach rate of 25% in past year",
+          "Supplier payment delays averaging 90 days damaging vendor relationships",
+          "3 major infrastructure projects behind schedule"
+        ],
+        "improvementTips": [
+          "Prioritize network maintenance and monitoring investment",
+          "Establish SLA management system with automated alerts",
+          "Create supplier payment improvement plan to reach 30-day terms"
+        ]
+      },
+      {
+        "category": "Product Quality",
+        "score": 60,
+        "weight": 13,
+        "weightedScore": 7.8,
+        "explanation": "Network coverage decent in urban areas due to legacy infrastructure but service quality lags competitors. Customers switching to Airtel and MTN for better data services.",
+        "positiveFactors": [
+          "Widest 2G coverage footprint in Zambia reaching remote areas",
+          "Zamtel fiber offers competitive enterprise broadband",
+          "Recently launched improved mobile app"
+        ],
+        "negativeFactors": [
+          "4G coverage limited to major urban centers",
+          "Data speeds 40% slower than competitors in comparable areas",
+          "Customer service complaints up 30% year-over-year",
+          "High subscriber churn of 22% annually"
+        ],
+        "improvementTips": [
+          "Fast-track 4G rollout to secondary towns and commercial farming areas",
+          "Invest in customer service training and reduce response times",
+          "Launch competitive data bundles to retain price-sensitive customers"
+        ]
+      },
+      {
+        "category": "Service Quality",
+        "score": 52,
+        "weight": 10,
+        "weightedScore": 5.2,
+        "explanation": "Zamtel has the worst service quality among the three telecoms with the slowest customer support response times, persistent network reliability issues, and a high subscriber churn rate of 22%. Customer service complaints have increased 30% year-over-year, and the company's call center is frequently unreachable during peak hours.",
+        "positiveFactors": [
+          "Widest 2G coverage footprint in Zambia provides basic connectivity even in remote areas",
+          "Recently launched improved mobile app as a step toward digital self-service"
+        ],
+        "negativeFactors": [
+          "Customer service call center frequently unreachable during peak hours with average wait times exceeding 20 minutes",
+          "Network uptime at only 89% versus the 98% industry standard, causing frequent service disruptions",
+          "Customer service complaints up 30% year-over-year with no visible improvement in resolution speed"
+        ],
+        "improvementTips": [
+          "Hire and train additional customer service agents to ensure call center wait times below 5 minutes",
+          "Implement a formal customer complaint management system with defined SLAs and escalation procedures",
+          "Launch a self-service portal and USSD-based support channel to reduce call center dependency"
+        ]
+      },
+      {
+        "category": "Local Content & Zambian Procurement",
+        "score": 85,
+        "weight": 18,
+        "weightedScore": 15.3,
+        "explanation": "As a Zambian-owned telecom, Zamtel excels in local employment and procurement. Over 90% of staff are Zambian and the company actively sources from local suppliers where possible.",
+        "positiveFactors": [
+          "Over 95% of workforce are Zambian nationals including senior management",
+          "Active procurement from Zambian IT services and construction companies",
+          "Headquarters and all operations based in Zambia with no outsourcing abroad",
+          "Significant investment in training Zambian engineers and technicians"
+        ],
+        "negativeFactors": [
+          "Some specialized network equipment must still be imported",
+          "Limited local manufacturing alternatives for telecom infrastructure"
+        ],
+        "improvementTips": [
+          "Partner with Zambian manufacturers to develop local telecom equipment assembly",
+          "Establish a supplier development fund to build Zambian vendor capacity",
+          "Create apprenticeship programs with Zambian technical colleges for telecom skills"
+        ]
+      }
+    ],
+    "overallExplanation": "Zamtel, as Zambia's own telecommunications company, scores highest among telecoms on local content with over 95% Zambian workforce and active local procurement. However, the company faces serious financial sustainability challenges with consecutive operating losses, declining market share, and concerning debt levels. Network quality and contractual performance lag behind better-funded multinational competitors Airtel and MTN. Zamtel's greatest strength - its commitment to Zambian employment and procurement - must be preserved while addressing urgent financial and operational improvements.",
+    "topImprovementAreas": [
+      "Execute financial turnaround plan to achieve profitability within 2 years",
+      "Improve network quality and 4G coverage to compete with Airtel and MTN",
+      "Resolve supplier payment delays to rebuild vendor trust and partnerships"
+    ]
+  }
+]

@@ -1,0 +1,1081 @@
+[
+  {
+    "id": "DIR-001",
+    "name": "Chimwemwe Nkandu Tembo",
+    "role": "Director",
+    "organization": "Government of Zambia",
+    "region": "Lusaka",
+    "overallScore": 82,
+    "rating": "Good",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-20T00:00:00",
+    "department": "Department of Immigration",
+    "appointmentDate": "2022-04-15T00:00:00",
+    "details": {
+      "departmentalPerformance": 84,
+      "financialResourceManagement": 80,
+      "staffManagement": 83,
+      "ethicalConduct": 82,
+      "reportingAccountability": 81
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Departmental Performance",
+        "score": 84,
+        "weight": 25,
+        "weightedScore": 21.0,
+        "explanation": "The Director has driven notable modernisation of immigration services, including the rollout of the electronic visa system and upgraded passport production capacity. Processing times have improved significantly, though border post operations and work permit processing remain areas requiring attention.",
+        "positiveFactors": [
+          "Electronic visa system launched for 15 priority countries, processing 85% of tourist visa applications within 48 hours",
+          "Passport production capacity doubled through procurement of new personalisation equipment at Lusaka headquarters",
+          "Established the Immigration One-Stop Centre at Long Acres providing consolidated immigration services"
+        ],
+        "negativeFactors": [
+          "Work permit processing time averaging 45 days, exceeding the 21-day service standard",
+          "Border management systems at Chembe and Mokambo border posts still operating on legacy platforms"
+        ],
+        "improvementTips": [
+          "Implement an online work permit tracking system with automated status updates to applicants",
+          "Prioritise border management system upgrades at Chembe and Mokambo as part of the One-Stop Border Post programme",
+          "Establish a dedicated work permit fast-track desk for priority economic sectors including mining and agriculture"
+        ]
+      },
+      {
+        "category": "Financial Resource Management",
+        "score": 80,
+        "weight": 25,
+        "weightedScore": 20.0,
+        "explanation": "Immigration fee revenue collection has increased substantially through electronic payment channels. Budget execution is satisfactory for recurrent expenditure, though capital project implementation shows room for improvement, particularly in border infrastructure upgrades.",
+        "positiveFactors": [
+          "Immigration fee revenue increased by 35% through electronic payment integration with mobile money platforms",
+          "Recurrent budget execution at 93% with clean internal audit report",
+          "Successfully accounted for K180 million in International Organisation for Migration project funding"
+        ],
+        "negativeFactors": [
+          "Capital budget execution at 62% due to delayed construction of new border infrastructure",
+          "Revenue leakage at manual border posts estimated at K25 million annually"
+        ],
+        "improvementTips": [
+          "Accelerate border infrastructure construction by pre-qualifying contractors and establishing standby procurement arrangements",
+          "Deploy electronic fee collection at all remaining manual border posts within 12 months",
+          "Implement real-time revenue monitoring dashboard accessible to the Director and Provincial Immigration Officers"
+        ]
+      },
+      {
+        "category": "Staff Management",
+        "score": 83,
+        "weight": 20,
+        "weightedScore": 16.6,
+        "explanation": "Staff management has improved through structured training programmes and the deployment of officers to previously understaffed border posts. Morale has improved with the regularisation of shift allowances, though staff shortages at high-volume entry points persist.",
+        "positiveFactors": [
+          "Deployed 150 newly trained immigration officers to underserved border posts and airports",
+          "Regularised shift and risk allowances for all border post officers, improving morale and retention",
+          "Implemented the Immigration Officer Competency Framework with annual performance assessments"
+        ],
+        "negativeFactors": [
+          "Staff-to-traveller ratio at Kenneth Kaunda International Airport below optimal levels during peak travel periods",
+          "Only 60% of officers have completed the mandatory digital systems training programme"
+        ],
+        "improvementTips": [
+          "Request Treasury authority to recruit additional officers specifically for Kenneth Kaunda International Airport peak period coverage",
+          "Implement mandatory digital systems training completion by all officers within 6 months with certification requirements",
+          "Introduce performance-linked incentives for officers achieving high service delivery ratings"
+        ]
+      },
+      {
+        "category": "Ethical Conduct",
+        "score": 82,
+        "weight": 15,
+        "weightedScore": 12.3,
+        "explanation": "The Director has taken meaningful steps to address corruption vulnerabilities in immigration services, including deploying CCTV at major entry points and establishing internal integrity checks. However, border post corruption remains a persistent challenge requiring sustained attention.",
+        "positiveFactors": [
+          "Deployed CCTV surveillance systems at Kenneth Kaunda and Harry Mwanga Nkumbula International Airports immigration desks",
+          "Established an internal integrity testing programme resulting in disciplinary action against 8 officers",
+          "Introduced automated queue management at the Long Acres Immigration One-Stop Centre eliminating queue-jumping facilitation"
+        ],
+        "negativeFactors": [
+          "Border post corruption survey indicates 28% of frequent travellers report solicitation of informal payments",
+          "Two Provincial Immigration Officers under investigation for issuing fraudulent residence permits"
+        ],
+        "improvementTips": [
+          "Extend CCTV deployment to all major land border posts and ensure footage is retained for 90 days minimum",
+          "Implement mandatory officer rotation at border posts every 24 months to prevent relationship-based corruption",
+          "Fast-track investigations of Provincial Immigration Officers and publish outcomes as a deterrent"
+        ]
+      },
+      {
+        "category": "Reporting & Accountability",
+        "score": 81,
+        "weight": 15,
+        "weightedScore": 12.15,
+        "explanation": "Reporting practices have improved with the introduction of quarterly immigration statistics reports. Parliamentary accountability is adequate, though public disclosure of immigration processing data and policy decisions could be enhanced.",
+        "positiveFactors": [
+          "Quarterly immigration statistics report introduced covering arrivals, departures, visa approvals, and rejections",
+          "Monthly performance reports submitted to the Permanent Secretary within 15 days of month-end",
+          "Participated in the East Africa Community immigration data harmonisation initiative"
+        ],
+        "negativeFactors": [
+          "Immigration statistics not published on the ministry website for public access",
+          "Processing time benchmarks and actual performance data not disclosed to service users"
+        ],
+        "improvementTips": [
+          "Publish quarterly immigration statistics on the department website for public and researcher access",
+          "Display service processing time benchmarks and actual performance at all immigration service points",
+          "Establish an online feedback mechanism allowing service users to rate their immigration experience"
+        ]
+      }
+    ],
+    "overallExplanation": "The Director of Immigration has delivered meaningful modernisation of immigration services, with the electronic visa system, increased passport production capacity, and the Immigration One-Stop Centre being notable achievements. Revenue collection improvements and staff deployment to underserved areas demonstrate competent management. Key areas for improvement include reducing work permit processing times, addressing border post corruption through technology and officer rotation, and publishing immigration statistics for public accountability. Continued momentum on digital transformation will be critical to sustaining service improvement.",
+    "topImprovementAreas": [
+      "Reduce work permit processing times from 45 days to within the 21-day service standard",
+      "Address border post corruption through CCTV expansion, officer rotation, and stronger enforcement",
+      "Publish immigration statistics and processing performance data on the department website"
+    ]
+  },
+  {
+    "id": "DIR-002",
+    "name": "Mwamba Chanda Kaluba",
+    "role": "Director",
+    "organization": "Government of Zambia",
+    "region": "Lusaka",
+    "overallScore": 68,
+    "rating": "Needs Improvement",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-20T00:00:00",
+    "department": "Road Development Agency",
+    "appointmentDate": "2023-02-01T00:00:00",
+    "details": {
+      "departmentalPerformance": 65,
+      "financialResourceManagement": 62,
+      "staffManagement": 72,
+      "ethicalConduct": 70,
+      "reportingAccountability": 68
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Departmental Performance",
+        "score": 65,
+        "weight": 25,
+        "weightedScore": 16.25,
+        "explanation": "The Road Development Agency has made progress on the Link Zambia 8000 programme but is significantly behind on periodic road maintenance targets. Project completion rates are below expectations, with multiple road construction projects experiencing delays due to contractor performance issues and design variations.",
+        "positiveFactors": [
+          "Completed 1,200 km of road construction under the Link Zambia 8000 programme",
+          "Introduced the Road Asset Management System for data-driven maintenance prioritisation",
+          "Successfully delivered the Kasama-Mbesuma-Nakonde road rehabilitation on schedule and within budget"
+        ],
+        "negativeFactors": [
+          "Only 55% of planned periodic maintenance activities completed against the annual target",
+          "12 road construction projects behind schedule by an average of 14 months",
+          "Emergency road repairs in flood-affected areas of Western Province delayed by 4 months"
+        ],
+        "improvementTips": [
+          "Implement a contractor performance rating system and restrict poorly performing contractors from new tenders",
+          "Establish regional emergency response teams with pre-positioned materials for rapid flood damage repair",
+          "Increase use of the Road Asset Management System data to optimise maintenance scheduling and resource allocation"
+        ]
+      },
+      {
+        "category": "Financial Resource Management",
+        "score": 62,
+        "weight": 25,
+        "weightedScore": 15.5,
+        "explanation": "Financial management is a significant weakness, with the Auditor General identifying cost overruns on major projects and questionable variation orders. Road Fund Agency allocations are not fully utilised due to poor project planning and cash flow management.",
+        "positiveFactors": [
+          "Implemented electronic payment systems for contractor payments reducing processing time",
+          "Road Fund Agency routine maintenance allocation fully expended on planned activities"
+        ],
+        "negativeFactors": [
+          "Cost overruns totalling K2.1 billion across 4 major projects due to design changes and contractor claims",
+          "Auditor General flagged K85 million in questionable variation orders on the Kasama-Luwingu road project",
+          "K500 million in Road Fund Agency periodic maintenance allocation unspent due to procurement delays"
+        ],
+        "improvementTips": [
+          "Establish an independent variation order review committee for all cost increases exceeding 10% of contract value",
+          "Complete project designs to at least 90% before tendering to minimise design-related variation orders",
+          "Streamline periodic maintenance procurement by establishing framework contracts with pre-qualified contractors"
+        ]
+      },
+      {
+        "category": "Staff Management",
+        "score": 72,
+        "weight": 20,
+        "weightedScore": 14.4,
+        "explanation": "Staff management is adequate with a functional organisational structure and regular training programmes. However, project supervision capacity is stretched, and the turnover of experienced engineers to the private sector is a growing concern.",
+        "positiveFactors": [
+          "Sponsored 25 engineers for postgraduate training in road engineering and project management",
+          "Established regional project supervision offices in all 10 provinces improving oversight coverage",
+          "Introduced a mentorship programme pairing junior engineers with experienced supervisors"
+        ],
+        "negativeFactors": [
+          "15% annual turnover of qualified engineers leaving for better-paying private sector positions",
+          "Project supervisor-to-project ratio averaging 1:8, far exceeding the recommended 1:4"
+        ],
+        "improvementTips": [
+          "Implement a retention package for qualified engineers including housing allowance and professional development funding",
+          "Recruit additional project supervisors to achieve the recommended 1:4 supervisor-to-project ratio",
+          "Explore secondment arrangements with private sector engineering firms to supplement supervision capacity"
+        ]
+      },
+      {
+        "category": "Ethical Conduct",
+        "score": 70,
+        "weight": 15,
+        "weightedScore": 10.5,
+        "explanation": "The Director has taken steps to improve procurement integrity, but the road construction sector remains highly vulnerable to corruption. Two regional managers are under investigation, and contractor collusion in tender processes has been reported by the Zambia Public Procurement Authority.",
+        "positiveFactors": [
+          "Adopted e-procurement for all tenders above K10 million reducing direct contact between officers and bidders",
+          "Introduced mandatory asset declarations for all project supervisors and procurement officers",
+          "Cooperated fully with ZPPA investigations into suspected tender irregularities"
+        ],
+        "negativeFactors": [
+          "Two regional managers under investigation for collusion with contractors on project measurements and payments",
+          "ZPPA flagged suspected bid rigging in 3 road construction tenders in 2025"
+        ],
+        "improvementTips": [
+          "Implement independent third-party verification of project measurements and quantities for all contracts above K50 million",
+          "Introduce mandatory rotation of regional managers every 3 years to prevent entrenchment and collusion",
+          "Establish a contractor integrity hotline for confidential reporting of corruption solicitation"
+        ]
+      },
+      {
+        "category": "Reporting & Accountability",
+        "score": 68,
+        "weight": 15,
+        "weightedScore": 10.2,
+        "explanation": "Reporting has improved with the introduction of quarterly project status reports, but project-level financial data remains difficult to access. Community feedback mechanisms on road quality are weak, and public disclosure of contract details is incomplete.",
+        "positiveFactors": [
+          "Quarterly project status reports submitted to the Ministry of Transport and Logistics on schedule",
+          "Participated in the Construction Sector Transparency Initiative pilot programme",
+          "Annual road sector investment plan published with project locations and estimated costs"
+        ],
+        "negativeFactors": [
+          "Individual contract values, contractor names, and completion timelines not published",
+          "Community road quality monitoring committees non-functional in 6 provinces",
+          "Project completion audit reports not shared with Parliamentary oversight committees"
+        ],
+        "improvementTips": [
+          "Publish all road construction contracts above K10 million on the RDA website including contractor details and timelines",
+          "Revitalise community road quality monitoring committees with training, reporting templates, and feedback mechanisms",
+          "Submit project completion audit reports to the Parliamentary Committee on Transport within 90 days of project handover"
+        ]
+      }
+    ],
+    "overallExplanation": "The Director of the Road Development Agency faces significant challenges in financial resource management and project delivery timelines. While progress on the Link Zambia 8000 programme and the introduction of the Road Asset Management System are positive, cost overruns totalling K2.1 billion and questionable variation orders represent serious governance failures. The loss of experienced engineers to the private sector threatens the agency's technical capacity. Immediate action is needed on financial controls, contractor performance management, and transparency in contract disclosure to restore confidence in the agency's operations.",
+    "topImprovementAreas": [
+      "Address K2.1 billion in cost overruns through improved project design completion and independent variation order review",
+      "Implement contractor performance rating system to improve project delivery timelines",
+      "Publish road construction contract details for public accountability and transparency"
+    ]
+  },
+  {
+    "id": "DIR-003",
+    "name": "Mutinta Lubasi Hamusonde",
+    "role": "Director",
+    "organization": "Government of Zambia",
+    "region": "Lusaka",
+    "overallScore": 71,
+    "rating": "Good",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-20T00:00:00",
+    "department": "ZESCO Oversight Directorate - Ministry of Energy",
+    "appointmentDate": "2022-09-10T00:00:00",
+    "details": {
+      "departmentalPerformance": 70,
+      "financialResourceManagement": 68,
+      "staffManagement": 75,
+      "ethicalConduct": 73,
+      "reportingAccountability": 69
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Departmental Performance",
+        "score": 70,
+        "weight": 25,
+        "weightedScore": 17.5,
+        "explanation": "The Director oversees the government's regulatory relationship with ZESCO Limited, Zambia's primary electricity utility. While the commissioning of Kafue Gorge Lower has been a milestone achievement, the directorate has struggled to hold ZESCO accountable for load management, customer service standards, and grid maintenance.",
+        "positiveFactors": [
+          "Oversaw the successful commissioning of the 750MW Kafue Gorge Lower hydropower station",
+          "Coordinated the development of the Integrated Resource Plan for Zambia's electricity generation mix",
+          "Facilitated 3 independent power producer agreements for solar generation totalling 400MW"
+        ],
+        "negativeFactors": [
+          "ZESCO load shedding averaged 8 hours daily during the 2025 dry season without adequate consumer mitigation measures",
+          "Grid transmission losses at 18%, significantly above the 12% international benchmark"
+        ],
+        "improvementTips": [
+          "Establish binding load shedding protocols requiring ZESCO to publish advance schedules and compensate industrial consumers",
+          "Set enforceable grid loss reduction targets for ZESCO linked to performance-based regulation",
+          "Accelerate the commissioning of pipeline solar projects to reduce hydro dependency during dry seasons"
+        ]
+      },
+      {
+        "category": "Financial Resource Management",
+        "score": 68,
+        "weight": 25,
+        "weightedScore": 17.0,
+        "explanation": "The directorate's oversight of ZESCO's financial performance has been inadequate, with the utility accumulating K3.2 billion in arrears to independent power producers. The government's electricity subsidy framework lacks transparency, and tariff determination processes have been delayed by political considerations.",
+        "positiveFactors": [
+          "Secured World Bank financing of K2 billion for the Zambia Renewable Energy Programme",
+          "Directorate operational budget managed within approved ceilings with clean internal audit"
+        ],
+        "negativeFactors": [
+          "ZESCO accumulated K3.2 billion in arrears to independent power producers threatening sector financial viability",
+          "Cost-reflective tariff adjustment delayed by 18 months due to political sensitivities",
+          "Government electricity subsidy of K1.5 billion annually lacks transparent targeting criteria"
+        ],
+        "improvementTips": [
+          "Develop a phased cost-reflective tariff adjustment pathway with lifeline tariffs protecting vulnerable consumers",
+          "Establish a ring-fenced ZESCO arrears clearance mechanism funded through tariff adjustments and government transfers",
+          "Publish the electricity subsidy framework including eligibility criteria and beneficiary data for public scrutiny"
+        ]
+      },
+      {
+        "category": "Staff Management",
+        "score": 75,
+        "weight": 20,
+        "weightedScore": 15.0,
+        "explanation": "The directorate maintains a competent team of energy sector specialists, though the team size is inadequate for the scope of oversight responsibilities. Training in utility regulation and financial analysis has been prioritised.",
+        "positiveFactors": [
+          "Sponsored 5 directorate officers for specialised utility regulation training through the African Forum for Utility Regulators",
+          "Recruited 3 qualified energy economists to strengthen the directorate's analytical capacity",
+          "Established a knowledge-sharing programme with the Energy Regulation Board for cross-institutional learning"
+        ],
+        "negativeFactors": [
+          "Directorate staff complement of 18 is insufficient for effective oversight of ZESCO's K15 billion annual operations",
+          "No dedicated legal capacity within the directorate to review ZESCO's contractual arrangements"
+        ],
+        "improvementTips": [
+          "Request Treasury authority to increase the directorate staff complement to 30 officers including dedicated legal expertise",
+          "Recruit experienced utility regulation specialists from the Southern African Power Pool talent market",
+          "Establish secondment arrangements with the Energy Regulation Board for knowledge transfer and capacity building"
+        ]
+      },
+      {
+        "category": "Ethical Conduct",
+        "score": 73,
+        "weight": 15,
+        "weightedScore": 10.95,
+        "explanation": "The Director maintains a clean personal record, but the directorate's ability to prevent political interference in ZESCO's procurement and operational decisions requires strengthening. Allegations of improper influence in emergency power procurement decisions have not been adequately investigated.",
+        "positiveFactors": [
+          "Personal compliance with all asset declaration and financial disclosure requirements",
+          "Introduced mandatory conflict of interest declarations for all officers involved in ZESCO oversight",
+          "Reported suspected irregularities in ZESCO emergency power procurement to the Anti-Corruption Commission"
+        ],
+        "negativeFactors": [
+          "Allegations of political interference in ZESCO emergency power purchase decisions not fully investigated",
+          "Directorate officers attending ZESCO board meetings without clear governance protocols on information access limits"
+        ],
+        "improvementTips": [
+          "Establish clear governance protocols defining the directorate's role and information access boundaries at ZESCO board level",
+          "Request the Anti-Corruption Commission to conclude the investigation into emergency power procurement allegations",
+          "Implement a transparency charter for all directorate interactions with ZESCO requiring documentation and disclosure"
+        ]
+      },
+      {
+        "category": "Reporting & Accountability",
+        "score": 69,
+        "weight": 15,
+        "weightedScore": 10.35,
+        "explanation": "Reporting to the Ministry of Energy is regular, but the directorate has not established robust public accountability mechanisms. ZESCO performance data, tariff determination rationale, and load shedding impact assessments are not made available to the public or Parliament.",
+        "positiveFactors": [
+          "Monthly performance monitoring reports submitted to the Permanent Secretary for Energy",
+          "Quarterly briefings provided to the Parliamentary Committee on Energy on ZESCO performance",
+          "Contributed to the national energy sector review with comprehensive ZESCO performance data"
+        ],
+        "negativeFactors": [
+          "ZESCO performance monitoring data not published for public access",
+          "Tariff determination rationale and cost-benefit analysis not disclosed to consumers",
+          "Load shedding economic impact assessments not conducted or published"
+        ],
+        "improvementTips": [
+          "Publish quarterly ZESCO performance scorecards on the Ministry of Energy website covering generation, distribution, and financial metrics",
+          "Commission and publish annual load shedding economic impact assessments to inform policy decisions",
+          "Require ZESCO to publish audited financial statements within 6 months of year-end as a regulatory condition"
+        ]
+      }
+    ],
+    "overallExplanation": "The Director of the ZESCO Oversight Directorate has achieved important milestones including the Kafue Gorge Lower commissioning and facilitation of independent power producer agreements. However, the directorate's core mandate of holding ZESCO accountable for service delivery and financial sustainability has not been effectively fulfilled. The K3.2 billion arrears crisis, delayed cost-reflective tariff adjustments, and inadequate load shedding management represent significant governance failures in energy sector oversight. Strengthening the directorate's independence, capacity, and public accountability framework is essential for improving Zambia's electricity sector performance.",
+    "topImprovementAreas": [
+      "Develop and implement a ZESCO arrears clearance plan with cost-reflective tariff adjustment milestones",
+      "Establish binding load shedding management protocols with advance consumer notification requirements",
+      "Publish ZESCO performance data and tariff determination rationale for public accountability"
+    ]
+  },
+  {
+    "id": "DIR-004",
+    "name": "Lweendo Mweetwa Sikazwe",
+    "role": "Director",
+    "organization": "Government of Zambia",
+    "region": "Lusaka",
+    "overallScore": 87,
+    "rating": "Excellent",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-20T00:00:00",
+    "department": "National Health Insurance Management Authority",
+    "appointmentDate": "2021-07-01T00:00:00",
+    "details": {
+      "departmentalPerformance": 89,
+      "financialResourceManagement": 86,
+      "staffManagement": 88,
+      "ethicalConduct": 87,
+      "reportingAccountability": 85
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Departmental Performance",
+        "score": 89,
+        "weight": 25,
+        "weightedScore": 22.25,
+        "explanation": "The Director has led the successful establishment and scaling of the National Health Insurance Management Authority, achieving 3.2 million registered members within the first three years of operation. Claims processing, provider accreditation, and benefits package design demonstrate strong operational performance.",
+        "positiveFactors": [
+          "Achieved 3.2 million registered members representing 65% of the formal sector workforce",
+          "Claims processing turnaround reduced to 14 days from the initial 45-day average at launch",
+          "Accredited 1,800 healthcare providers including 450 private facilities across all 10 provinces"
+        ],
+        "negativeFactors": [
+          "Informal sector registration at only 8% of the estimated eligible population",
+          "Benefits package for primary healthcare services not yet fully operational in rural areas"
+        ],
+        "improvementTips": [
+          "Launch a targeted informal sector registration campaign partnering with market associations and cooperatives",
+          "Expand primary healthcare benefits to rural areas by accrediting additional health centres and community health posts",
+          "Develop a mobile-first membership and claims platform to reach members without access to physical NHIMA offices"
+        ]
+      },
+      {
+        "category": "Financial Resource Management",
+        "score": 86,
+        "weight": 25,
+        "weightedScore": 21.5,
+        "explanation": "NHIMA's financial management has been commendable, with contribution collection rates exceeding projections and investment portfolio performance generating positive returns. The claims-to-contribution ratio is within sustainable limits, though fraud detection capabilities need enhancement.",
+        "positiveFactors": [
+          "Contribution collection rate at 92% of formal sector employers, exceeding the 85% target",
+          "Investment portfolio generated 14% returns, outperforming the benchmark by 3 percentage points",
+          "Administrative cost ratio maintained at 8% of total contributions, below the 12% international benchmark"
+        ],
+        "negativeFactors": [
+          "Claims fraud detection system identified only 2% of suspected fraudulent claims, below the estimated 5% fraud rate",
+          "K45 million in employer contribution arrears from government ministries pending Treasury clearance"
+        ],
+        "improvementTips": [
+          "Implement artificial intelligence-powered claims fraud detection to increase identification rate to at least 4%",
+          "Negotiate a standing Treasury arrangement for automatic clearance of government employer contribution arrears",
+          "Conduct an actuarial review of the benefits package to ensure long-term financial sustainability"
+        ]
+      },
+      {
+        "category": "Staff Management",
+        "score": 88,
+        "weight": 20,
+        "weightedScore": 17.6,
+        "explanation": "Staff management is a strength, with the Director building a competent team from scratch to deliver a complex national health insurance programme. Training, staff welfare, and performance management systems are well-established.",
+        "positiveFactors": [
+          "Built NHIMA staff complement from 50 to 380 officers across all 10 provinces within 3 years",
+          "100% of staff completed the mandatory health insurance operations certification programme",
+          "Staff satisfaction survey shows 85% overall satisfaction with working conditions and career development opportunities"
+        ],
+        "negativeFactors": [
+          "Claims processing unit experiencing 12% turnover as trained staff are recruited by private insurers",
+          "Provincial office staff in remote areas report challenges with housing and family relocation support"
+        ],
+        "improvementTips": [
+          "Introduce retention bonuses and career progression pathways for claims processing specialists",
+          "Establish a housing allowance scheme for staff deployed to provincial offices in remote districts",
+          "Develop succession plans for all critical management positions to ensure institutional continuity"
+        ]
+      },
+      {
+        "category": "Ethical Conduct",
+        "score": 87,
+        "weight": 15,
+        "weightedScore": 13.05,
+        "explanation": "The Director has established strong governance frameworks including a code of conduct, whistleblower policy, and regular integrity assessments. NHIMA's procurement processes follow ZPPA guidelines with minimal irregularities. Provider fraud monitoring is active but requires scaling.",
+        "positiveFactors": [
+          "NHIMA code of conduct signed by all staff with annual refresher training compliance at 97%",
+          "Whistleblower policy with anonymous reporting channels operational and actively promoted",
+          "Zero material procurement irregularities identified in the last 2 external audit cycles"
+        ],
+        "negativeFactors": [
+          "Provider fraud monitoring covers only 40% of accredited facilities due to limited investigation capacity",
+          "Two NHIMA registration officers dismissed for registering fictitious members to inflate performance figures"
+        ],
+        "improvementTips": [
+          "Scale provider fraud monitoring to cover all accredited facilities through technology-assisted auditing",
+          "Implement biometric member verification at the point of care to prevent identity fraud in claims",
+          "Conduct regular data analytics on registration patterns to detect fictitious member enrolment early"
+        ]
+      },
+      {
+        "category": "Reporting & Accountability",
+        "score": 85,
+        "weight": 15,
+        "weightedScore": 12.75,
+        "explanation": "NHIMA publishes comprehensive annual reports and quarterly membership statistics. Parliamentary accountability is strong, and stakeholder engagement with employers and healthcare providers is regular. Member-facing communication on benefits and entitlements could be improved.",
+        "positiveFactors": [
+          "Annual report published within 4 months of year-end with comprehensive financial and operational data",
+          "Quarterly membership and claims statistics published on the NHIMA website",
+          "Regular stakeholder forums with employer associations and healthcare provider networks"
+        ],
+        "negativeFactors": [
+          "Member awareness of available benefits remains low at 55% based on member satisfaction surveys",
+          "Claims rejection rationale not communicated clearly to members, generating complaints"
+        ],
+        "improvementTips": [
+          "Launch a nationwide benefits awareness campaign through radio, SMS, and community health workers",
+          "Implement automated claims status notifications via SMS with clear explanation of approval or rejection reasons",
+          "Establish member advisory committees in each province to provide feedback on service delivery experience"
+        ]
+      }
+    ],
+    "overallExplanation": "The Director of the National Health Insurance Management Authority has delivered an exemplary performance in establishing and scaling Zambia's national health insurance scheme. Achieving 3.2 million registered members, maintaining strong financial sustainability, and building institutional capacity from scratch within three years are outstanding accomplishments. Key areas for growth include expanding informal sector coverage, enhancing claims fraud detection, and improving member awareness of available benefits. NHIMA is well-positioned to become a model institution for social health insurance in the Southern African region.",
+    "topImprovementAreas": [
+      "Accelerate informal sector registration through partnerships with market associations and cooperatives",
+      "Enhance claims fraud detection using artificial intelligence and biometric verification at point of care",
+      "Improve member benefits awareness through nationwide campaigns and SMS-based communication"
+    ]
+  },
+  {
+    "id": "DIR-005",
+    "name": "Kangwa Musonda Chipimo",
+    "role": "Director",
+    "organization": "Government of Zambia",
+    "region": "Lusaka",
+    "overallScore": 55,
+    "rating": "Poor",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-20T00:00:00",
+    "department": "Patents and Companies Registration Agency",
+    "appointmentDate": "2023-05-15T00:00:00",
+    "details": {
+      "departmentalPerformance": 52,
+      "financialResourceManagement": 50,
+      "staffManagement": 58,
+      "ethicalConduct": 60,
+      "reportingAccountability": 53
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Departmental Performance",
+        "score": 52,
+        "weight": 25,
+        "weightedScore": 13.0,
+        "explanation": "The Patents and Companies Registration Agency's service delivery has deteriorated significantly. Business registration processing times have tripled, the online registration platform experiences frequent outages, and the intellectual property registration backlog has grown to critical levels. Zambia's ease of doing business is directly impacted by PACRA's poor performance.",
+        "positiveFactors": [
+          "Launched the online business name search function reducing pre-registration verification time"
+        ],
+        "negativeFactors": [
+          "Business registration processing time increased from 3 days to 9 days due to system instability and staffing gaps",
+          "Online registration platform experienced 45 days of cumulative downtime in the last 12 months",
+          "Intellectual property registration backlog of 2,800 applications, with average processing time of 14 months",
+          "Beneficial ownership register implementation 18 months behind the Financial Action Task Force compliance deadline"
+        ],
+        "improvementTips": [
+          "Commission an emergency IT infrastructure upgrade to stabilise the online registration platform",
+          "Recruit additional business registration officers and implement overtime processing to clear backlogs",
+          "Prioritise the beneficial ownership register implementation to meet FATF compliance requirements",
+          "Establish service level agreements with published processing time targets and public reporting"
+        ]
+      },
+      {
+        "category": "Financial Resource Management",
+        "score": 50,
+        "weight": 25,
+        "weightedScore": 12.5,
+        "explanation": "PACRA's financial management is critically weak. Registration fee revenue has declined due to system outages driving applicants to neighbouring countries. The Auditor General identified K35 million in unsupported expenditure, and IT system procurement has been plagued by cost overruns.",
+        "positiveFactors": [
+          "Annual renewal fee collection maintained at acceptable levels through SMS reminder system"
+        ],
+        "negativeFactors": [
+          "Registration fee revenue declined by 18% year-over-year as businesses registered in neighbouring countries due to PACRA delays",
+          "Auditor General identified K35 million in unsupported expenditure primarily in IT procurement",
+          "IT system upgrade project exceeded budget by 150% with incomplete deliverables from the contracted vendor",
+          "Staff overtime costs K15 million above budget due to manual processing during system outages"
+        ],
+        "improvementTips": [
+          "Conduct a forensic review of the IT system procurement expenditure and pursue recovery of excess payments from the vendor",
+          "Implement a competitive re-procurement of IT services with clear deliverables and penalty clauses",
+          "Establish an internal audit function with quarterly reviews of all expenditure categories",
+          "Develop a revenue recovery plan including marketing campaigns to attract businesses back from regional competitors"
+        ]
+      },
+      {
+        "category": "Staff Management",
+        "score": 58,
+        "weight": 20,
+        "weightedScore": 11.6,
+        "explanation": "Staff management is hampered by a high vacancy rate and low morale. The IT department is critically understaffed, and business registration officers are overworked due to system issues requiring manual processing. Training on the new registration platform has been inadequate.",
+        "positiveFactors": [
+          "Introduced a graduate trainee programme recruiting 15 new officers to address staffing gaps",
+          "Partnered with the World Intellectual Property Organisation for staff training on patent examination"
+        ],
+        "negativeFactors": [
+          "Staff vacancy rate at 35%, with the IT department at 50% vacancy",
+          "Staff morale survey shows 40% satisfaction rate, the lowest among regulatory agencies",
+          "Only 30% of staff fully trained on the new online registration platform before deployment"
+        ],
+        "improvementTips": [
+          "Request Treasury authority for emergency recruitment of IT specialists with competitive remuneration",
+          "Conduct comprehensive retraining of all registration staff on the online platform with certification requirements",
+          "Implement staff welfare interventions including counselling services and workload management to address morale decline",
+          "Establish performance recognition awards to motivate officers maintaining high service delivery standards"
+        ]
+      },
+      {
+        "category": "Ethical Conduct",
+        "score": 60,
+        "weight": 15,
+        "weightedScore": 9.0,
+        "explanation": "Ethical conduct concerns have emerged around the IT procurement process and allegations of officers facilitating expedited registration for unofficial payments. The Director has initiated investigations but resolution has been slow.",
+        "positiveFactors": [
+          "Initiated internal investigations into IT procurement irregularities upon receipt of audit findings",
+          "Introduced a customer service charter prohibiting officers from receiving any payments outside official channels"
+        ],
+        "negativeFactors": [
+          "IT procurement awarded to a vendor with alleged connections to a former senior officer, currently under investigation",
+          "Reports from the business community of officers soliciting unofficial payments for expedited registration processing",
+          "Internal investigation into procurement irregularities ongoing for 10 months without conclusion"
+        ],
+        "improvementTips": [
+          "Conclude the IT procurement investigation within 60 days and publish findings with remedial actions",
+          "Implement queue-based automated processing eliminating officer discretion in registration order",
+          "Deploy mystery shopper assessments at all PACRA service points to detect unofficial payment solicitation",
+          "Introduce a public complaints mechanism with guaranteed 14-day response commitment"
+        ]
+      },
+      {
+        "category": "Reporting & Accountability",
+        "score": 53,
+        "weight": 15,
+        "weightedScore": 7.95,
+        "explanation": "Reporting and accountability are poor. PACRA's annual report has not been published for two years, business registration statistics are unavailable, and the agency has been unresponsive to Parliamentary committee queries. The beneficial ownership register progress is not publicly reported.",
+        "positiveFactors": [
+          "Monthly registration activity reports submitted to the Ministry of Commerce, Trade and Industry"
+        ],
+        "negativeFactors": [
+          "Annual report not published for the 2024 and 2025 financial years",
+          "Business registration statistics not available on the PACRA website for public or researcher access",
+          "Responded to only 40% of Parliamentary Committee on Commerce queries within required timelines",
+          "Beneficial ownership register implementation progress not publicly reported despite FATF implications"
+        ],
+        "improvementTips": [
+          "Publish the overdue 2024 and 2025 annual reports within 90 days with full financial and operational disclosure",
+          "Establish real-time business registration statistics on the PACRA website updated daily",
+          "Designate a Parliamentary affairs officer to ensure timely responses to all committee queries",
+          "Publish quarterly progress reports on the beneficial ownership register implementation"
+        ]
+      }
+    ],
+    "overallExplanation": "The Director of the Patents and Companies Registration Agency is presiding over a critical deterioration in service delivery that directly impacts Zambia's business environment and ease of doing business ranking. The 150% IT procurement cost overrun, K35 million in unsupported expenditure, tripled registration processing times, and 2,800-application intellectual property backlog paint a picture of institutional failure. The 18-month delay in beneficial ownership register implementation puts Zambia at risk of Financial Action Task Force non-compliance sanctions. Urgent intervention including forensic audits, IT system stabilisation, emergency staffing, and management accountability is required to prevent further damage to Zambia's investment climate.",
+    "topImprovementAreas": [
+      "Stabilise the online registration platform and reduce business registration processing time to 3 days",
+      "Conduct forensic review of IT procurement expenditure and recover excess payments",
+      "Prioritise beneficial ownership register implementation to meet FATF compliance deadlines",
+      "Publish overdue annual reports and establish real-time registration statistics reporting"
+    ]
+  },
+  {
+    "id": "DIR-006",
+    "name": "Mulenga Kabwe Sinkamba",
+    "role": "Director",
+    "organization": "Government of Zambia",
+    "region": "Ndola",
+    "overallScore": 78,
+    "rating": "Good",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-20T00:00:00",
+    "department": "Department of National Registration, Passports and Citizenship",
+    "appointmentDate": "2022-11-01T00:00:00",
+    "details": {
+      "departmentalPerformance": 79,
+      "financialResourceManagement": 76,
+      "staffManagement": 80,
+      "ethicalConduct": 78,
+      "reportingAccountability": 77
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Departmental Performance",
+        "score": 79,
+        "weight": 25,
+        "weightedScore": 19.75,
+        "explanation": "The Director has improved national registration services through the rollout of the new national identity card system and expansion of registration centres. However, a significant production backlog and limited coverage in remote rural districts remain critical challenges affecting citizens' access to foundational identification.",
+        "positiveFactors": [
+          "Rolled out the new biometric national identity card system producing 1.8 million cards in the first 18 months",
+          "Established 25 additional permanent registration centres in previously underserved districts",
+          "Integrated birth registration with health facility records in 6 provinces, improving registration completeness"
+        ],
+        "negativeFactors": [
+          "National identity card production backlog of 1.5 million applications pending processing",
+          "Rural district registration coverage at only 55% of eligible citizens in Western and North-Western Provinces"
+        ],
+        "improvementTips": [
+          "Procure additional card personalisation equipment to increase production capacity and clear the backlog within 12 months",
+          "Deploy quarterly mobile registration units to all remote rural districts with pre-registration community mobilisation",
+          "Establish a registration status tracking system allowing citizens to check application progress via USSD"
+        ]
+      },
+      {
+        "category": "Financial Resource Management",
+        "score": 76,
+        "weight": 25,
+        "weightedScore": 19.0,
+        "explanation": "Financial management is satisfactory with proper accounting for card production materials and donor-funded registration programmes. Revenue from registration fees has increased through electronic payment channels, though capital project execution for new registration centres is below target.",
+        "positiveFactors": [
+          "Registration fee revenue increased by 28% through mobile money payment integration",
+          "UNICEF and UNDP project funds for birth registration programme properly accounted for with clean audits",
+          "Implemented cost-saving measures in card production materials procurement through bulk purchasing agreements"
+        ],
+        "negativeFactors": [
+          "Capital budget execution at 58% due to delayed construction of 10 planned district registration offices",
+          "Card production consumables procurement timeline averaging 4 months, causing periodic production stoppages"
+        ],
+        "improvementTips": [
+          "Establish framework contracts with pre-qualified construction firms to accelerate registration office construction",
+          "Maintain strategic reserve stocks of card production consumables equivalent to 3 months of production capacity",
+          "Implement a just-in-time procurement monitoring system to trigger reorders before critical stock levels"
+        ]
+      },
+      {
+        "category": "Staff Management",
+        "score": 80,
+        "weight": 20,
+        "weightedScore": 16.0,
+        "explanation": "Staff management is a relative strength, with structured training programmes and deployment of registration officers to expanded service centres. Staff welfare has improved through regularised allowances for mobile registration operations.",
+        "positiveFactors": [
+          "Trained 200 registration officers on the new biometric identity card system with 95% certification rate",
+          "Regularised mobile registration team allowances improving willingness for rural deployment",
+          "Established a career progression framework creating clear advancement pathways for registration officers"
+        ],
+        "negativeFactors": [
+          "15 registration centres operating with single-officer coverage, creating service continuity risks",
+          "Staff in Western Province report inadequate transport for reaching remote registration sites"
+        ],
+        "improvementTips": [
+          "Ensure minimum two-officer staffing at all registration centres to maintain service continuity",
+          "Procure all-terrain vehicles for registration teams in Western Province to improve access to remote communities",
+          "Introduce cross-training enabling registration officers to handle both NRC and passport services"
+        ]
+      },
+      {
+        "category": "Ethical Conduct",
+        "score": 78,
+        "weight": 15,
+        "weightedScore": 11.7,
+        "explanation": "The Director has addressed historical integrity challenges in the registration system by introducing biometric verification and audit trails. However, isolated incidents of fraudulent registration and identity card issuance continue to surface, requiring ongoing vigilance.",
+        "positiveFactors": [
+          "Biometric deduplication system detected and prevented 12,000 duplicate registration attempts",
+          "Introduced digital audit trails for all registration transactions enabling post-hoc integrity verification",
+          "Disciplined 6 officers for issuing registration cards without proper verification procedures"
+        ],
+        "negativeFactors": [
+          "Fraudulent nationality registration cases detected at 3 border district offices",
+          "Card production facility access controls inadequate, with non-authorised personnel reported in production areas"
+        ],
+        "improvementTips": [
+          "Strengthen border district registration verification with mandatory secondary approval for nationality registrations",
+          "Implement biometric access controls at the card production facility restricting entry to authorised personnel only",
+          "Conduct periodic integrity assessments of officers at high-risk registration centres near border areas"
+        ]
+      },
+      {
+        "category": "Reporting & Accountability",
+        "score": 77,
+        "weight": 15,
+        "weightedScore": 11.55,
+        "explanation": "Reporting has improved with regular submission of registration statistics to the Ministry of Home Affairs. However, public-facing data on registration coverage and backlog status is limited, and citizen feedback mechanisms are underdeveloped.",
+        "positiveFactors": [
+          "Monthly registration production statistics submitted to the Permanent Secretary for Home Affairs",
+          "Quarterly progress reports on the national registration programme shared with cooperating partners",
+          "Established a call centre for registration enquiries handling 2,000 calls monthly"
+        ],
+        "negativeFactors": [
+          "National registration coverage statistics not published for public access",
+          "Card production backlog status and estimated waiting times not communicated to applicants"
+        ],
+        "improvementTips": [
+          "Publish quarterly national registration statistics on the department website including coverage rates by district",
+          "Implement an SMS-based application tracking system notifying applicants of estimated card production timelines",
+          "Establish citizen advisory panels in each province to provide feedback on registration service delivery"
+        ]
+      }
+    ],
+    "overallExplanation": "The Director of National Registration, Passports and Citizenship has made commendable progress in modernising Zambia's foundational identification system. The rollout of biometric national identity cards, expansion of registration centres, and integration with health facility birth records are significant achievements. The 1.5 million card production backlog and limited rural coverage in Western and North-Western Provinces are the most pressing challenges. Strengthening production capacity, deploying mobile registration units more frequently, and publishing registration statistics for public accountability would significantly enhance the department's impact on citizens' access to identification services.",
+    "topImprovementAreas": [
+      "Clear the 1.5 million national identity card production backlog through additional equipment procurement",
+      "Expand rural registration coverage in Western and North-Western Provinces through mobile registration units",
+      "Publish national registration statistics and provide applicants with production timeline estimates"
+    ]
+  },
+  {
+    "id": "DIR-007",
+    "name": "Bupe Nachilima Zulu",
+    "role": "Director",
+    "organization": "Government of Zambia",
+    "region": "Lusaka",
+    "overallScore": 90,
+    "rating": "Excellent",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-20T00:00:00",
+    "department": "Zambia Revenue Authority",
+    "appointmentDate": "2021-10-01T00:00:00",
+    "details": {
+      "departmentalPerformance": 92,
+      "financialResourceManagement": 91,
+      "staffManagement": 89,
+      "ethicalConduct": 90,
+      "reportingAccountability": 88
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Departmental Performance",
+        "score": 92,
+        "weight": 25,
+        "weightedScore": 23.0,
+        "explanation": "The Zambia Revenue Authority has delivered exceptional revenue collection performance, exceeding annual targets for two consecutive years. The expansion of the tax base through digital registration, improved customs administration, and effective enforcement of the mining fiscal regime have been key drivers of success.",
+        "positiveFactors": [
+          "Exceeded annual revenue collection target by 8% for the second consecutive year, collecting K98 billion",
+          "Tax base expanded by 25% through the Taxpayer Registration Expansion Programme targeting informal sector businesses",
+          "Customs revenue increased by 18% through deployment of non-intrusive inspection scanners at Kasumbalesa and Nakonde"
+        ],
+        "negativeFactors": [
+          "Transfer pricing enforcement capacity limited, with audits covering only 30% of multinational corporations",
+          "Excise duty collection on tobacco and alcohol products 12% below target due to illicit trade"
+        ],
+        "improvementTips": [
+          "Establish a dedicated transfer pricing unit with internationally trained specialists to audit all major multinational operations",
+          "Deploy enhanced tracking systems for excisable goods and strengthen enforcement against illicit tobacco and alcohol trade",
+          "Expand the Taxpayer Registration Expansion Programme to cover all markets and trading centres nationwide"
+        ]
+      },
+      {
+        "category": "Financial Resource Management",
+        "score": 91,
+        "weight": 25,
+        "weightedScore": 22.75,
+        "explanation": "ZRA demonstrates exemplary financial management with clean external audit reports, efficient operational cost ratios, and effective management of refund obligations. The cost of revenue collection has been reduced through digital transformation and process automation.",
+        "positiveFactors": [
+          "Clean external audit report for the fifth consecutive year with zero material findings",
+          "Cost of revenue collection reduced to 1.8% of total collections, the lowest in ZRA's history",
+          "VAT refund backlog cleared to within 30 days of statutory processing timeline"
+        ],
+        "negativeFactors": [
+          "IT system modernisation project 15% over budget due to scope expansion requirements",
+          "Staff medical insurance costs increasing at 20% annually, straining the personnel budget"
+        ],
+        "improvementTips": [
+          "Implement rigorous scope management protocols for the IT modernisation project to contain further cost escalation",
+          "Negotiate competitive medical insurance rates through a consortium arrangement with other statutory bodies",
+          "Conduct annual value-for-money assessments of all major operational expenditure categories"
+        ]
+      },
+      {
+        "category": "Staff Management",
+        "score": 89,
+        "weight": 20,
+        "weightedScore": 17.8,
+        "explanation": "ZRA is recognised as one of Zambia's best-managed public institutions for staff management. Competitive remuneration, structured career development, and performance management systems attract and retain high-calibre professionals. However, field office staffing in remote districts remains a challenge.",
+        "positiveFactors": [
+          "Staff retention rate at 94%, the highest among Zambian statutory bodies",
+          "Comprehensive training programme with each officer averaging 40 hours of professional development annually",
+          "Performance management system with clear KPIs, quarterly reviews, and performance-linked bonuses"
+        ],
+        "negativeFactors": [
+          "Field offices in Mwinilunga, Shangombo, and Nakonde operating below minimum staffing levels",
+          "Gender representation in senior management positions at 30%, below the 40% target"
+        ],
+        "improvementTips": [
+          "Introduce remote posting incentives for officers willing to serve in underserved district offices",
+          "Implement a targeted women in leadership programme to accelerate female representation in senior management",
+          "Establish a talent pipeline programme identifying and developing high-potential officers for succession planning"
+        ]
+      },
+      {
+        "category": "Ethical Conduct",
+        "score": 90,
+        "weight": 15,
+        "weightedScore": 13.5,
+        "explanation": "ZRA maintains a strong integrity framework with a functional internal affairs unit, regular integrity testing, and a zero-tolerance policy on corruption. The authority's engagement with the Anti-Corruption Commission and participation in international revenue administration integrity initiatives is commendable.",
+        "positiveFactors": [
+          "Internal affairs unit conducted 85 integrity tests with 97% compliance rate among officers tested",
+          "Zero confirmed corruption cases involving senior management in the current reporting period",
+          "Active member of the African Tax Administration Forum integrity programme with peer review participation"
+        ],
+        "negativeFactors": [
+          "Customs officers at two border posts received cautions for procedural lapses that created corruption opportunities",
+          "Whistleblower reports indicate potential undervaluation facilitation at Kasumbalesa, under investigation"
+        ],
+        "improvementTips": [
+          "Enhance customs risk profiling to detect systematic undervaluation patterns at high-volume border posts",
+          "Implement real-time customs declaration verification against international price databases",
+          "Strengthen the whistleblower reward programme to incentivise reporting of customs fraud"
+        ]
+      },
+      {
+        "category": "Reporting & Accountability",
+        "score": 88,
+        "weight": 15,
+        "weightedScore": 13.2,
+        "explanation": "ZRA sets the standard for transparency among Zambian statutory bodies. Comprehensive annual reports, quarterly revenue performance publications, and proactive engagement with Parliament and civil society demonstrate strong accountability. Enhanced taxpayer-facing data could further strengthen public trust.",
+        "positiveFactors": [
+          "Annual report published within 3 months of year-end with comprehensive financial and performance data",
+          "Monthly revenue performance updates shared with the Ministry of Finance and published on the ZRA website",
+          "Proactive engagement with civil society organisations including quarterly tax justice dialogue sessions"
+        ],
+        "negativeFactors": [
+          "Sector-level revenue data not published at sufficient granularity for economic research purposes",
+          "Taxpayer satisfaction survey results not published, preventing public assessment of service quality trends"
+        ],
+        "improvementTips": [
+          "Publish disaggregated sector-level revenue data to support economic research and tax policy analysis",
+          "Publish annual taxpayer satisfaction survey results on the ZRA website with trend analysis",
+          "Establish a data sharing arrangement with academic institutions for tax policy research collaboration"
+        ]
+      }
+    ],
+    "overallExplanation": "The Director of the Zambia Revenue Authority delivers outstanding performance that establishes ZRA as a benchmark institution in Zambian public administration. Exceeding revenue targets by 8% for two consecutive years, maintaining clean audit records for five years, and achieving a 94% staff retention rate reflect exceptional leadership and institutional management. The expansion of the tax base through digital registration and improved customs administration are particularly impactful achievements. Strengthening transfer pricing enforcement, combating illicit trade in excisable goods, and enhancing data publication for research purposes would further elevate ZRA's performance to international best practice standards.",
+    "topImprovementAreas": [
+      "Establish a dedicated transfer pricing unit to audit multinational corporations' tax compliance",
+      "Strengthen enforcement against illicit trade in tobacco and alcohol to recover lost excise revenue",
+      "Publish disaggregated revenue data and taxpayer satisfaction survey results for enhanced public accountability"
+    ]
+  },
+  {
+    "id": "DIR-008",
+    "name": "Kalimba Monde Sakala",
+    "role": "Director",
+    "organization": "Government of Zambia",
+    "region": "Lusaka",
+    "overallScore": 64,
+    "rating": "Needs Improvement",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-20T00:00:00",
+    "department": "Anti-Corruption Commission",
+    "appointmentDate": "2023-08-01T00:00:00",
+    "details": {
+      "departmentalPerformance": 63,
+      "financialResourceManagement": 66,
+      "staffManagement": 62,
+      "ethicalConduct": 68,
+      "reportingAccountability": 60
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Departmental Performance",
+        "score": 63,
+        "weight": 25,
+        "weightedScore": 15.75,
+        "explanation": "The Anti-Corruption Commission's investigative output has been inadequate relative to the scale of corruption challenges in Zambia. Case completion rates are low, average investigation timelines are excessive, and the conviction rate for prosecuted cases has declined. The Commission's preventive education mandate is also underperforming.",
+        "positiveFactors": [
+          "Completed investigations on 3 high-profile cases involving former public officials with combined value of K850 million",
+          "Launched the National Anti-Corruption Strategy implementation with sector-specific action plans"
+        ],
+        "negativeFactors": [
+          "Case completion rate at only 35% of investigations initiated, with 280 cases pending for over 2 years",
+          "Average investigation timeline of 22 months, far exceeding the 12-month target",
+          "Conviction rate declined from 72% to 58% due to evidentiary weaknesses in prosecuted cases",
+          "Anti-corruption education programmes reached only 15% of the targeted public institutions"
+        ],
+        "improvementTips": [
+          "Establish case prioritisation criteria and a dedicated backlog clearance team to address the 280 pending investigations",
+          "Implement a case management system with milestone tracking and automatic escalation for delayed investigations",
+          "Strengthen evidence collection and preservation capabilities through forensic accounting and digital forensics training",
+          "Partner with civil society organisations to scale anti-corruption education outreach across public institutions"
+        ]
+      },
+      {
+        "category": "Financial Resource Management",
+        "score": 66,
+        "weight": 25,
+        "weightedScore": 16.5,
+        "explanation": "The Commission's budget is constrained relative to its mandate, and budget execution for capital expenditure is below target. However, recurrent expenditure management is adequate, and the Commission has properly accounted for cooperating partner support. Asset recovery efforts have yielded some returns.",
+        "positiveFactors": [
+          "Successfully recovered K180 million in proceeds of corruption through asset forfeiture and plea agreements",
+          "Cooperating partner project funds from the European Union and UNDP properly accounted for",
+          "Recurrent budget execution at 88% within approved ceilings"
+        ],
+        "negativeFactors": [
+          "Capital budget execution at only 45% due to delayed procurement of investigation equipment and vehicles",
+          "Asset recovery rate at only 12% of identified proceeds of corruption, indicating weak enforcement capacity",
+          "Commission operational budget covers only 60% of estimated resource requirements, constraining investigative capacity"
+        ],
+        "improvementTips": [
+          "Develop a comprehensive business case for increased budgetary allocation linked to measurable investigative output targets",
+          "Establish a dedicated asset recovery unit with financial investigation and international cooperation expertise",
+          "Expedite procurement of investigation equipment and vehicles through framework contract arrangements"
+        ]
+      },
+      {
+        "category": "Staff Management",
+        "score": 62,
+        "weight": 20,
+        "weightedScore": 12.4,
+        "explanation": "Staff management is a significant weakness. The Commission faces a critical shortage of qualified investigators, high turnover of experienced officers to better-paying institutions, and inadequate training infrastructure. Morale is affected by heavy caseloads and limited career progression opportunities.",
+        "positiveFactors": [
+          "Recruited 25 new investigators through the graduate recruitment programme",
+          "Partnered with the United Nations Office on Drugs and Crime for specialised anti-corruption investigation training"
+        ],
+        "negativeFactors": [
+          "Investigator vacancy rate at 40%, with critical gaps in forensic accounting and cyber investigations",
+          "Annual staff turnover of 18% as experienced investigators leave for the Financial Intelligence Centre and private sector",
+          "Training budget cuts reduced officer professional development hours by 50% compared to the previous year"
+        ],
+        "improvementTips": [
+          "Advocate for competitive remuneration parity with the Financial Intelligence Centre to reduce investigator attrition",
+          "Establish a mandatory minimum service period for newly recruited officers to protect training investment",
+          "Develop in-house training capacity through a dedicated Anti-Corruption Academy reducing dependency on external programmes"
+        ]
+      },
+      {
+        "category": "Ethical Conduct",
+        "score": 68,
+        "weight": 15,
+        "weightedScore": 10.2,
+        "explanation": "As the lead anti-corruption institution, the Commission's own ethical standards must be beyond reproach. While the Director maintains a clean personal record, recent incidents involving ACC officers accepting inducements and the perception of selective investigations have damaged institutional credibility.",
+        "positiveFactors": [
+          "Director's personal integrity record is clean with full compliance with asset declaration requirements",
+          "Internal affairs unit operational and conducting regular integrity assessments of investigators",
+          "Published a comprehensive Code of Conduct for all Commission officers"
+        ],
+        "negativeFactors": [
+          "Two ACC investigators dismissed for accepting inducements from subjects of investigation",
+          "Public perception surveys indicate 45% of citizens believe ACC investigations are politically influenced",
+          "Complaints mechanism for reporting misconduct by ACC officers lacks independence"
+        ],
+        "improvementTips": [
+          "Establish an independent external oversight body for the Anti-Corruption Commission with public reporting mandate",
+          "Implement a transparent case selection and prioritisation framework published annually to address perceptions of selectivity",
+          "Enhance the internal affairs unit with independent oversight and external representation"
+        ]
+      },
+      {
+        "category": "Reporting & Accountability",
+        "score": 60,
+        "weight": 15,
+        "weightedScore": 9.0,
+        "explanation": "Reporting and accountability are below expectations for Zambia's lead anti-corruption institution. The annual report is significantly delayed, case statistics are not regularly published, and engagement with Parliament and civil society is insufficient. Public confidence in the Commission is undermined by limited transparency.",
+        "positiveFactors": [
+          "Quarterly reports submitted to the President through the Minister of Justice on investigation progress"
+        ],
+        "negativeFactors": [
+          "Annual report for 2025 not yet published, 8 months past the statutory deadline",
+          "Case statistics including investigations initiated, completed, and prosecuted not publicly available",
+          "Responded to only 45% of Parliamentary Committee on Legal Affairs queries within required timelines",
+          "No public stakeholder forum held in the last 18 months despite the National Anti-Corruption Strategy requiring quarterly consultations"
+        ],
+        "improvementTips": [
+          "Publish the overdue annual report within 60 days with comprehensive case and financial performance data",
+          "Establish a quarterly case statistics bulletin published on the ACC website for public and media access",
+          "Hold quarterly public stakeholder forums as required by the National Anti-Corruption Strategy",
+          "Designate a Parliamentary affairs officer to ensure 100% timely response to all committee queries"
+        ]
+      }
+    ],
+    "overallExplanation": "The Director of the Anti-Corruption Commission faces substantial challenges in delivering on the institution's mandate to combat corruption in Zambia. The 35% case completion rate, 22-month average investigation timeline, and declining conviction rate indicate systemic operational weaknesses. Critical staff shortages, with a 40% investigator vacancy rate and 18% annual turnover, undermine the Commission's capacity to handle its caseload effectively. The dismissal of two investigators for accepting inducements and public perceptions of politically influenced investigations damage the ACC's credibility as Zambia's lead anti-corruption body. Urgent reforms in staffing, case management, and transparency are needed, along with a significant increase in budgetary resources commensurate with the Commission's national mandate.",
+    "topImprovementAreas": [
+      "Address the 40% investigator vacancy rate and reduce staff turnover through competitive remuneration",
+      "Clear the backlog of 280 pending investigations and reduce average investigation time to 12 months",
+      "Publish the overdue annual report and establish regular case statistics reporting for public accountability",
+      "Address public perceptions of selective investigations through a transparent case prioritisation framework"
+    ]
+  }
+]

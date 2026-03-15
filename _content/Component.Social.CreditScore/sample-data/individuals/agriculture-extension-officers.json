@@ -1,0 +1,1084 @@
+[
+  {
+    "id": "AEO-001",
+    "name": "Chimuka Mbewe",
+    "role": "Agriculture Extension Officer",
+    "organization": "Ministry of Agriculture",
+    "region": "Central",
+    "overallScore": 88,
+    "rating": "Good",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-18T00:00:00",
+    "district": "Mkushi",
+    "farmersServed": 620,
+    "details": {
+      "farmerEngagement": 90,
+      "trainingKnowledgeSharing": 88,
+      "productivityImpact": 92,
+      "complianceEthics": 85,
+      "innovationSustainability": 86
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Farmer Engagement",
+        "score": 90,
+        "weight": 25,
+        "weightedScore": 22.5,
+        "explanation": "Chimuka maintains exceptional farmer engagement across Mkushi District, visiting an average of 45 farms per month and reaching 620 registered farmers through both individual farm visits and organized farmer group meetings. His WhatsApp-based farmer advisory group has become a model for other districts in Central Province.",
+        "positiveFactors": [
+          "Visits an average of 45 farms per month, exceeding the 30-visit departmental target by 50%",
+          "Created a WhatsApp farmer advisory group with 380 active members providing real-time crop guidance",
+          "Organized 8 field days at demonstration plots attended by an average of 75 farmers each",
+          "Maintains strong relationships with traditional leaders who actively promote farmer participation in extension activities"
+        ],
+        "negativeFactors": [
+          "Remote farming blocks in the eastern part of Mkushi District receive visits only once per quarter",
+          "3 farmer cooperatives reported that scheduled visits were rescheduled twice in one month"
+        ],
+        "improvementTips": [
+          "Increase visit frequency to remote eastern farming blocks to at least monthly using a dedicated travel schedule",
+          "Honour all scheduled cooperative visit commitments and communicate any unavoidable changes at least 48 hours in advance",
+          "Train community-based lead farmers in remote areas to serve as local extension liaison points between visits"
+        ]
+      },
+      {
+        "category": "Training & Knowledge Sharing",
+        "score": 88,
+        "weight": 20,
+        "weightedScore": 17.6,
+        "explanation": "Chimuka is an effective trainer who adapts his teaching methods to suit the literacy levels and farming experience of different farmer groups. His demonstration plots showcasing improved maize varieties and conservation farming techniques have been visited by extension officers from neighbouring districts as learning sites.",
+        "positiveFactors": [
+          "Conducted 24 farmer training sessions in the past year covering crop management, soil health, and post-harvest handling",
+          "Demonstration plots showcasing Zambia Seed Company improved maize varieties achieved 30% higher yields than district average",
+          "Developed simple pictorial training materials in Bemba for low-literacy farmers that have been adopted by 3 other districts"
+        ],
+        "negativeFactors": [
+          "Training sessions focused predominantly on maize and soya, with limited coverage of horticultural and livestock integration",
+          "No training materials available in digital format for sharing through mobile platforms"
+        ],
+        "improvementTips": [
+          "Expand training topics to include vegetable production, poultry integration, and small-scale irrigation techniques",
+          "Convert existing training materials into short video clips and infographics for distribution via WhatsApp and the farmer advisory group",
+          "Partner with the Zambia Agriculture Research Institute to access the latest research findings for farmer training content"
+        ]
+      },
+      {
+        "category": "Productivity Impact",
+        "score": 92,
+        "weight": 25,
+        "weightedScore": 23.0,
+        "explanation": "Farmers under Chimuka's extension coverage have demonstrated measurable productivity improvements. Average maize yields in his catchment area increased from 2.8 to 4.1 tonnes per hectare over two seasons, and the adoption rate for conservation farming practices reached 65%, significantly above the provincial average of 38%.",
+        "positiveFactors": [
+          "Average maize yields increased from 2.8 to 4.1 tonnes per hectare in his catchment area over 2 seasons",
+          "65% conservation farming adoption rate among registered farmers, well above the 38% provincial average",
+          "15 farmers in his catchment area have transitioned from subsistence to commercial farming with FISP support he facilitated"
+        ],
+        "negativeFactors": [
+          "Soya bean productivity improvement lagging behind maize, with only marginal yield increases recorded",
+          "Post-harvest losses remain at 18% for farmers in remote areas without access to proper storage facilities"
+        ],
+        "improvementTips": [
+          "Conduct focused soya bean agronomy training including inoculation techniques and optimal planting dates for Mkushi conditions",
+          "Facilitate access to hermetic storage bags and community grain storage facilities to reduce post-harvest losses below 10%",
+          "Document and publish the maize productivity success story as a case study for replication in other districts"
+        ]
+      },
+      {
+        "category": "Compliance & Ethics",
+        "score": 85,
+        "weight": 15,
+        "weightedScore": 12.75,
+        "explanation": "Chimuka maintains good ethical standards in his interactions with farmers and FISP input distribution. He has no corruption allegations and handles farmer registration and input allocation transparently. One minor issue involved incomplete documentation of input distribution for one farming season.",
+        "positiveFactors": [
+          "Zero corruption complaints from farmers regarding FISP input distribution under his supervision",
+          "All farmer registration records properly maintained with verified identification documents",
+          "Conducts FISP input distribution in public settings with community witnesses present"
+        ],
+        "negativeFactors": [
+          "Incomplete documentation of FISP input distribution for the 2024/2025 farming season affecting 22 farmer records",
+          "Delayed submission of the quarterly extension activity report by 3 weeks"
+        ],
+        "improvementTips": [
+          "Complete and rectify the 22 incomplete FISP distribution records within 2 weeks with verified farmer confirmations",
+          "Submit all quarterly reports within 5 working days of the quarter end using the standardized Ministry reporting template",
+          "Maintain duplicate records of all input distributions as a backup against documentation gaps"
+        ]
+      },
+      {
+        "category": "Innovation & Sustainability",
+        "score": 86,
+        "weight": 15,
+        "weightedScore": 12.9,
+        "explanation": "Chimuka actively promotes sustainable farming practices and has introduced several innovative approaches to his extension work. His use of WhatsApp for real-time farmer advisory services and his promotion of conservation farming techniques demonstrate a forward-thinking approach to extension delivery.",
+        "positiveFactors": [
+          "Pioneered the WhatsApp-based farmer advisory service model now being replicated across Central Province",
+          "Promotes agroforestry with Faidherbia albida tree planting among 120 farmers, improving soil fertility naturally",
+          "Facilitated the establishment of 3 community seed banks to reduce farmer dependence on external seed suppliers"
+        ],
+        "negativeFactors": [
+          "Limited adoption of climate-smart agriculture technologies beyond conservation farming basics",
+          "Has not explored partnerships with private sector agri-tech companies for digital extension tools"
+        ],
+        "improvementTips": [
+          "Introduce climate-smart technologies such as drought-tolerant varieties and water harvesting techniques to farming groups",
+          "Explore partnerships with Zambian agri-tech startups for digital soil testing and weather advisory services",
+          "Apply for the Ministry's innovation fund to scale the WhatsApp advisory model with automated crop advisories"
+        ]
+      }
+    ],
+    "overallExplanation": "Chimuka Mbewe is a high-performing Agriculture Extension Officer who has delivered measurable productivity improvements for farmers in Mkushi District. His innovative use of WhatsApp for farmer advisory services, strong demonstration plot results, and 65% conservation farming adoption rate are standout achievements. Expanding training topics beyond maize and soya, reducing post-harvest losses in remote areas, and embracing additional climate-smart technologies would elevate his already strong performance. He is well-positioned for recognition as a model extension officer in Central Province.",
+    "topImprovementAreas": [
+      "Increase visit frequency to remote eastern farming blocks and diversify training beyond maize and soya",
+      "Facilitate access to proper storage facilities to reduce post-harvest losses from 18% to below 10%",
+      "Explore agri-tech partnerships and climate-smart agriculture technologies for broader farmer impact"
+    ]
+  },
+  {
+    "id": "AEO-002",
+    "name": "Mwansa Kapambwe",
+    "role": "Agriculture Extension Officer",
+    "organization": "Ministry of Agriculture",
+    "region": "Central",
+    "overallScore": 65,
+    "rating": "Needs Improvement",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-22T00:00:00",
+    "district": "Serenje",
+    "farmersServed": 340,
+    "details": {
+      "farmerEngagement": 62,
+      "trainingKnowledgeSharing": 65,
+      "productivityImpact": 60,
+      "complianceEthics": 70,
+      "innovationSustainability": 58
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Farmer Engagement",
+        "score": 62,
+        "weight": 25,
+        "weightedScore": 15.5,
+        "explanation": "Mwansa's farmer engagement is below expectations for the Serenje District catchment area. He serves 340 registered farmers but visits only 18 farms per month, well below the 30-visit target. Several farmer cooperatives report infrequent contact and difficulty reaching him between visits.",
+        "positiveFactors": [
+          "Maintains a register of 340 farmers with basic contact and plot information",
+          "Attended 4 of 6 scheduled farmer cooperative meetings in the past quarter",
+          "Good rapport with the Serenje District Agricultural Coordinator"
+        ],
+        "negativeFactors": [
+          "Farm visit rate of 18 per month, 40% below the 30-visit departmental target",
+          "5 farmer cooperatives report no extension visit in the past 3 months",
+          "Farmers report difficulty reaching Mwansa by phone, with calls often going unanswered"
+        ],
+        "improvementTips": [
+          "Increase farm visits to at least 30 per month by scheduling visits for 4 full days each week",
+          "Visit all registered farmer cooperatives at least once per month and document each visit with a signed attendance register",
+          "Maintain phone accessibility during working hours and respond to missed farmer calls within the same business day"
+        ]
+      },
+      {
+        "category": "Training & Knowledge Sharing",
+        "score": 65,
+        "weight": 20,
+        "weightedScore": 13.0,
+        "explanation": "Training delivery is inconsistent. Mwansa conducted 10 farmer training sessions in the past year, below the 18-session target. The sessions that were held received positive feedback from attendees, but the content has not been updated to reflect current Ministry extension messages on climate-smart agriculture.",
+        "positiveFactors": [
+          "Training sessions that were held received an average satisfaction rating of 78% from attending farmers",
+          "Effectively demonstrated improved bean varieties at 2 field days in the Serenje area"
+        ],
+        "negativeFactors": [
+          "Only 10 of the targeted 18 training sessions delivered in the past year",
+          "Training content has not been updated to incorporate the Ministry's climate-smart agriculture extension messages",
+          "No training materials prepared in the local language (Lala) for farmers in outlying areas"
+        ],
+        "improvementTips": [
+          "Develop and follow a quarterly training calendar with at least 5 sessions per quarter to meet the 18-session annual target",
+          "Update all training content to align with the Ministry's current climate-smart agriculture extension messages",
+          "Translate key training materials into Lala for use in community-level training sessions in rural areas"
+        ]
+      },
+      {
+        "category": "Productivity Impact",
+        "score": 60,
+        "weight": 25,
+        "weightedScore": 15.0,
+        "explanation": "Productivity improvements among farmers in Mwansa's catchment area are modest compared to neighbouring districts. Average maize yields remain at 2.5 tonnes per hectare, below the Central Province average of 3.2 tonnes. Conservation farming adoption is low at 22%.",
+        "positiveFactors": [
+          "20 farmers successfully adopted improved cassava varieties yielding 30% more than traditional varieties",
+          "Facilitated FISP input access for 280 farmers in the current season"
+        ],
+        "negativeFactors": [
+          "Average maize yield of 2.5 tonnes per hectare in his catchment area, below the 3.2-tonne provincial average",
+          "Conservation farming adoption at only 22%, well below the 38% provincial average",
+          "No measurable improvement in soya bean or groundnut productivity over the past 2 seasons"
+        ],
+        "improvementTips": [
+          "Focus on intensive maize agronomy training covering optimal spacing, fertilizer timing, and weed management to close the yield gap",
+          "Set a target to increase conservation farming adoption to 35% within 12 months through demonstration and farmer-to-farmer learning",
+          "Introduce legume productivity improvement programmes for soya and groundnuts to diversify farmer incomes"
+        ]
+      },
+      {
+        "category": "Compliance & Ethics",
+        "score": 70,
+        "weight": 15,
+        "weightedScore": 10.5,
+        "explanation": "No corruption allegations but compliance with reporting requirements is weak. Mwansa has submitted only 2 of 4 required quarterly reports in the past year, and FISP input distribution records for his catchment area have gaps affecting 45 farmer records.",
+        "positiveFactors": [
+          "Zero corruption complaints from farmers or community leaders",
+          "Farmer registration process follows Ministry guidelines with proper ID verification",
+          "Cooperated with the district compliance review and provided requested documentation"
+        ],
+        "negativeFactors": [
+          "Only 2 of 4 required quarterly extension activity reports submitted in the past year",
+          "FISP distribution records incomplete for 45 farmer entries, creating accountability gaps",
+          "Late submission of the annual farmer census data by 6 weeks"
+        ],
+        "improvementTips": [
+          "Submit all quarterly reports on time using the Ministry's reporting template and set calendar reminders for deadlines",
+          "Complete and verify the 45 incomplete FISP distribution records with signed farmer acknowledgements",
+          "Submit the annual farmer census data within the stipulated deadline and verify all records for accuracy"
+        ]
+      },
+      {
+        "category": "Innovation & Sustainability",
+        "score": 58,
+        "weight": 15,
+        "weightedScore": 8.7,
+        "explanation": "Mwansa has shown limited initiative in adopting innovative extension methods or promoting sustainable farming practices. He relies primarily on traditional face-to-face extension delivery with no use of digital tools, and his promotion of climate-smart practices is minimal.",
+        "positiveFactors": [
+          "Introduced improved cassava varieties suited to Serenje's agro-ecological conditions",
+          "Supports 2 farmer field schools in the district"
+        ],
+        "negativeFactors": [
+          "No use of any digital communication tools for farmer advisory services",
+          "Climate-smart agriculture promotion limited to basic messaging with no practical demonstrations",
+          "Has not established any demonstration plots in the current season to showcase improved technologies"
+        ],
+        "improvementTips": [
+          "Establish at least 2 demonstration plots showcasing conservation farming and improved varieties before the next planting season",
+          "Create a basic WhatsApp or SMS group for farmer communication and advisory message sharing",
+          "Attend the Ministry's climate-smart agriculture training of trainers programme to build capacity for field-level promotion"
+        ]
+      }
+    ],
+    "overallExplanation": "Mwansa Kapambwe's extension service delivery in Serenje District is below expectations across farmer engagement, productivity impact, and innovation. While there are no ethical concerns, the low farm visit rate, below-average crop yields, and weak adoption of modern extension methods indicate a need for significant improvement. Increasing visit frequency, updating training content, and embracing digital communication tools are the most urgent priorities. With focused effort and supervisory support, Mwansa has the potential to improve farmer outcomes in the Serenje catchment area.",
+    "topImprovementAreas": [
+      "Increase farm visits from 18 to at least 30 per month and re-engage the 5 unvisited farmer cooperatives",
+      "Update training content to include climate-smart agriculture and deliver at least 18 sessions annually",
+      "Establish demonstration plots and adopt digital tools for farmer communication and advisory services"
+    ]
+  },
+  {
+    "id": "AEO-003",
+    "name": "Florence Mumba",
+    "role": "Agriculture Extension Officer",
+    "organization": "Ministry of Agriculture",
+    "region": "Northern",
+    "overallScore": 93,
+    "rating": "Excellent",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-02-03T00:00:00",
+    "district": "Mpika",
+    "farmersServed": 480,
+    "details": {
+      "farmerEngagement": 95,
+      "trainingKnowledgeSharing": 92,
+      "productivityImpact": 94,
+      "complianceEthics": 93,
+      "innovationSustainability": 91
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Farmer Engagement",
+        "score": 95,
+        "weight": 25,
+        "weightedScore": 23.75,
+        "explanation": "Florence is the top-performing extension officer in Northern Province for farmer engagement. She serves 480 farmers across the vast Mpika District, conducting 55 farm visits per month and maintaining active communication channels with every registered farmer cooperative. Her community-embedded approach, working closely with traditional leaders and village headmen, ensures that even the most remote farming communities receive regular extension support.",
+        "positiveFactors": [
+          "55 farm visits per month, nearly double the 30-visit departmental target",
+          "100% of registered farmer cooperatives visited at least once per month with documented attendance records",
+          "Established a network of 12 community-based volunteer lead farmers who extend her reach to remote areas",
+          "Personally known and trusted by traditional leaders in all 8 agricultural camps within her catchment"
+        ],
+        "negativeFactors": [
+          "Heavy workload raises sustainability concerns if not supported with additional resources or staff"
+        ],
+        "improvementTips": [
+          "Request additional extension staff allocation for Mpika District to prevent burnout and sustain coverage quality",
+          "Document the community-based volunteer lead farmer model for replication in other districts across Northern Province"
+        ]
+      },
+      {
+        "category": "Training & Knowledge Sharing",
+        "score": 92,
+        "weight": 20,
+        "weightedScore": 18.4,
+        "explanation": "Florence delivers comprehensive, practical training that farmers consistently rate as highly relevant. She conducted 26 training sessions in the past year, exceeding the 18-session target. Her training methodology emphasizes hands-on learning through farmer field schools and demonstration plots, and she has developed locally relevant training materials in Bemba.",
+        "positiveFactors": [
+          "26 training sessions delivered in the past year, exceeding the 18-session annual target by 44%",
+          "Established 5 farmer field schools with structured season-long learning programmes",
+          "Training materials developed in Bemba with pictorial guides for low-literacy participants",
+          "Average farmer training satisfaction rating of 94% across all sessions"
+        ],
+        "negativeFactors": [
+          "Limited coverage of livestock management topics, which are increasingly important in Mpika's mixed farming systems"
+        ],
+        "improvementTips": [
+          "Integrate livestock management modules into the farmer field school curriculum, covering basic animal husbandry and disease prevention",
+          "Collaborate with the Department of Veterinary Services to offer joint training sessions on crop-livestock integration"
+        ]
+      },
+      {
+        "category": "Productivity Impact",
+        "score": 94,
+        "weight": 25,
+        "weightedScore": 23.5,
+        "explanation": "Florence's catchment area has seen the highest productivity gains in Northern Province. Maize yields increased from 2.2 to 4.5 tonnes per hectare over 3 seasons, a 105% improvement. Conservation farming adoption reached 72%, the highest rate in the province, and 25 farmers have graduated from subsistence to semi-commercial production.",
+        "positiveFactors": [
+          "Maize yields increased 105% from 2.2 to 4.5 tonnes per hectare over 3 seasons in her catchment",
+          "72% conservation farming adoption rate, the highest in Northern Province and double the provincial average",
+          "25 farmers transitioned from subsistence to semi-commercial production with her support and market linkage facilitation",
+          "Groundnut production introduced as a rotation crop, generating additional K3,500 average income per farmer household"
+        ],
+        "negativeFactors": [
+          "Productivity gains concentrated among farmers near Mpika town, with remote area farmers showing slower improvement"
+        ],
+        "improvementTips": [
+          "Develop a targeted productivity improvement programme for remote-area farmers with more frequent hands-on support",
+          "Facilitate bulk purchasing arrangements for inputs to reduce costs for farmers far from Mpika town"
+        ]
+      },
+      {
+        "category": "Compliance & Ethics",
+        "score": 93,
+        "weight": 15,
+        "weightedScore": 13.95,
+        "explanation": "Florence maintains exemplary ethical standards. All reports are submitted on time, FISP input distribution records are complete and verified, and she has zero complaints from farmers or community leaders regarding her conduct. She serves as the district-level focal point for extension service integrity awareness.",
+        "positiveFactors": [
+          "All 4 quarterly reports submitted on time with comprehensive data and supporting documentation",
+          "100% complete and verified FISP distribution records with signed farmer acknowledgements for all 480 beneficiaries",
+          "Zero complaints or ethical concerns from farmers, community leaders, or colleagues",
+          "Serves as the Mpika District focal point for the Ministry's extension service integrity programme"
+        ],
+        "negativeFactors": [
+          "One minor administrative error in the Q2 report corrected upon supervisory review"
+        ],
+        "improvementTips": [
+          "Continue to serve as an integrity role model and mentor newly posted extension officers in compliance best practices",
+          "Consider contributing to the development of the national extension officer code of conduct currently being drafted"
+        ]
+      },
+      {
+        "category": "Innovation & Sustainability",
+        "score": 91,
+        "weight": 15,
+        "weightedScore": 13.65,
+        "explanation": "Florence is at the forefront of innovative extension delivery in Northern Province. She has introduced climate-smart agriculture practices including drought-tolerant varieties, water harvesting, and agroforestry. Her community seed bank initiative has been recognized by the FAO as a model for Northern Province.",
+        "positiveFactors": [
+          "Introduced drought-tolerant maize and bean varieties to 200 farmers as a climate adaptation strategy",
+          "Established 4 community seed banks recognized by FAO as a model programme for Northern Province",
+          "Promotes agroforestry with Gliricidia and Faidherbia trees on 85 farms for natural soil fertility enhancement",
+          "Piloted a solar-powered irrigation scheme for dry-season vegetable production with 15 farmer families"
+        ],
+        "negativeFactors": [
+          "Digital extension tool adoption limited to basic WhatsApp messaging, with no use of specialized agri-tech platforms"
+        ],
+        "improvementTips": [
+          "Explore partnerships with agri-tech platforms such as Musika or Lima Links for digital extension content delivery",
+          "Apply for the Ministry's innovation fund to scale the solar irrigation pilot to additional farming communities"
+        ]
+      }
+    ],
+    "overallExplanation": "Florence Mumba is an exceptional Agriculture Extension Officer whose impact on farmer productivity in Mpika District is the strongest in Northern Province. Her 105% maize yield improvement, 72% conservation farming adoption rate, and community-embedded engagement approach set a benchmark for extension service delivery nationally. Her integrity, innovation with community seed banks, and FAO-recognized programmes demonstrate outstanding commitment to sustainable agricultural development. Ensuring workload sustainability and extending productivity gains to remote farming communities are the key areas for continued attention.",
+    "topImprovementAreas": [
+      "Request additional extension staff to sustain the high engagement level without burnout risk",
+      "Extend productivity improvement programmes to remote farming communities farther from Mpika town",
+      "Adopt digital agri-tech platforms to complement the WhatsApp-based advisory service"
+    ]
+  },
+  {
+    "id": "AEO-004",
+    "name": "Daniel Mudenda",
+    "role": "Agriculture Extension Officer",
+    "organization": "Ministry of Agriculture",
+    "region": "Southern",
+    "overallScore": 78,
+    "rating": "Good",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-30T00:00:00",
+    "district": "Choma",
+    "farmersServed": 550,
+    "details": {
+      "farmerEngagement": 80,
+      "trainingKnowledgeSharing": 78,
+      "productivityImpact": 82,
+      "complianceEthics": 76,
+      "innovationSustainability": 74
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Farmer Engagement",
+        "score": 80,
+        "weight": 25,
+        "weightedScore": 20.0,
+        "explanation": "Daniel serves 550 farmers in Choma District, one of Zambia's most productive agricultural zones. His engagement is consistent in the commercial farming areas around Choma town but less frequent in the communal lands to the west. He maintains good relationships with the Choma District Farmers' Association.",
+        "positiveFactors": [
+          "Maintains regular contact with 550 registered farmers through visits and cooperative meetings",
+          "35 farm visits per month, meeting the 30-visit departmental target",
+          "Strong working relationship with the Choma District Farmers' Association and Southern Province cooperative unions"
+        ],
+        "negativeFactors": [
+          "Communal farming areas to the west of Choma receive visits only once every 2 months",
+          "4 newly registered farmer cooperatives have not yet received an introductory visit after 3 months"
+        ],
+        "improvementTips": [
+          "Increase visit frequency to western communal farming areas to at least monthly",
+          "Conduct introductory visits to all newly registered farmer cooperatives within 2 weeks of registration",
+          "Engage community-based agricultural agents to maintain contact with farmers between extension visits"
+        ]
+      },
+      {
+        "category": "Training & Knowledge Sharing",
+        "score": 78,
+        "weight": 20,
+        "weightedScore": 15.6,
+        "explanation": "Daniel delivers solid training on maize and cattle management, leveraging Choma's strong agricultural knowledge base. His sessions are practical and well-received but he has not incorporated emerging topics such as precision agriculture, soil testing, and market-oriented production planning.",
+        "positiveFactors": [
+          "18 training sessions delivered in the past year, meeting the annual target",
+          "Effective livestock-crop integration training benefiting 200 mixed farming households",
+          "Organized the annual Choma Agricultural Show extension exhibition, reaching 1,200 visitors"
+        ],
+        "negativeFactors": [
+          "Training content has not been updated to cover precision agriculture and soil testing techniques",
+          "No training offered on market-oriented production planning and value chain participation",
+          "Limited engagement with emerging farmer demographics, particularly youth and women farmer groups"
+        ],
+        "improvementTips": [
+          "Incorporate soil testing, precision agriculture basics, and market linkage modules into the training programme",
+          "Develop dedicated training programmes for youth and women farmer groups addressing their specific needs and challenges",
+          "Partner with the Choma Agricultural College to leverage their facilities and expertise for advanced farmer training"
+        ]
+      },
+      {
+        "category": "Productivity Impact",
+        "score": 82,
+        "weight": 25,
+        "weightedScore": 20.5,
+        "explanation": "Productivity outcomes in Choma are generally positive, benefiting from the district's favourable agro-ecological conditions and established farming culture. Maize yields average 4.0 tonnes per hectare, above the national average but below the potential for Choma's conditions. Cattle management improvements have reduced calf mortality by 15%.",
+        "positiveFactors": [
+          "Average maize yields of 4.0 tonnes per hectare across the catchment, above the 3.5-tonne national average",
+          "Cattle calf mortality reduced by 15% through improved husbandry training and vaccination campaigns",
+          "30 farmers successfully diversified into soya bean production as a commercial rotation crop"
+        ],
+        "negativeFactors": [
+          "Maize yields below the 5.0 tonnes per hectare potential for Choma's agro-ecological zone",
+          "Limited progress on reducing post-harvest losses, which remain at 20% for smallholder maize producers"
+        ],
+        "improvementTips": [
+          "Conduct intensive agronomy clinics focused on closing the 1.0-tonne yield gap through optimized input use and timing",
+          "Facilitate access to affordable hermetic storage solutions to reduce post-harvest losses below 10%",
+          "Promote commercial soya bean and sunflower production to diversify farmer income beyond maize and cattle"
+        ]
+      },
+      {
+        "category": "Compliance & Ethics",
+        "score": 76,
+        "weight": 15,
+        "weightedScore": 11.4,
+        "explanation": "Daniel maintains acceptable ethical standards with no corruption allegations. However, reporting compliance has been inconsistent, with one quarterly report submitted late and FISP distribution records showing minor discrepancies for 28 farmer entries.",
+        "positiveFactors": [
+          "Zero corruption complaints from farmers or community stakeholders",
+          "FISP input distribution conducted transparently at designated community distribution points",
+          "Cooperated with the provincial compliance audit and addressed all findings"
+        ],
+        "negativeFactors": [
+          "Q3 quarterly report submitted 4 weeks late without adequate justification",
+          "28 FISP distribution records with minor discrepancies in input quantities recorded versus received",
+          "One instance of using a government vehicle for personal travel without prior authorization"
+        ],
+        "improvementTips": [
+          "Submit all quarterly reports within 5 working days of the quarter end with no exceptions",
+          "Reconcile all 28 discrepant FISP records with signed farmer confirmations within 2 weeks",
+          "Always obtain written authorization before using government vehicles for any non-official purpose"
+        ]
+      },
+      {
+        "category": "Innovation & Sustainability",
+        "score": 74,
+        "weight": 15,
+        "weightedScore": 11.1,
+        "explanation": "Daniel demonstrates moderate innovation, primarily in livestock-crop integration. However, he has been slow to adopt digital extension tools and has not actively promoted climate-smart practices beyond basic conservation farming messaging. Given Choma's vulnerability to drought, this is a significant gap.",
+        "positiveFactors": [
+          "Promotes livestock-crop integration with manure-based soil fertility management on 80 farms",
+          "Supported the establishment of a community-managed seed multiplication plot for improved groundnut varieties"
+        ],
+        "negativeFactors": [
+          "No adoption of digital extension tools despite Choma having good mobile network coverage",
+          "Limited promotion of drought-resilient farming practices despite Southern Province's increasing drought vulnerability",
+          "Has not engaged with private sector or NGO partners working on climate-smart agriculture in the district"
+        ],
+        "improvementTips": [
+          "Launch a WhatsApp or SMS farmer advisory service leveraging Choma's strong mobile network coverage",
+          "Actively promote drought-tolerant varieties, water harvesting, and conservation agriculture as core extension messages",
+          "Engage with organizations such as Conservation Farming Unit and World Vision operating in Choma on joint climate-smart programming"
+        ]
+      }
+    ],
+    "overallExplanation": "Daniel Mudenda is a solid Agriculture Extension Officer serving one of Zambia's most important agricultural districts. His livestock-crop integration work and consistent farmer engagement in commercial farming areas are commendable. However, Choma's agricultural potential is not being fully realized, with maize yields below the zone's capacity and limited innovation adoption. Improving outreach to communal farming areas, embracing digital tools, and prioritizing drought-resilient farming practices given Southern Province's climate vulnerability are the most important areas for improvement.",
+    "topImprovementAreas": [
+      "Close the maize yield gap by conducting intensive agronomy clinics and promoting optimized input use",
+      "Adopt digital extension tools and promote drought-resilient farming practices for Southern Province conditions",
+      "Increase visit frequency to western communal farming areas and engage youth and women farmer groups"
+    ]
+  },
+  {
+    "id": "AEO-005",
+    "name": "Agnes Hamusonde",
+    "role": "Agriculture Extension Officer",
+    "organization": "Ministry of Agriculture",
+    "region": "Southern",
+    "overallScore": 56,
+    "rating": "Needs Improvement",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-02-07T00:00:00",
+    "district": "Mazabuka",
+    "farmersServed": 280,
+    "details": {
+      "farmerEngagement": 52,
+      "trainingKnowledgeSharing": 55,
+      "productivityImpact": 50,
+      "complianceEthics": 62,
+      "innovationSustainability": 55
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Farmer Engagement",
+        "score": 52,
+        "weight": 25,
+        "weightedScore": 13.0,
+        "explanation": "Agnes's farmer engagement is significantly below expectations for Mazabuka District. Despite serving only 280 farmers, a relatively manageable caseload, she conducts just 15 farm visits per month, half the 30-visit target. Several farmer groups report having no contact with extension services for over 4 months.",
+        "positiveFactors": [
+          "Maintains updated contact records for all 280 registered farmers",
+          "Attended the annual Mazabuka District Agricultural Planning meeting and contributed to the extension work plan"
+        ],
+        "negativeFactors": [
+          "Only 15 farm visits per month, 50% below the 30-visit departmental target",
+          "6 farmer groups in the Nakambala and Magoye areas report no extension contact for over 4 months",
+          "Does not attend farmer cooperative meetings regularly, missing 5 of 8 scheduled sessions in the past quarter",
+          "No structured visit schedule maintained, resulting in ad hoc and inconsistent coverage"
+        ],
+        "improvementTips": [
+          "Develop and follow a structured weekly visit schedule ensuring all farmer groups receive at least one monthly contact",
+          "Increase farm visits to at least 30 per month and attend all scheduled farmer cooperative meetings",
+          "Reach out immediately to the 6 uncontacted farmer groups to re-establish the extension relationship"
+        ]
+      },
+      {
+        "category": "Training & Knowledge Sharing",
+        "score": 55,
+        "weight": 20,
+        "weightedScore": 11.0,
+        "explanation": "Training delivery is well below target. Agnes conducted only 6 training sessions in the past year against an 18-session target. The sessions held were poorly prepared, with farmers reporting that content was repetitive and not relevant to Mazabuka's specific sugarcane-maize mixed farming systems.",
+        "positiveFactors": [
+          "6 training sessions delivered with basic crop management content",
+          "Farmers who attended reported that Agnes was knowledgeable when answering individual questions"
+        ],
+        "negativeFactors": [
+          "Only 6 of 18 targeted training sessions delivered in the past year, a 33% completion rate",
+          "Training content described as repetitive and not tailored to Mazabuka's sugarcane-maize farming systems",
+          "No demonstration plots established to provide hands-on learning opportunities",
+          "No training materials developed or adapted for local farmer needs"
+        ],
+        "improvementTips": [
+          "Develop a training curriculum specifically addressing Mazabuka's sugarcane-maize-livestock farming systems",
+          "Establish at least 2 demonstration plots before the next planting season to support practical training delivery",
+          "Deliver at least 12 training sessions in the remaining year to demonstrate commitment to the training mandate"
+        ]
+      },
+      {
+        "category": "Productivity Impact",
+        "score": 50,
+        "weight": 25,
+        "weightedScore": 12.5,
+        "explanation": "Productivity outcomes in Agnes's catchment area are disappointing given Mazabuka's excellent agro-ecological potential. Maize yields among her registered farmers average only 2.8 tonnes per hectare, well below the 4.5-tonne district average. Farmers report receiving insufficient technical guidance on input management and crop rotation.",
+        "positiveFactors": [
+          "Facilitated FISP input access for 200 farmers in the current season",
+          "10 farmers successfully adopted improved groundnut varieties under her guidance"
+        ],
+        "negativeFactors": [
+          "Average maize yield of 2.8 tonnes per hectare in her catchment, well below the 4.5-tonne Mazabuka district average",
+          "Zero measurable improvement in crop productivity over the past 2 seasons in her catchment",
+          "Conservation farming adoption at only 15%, the lowest rate among Mazabuka extension officers",
+          "No post-harvest loss reduction activities initiated despite persistent farmer complaints about storage losses"
+        ],
+        "improvementTips": [
+          "Conduct a catchment-wide diagnostic to identify the specific factors behind the yield gap and develop a targeted action plan",
+          "Intensify conservation farming promotion through farmer field schools and peer-to-peer demonstration",
+          "Organize a post-harvest management training programme covering proper storage techniques and hermetic bag use"
+        ]
+      },
+      {
+        "category": "Compliance & Ethics",
+        "score": 62,
+        "weight": 15,
+        "weightedScore": 9.3,
+        "explanation": "No corruption allegations but compliance performance is weak. Agnes has submitted only 1 of 4 required quarterly reports in the past year, and her FISP distribution records are incomplete for a significant number of farmer entries.",
+        "positiveFactors": [
+          "Zero corruption complaints or ethical violations on record",
+          "FISP input distribution conducted at designated points with community witnesses"
+        ],
+        "negativeFactors": [
+          "Only 1 of 4 required quarterly extension reports submitted in the past year",
+          "FISP distribution records incomplete for 65 of 280 farmer entries, a 23% incompletion rate",
+          "Failed to submit the annual farmer census update by the Ministry deadline",
+          "Extension activity log book not maintained since Q1, making performance verification impossible"
+        ],
+        "improvementTips": [
+          "Submit all overdue quarterly reports within 4 weeks and maintain on-time submission going forward",
+          "Complete the 65 incomplete FISP records with verified farmer signatures within 3 weeks",
+          "Resume daily maintenance of the extension activity log book and submit it for supervisory review monthly"
+        ]
+      },
+      {
+        "category": "Innovation & Sustainability",
+        "score": 55,
+        "weight": 15,
+        "weightedScore": 8.25,
+        "explanation": "Agnes has shown minimal innovation in her extension approach. She relies exclusively on occasional face-to-face visits with no use of digital tools, group messaging, or modern extension methodologies. Given that Mazabuka has relatively good infrastructure and mobile connectivity, this represents a missed opportunity.",
+        "positiveFactors": [
+          "Expressed interest in learning about digital extension tools during the last district planning meeting",
+          "Supports one farmer field school, though activities have been irregular"
+        ],
+        "negativeFactors": [
+          "No use of digital communication tools for farmer advisory despite good mobile coverage in Mazabuka",
+          "No demonstration plots, community seed banks, or other innovation initiatives established",
+          "Has not promoted climate-smart agriculture practices despite increasing drought risk in Southern Province",
+          "The one farmer field school supported has not conducted activities in 3 months"
+        ],
+        "improvementTips": [
+          "Set up a WhatsApp farmer advisory group within 2 weeks and share weekly crop management tips",
+          "Establish 2 demonstration plots for the next season showcasing drought-tolerant varieties and conservation farming",
+          "Revive the farmer field school with a structured season-long programme and recruit additional facilitators from the community"
+        ]
+      }
+    ],
+    "overallExplanation": "Agnes Hamusonde's performance as an Agriculture Extension Officer in Mazabuka District is below acceptable standards across all dimensions. Despite managing a relatively small caseload of 280 farmers in a district with excellent agricultural potential, productivity outcomes are poor, farmer engagement is inconsistent, and reporting compliance is critically weak. The 2.8-tonne maize yield average in her catchment versus the 4.5-tonne district average highlights a significant service delivery gap. Urgent supervisory intervention is needed with a structured performance improvement plan focusing on increasing visit frequency, delivering targeted training, and restoring reporting discipline.",
+    "topImprovementAreas": [
+      "Double farm visits to at least 30 per month and re-engage all uncontacted farmer groups immediately",
+      "Close the maize yield gap through intensive agronomy training and demonstration plot establishment",
+      "Submit all overdue reports, complete FISP records, and resume daily activity log maintenance"
+    ]
+  },
+  {
+    "id": "AEO-006",
+    "name": "Moses Mwanza",
+    "role": "Agriculture Extension Officer",
+    "organization": "Ministry of Agriculture",
+    "region": "Southern",
+    "overallScore": 84,
+    "rating": "Good",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-12T00:00:00",
+    "district": "Monze",
+    "farmersServed": 510,
+    "details": {
+      "farmerEngagement": 85,
+      "trainingKnowledgeSharing": 86,
+      "productivityImpact": 84,
+      "complianceEthics": 82,
+      "innovationSustainability": 83
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Farmer Engagement",
+        "score": 85,
+        "weight": 25,
+        "weightedScore": 21.25,
+        "explanation": "Moses serves 510 farmers in Monze District and maintains strong community relationships built over 8 years of service in the area. He conducts 40 farm visits per month and has earned the trust of traditional leaders and the Monze District Farmers' Union. His engagement with women farmer groups is particularly notable.",
+        "positiveFactors": [
+          "40 farm visits per month, exceeding the 30-visit departmental target by 33%",
+          "Established dedicated extension support for 6 women farmer cooperatives with 180 members",
+          "Trusted advisor to the Monze District Farmers' Union, invited to participate in their strategic planning sessions",
+          "Coordinates with the District Agricultural Committee monthly to align extension priorities with district development plans"
+        ],
+        "negativeFactors": [
+          "Youth farmer engagement limited, with only 15 farmers under age 30 actively participating in extension activities",
+          "2 remote farming camps in Chikuni area receive visits only every 6 weeks"
+        ],
+        "improvementTips": [
+          "Develop a targeted youth farmer engagement programme with activities relevant to younger farmers such as market linkages and agri-business training",
+          "Increase visit frequency to Chikuni area farming camps to monthly by adjusting the visit rotation schedule",
+          "Recruit youth farmer champions who can serve as peer motivators to increase young farmer participation"
+        ]
+      },
+      {
+        "category": "Training & Knowledge Sharing",
+        "score": 86,
+        "weight": 20,
+        "weightedScore": 17.2,
+        "explanation": "Moses is an effective trainer who combines theoretical knowledge with practical field experience. He delivered 22 training sessions in the past year and operates 4 farmer field schools. His particular strength is in livestock-crop integration training, reflecting Monze's strong cattle farming tradition.",
+        "positiveFactors": [
+          "22 training sessions delivered in the past year, exceeding the 18-session target",
+          "4 operational farmer field schools with structured curricula covering the full cropping season",
+          "Specialized livestock-crop integration training programme benefiting 300 mixed farming households",
+          "Developed a Tonga-language training manual on cattle management and fodder production"
+        ],
+        "negativeFactors": [
+          "Limited training on emerging market opportunities such as export horticulture and honey production",
+          "Farmer field school attendance declining by 10% compared to the previous season"
+        ],
+        "improvementTips": [
+          "Introduce market-oriented training modules covering export horticulture potential and honey production in Monze",
+          "Investigate the reasons for declining farmer field school attendance and adjust content or timing to improve retention",
+          "Partner with private sector buyers to conduct farmer market linkage workshops connecting producers with reliable markets"
+        ]
+      },
+      {
+        "category": "Productivity Impact",
+        "score": 84,
+        "weight": 25,
+        "weightedScore": 21.0,
+        "explanation": "Farmers in Moses's catchment area show above-average productivity. Maize yields average 3.8 tonnes per hectare and cattle off-take rates have improved by 12% through better herd management practices. His focus on legume rotation has also improved soil fertility and diversified farmer incomes.",
+        "positiveFactors": [
+          "Average maize yields of 3.8 tonnes per hectare, above the 3.5-tonne national average",
+          "Cattle off-take rates improved by 12% through improved herd management and disease control training",
+          "Groundnut-maize rotation promoted on 150 farms, improving both soil fertility and household nutrition"
+        ],
+        "negativeFactors": [
+          "Post-harvest maize losses remain at 16% among smallholder farmers in remote areas of the catchment",
+          "Productivity improvements have plateaued for the past 2 seasons, suggesting the need for new interventions"
+        ],
+        "improvementTips": [
+          "Introduce hermetic grain storage technologies and organize community-level post-harvest management training",
+          "Explore new productivity-enhancing technologies such as micro-dosing fertilizer application and improved seed varieties",
+          "Facilitate soil testing for 50 lead farmers to guide precision nutrient management and break the yield plateau"
+        ]
+      },
+      {
+        "category": "Compliance & Ethics",
+        "score": 82,
+        "weight": 15,
+        "weightedScore": 12.3,
+        "explanation": "Moses maintains good ethical standards with no corruption concerns. His reporting is generally timely though one quarterly report was submitted 2 weeks late. FISP distribution is conducted transparently and records are well-maintained.",
+        "positiveFactors": [
+          "Zero corruption complaints in 8 years of extension service in Monze District",
+          "FISP input distribution records complete and verified with farmer acknowledgements for all 510 beneficiaries",
+          "Regular coordination with the District Agricultural Coordinator on extension activity planning and reporting"
+        ],
+        "negativeFactors": [
+          "Q2 quarterly report submitted 2 weeks past the deadline due to data compilation delays",
+          "Minor discrepancy in the mileage log for the government motorcycle requiring clarification"
+        ],
+        "improvementTips": [
+          "Begin compiling quarterly report data on a rolling basis throughout the quarter to avoid end-of-period delays",
+          "Maintain a detailed daily mileage log for the government motorcycle with destination and purpose for each trip",
+          "Submit all reports at least 3 days before the deadline to allow for supervisory review"
+        ]
+      },
+      {
+        "category": "Innovation & Sustainability",
+        "score": 83,
+        "weight": 15,
+        "weightedScore": 12.45,
+        "explanation": "Moses demonstrates good innovation with his livestock-crop integration approach and community-based seed multiplication initiatives. He has recently begun using SMS-based farmer communication and is exploring solar-powered water pumping for dry-season vegetable gardens.",
+        "positiveFactors": [
+          "Pioneered a community-based seed multiplication initiative for improved cowpea varieties in Monze",
+          "Introduced SMS-based farmer advisory messaging reaching 350 farmers with weekly crop tips",
+          "Exploring solar-powered water pumping for 5 pilot dry-season vegetable gardens near Monze town",
+          "Promotes Faidherbia albida agroforestry on 60 farms for long-term soil fertility improvement"
+        ],
+        "negativeFactors": [
+          "Solar irrigation pilot progressing slowly due to lack of funding support and technical expertise",
+          "Has not engaged with the Conservation Farming Unit or other NGOs active in Monze for partnership opportunities"
+        ],
+        "improvementTips": [
+          "Seek co-funding from the Ministry's innovation fund or NGO partners to accelerate the solar irrigation pilot",
+          "Engage with the Conservation Farming Unit and other organizations active in Monze to explore complementary programming",
+          "Document the community seed multiplication model as a case study for presentation at the provincial agricultural conference"
+        ]
+      }
+    ],
+    "overallExplanation": "Moses Mwanza is a strong Agriculture Extension Officer who has built deep trust and meaningful impact in Monze District over 8 years of service. His livestock-crop integration expertise, women farmer group engagement, and SMS-based communication initiative are notable achievements. To continue progressing, Moses should focus on engaging youth farmers, breaking through the current productivity plateau with new technologies, and reducing post-harvest losses. His solar irrigation pilot and community seed multiplication initiatives show promising innovation potential that deserves additional investment and support.",
+    "topImprovementAreas": [
+      "Develop a targeted youth farmer engagement programme to increase participation of farmers under age 30",
+      "Introduce new technologies to break the productivity plateau and reduce post-harvest losses below 10%",
+      "Secure funding to accelerate the solar irrigation pilot and establish partnerships with NGOs active in Monze"
+    ]
+  },
+  {
+    "id": "AEO-007",
+    "name": "Patricia Ngoma",
+    "role": "Agriculture Extension Officer",
+    "organization": "Ministry of Agriculture",
+    "region": "Eastern",
+    "overallScore": 71,
+    "rating": "Needs Improvement",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-25T00:00:00",
+    "district": "Petauke",
+    "farmersServed": 390,
+    "details": {
+      "farmerEngagement": 72,
+      "trainingKnowledgeSharing": 70,
+      "productivityImpact": 68,
+      "complianceEthics": 74,
+      "innovationSustainability": 65
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Farmer Engagement",
+        "score": 72,
+        "weight": 25,
+        "weightedScore": 18.0,
+        "explanation": "Patricia serves 390 farmers in Petauke District with moderate engagement levels. She conducts 25 farm visits per month, slightly below the 30-visit target. Her engagement with cotton and tobacco farmer groups is strong given Petauke's cash crop orientation, but food crop farmer groups report less attention.",
+        "positiveFactors": [
+          "25 farm visits per month, close to the 30-visit departmental target",
+          "Strong relationships with cotton and tobacco farmer cooperatives that drive Petauke's agricultural economy",
+          "Organized a successful district-level farmer field day attended by 200 participants"
+        ],
+        "negativeFactors": [
+          "Food crop farmer groups report less frequent visits compared to cash crop cooperatives",
+          "3 farmer cooperatives in the Nyimba border area received no visits in the past 2 months",
+          "Limited engagement with the Petauke District Agricultural Committee on food security planning"
+        ],
+        "improvementTips": [
+          "Balance visit allocation between cash crop and food crop farmer groups to ensure equitable extension coverage",
+          "Visit the 3 uncontacted Nyimba border cooperatives within 2 weeks and establish a regular monthly schedule",
+          "Attend all Petauke District Agricultural Committee meetings and contribute to the food security strategy"
+        ]
+      },
+      {
+        "category": "Training & Knowledge Sharing",
+        "score": 70,
+        "weight": 20,
+        "weightedScore": 14.0,
+        "explanation": "Patricia has delivered 14 training sessions against the 18-session target. Her training on cotton agronomy and tobacco curing is effective, but she has not addressed the growing need for food crop diversification and nutrition-sensitive agriculture training that is critical for household food security in Eastern Province.",
+        "positiveFactors": [
+          "14 training sessions delivered covering cotton production, tobacco curing, and basic maize agronomy",
+          "Effective cotton agronomy training contributed to a 10% lint quality improvement among trained farmers",
+          "Collaborated with Dunavant Cotton Company to deliver joint farmer training using their demonstration plots"
+        ],
+        "negativeFactors": [
+          "4 training sessions short of the 18-session annual target",
+          "No training offered on food crop diversification, nutrition-sensitive agriculture, or household food security",
+          "Training materials not updated to reflect current Ministry extension messages on climate-smart cotton production"
+        ],
+        "improvementTips": [
+          "Deliver the remaining 4 training sessions before year-end focusing on food crop diversification and nutrition",
+          "Update cotton production training materials to include climate-smart practices such as minimum tillage and cover cropping",
+          "Develop a household food security training module addressing the nutritional needs of cash crop-dependent farming families"
+        ]
+      },
+      {
+        "category": "Productivity Impact",
+        "score": 68,
+        "weight": 25,
+        "weightedScore": 17.0,
+        "explanation": "Productivity impact is mixed. Cotton yields have improved by 8% among trained farmers, but food crop productivity in Patricia's catchment has declined slightly, with maize yields dropping from 2.6 to 2.4 tonnes per hectare due to farmers prioritizing cash crop land allocation at the expense of food production.",
+        "positiveFactors": [
+          "Cotton yields improved by 8% among 150 trained farmers through better agronomic practices",
+          "Tobacco quality grades improved for 50 farmers, resulting in higher auction prices",
+          "Facilitated FISP input access for 310 farmers in the current season"
+        ],
+        "negativeFactors": [
+          "Maize yields declined from 2.6 to 2.4 tonnes per hectare in her catchment, raising food security concerns",
+          "Farmers prioritizing cash crop area expansion at the expense of food crop allocation",
+          "No groundnut or soya bean productivity improvement recorded despite these being important food and income crops in Petauke"
+        ],
+        "improvementTips": [
+          "Promote balanced land allocation with farmers maintaining at least 40% of cultivated area for food crops",
+          "Introduce improved maize varieties and targeted agronomy support to improve food crop yields alongside cash crops",
+          "Launch a groundnut and soya productivity programme with improved varieties and inoculation technology"
+        ]
+      },
+      {
+        "category": "Compliance & Ethics",
+        "score": 74,
+        "weight": 15,
+        "weightedScore": 11.1,
+        "explanation": "Patricia maintains acceptable ethical standards with no corruption allegations. Reporting compliance is moderate, with 3 of 4 quarterly reports submitted on time. Her FISP distribution records are generally complete but 18 entries require verification.",
+        "positiveFactors": [
+          "Zero corruption complaints or ethical concerns from farmers or stakeholders",
+          "3 of 4 quarterly reports submitted on time with adequate data quality",
+          "FISP distribution conducted at designated public points with community witnesses"
+        ],
+        "negativeFactors": [
+          "Q4 quarterly report not yet submitted despite the deadline passing 3 weeks ago",
+          "18 FISP distribution records require farmer signature verification",
+          "Extension activity log book has gaps of 2-3 weeks in several months"
+        ],
+        "improvementTips": [
+          "Submit the overdue Q4 report immediately and ensure all future reports are submitted on time",
+          "Verify and complete the 18 FISP records with farmer signatures within 2 weeks",
+          "Maintain the extension activity log book daily without gaps to provide a complete record of extension services delivered"
+        ]
+      },
+      {
+        "category": "Innovation & Sustainability",
+        "score": 65,
+        "weight": 15,
+        "weightedScore": 9.75,
+        "explanation": "Innovation adoption is below expectations. Patricia has not established any demonstration plots in the current season and relies entirely on traditional extension methods. While she collaborates well with cotton companies, she has not leveraged these partnerships for broader sustainable agriculture programming.",
+        "positiveFactors": [
+          "Effective collaboration with Dunavant Cotton Company for joint extension delivery",
+          "Supports one farmer field school in the Petauke East agricultural camp"
+        ],
+        "negativeFactors": [
+          "No demonstration plots established in the current season",
+          "No use of digital communication tools for farmer advisory despite reasonable mobile coverage in Petauke town area",
+          "Limited promotion of conservation farming and climate-smart practices in a district experiencing increased rainfall variability",
+          "The farmer field school has not met in the past 2 months"
+        ],
+        "improvementTips": [
+          "Establish at least 2 demonstration plots before the next season showcasing conservation farming and drought-tolerant varieties",
+          "Create a basic farmer WhatsApp advisory group for real-time crop management guidance",
+          "Revive the farmer field school with a structured programme and recruit additional farmer facilitators",
+          "Leverage the Dunavant Cotton Company partnership to integrate sustainability and climate-smart messaging into cotton extension"
+        ]
+      }
+    ],
+    "overallExplanation": "Patricia Ngoma serves Petauke District with moderate effectiveness, demonstrating particular strength in cash crop extension through her cotton and tobacco work. However, the imbalance between cash crop and food crop support has contributed to a worrying decline in food crop productivity and household food security. Innovation adoption, demonstration plot establishment, and digital tool usage are areas needing significant improvement. Rebalancing extension efforts between cash and food crops, completing overdue reports, and embracing modern extension methods should be her immediate priorities.",
+    "topImprovementAreas": [
+      "Rebalance extension coverage between cash crops and food crops to address declining maize productivity",
+      "Establish demonstration plots and adopt digital tools for more effective farmer communication",
+      "Complete the overdue Q4 report and maintain consistent daily activity log documentation"
+    ]
+  },
+  {
+    "id": "AEO-008",
+    "name": "James Phiri",
+    "role": "Agriculture Extension Officer",
+    "organization": "Ministry of Agriculture",
+    "region": "Eastern",
+    "overallScore": 42,
+    "rating": "Poor",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-02-10T00:00:00",
+    "district": "Lundazi",
+    "farmersServed": 160,
+    "details": {
+      "farmerEngagement": 38,
+      "trainingKnowledgeSharing": 35,
+      "productivityImpact": 40,
+      "complianceEthics": 48,
+      "innovationSustainability": 32
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Farmer Engagement",
+        "score": 38,
+        "weight": 25,
+        "weightedScore": 9.5,
+        "explanation": "James's farmer engagement is critically deficient. Despite being assigned to serve Lundazi District, he has effectively disengaged from routine extension activities. Only 160 of a potential 450 farmers in his catchment are registered, and he conducts fewer than 8 farm visits per month, barely a quarter of the 30-visit target.",
+        "positiveFactors": [
+          "Maintains a basic register of 160 farmers with contact and plot location information"
+        ],
+        "negativeFactors": [
+          "Only 160 of an estimated 450 potential farmers registered in his catchment area, a 36% registration rate",
+          "Fewer than 8 farm visits per month, 73% below the 30-visit departmental target",
+          "10 farmer cooperatives in Lundazi District report no extension contact whatsoever in the past 6 months",
+          "Traditional leaders in 3 chiefdoms have formally complained to the District Agricultural Coordinator about his absence"
+        ],
+        "improvementTips": [
+          "Immediately resume a regular farm visit schedule targeting at least 20 visits per week",
+          "Conduct a farmer registration drive to register the remaining 290 unregistered farmers within 3 months",
+          "Visit and apologize to the traditional leaders who lodged complaints and present a concrete engagement plan"
+        ]
+      },
+      {
+        "category": "Training & Knowledge Sharing",
+        "score": 35,
+        "weight": 20,
+        "weightedScore": 7.0,
+        "explanation": "James has delivered only 2 training sessions in the entire past year, the lowest output of any extension officer in Eastern Province. Farmers in Lundazi District report receiving virtually no technical guidance on crop production, leading to widespread reliance on outdated farming practices.",
+        "positiveFactors": [
+          "The 2 training sessions that were held covered basic maize and groundnut production with accurate content"
+        ],
+        "negativeFactors": [
+          "Only 2 of 18 targeted training sessions delivered in the past year, an 11% completion rate",
+          "No demonstration plots established in any season since James was posted to Lundazi 2 years ago",
+          "No farmer field schools operational in the district under his responsibility",
+          "Farmers report relying on outdated practices due to complete absence of extension training and advisory"
+        ],
+        "improvementTips": [
+          "Deliver at least 3 training sessions per month for the next 6 months to begin closing the training deficit",
+          "Establish 3 demonstration plots before the next planting season in partnership with lead farmers",
+          "Launch at least 2 farmer field schools in high-priority agricultural camps with structured season-long programmes"
+        ]
+      },
+      {
+        "category": "Productivity Impact",
+        "score": 40,
+        "weight": 25,
+        "weightedScore": 10.0,
+        "explanation": "Productivity in James's catchment area has declined over the 2 years since his posting. Average maize yields have dropped from 2.3 to 1.8 tonnes per hectare, and there has been no adoption of improved varieties, conservation farming, or any other productivity-enhancing practices. Farmers attribute the decline partly to the absence of extension support.",
+        "positiveFactors": [
+          "Facilitated FISP input distribution for 120 farmers, though distribution was 3 weeks late in the current season"
+        ],
+        "negativeFactors": [
+          "Maize yields declined from 2.3 to 1.8 tonnes per hectare over 2 years in his catchment area",
+          "Zero adoption of conservation farming practices among registered farmers",
+          "No improved crop varieties introduced since James's posting to Lundazi District",
+          "FISP input distribution delayed by 3 weeks, past the optimal planting window for many farmers",
+          "Post-harvest losses estimated at 25%, among the highest in Eastern Province"
+        ],
+        "improvementTips": [
+          "Urgently introduce improved maize and groundnut varieties through demonstration and FISP seed pack distribution",
+          "Promote conservation farming through practical demonstrations targeting at least 50 farmers in the first season",
+          "Ensure FISP inputs are distributed before the planting window opens, coordinating delivery logistics at least 4 weeks in advance"
+        ]
+      },
+      {
+        "category": "Compliance & Ethics",
+        "score": 48,
+        "weight": 15,
+        "weightedScore": 7.2,
+        "explanation": "Compliance is critically poor. James has submitted only 1 of 8 required quarterly reports over the past 2 years. FISP distribution records are incomplete for 55 of 120 farmer entries. An ongoing investigation into 30 bags of FISP fertilizer that cannot be accounted for remains unresolved.",
+        "positiveFactors": [
+          "Cooperated with the investigation by providing initial statements and available records"
+        ],
+        "negativeFactors": [
+          "Only 1 of 8 required quarterly reports submitted in the past 2 years",
+          "FISP distribution records incomplete for 55 of 120 farmer entries, a 46% incompletion rate",
+          "30 bags of FISP fertilizer unaccounted for, subject to an ongoing District Agricultural Coordinator investigation",
+          "Extension activity log book not maintained at all since posting to Lundazi",
+          "Annual farmer census data not submitted for 2 consecutive years"
+        ],
+        "improvementTips": [
+          "Submit all 7 overdue quarterly reports within 6 weeks, even if retrospective data must be reconstructed from available records",
+          "Provide full cooperation and all available documentation to resolve the FISP fertilizer accountability investigation",
+          "Begin maintaining the extension activity log book immediately with daily entries for all professional activities"
+        ]
+      },
+      {
+        "category": "Innovation & Sustainability",
+        "score": 32,
+        "weight": 15,
+        "weightedScore": 4.8,
+        "explanation": "James has demonstrated virtually no innovation or sustainability-oriented extension activity in Lundazi District. No demonstration plots, no digital communication tools, no climate-smart agriculture promotion, and no partnerships with research institutions or development organizations operating in the district.",
+        "positiveFactors": [
+          "Expressed awareness of the need for conservation farming promotion in Lundazi during a supervisory meeting"
+        ],
+        "negativeFactors": [
+          "Zero demonstration plots established in 2 years of service in Lundazi District",
+          "No use of any digital communication tools for farmer advisory",
+          "No climate-smart agriculture practices promoted despite Lundazi's increasing drought and flood vulnerability",
+          "Has not engaged with any NGOs, research institutions, or private sector partners operating in Lundazi",
+          "No community seed banks, agroforestry promotion, or other sustainability initiatives undertaken"
+        ],
+        "improvementTips": [
+          "Establish at least 3 demonstration plots showcasing conservation farming and drought-tolerant varieties within 2 months",
+          "Create a WhatsApp farmer group and share weekly crop management advisories to begin building farmer communication channels",
+          "Engage with World Vision, COMACO, and other organizations active in Lundazi to explore joint extension programming",
+          "Promote Faidherbia albida agroforestry and drought-tolerant crop varieties as immediate climate adaptation measures"
+        ]
+      }
+    ],
+    "overallExplanation": "James Phiri's performance as Agriculture Extension Officer in Lundazi District is critically poor and represents a near-complete failure of extension service delivery. Over 2 years of posting, he has registered barely a third of potential farmers, delivered only 2 training sessions, established no demonstration plots, and allowed crop productivity to decline significantly. The unaccounted FISP fertilizer and almost total absence of reporting raise serious accountability concerns. The District Agricultural Coordinator must implement an immediate performance improvement plan with weekly monitoring. Failure to demonstrate substantial improvement within 90 days should result in formal disciplinary proceedings and potential reposting.",
+    "topImprovementAreas": [
+      "Resume regular farm visits immediately and register all unregistered farmers in the catchment within 3 months",
+      "Resolve the FISP fertilizer accountability investigation and submit all overdue reports within 6 weeks",
+      "Establish demonstration plots, launch farmer training programmes, and begin promoting conservation farming without further delay"
+    ]
+  }
+]
