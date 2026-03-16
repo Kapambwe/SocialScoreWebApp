@@ -1,0 +1,1563 @@
+[
+  {
+    "id": "MP-001",
+    "name": "Hon. Kabwe Mwamba",
+    "role": "Member of Parliament",
+    "organization": "National Assembly of Zambia",
+    "region": "Luapula",
+    "overallScore": 92,
+    "rating": "Excellent",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-10T09:00:00Z",
+    "occupation": "Member of Parliament",
+    "constituency": "Mansa Central",
+    "province": "Luapula",
+    "party": "UPND",
+    "termStart": "2021-08-24",
+    "termEnd": null,
+    "details": {
+      "parliamentaryPerformance": 94,
+      "cdfUtilization": 95,
+      "constituencyEngagement": 90,
+      "legalCompliance": 93,
+      "localProcurement": 88
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Parliamentary Performance",
+        "score": 94,
+        "weight": 25,
+        "weightedScore": 23.5,
+        "explanation": "Hon. Mwamba has an outstanding parliamentary record with a 95% attendance rate and active participation in legislative debates. He serves on the Committee on Agriculture, Lands, and Natural Resources and has tabled 4 private member's motions addressing Luapula Province development priorities.",
+        "positiveFactors": [
+          "95% attendance rate in parliamentary sessions since 2021, among the highest in the House",
+          "Tabled 4 private member's motions on fisheries regulation, rural electrification, Luapula road infrastructure, and youth employment",
+          "Active member of the Committee on Agriculture, Lands, and Natural Resources with 100% committee meeting attendance",
+          "Asked 28 oral questions to ministers in 2025 sessions, holding the Executive accountable",
+          "Co-sponsored the Constituency Development Fund (Amendment) Bill for improved CDF accountability"
+        ],
+        "negativeFactors": [
+          "2 motions did not progress beyond first reading due to limited cross-party support",
+          "Has not yet tabled legislation specifically addressing Luapula fisheries management despite it being a key campaign promise"
+        ],
+        "improvementTips": [
+          "Build cross-party coalitions before tabling motions to improve chances of progression",
+          "Table a comprehensive fisheries management bill for Luapula Province as promised during the 2021 campaign",
+          "Increase engagement with the Parliamentary Budget Office for evidence-based legislative proposals"
+        ]
+      },
+      {
+        "category": "CDF Utilization",
+        "score": 95,
+        "weight": 25,
+        "weightedScore": 23.75,
+        "explanation": "Hon. Mwamba sets the standard for CDF management in Zambia. He has utilized 98% of allocated CDF funds with transparent procurement, community-driven project selection, and strong emphasis on local contractor engagement. All CDF projects are documented with progress reports shared with constituents quarterly.",
+        "positiveFactors": [
+          "98% CDF utilization rate, among the highest in the National Assembly",
+          "Constructed 3 community health posts in Mansa Central using CDF at a cost of K1.2 million each",
+          "Rehabilitated 15km of feeder roads connecting rural farming communities to Mansa town",
+          "Built 2 primary school classroom blocks with sanitary facilities in underserved areas",
+          "Quarterly CDF utilization reports published and shared at constituency meetings",
+          "All CDF projects completed on time and within budget with Auditor General's clean report"
+        ],
+        "negativeFactors": [
+          "Youth skills training centre project (K800,000) delayed by 3 months due to rainy season but now completed",
+          "Limited CDF allocation to water and sanitation projects despite high community demand"
+        ],
+        "improvementTips": [
+          "Increase CDF allocation to water and sanitation projects in the next funding cycle based on community priorities",
+          "Implement a digital CDF project tracking dashboard accessible to all constituents via mobile phone",
+          "Plan construction projects around the rainy season to minimize weather-related delays"
+        ]
+      },
+      {
+        "category": "Constituency Engagement",
+        "score": 90,
+        "weight": 20,
+        "weightedScore": 18.0,
+        "explanation": "Hon. Mwamba maintains a strong connection with Mansa Central constituents through regular visits, town hall meetings, and an active constituency office. He visits the constituency at least twice monthly and holds quarterly public accountability meetings.",
+        "positiveFactors": [
+          "Maintains a fully staffed constituency office in Mansa town open 5 days a week",
+          "Visits constituency at least twice monthly, spending a minimum of 4 days per visit",
+          "Holds quarterly public accountability meetings with average attendance of 300+ constituents",
+          "Active social media presence with regular updates on constituency development to 15,000+ followers",
+          "Established a constituency WhatsApp group with 2,500 active members for real-time communication"
+        ],
+        "negativeFactors": [
+          "Remote wards (Mabumba and Chipili border areas) receive fewer visits than urban Mansa wards",
+          "No formal grievance redress mechanism for constituents beyond the constituency office"
+        ],
+        "improvementTips": [
+          "Establish a rotating schedule to ensure all wards, including remote ones, receive equal visit frequency",
+          "Implement a formal constituent grievance tracking system with response timelines",
+          "Train ward-level representatives to serve as permanent liaisons in remote areas"
+        ]
+      },
+      {
+        "category": "Legal Compliance",
+        "score": 93,
+        "weight": 15,
+        "weightedScore": 13.95,
+        "explanation": "Hon. Mwamba has an exemplary legal record with full compliance with parliamentary codes of conduct, asset declaration requirements, and the Anti-Corruption Commission regulations. He declares assets annually and has no pending legal matters.",
+        "positiveFactors": [
+          "Full compliance with the Parliamentary and Ministerial Code of Conduct Act",
+          "Annual asset declarations filed on time with the Anti-Corruption Commission for all years since election",
+          "Zero complaints with the Parliamentary Standards Committee",
+          "Clean criminal record verified by the Zambia Police Service",
+          "Declared all sources of income including farming interests in Luapula Province"
+        ],
+        "negativeFactors": [
+          "One delayed asset declaration filing in 2023, submitted 2 weeks late but accepted without penalty"
+        ],
+        "improvementTips": [
+          "Set up advance reminders for asset declaration deadlines to ensure timely filing",
+          "Consider voluntarily publishing asset declarations publicly for maximum transparency",
+          "Undergo annual conflict-of-interest training to maintain high compliance standards"
+        ]
+      },
+      {
+        "category": "Local Procurement & Contracts to Zambians",
+        "score": 88,
+        "weight": 15,
+        "weightedScore": 13.2,
+        "explanation": "Hon. Mwamba demonstrates a strong commitment to local procurement in CDF and constituency projects. 85% of CDF project contracts have been awarded to Zambian-owned businesses, with preference given to Luapula Province-based contractors and suppliers.",
+        "positiveFactors": [
+          "85% of CDF contracts by value awarded to Zambian-owned businesses",
+          "60% of CDF contracts awarded specifically to Luapula Province-based contractors",
+          "Required all CDF construction projects to hire at least 80% local labour from Mansa Central",
+          "Established a local supplier database of 45 Mansa-based businesses for CDF procurement",
+          "Supported 12 local youth cooperatives to register with PACRA to qualify for CDF contracts"
+        ],
+        "negativeFactors": [
+          "Specialized materials (roofing sheets, cement in bulk) still sourced from Lusaka due to limited local availability",
+          "2 large contracts awarded to a Lusaka-based firm when local alternatives were available"
+        ],
+        "improvementTips": [
+          "Work with the Luapula Province Chamber of Commerce to develop local construction material supply chains",
+          "Require justification documentation when CDF contracts are awarded to non-local firms",
+          "Establish a local content policy requiring all CDF contractors to subcontract at least 30% to Mansa-based firms"
+        ]
+      }
+    ],
+    "overallExplanation": "Hon. Kabwe Mwamba is among the highest-performing Members of Parliament in Zambia, demonstrating excellence across all key dimensions. His 98% CDF utilization rate, transparent project management, and strong constituency engagement set a benchmark for other MPs. His active parliamentary participation and commitment to local procurement further strengthen his profile. Minor improvements in reaching remote wards and increasing water and sanitation investments would perfect an already outstanding record.",
+    "topImprovementAreas": [
+      "Increase CDF allocations to water and sanitation projects based on community demand assessments",
+      "Ensure equal visit frequency to remote wards and establish formal constituent grievance tracking",
+      "Build cross-party coalitions to advance Luapula fisheries management legislation"
+    ]
+  },
+  {
+    "id": "MP-002",
+    "name": "Hon. Mutinta Mazoka",
+    "role": "Member of Parliament",
+    "organization": "National Assembly of Zambia",
+    "region": "Southern",
+    "overallScore": 85,
+    "rating": "Good",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-12T10:30:00Z",
+    "occupation": "Member of Parliament",
+    "constituency": "Monze Central",
+    "province": "Southern",
+    "party": "UPND",
+    "termStart": "2021-08-24",
+    "termEnd": null,
+    "details": {
+      "parliamentaryPerformance": 88,
+      "cdfUtilization": 82,
+      "constituencyEngagement": 87,
+      "legalCompliance": 90,
+      "localProcurement": 80
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Parliamentary Performance",
+        "score": 88,
+        "weight": 25,
+        "weightedScore": 22.0,
+        "explanation": "Hon. Mazoka is a diligent parliamentarian with an 88% attendance record and active participation in debates on agriculture, education, and women's empowerment. She serves as vice-chairperson of the Committee on Education, Science, and Technology.",
+        "positiveFactors": [
+          "88% attendance rate in parliamentary sessions with consistent participation in debates",
+          "Vice-chairperson of the Committee on Education, Science, and Technology",
+          "Tabled 3 private member's motions on girl-child education, agricultural subsidies for smallholders, and rural health infrastructure",
+          "Asked 22 oral questions in 2025 sessions on education policy and rural development",
+          "Contributed to the amendment of the Higher Education Act improving student bursary access"
+        ],
+        "negativeFactors": [
+          "Missed 3 parliamentary sitting days due to constituency emergencies without filing formal leave",
+          "Committee report on STEM education submitted 2 weeks past deadline"
+        ],
+        "improvementTips": [
+          "File formal leave requests for all parliamentary absences to maintain procedural compliance",
+          "Assign committee report drafting to research assistants earlier to meet deadlines consistently",
+          "Increase cross-committee collaboration on education and agriculture intersections"
+        ]
+      },
+      {
+        "category": "CDF Utilization",
+        "score": 82,
+        "weight": 25,
+        "weightedScore": 20.5,
+        "explanation": "Hon. Mazoka has utilized 85% of allocated CDF funds with a focus on education infrastructure and borehole construction. While utilization is good, 15% of funds remained unspent due to procurement delays, and one project experienced cost overruns requiring supplementary funding.",
+        "positiveFactors": [
+          "Built 4 classroom blocks in rural Monze schools benefiting 600+ students",
+          "Drilled 8 boreholes providing clean water to 5,000+ residents in water-scarce wards",
+          "Constructed a community market shelter in Monze Central at K650,000",
+          "All completed projects received satisfactory ratings from the Ministry of Local Government inspection"
+        ],
+        "negativeFactors": [
+          "15% of CDF funds unspent due to procurement process delays",
+          "Community market shelter project experienced K120,000 cost overrun requiring supplementary funding",
+          "No CDF-funded health infrastructure projects despite community requests",
+          "CDF utilization reports not consistently shared with constituents"
+        ],
+        "improvementTips": [
+          "Streamline CDF procurement by pre-qualifying contractors at the beginning of each funding cycle",
+          "Allocate CDF funds to at least one health infrastructure project per year based on community needs",
+          "Implement rigorous project cost estimation to prevent future cost overruns",
+          "Publish quarterly CDF utilization reports on constituency social media channels and local radio"
+        ]
+      },
+      {
+        "category": "Constituency Engagement",
+        "score": 87,
+        "weight": 20,
+        "weightedScore": 17.4,
+        "explanation": "Hon. Mazoka maintains a visible presence in Monze Central with regular constituency visits and community meetings. She is particularly effective at engaging women's groups and youth organizations, though engagement with traditional leaders could be strengthened.",
+        "positiveFactors": [
+          "Visits constituency at least twice monthly with documented schedules shared in advance",
+          "Held 6 town hall meetings in 2025 across different wards with strong attendance",
+          "Established a Women's Empowerment Forum in Monze Central with 200+ active members",
+          "Sponsors 15 vulnerable students' school fees from personal funds annually",
+          "Active constituency office in Monze town with a full-time constituency assistant"
+        ],
+        "negativeFactors": [
+          "Engagement with Chief Monze and traditional leadership structures has been limited",
+          "No systematic feedback mechanism for constituent priorities beyond town hall meetings"
+        ],
+        "improvementTips": [
+          "Schedule regular courtesy visits and consultations with Chief Monze on constituency development priorities",
+          "Implement a simple SMS-based feedback system for constituents to share priorities and concerns",
+          "Engage headmen and village headpersons as intermediaries for reaching remote communities"
+        ]
+      },
+      {
+        "category": "Legal Compliance",
+        "score": 90,
+        "weight": 15,
+        "weightedScore": 13.5,
+        "explanation": "Hon. Mazoka has a strong legal compliance record with timely asset declarations, adherence to the parliamentary code of conduct, and no legal disputes. She is recognized for transparency in declaring all income sources including her farming business.",
+        "positiveFactors": [
+          "All asset declarations filed on time with the Anti-Corruption Commission",
+          "Full compliance with the Parliamentary and Ministerial Code of Conduct Act",
+          "Voluntarily disclosed all income from cattle ranching business in Southern Province",
+          "Zero complaints with the Parliamentary Standards Committee",
+          "Clean criminal record and no pending court cases"
+        ],
+        "negativeFactors": [
+          "Farming business not fully separated from parliamentary duties, creating potential perception of conflict of interest"
+        ],
+        "improvementTips": [
+          "Appoint an independent farm manager and establish formal separation between parliamentary duties and farming business",
+          "Consider placing farming business assets in a blind trust during parliamentary tenure",
+          "Proactively declare any potential conflicts of interest in parliamentary debates involving agriculture policy"
+        ]
+      },
+      {
+        "category": "Local Procurement & Contracts to Zambians",
+        "score": 80,
+        "weight": 15,
+        "weightedScore": 12.0,
+        "explanation": "Hon. Mazoka has directed 78% of CDF procurement to Zambian-owned businesses, with a growing focus on Southern Province contractors. However, the percentage could be higher, as some construction materials and specialized services are still sourced from outside the province unnecessarily.",
+        "positiveFactors": [
+          "78% of CDF contracts by value awarded to Zambian-owned firms",
+          "50% of CDF contracts awarded to Southern Province-based businesses",
+          "All borehole drilling contracts awarded to local Monze-based drilling companies",
+          "Encouraged CDF contractors to hire local artisans and labourers from Monze Central"
+        ],
+        "negativeFactors": [
+          "Construction materials for classroom blocks sourced from Lusaka when available in Monze",
+          "No formal local content policy for CDF procurement",
+          "Limited capacity-building support for local contractors to bid competitively"
+        ],
+        "improvementTips": [
+          "Establish a formal local content policy requiring first preference to Monze-based suppliers",
+          "Partner with the Small Enterprise Development Board to build capacity of local contractors",
+          "Create a Monze Central constituency supplier database and update it annually",
+          "Require all CDF project bids to include a local content plan as part of the evaluation criteria"
+        ]
+      }
+    ],
+    "overallExplanation": "Hon. Mutinta Mazoka is a dedicated and effective MP who has made tangible contributions to Monze Central through education infrastructure, borehole construction, and women's empowerment initiatives. Her parliamentary performance is strong with consistent debate participation and committee leadership. Areas for improvement include increasing CDF utilization rates, strengthening engagement with traditional leaders, and formalizing local procurement policies. Addressing the cost overrun issue and expanding health infrastructure investments would further enhance her constituency impact.",
+    "topImprovementAreas": [
+      "Increase CDF utilization rate to above 95% by streamlining procurement processes",
+      "Strengthen engagement with Chief Monze and traditional leadership structures",
+      "Formalize a local content procurement policy for all CDF-funded projects"
+    ]
+  },
+  {
+    "id": "MP-003",
+    "name": "Hon. Bwalya Chishimba",
+    "role": "Member of Parliament",
+    "organization": "National Assembly of Zambia",
+    "region": "Northern",
+    "overallScore": 64,
+    "rating": "Needs Improvement",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-15T11:00:00Z",
+    "occupation": "Member of Parliament",
+    "constituency": "Kasama Central",
+    "province": "Northern",
+    "party": "PF",
+    "termStart": "2021-08-24",
+    "termEnd": null,
+    "details": {
+      "parliamentaryPerformance": 60,
+      "cdfUtilization": 58,
+      "constituencyEngagement": 65,
+      "legalCompliance": 72,
+      "localProcurement": 68
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Parliamentary Performance",
+        "score": 60,
+        "weight": 25,
+        "weightedScore": 15.0,
+        "explanation": "Hon. Chishimba's parliamentary attendance and participation have been below expectations. As an opposition MP, he has struggled to advance constituency interests through legislative channels. His attendance rate of 68% is below the 75% benchmark, and he has tabled only one private member's motion in the current session.",
+        "positiveFactors": [
+          "Tabled a motion on Northern Province road infrastructure rehabilitation",
+          "Served on the Committee on Local Governance and Decentralization",
+          "Raised constituency concerns about delayed CDF disbursements on the floor of the House"
+        ],
+        "negativeFactors": [
+          "68% parliamentary attendance rate, below the 75% expected minimum",
+          "Only 1 private member's motion tabled since 2021, well below peer average",
+          "Asked only 8 oral questions in 2025 sessions, among the lowest in the House",
+          "Committee meeting attendance at 55%, significantly below expectations",
+          "No contributions to any legislative amendment or bill in the current session"
+        ],
+        "improvementTips": [
+          "Commit to attending at least 85% of parliamentary sessions and all assigned committee meetings",
+          "Prepare and table at least 2 private member's motions per session on Northern Province development",
+          "Increase oral questions to at least 15 per session to hold the Executive accountable",
+          "Engage the Parliamentary Research Unit to support evidence-based contributions to debates"
+        ]
+      },
+      {
+        "category": "CDF Utilization",
+        "score": 58,
+        "weight": 25,
+        "weightedScore": 14.5,
+        "explanation": "CDF utilization is a major concern. Hon. Chishimba has utilized only 62% of allocated CDF funds, with significant amounts returned to the Treasury unspent. Completed projects show mixed quality, and one health post construction was flagged by the Auditor General for cost inflation.",
+        "positiveFactors": [
+          "Constructed 1 health post in Lukashya Ward serving 3,000+ residents",
+          "Rehabilitated 5km of drainage in Kasama town centre reducing flooding",
+          "Allocated CDF funds to 3 bursary programmes supporting 45 vulnerable students"
+        ],
+        "negativeFactors": [
+          "Only 62% CDF utilization rate with K2.8 million returned to Treasury unspent",
+          "Health post construction flagged by Auditor General for K180,000 cost inflation above market rates",
+          "2 CDF-funded projects (community well and market stalls) abandoned before completion",
+          "No CDF utilization reports shared with constituents since 2024",
+          "CDF project selection process not transparent with no community consultation documented"
+        ],
+        "improvementTips": [
+          "Establish a transparent CDF project selection committee with community representatives from all wards",
+          "Address the Auditor General's findings on cost inflation and implement competitive bidding for all projects",
+          "Complete the 2 abandoned projects or provide a public explanation for their discontinuation",
+          "Publish quarterly CDF utilization reports and present them at constituency meetings",
+          "Set a target of 90% CDF utilization by the end of the next funding cycle"
+        ]
+      },
+      {
+        "category": "Constituency Engagement",
+        "score": 65,
+        "weight": 20,
+        "weightedScore": 13.0,
+        "explanation": "Constituency engagement has declined since election. Hon. Chishimba visits Kasama Central approximately once a month, but visits are often brief and concentrated in urban areas. The constituency office is staffed irregularly, and constituents have expressed frustration about accessibility.",
+        "positiveFactors": [
+          "Maintains a constituency office in Kasama town, though staffing is irregular",
+          "Held 3 constituency meetings in 2025, though attendance was modest",
+          "Accessible via mobile phone for urgent constituent concerns",
+          "Sponsored 2 community football tournaments to engage youth"
+        ],
+        "negativeFactors": [
+          "Constituency visits reduced from twice monthly in 2022 to once monthly in 2025",
+          "Rural wards of Kasama Central have not received a constituency visit in over 6 months",
+          "Constituency office unmanned for 2 weeks in Q3 2025 due to assistant resignation",
+          "No social media updates on constituency activities since September 2025",
+          "Constituents report difficulty reaching the MP for non-urgent matters"
+        ],
+        "improvementTips": [
+          "Hire a permanent constituency assistant and ensure the office is staffed 5 days per week",
+          "Increase constituency visits to at least twice monthly with mandatory visits to rural wards",
+          "Resume social media updates and establish a monthly constituency newsletter",
+          "Hold at least 4 town hall meetings per year across different wards, not just urban Kasama",
+          "Create a constituent contact system with scheduled callback commitments"
+        ]
+      },
+      {
+        "category": "Legal Compliance",
+        "score": 72,
+        "weight": 15,
+        "weightedScore": 10.8,
+        "explanation": "Hon. Chishimba's legal compliance is adequate but not without concerns. He filed asset declarations on time but the Auditor General's findings on CDF cost inflation raise procurement compliance questions. A defamation suit filed against him by a local journalist is still pending.",
+        "positiveFactors": [
+          "Asset declarations filed on time with the Anti-Corruption Commission",
+          "No criminal record or convictions",
+          "Compliant with the Parliamentary and Ministerial Code of Conduct Act on paper",
+          "Tax obligations met through PAYE deductions from parliamentary salary"
+        ],
+        "negativeFactors": [
+          "Auditor General flagged CDF health post project for K180,000 cost inflation",
+          "Pending defamation lawsuit filed by a Kasama-based journalist critical of his CDF management",
+          "Has not provided a formal response to the Auditor General's findings within the required timeframe",
+          "Perception of non-transparency in CDF procurement processes"
+        ],
+        "improvementTips": [
+          "Formally respond to the Auditor General's CDF findings and implement recommended corrective measures",
+          "Seek to resolve the defamation suit through mediation rather than prolonged litigation",
+          "Implement transparent procurement processes for all CDF projects with published tender results",
+          "Request a compliance review from the Parliamentary Standards Committee to proactively address concerns"
+        ]
+      },
+      {
+        "category": "Local Procurement & Contracts to Zambians",
+        "score": 68,
+        "weight": 15,
+        "weightedScore": 10.2,
+        "explanation": "Local procurement practices are below expectations. While 70% of CDF contracts went to Zambian-owned businesses, there is limited focus on awarding contracts to Northern Province-based firms. The cost inflation finding also raises questions about the integrity of procurement decisions.",
+        "positiveFactors": [
+          "70% of CDF contracts by value awarded to Zambian-owned businesses",
+          "Bursary programme funds distributed through local Kasama schools",
+          "Drainage rehabilitation project employed local labourers from Kasama Central"
+        ],
+        "negativeFactors": [
+          "Only 35% of CDF contracts went to Northern Province-based businesses",
+          "Health post contract awarded to a Lusaka-based firm with connections to the MP's political network",
+          "No documented preference system for local Kasama-based contractors",
+          "Cost inflation finding suggests procurement process integrity concerns",
+          "No capacity building for local contractors to compete for CDF tenders"
+        ],
+        "improvementTips": [
+          "Establish a transparent and documented preference system for Kasama-based contractors in CDF procurement",
+          "Set a target of 60% of CDF contracts to Northern Province-based firms within the next cycle",
+          "Address the perception of politically connected contract awards through open competitive bidding",
+          "Partner with the Northern Province Chamber of Commerce to develop local contractor capacity",
+          "Publish all CDF tender awards including contractor details and bid evaluation scores"
+        ]
+      }
+    ],
+    "overallExplanation": "Hon. Bwalya Chishimba's performance as MP for Kasama Central falls below expectations across most dimensions. Low parliamentary attendance, poor CDF utilization, declining constituency engagement, and procurement integrity concerns paint a picture of an MP who has not fully committed to the responsibilities of office. The Auditor General's cost inflation findings and the pending defamation suit compound these challenges. Significant improvement in attendance, CDF management transparency, and constituency presence is needed to meet constituent expectations.",
+    "topImprovementAreas": [
+      "Dramatically improve CDF utilization to above 90% with transparent project selection and procurement",
+      "Increase parliamentary attendance to at least 85% and submit more motions and oral questions",
+      "Re-establish consistent constituency presence with regular visits to all wards including rural areas"
+    ]
+  },
+  {
+    "id": "MP-004",
+    "name": "Hon. Musonda Kalimba",
+    "role": "Member of Parliament",
+    "organization": "National Assembly of Zambia",
+    "region": "North-Western",
+    "overallScore": 68,
+    "rating": "Needs Improvement",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-18T14:00:00Z",
+    "occupation": "Member of Parliament",
+    "constituency": "Kasempa",
+    "province": "North-Western",
+    "party": "UPND",
+    "termStart": "2021-08-24",
+    "termEnd": null,
+    "details": {
+      "parliamentaryPerformance": 72,
+      "cdfUtilization": 60,
+      "constituencyEngagement": 70,
+      "legalCompliance": 75,
+      "localProcurement": 62
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Parliamentary Performance",
+        "score": 72,
+        "weight": 25,
+        "weightedScore": 18.0,
+        "explanation": "Hon. Kalimba attends parliamentary sessions at a 78% rate, which is marginally acceptable. He participates in debates primarily on mining policy and North-Western Province development but has not been prolific in tabling motions or asking questions. His committee contribution has been moderate.",
+        "positiveFactors": [
+          "78% parliamentary attendance rate, meeting the minimum benchmark",
+          "Active contributions to debates on mining sector regulation and environmental protection",
+          "Member of the Committee on Mines, Energy, and Water Development",
+          "Tabled 2 private member's motions on mining royalty redistribution and rural electrification"
+        ],
+        "negativeFactors": [
+          "Committee meeting attendance at 62%, below the expected 80% minimum",
+          "Asked only 12 oral questions in 2025, below the active MP benchmark of 20",
+          "No contributions to legislative amendments or bill development processes",
+          "Frequently absent during Friday sessions, reducing weekly participation"
+        ],
+        "improvementTips": [
+          "Improve committee meeting attendance to at least 80% as required",
+          "Increase oral questions to ministers, particularly on mining and energy matters affecting Kasempa",
+          "Participate in legislative drafting workshops to build capacity for bill development",
+          "Avoid scheduling constituency visits during parliamentary sitting days, particularly Fridays"
+        ]
+      },
+      {
+        "category": "CDF Utilization",
+        "score": 60,
+        "weight": 25,
+        "weightedScore": 15.0,
+        "explanation": "CDF utilization in Kasempa constituency is concerning at only 65%. The remote and geographically vast nature of the constituency presents logistical challenges, but poor project planning and contractor management have contributed to delays and incomplete projects.",
+        "positiveFactors": [
+          "Constructed 2 teachers' houses in remote schools in Kasempa District",
+          "Allocated CDF funds to 2 borehole projects in water-scarce areas",
+          "Provided bursaries to 30 vulnerable secondary school students from CDF"
+        ],
+        "negativeFactors": [
+          "Only 65% CDF utilization rate with K3.1 million unspent in the current cycle",
+          "1 borehole project drilled but non-functional due to pump installation failure",
+          "Teachers' houses construction took 18 months instead of planned 6 months",
+          "No CDF-funded road rehabilitation despite Kasempa's severe road infrastructure deficit",
+          "Lack of a documented CDF project plan or community consultation process"
+        ],
+        "improvementTips": [
+          "Develop a comprehensive CDF project plan at the start of each funding cycle with community input",
+          "Prioritize road rehabilitation in the next CDF allocation given Kasempa's infrastructure needs",
+          "Fix the non-functional borehole immediately and implement quality assurance checks for all projects",
+          "Engage the District Commissioner's office for logistical support in remote project areas",
+          "Consider phased project implementation to manage the constituency's vast geography"
+        ]
+      },
+      {
+        "category": "Constituency Engagement",
+        "score": 70,
+        "weight": 20,
+        "weightedScore": 14.0,
+        "explanation": "Kasempa's vast geography and poor road network make constituency engagement challenging. Hon. Kalimba visits the constituency approximately once a month but primarily stays in Kasempa town. Remote chiefdoms report feeling neglected and disconnected from their MP.",
+        "positiveFactors": [
+          "Maintains a constituency office in Kasempa town with a full-time assistant",
+          "Held 4 constituency meetings in 2025 in Kasempa town",
+          "Responds to phone calls from constituents and traditional leaders",
+          "Distributed relief supplies during the 2025 floods in low-lying areas"
+        ],
+        "negativeFactors": [
+          "Constituency visits limited to Kasempa town; remote chiefdoms rarely visited",
+          "No town hall meetings held outside of Kasempa town in the past 12 months",
+          "Traditional leaders in remote chiefdoms have formally complained about lack of engagement",
+          "No use of social media or radio to communicate with constituents across the vast constituency"
+        ],
+        "improvementTips": [
+          "Establish a rotating visit schedule that includes all chiefdoms in Kasempa constituency",
+          "Use Kasempa Community Radio for monthly constituency updates and phone-in programmes",
+          "Hold at least 2 town hall meetings per year in each chiefdom, not just Kasempa town",
+          "Appoint ward-level coordinators in remote areas to maintain continuous engagement"
+        ]
+      },
+      {
+        "category": "Legal Compliance",
+        "score": 75,
+        "weight": 15,
+        "weightedScore": 11.25,
+        "explanation": "Hon. Kalimba's legal compliance is adequate but has areas of concern. Asset declarations have been filed, though one was submitted late. There are community reports of potential conflicts of interest related to his mining interests in North-Western Province.",
+        "positiveFactors": [
+          "Asset declarations filed with the Anti-Corruption Commission, though one was late",
+          "No criminal record or convictions",
+          "Tax obligations met through PAYE deductions from parliamentary salary",
+          "No pending court cases or civil litigation"
+        ],
+        "negativeFactors": [
+          "One asset declaration filed 4 weeks late in 2024, accepted with a formal warning",
+          "Community reports of potential conflict of interest due to undeclared mining exploration interests",
+          "Has not formally declared mining-related business interests as required by the Code of Conduct",
+          "Did not recuse from debate on Mining Act amendments despite potential personal interest"
+        ],
+        "improvementTips": [
+          "Fully declare all mining-related business interests to the Anti-Corruption Commission immediately",
+          "Recuse from parliamentary debates and votes on mining legislation where personal interest exists",
+          "File asset declarations at least 2 weeks before the deadline to avoid any repeat late submission",
+          "Seek advisory opinion from the Parliamentary Standards Committee on perceived conflicts of interest"
+        ]
+      },
+      {
+        "category": "Local Procurement & Contracts to Zambians",
+        "score": 62,
+        "weight": 15,
+        "weightedScore": 9.3,
+        "explanation": "Local procurement in CDF projects is weak. Kasempa's limited contractor base presents a challenge, but insufficient effort has been made to develop local capacity. Only 58% of CDF contracts went to Zambian-owned businesses, and very few went to North-Western Province-based firms.",
+        "positiveFactors": [
+          "58% of CDF contracts awarded to Zambian-owned businesses",
+          "Borehole drilling contract awarded to a Solwezi-based company within North-Western Province",
+          "Local labourers employed for teachers' houses construction"
+        ],
+        "negativeFactors": [
+          "Only 25% of CDF contracts went to North-Western Province-based businesses",
+          "Contracted a Lusaka firm for construction materials when similar products were available from Solwezi suppliers",
+          "No local contractor capacity-building programme or supplier development initiative",
+          "Some CDF procurement conducted without competitive bidding",
+          "No documented local content policy for constituency development projects"
+        ],
+        "improvementTips": [
+          "Establish a local content policy requiring at least 50% of CDF contracts to North-Western Province firms",
+          "Partner with the Kasempa District Council and CEEC to build local contractor capacity",
+          "Implement mandatory competitive bidding for all CDF contracts above K50,000",
+          "Create a Kasempa constituency supplier database and support local firms to register with PACRA",
+          "Source construction materials from Solwezi suppliers to strengthen the provincial supply chain"
+        ]
+      }
+    ],
+    "overallExplanation": "Hon. Musonda Kalimba's performance as Kasempa MP reflects the challenges of representing a vast, remote constituency but also reveals areas where greater effort and planning could yield significant improvements. Low CDF utilization, weak local procurement, and limited engagement with remote chiefdoms are the primary concerns. The potential conflict of interest related to mining interests requires immediate transparency. While geographical challenges are acknowledged, better project planning, constituency communication strategies, and commitment to full CDF utilization are essential.",
+    "topImprovementAreas": [
+      "Increase CDF utilization above 90% with a comprehensive project plan developed in consultation with all chiefdoms",
+      "Fully declare all mining-related business interests and recuse from related legislative matters",
+      "Establish a rotating engagement schedule and use community radio to reach remote constituencies"
+    ]
+  },
+  {
+    "id": "MP-005",
+    "name": "Hon. Christopher Kangwa",
+    "role": "Member of Parliament",
+    "organization": "National Assembly of Zambia",
+    "region": "Copperbelt",
+    "overallScore": 80,
+    "rating": "Good",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-22T09:30:00Z",
+    "occupation": "Member of Parliament",
+    "constituency": "Kamfinsa",
+    "province": "Copperbelt",
+    "party": "UPND",
+    "termStart": "2021-08-24",
+    "termEnd": null,
+    "details": {
+      "parliamentaryPerformance": 82,
+      "cdfUtilization": 78,
+      "constituencyEngagement": 84,
+      "legalCompliance": 85,
+      "localProcurement": 72
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Parliamentary Performance",
+        "score": 82,
+        "weight": 25,
+        "weightedScore": 20.5,
+        "explanation": "Hon. Kangwa maintains a solid parliamentary presence with an 82% attendance rate. He is active in debates on mining, labour, and Copperbelt economic diversification. He serves on the Committee on Delegated Legislation and has contributed to reviews of mining sector statutory instruments.",
+        "positiveFactors": [
+          "82% attendance rate in parliamentary sessions",
+          "Active member of the Committee on Delegated Legislation reviewing mining sector regulations",
+          "Tabled 3 private member's motions on mine worker safety, Copperbelt economic diversification, and youth employment",
+          "Asked 18 oral questions in 2025 on mining sector and labour issues",
+          "Participated in the parliamentary debate on the Mines and Minerals Development (Amendment) Bill"
+        ],
+        "negativeFactors": [
+          "Committee report on mining statutory instruments submitted late on 2 occasions",
+          "Limited engagement with non-mining related legislative matters"
+        ],
+        "improvementTips": [
+          "Broaden legislative engagement beyond mining to include health, education, and infrastructure",
+          "Ensure timely submission of all committee reports by managing research assistant workload",
+          "Seek appointment to an additional committee to broaden legislative portfolio"
+        ]
+      },
+      {
+        "category": "CDF Utilization",
+        "score": 78,
+        "weight": 25,
+        "weightedScore": 19.5,
+        "explanation": "CDF utilization at 80% is reasonable but below the top performers. Hon. Kangwa has focused CDF spending on youth skills training and road rehabilitation in Kamfinsa, but project completion rates need improvement. One skills centre remains incomplete after 14 months.",
+        "positiveFactors": [
+          "Rehabilitated 8km of township roads in Kamfinsa at K1.8 million, significantly reducing flooding",
+          "Funded youth skills training programmes benefiting 120 young people in welding, carpentry, and tailoring",
+          "Constructed sanitary facilities at 3 community schools in Kamfinsa",
+          "80% CDF utilization rate with clear project documentation"
+        ],
+        "negativeFactors": [
+          "Youth skills training centre construction at K1.5 million incomplete after 14 months",
+          "20% of CDF funds unspent, primarily due to contractor capacity issues",
+          "No CDF-funded health infrastructure projects despite community demand",
+          "Limited community consultation in project selection; priorities determined by the MP's office"
+        ],
+        "improvementTips": [
+          "Expedite completion of the youth skills training centre and hold the contractor accountable for delays",
+          "Include health infrastructure (clinic upgrades, ambulance) in the next CDF project plan",
+          "Establish a constituency CDF advisory committee with community representatives for project selection",
+          "Pre-qualify contractors and maintain a reserve list to address capacity issues quickly"
+        ]
+      },
+      {
+        "category": "Constituency Engagement",
+        "score": 84,
+        "weight": 20,
+        "weightedScore": 16.8,
+        "explanation": "Hon. Kangwa is accessible and maintains strong engagement with Kamfinsa constituents. The urban nature of the constituency makes regular visits easier. He is active on social media and hosts monthly constituency surgeries at his office.",
+        "positiveFactors": [
+          "Monthly constituency surgeries at the Kamfinsa constituency office with 50+ attendees per session",
+          "Active Facebook page with 18,000 followers featuring regular constituency updates",
+          "Visited all 12 wards in Kamfinsa at least twice in 2025",
+          "Established a constituency youth advisory council with 24 members representing all wards",
+          "Quick response to constituency emergencies such as the 2025 cholera outbreak in Kamfinsa"
+        ],
+        "negativeFactors": [
+          "Constituency surgeries held only in the main office, not rotating across wards",
+          "Engagement with women's groups and market traders less systematic than youth engagement"
+        ],
+        "improvementTips": [
+          "Rotate constituency surgeries across wards to make them more accessible to all residents",
+          "Establish a Women's Development Forum similar to the existing Youth Advisory Council",
+          "Partner with market trader associations in Kamfinsa for regular engagement on economic issues"
+        ]
+      },
+      {
+        "category": "Legal Compliance",
+        "score": 85,
+        "weight": 15,
+        "weightedScore": 12.75,
+        "explanation": "Hon. Kangwa has a clean legal record with timely asset declarations and no pending investigations. He is fully compliant with the parliamentary code of conduct and has proactively declared his business interests in the transport sector.",
+        "positiveFactors": [
+          "All asset declarations filed on time since 2021",
+          "Proactively declared transport business interests and recused from related debates",
+          "Clean criminal record and no civil litigation",
+          "Full compliance with the Parliamentary and Ministerial Code of Conduct Act",
+          "No complaints with the Parliamentary Standards Committee"
+        ],
+        "negativeFactors": [
+          "Transport business shares held by family members not explicitly declared in initial filing, later corrected"
+        ],
+        "improvementTips": [
+          "Ensure all family members' related business interests are declared from the outset in future filings",
+          "Consider establishing a family trust to manage business interests during parliamentary tenure",
+          "Proactively update asset declarations whenever there is a material change in business interests"
+        ]
+      },
+      {
+        "category": "Local Procurement & Contracts to Zambians",
+        "score": 72,
+        "weight": 15,
+        "weightedScore": 10.8,
+        "explanation": "Local procurement is moderate at 72% for Zambian-owned businesses but with limited focus on Copperbelt Province-based firms. The road rehabilitation contract was awarded to a Lusaka firm despite capable Kitwe-based construction companies being available.",
+        "positiveFactors": [
+          "72% of CDF contracts by value awarded to Zambian-owned businesses",
+          "Youth skills training programme contracted to local Kitwe-based TEVETA-accredited training providers",
+          "All sanitary facility construction used local Kamfinsa-based contractors and labourers"
+        ],
+        "negativeFactors": [
+          "Major road rehabilitation contract (K1.8 million) awarded to a Lusaka-based firm over local alternatives",
+          "Only 40% of CDF contracts went to Copperbelt Province-based businesses",
+          "No formal local content requirements in CDF procurement documentation",
+          "Skills training centre contractor sourced from outside the province without documented justification"
+        ],
+        "improvementTips": [
+          "Prioritize Copperbelt-based contractors for CDF projects, with documented justification required for out-of-province awards",
+          "Require all CDF tenders to include a local content evaluation criterion worth at least 20% of total score",
+          "Partner with the Kitwe Chamber of Commerce to identify and pre-qualify local contractors",
+          "Set a target of 60% CDF contracts to Copperbelt Province-based firms within the next cycle"
+        ]
+      }
+    ],
+    "overallExplanation": "Hon. Christopher Kangwa is a solid-performing MP for Kamfinsa with strong constituency engagement and reasonable parliamentary participation, particularly on mining and labour issues. His CDF utilization is adequate but could be improved, especially regarding the delayed skills training centre. Local procurement practices need strengthening with a greater focus on Copperbelt-based contractors. His legal compliance is commendable, and his proactive business interest declarations demonstrate transparency. Completing outstanding projects and broadening legislative engagement beyond mining would elevate his performance.",
+    "topImprovementAreas": [
+      "Complete the delayed youth skills training centre and improve CDF utilization to above 90%",
+      "Strengthen local procurement by prioritizing Copperbelt-based contractors for CDF projects",
+      "Broaden legislative engagement beyond mining to include health, education, and infrastructure sectors"
+    ]
+  },
+  {
+    "id": "MP-006",
+    "name": "Hon. Grace Nkandu",
+    "role": "Member of Parliament",
+    "organization": "National Assembly of Zambia",
+    "region": "Lusaka",
+    "overallScore": 55,
+    "rating": "Needs Improvement",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-25T15:45:00Z",
+    "occupation": "Member of Parliament",
+    "constituency": "Mandevu",
+    "province": "Lusaka",
+    "party": "PF",
+    "termStart": "2021-08-24",
+    "termEnd": null,
+    "details": {
+      "parliamentaryPerformance": 52,
+      "cdfUtilization": 48,
+      "constituencyEngagement": 60,
+      "legalCompliance": 62,
+      "localProcurement": 55
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Parliamentary Performance",
+        "score": 52,
+        "weight": 25,
+        "weightedScore": 13.0,
+        "explanation": "Hon. Nkandu's parliamentary performance is significantly below expectations. She has a 60% attendance rate and has been one of the least active MPs in terms of debate participation, questions, and legislative contributions. As an opposition MP, she has not effectively used parliamentary tools to represent Mandevu interests.",
+        "positiveFactors": [
+          "Member of the Committee on Health, Community Development, and Social Services",
+          "Raised the issue of cholera outbreak preparedness in Mandevu during committee hearings",
+          "Participated in the debate on the Public Health (Amendment) Bill"
+        ],
+        "negativeFactors": [
+          "60% parliamentary attendance rate, well below the 75% minimum benchmark",
+          "Zero private member's motions tabled since election in 2021",
+          "Only 5 oral questions asked in 2025, among the lowest in the National Assembly",
+          "Committee meeting attendance at 48%, indicating disengagement from committee responsibilities",
+          "No legislative amendments proposed or contributed to any bill development"
+        ],
+        "improvementTips": [
+          "Improve attendance to at least 85% by prioritizing parliamentary duties over other commitments",
+          "Table at least 2 private member's motions on Mandevu constituency issues such as sanitation, housing, and employment",
+          "Increase oral questions to at least 20 per session to actively hold the Executive accountable",
+          "Attend all Committee on Health meetings and actively contribute to health policy discussions"
+        ]
+      },
+      {
+        "category": "CDF Utilization",
+        "score": 48,
+        "weight": 25,
+        "weightedScore": 12.0,
+        "explanation": "CDF utilization is alarmingly low at 50%. Of the allocated funds, half remain unspent while Mandevu constituency faces severe infrastructure deficits. Completed projects are few and some have quality issues. The Auditor General has flagged procurement irregularities in 2 CDF projects.",
+        "positiveFactors": [
+          "Constructed 1 community market shed in Mandevu serving 80+ traders",
+          "Provided bursaries to 25 vulnerable students through CDF"
+        ],
+        "negativeFactors": [
+          "Only 50% CDF utilization rate, one of the lowest in the National Assembly",
+          "K4.2 million in CDF funds returned to Treasury unspent while constituency lacks basic infrastructure",
+          "Community market shed construction delayed by 8 months beyond planned completion date",
+          "Auditor General flagged 2 CDF projects for procurement irregularities including single-sourcing without justification",
+          "No CDF-funded drainage, road, or health infrastructure projects despite Mandevu's severe needs",
+          "No community consultation documented for CDF project selection"
+        ],
+        "improvementTips": [
+          "Urgently develop a comprehensive CDF project plan in consultation with all 12 Mandevu wards",
+          "Prioritize drainage and road rehabilitation given Mandevu's severe flooding problems",
+          "Address all Auditor General findings and implement competitive bidding for all CDF procurement",
+          "Engage the Lusaka City Council for technical support on infrastructure project planning",
+          "Set a target of 95% CDF utilization in the next cycle and publish progress quarterly"
+        ]
+      },
+      {
+        "category": "Constituency Engagement",
+        "score": 60,
+        "weight": 20,
+        "weightedScore": 12.0,
+        "explanation": "Despite representing a Lusaka constituency with easy accessibility, Hon. Nkandu's engagement with Mandevu residents has been inconsistent. Constituency meetings are infrequent, and the constituency office operates part-time. Constituents report feeling abandoned and disconnected from their MP.",
+        "positiveFactors": [
+          "Maintains a constituency office in Mandevu, though operating hours are inconsistent",
+          "Attended community events during the cholera response in Mandevu in 2025",
+          "Distributed relief supplies during the 2025 rainy season flooding in low-lying areas",
+          "Accessible via social media for some constituent inquiries"
+        ],
+        "negativeFactors": [
+          "Only 2 constituency meetings held in all of 2025",
+          "Constituency office operating only 3 days per week instead of full time",
+          "No systematic engagement with ward councillors or Ward Development Committees",
+          "Constituents report waiting weeks for responses to written complaints",
+          "No regular schedule for constituency visits published to constituents"
+        ],
+        "improvementTips": [
+          "Ensure the constituency office operates 5 days per week with a dedicated constituency assistant",
+          "Hold at least quarterly constituency meetings rotating across Mandevu's wards",
+          "Establish regular meetings with all Ward Development Committees and ward councillors in Mandevu",
+          "Publish a monthly constituency engagement schedule on social media and at the constituency office",
+          "Create a constituent complaint tracking system with response time commitments"
+        ]
+      },
+      {
+        "category": "Legal Compliance",
+        "score": 62,
+        "weight": 15,
+        "weightedScore": 9.3,
+        "explanation": "Legal compliance concerns are mounting. The Auditor General's CDF procurement findings are serious, and Hon. Nkandu has not filed her 2025 asset declaration on time. A complaint has been filed with the Anti-Corruption Commission by a constituent alleging misuse of CDF funds.",
+        "positiveFactors": [
+          "No criminal record or convictions",
+          "Asset declarations filed for 2022, 2023, and 2024",
+          "No civil litigation in personal capacity"
+        ],
+        "negativeFactors": [
+          "2025 asset declaration filed 6 weeks late with the Anti-Corruption Commission",
+          "Auditor General flagged 2 CDF projects for procurement irregularities",
+          "Complaint filed with the Anti-Corruption Commission by constituent alleging CDF misuse",
+          "Has not provided formal responses to either the Auditor General or ACC regarding the allegations",
+          "Perception of non-transparency undermining public trust"
+        ],
+        "improvementTips": [
+          "Immediately respond to the Auditor General's findings with a detailed action plan",
+          "Fully cooperate with the Anti-Corruption Commission investigation",
+          "File future asset declarations at least 4 weeks before the deadline",
+          "Engage a qualified accountant to assist with CDF financial record-keeping and compliance",
+          "Voluntarily request a forensic audit of all CDF expenditures to restore public trust"
+        ]
+      },
+      {
+        "category": "Local Procurement & Contracts to Zambians",
+        "score": 55,
+        "weight": 15,
+        "weightedScore": 8.25,
+        "explanation": "Local procurement in CDF projects is poor. Despite Lusaka having the largest pool of Zambian contractors and suppliers in the country, only 60% of CDF contracts went to Zambian-owned firms, and there was no preference for Mandevu or Lusaka-based businesses. Single-sourcing practices further undermine procurement integrity.",
+        "positiveFactors": [
+          "60% of CDF contracts awarded to Zambian-owned businesses",
+          "Community market shed construction employed local Mandevu youth for casual labour"
+        ],
+        "negativeFactors": [
+          "40% of CDF contracts went to non-Zambian firms despite abundant local capacity in Lusaka",
+          "Single-sourcing of 2 CDF contracts without competitive bidding or documented justification",
+          "No preference for Mandevu-based or Lusaka-based contractors in procurement",
+          "No local content requirements in CDF tender documents",
+          "No contractor capacity-building or local supplier development initiatives"
+        ],
+        "improvementTips": [
+          "Implement mandatory competitive bidding for all CDF contracts regardless of value",
+          "Set a target of 90% Zambian-owned business procurement given Lusaka's large contractor base",
+          "Include local content criteria worth at least 25% in all CDF tender evaluations",
+          "Create a Mandevu constituency supplier database and actively encourage local business participation",
+          "Report all CDF procurement awards publicly with contractor names, values, and selection criteria"
+        ]
+      }
+    ],
+    "overallExplanation": "Hon. Grace Nkandu's performance as MP for Mandevu is deeply concerning. Low parliamentary attendance, alarming CDF under-utilization, procurement irregularities, and weak constituency engagement collectively suggest an MP who is not fulfilling the fundamental responsibilities of office. The pending Anti-Corruption Commission complaint and Auditor General findings add urgency to the need for immediate corrective action. Mandevu constituency, one of the most densely populated and infrastructure-deficient areas in Lusaka, deserves significantly better representation and development investment.",
+    "topImprovementAreas": [
+      "Urgently increase CDF utilization to above 90% with transparent procurement and community-driven project selection",
+      "Respond to Auditor General findings and cooperate fully with the Anti-Corruption Commission investigation",
+      "Dramatically increase parliamentary attendance, engagement, and constituency presence"
+    ]
+  },
+  {
+    "id": "MP-007",
+    "name": "Hon. Andrew Mweetwa",
+    "role": "Member of Parliament",
+    "organization": "National Assembly of Zambia",
+    "region": "Lusaka",
+    "overallScore": 83,
+    "rating": "Good",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-28T10:15:00Z",
+    "occupation": "Member of Parliament",
+    "constituency": "Kabwata",
+    "province": "Lusaka",
+    "party": "UPND",
+    "termStart": "2021-08-24",
+    "termEnd": null,
+    "details": {
+      "parliamentaryPerformance": 86,
+      "cdfUtilization": 80,
+      "constituencyEngagement": 88,
+      "legalCompliance": 82,
+      "localProcurement": 78
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Parliamentary Performance",
+        "score": 86,
+        "weight": 25,
+        "weightedScore": 21.5,
+        "explanation": "Hon. Mweetwa is an active parliamentarian with a strong debate record. He serves as vice-chairperson of the Committee on National Security and Foreign Affairs and has been particularly vocal on urban planning, housing, and youth employment legislation.",
+        "positiveFactors": [
+          "86% attendance rate in parliamentary sessions",
+          "Vice-chairperson of the Committee on National Security and Foreign Affairs",
+          "Tabled 3 private member's motions on affordable housing, urban planning reform, and youth employment incentives",
+          "Asked 25 oral questions in 2025, above the active MP benchmark",
+          "Key contributor to the Urban and Regional Planning (Amendment) Bill"
+        ],
+        "negativeFactors": [
+          "Affordable housing motion did not progress to second reading",
+          "Occasionally engages in adversarial exchanges during debates, drawing Speaker warnings"
+        ],
+        "improvementTips": [
+          "Build broader cross-party support for the affordable housing motion before re-tabling",
+          "Maintain a professional tone in debates to avoid Speaker warnings and set a positive example",
+          "Engage civil society organisations working on housing to strengthen the evidence base for the motion"
+        ]
+      },
+      {
+        "category": "CDF Utilization",
+        "score": 80,
+        "weight": 25,
+        "weightedScore": 20.0,
+        "explanation": "CDF utilization at 82% is good for a Lusaka constituency. Hon. Mweetwa has focused CDF spending on drainage infrastructure, school improvements, and community empowerment projects. Project completion rates are generally satisfactory, though one drainage project experienced contractor abandonment.",
+        "positiveFactors": [
+          "Constructed 3km of concrete drainage channels in Kabwata reducing chronic flooding",
+          "Rehabilitated 2 community schools with new classroom blocks and computer labs",
+          "Funded a women's cooperative training programme benefiting 80 women in tailoring and catering",
+          "82% CDF utilization with documented project files and community reports",
+          "Clean Auditor General report on CDF expenditure for 2024-2025"
+        ],
+        "negativeFactors": [
+          "1 drainage project (K600,000) abandoned by contractor at 60% completion, requiring re-tendering",
+          "18% of CDF funds unspent, primarily due to the abandoned project delays",
+          "No CDF-funded health facility improvements despite ageing Kabwata Clinic"
+        ],
+        "improvementTips": [
+          "Complete the abandoned drainage project by engaging a replacement contractor immediately",
+          "Allocate CDF funds to Kabwata Clinic improvements in the next funding cycle",
+          "Implement contractor performance bonds and retention clauses in all CDF contracts to prevent abandonment",
+          "Set a target of 95% CDF utilization by including contingency contractor arrangements"
+        ]
+      },
+      {
+        "category": "Constituency Engagement",
+        "score": 88,
+        "weight": 20,
+        "weightedScore": 17.6,
+        "explanation": "Hon. Mweetwa has one of the strongest constituency engagement records in Lusaka. He holds weekly constituency surgeries, is highly visible in the community, and uses social media effectively to communicate with constituents. His youth engagement initiatives are particularly notable.",
+        "positiveFactors": [
+          "Weekly constituency surgeries at Kabwata constituency office with 40+ attendees on average",
+          "Active social media presence with 25,000+ followers on Facebook and regular live Q&A sessions",
+          "Established the Kabwata Youth Parliament engaging 50 young people in civic education",
+          "Visits all wards in Kabwata at least monthly with documented community engagement",
+          "Rapid response to constituency emergencies including flooding, fires, and disease outbreaks"
+        ],
+        "negativeFactors": [
+          "Engagement with elderly and disabled constituents could be more structured",
+          "No formal partnership with ward councillors for coordinated constituency development"
+        ],
+        "improvementTips": [
+          "Establish a dedicated engagement programme for elderly and disabled constituents in Kabwata",
+          "Formalize coordination with ward councillors through regular joint planning meetings",
+          "Create a constituency development plan jointly with the Lusaka City Council ward offices"
+        ]
+      },
+      {
+        "category": "Legal Compliance",
+        "score": 82,
+        "weight": 15,
+        "weightedScore": 12.3,
+        "explanation": "Legal compliance is generally good with timely asset declarations and no criminal issues. However, Hon. Mweetwa was cautioned by the Speaker for making unsubstantiated claims about a government minister during debate, and he was ordered to withdraw the statements under parliamentary privilege rules.",
+        "positiveFactors": [
+          "All asset declarations filed on time with the Anti-Corruption Commission",
+          "Clean criminal record with no pending court cases",
+          "CDF expenditure received a clean Auditor General report",
+          "Full compliance with PAYE tax obligations through parliamentary salary deductions"
+        ],
+        "negativeFactors": [
+          "Cautioned by the Speaker for unsubstantiated claims against a minister during debate in 2025",
+          "Ordered to withdraw statements under Standing Orders, creating a procedural compliance issue",
+          "Social media posts occasionally make claims that could expose him to defamation liability"
+        ],
+        "improvementTips": [
+          "Verify all factual claims before making them on the floor of the House to maintain parliamentary decorum",
+          "Consult with parliamentary legal advisors before making serious allegations about government officials",
+          "Exercise greater care on social media to avoid statements that could lead to defamation proceedings"
+        ]
+      },
+      {
+        "category": "Local Procurement & Contracts to Zambians",
+        "score": 78,
+        "weight": 15,
+        "weightedScore": 11.7,
+        "explanation": "Local procurement is reasonable at 80% Zambian-owned business contracts. Hon. Mweetwa has made efforts to engage Kabwata-based small businesses and cooperatives in CDF projects, though the abandoned drainage contract was with a firm from outside Lusaka Province.",
+        "positiveFactors": [
+          "80% of CDF contracts by value awarded to Zambian-owned businesses",
+          "Women's cooperative training contracted to a Kabwata-based women's organization",
+          "School rehabilitation projects used Kabwata-based contractors for all civil works",
+          "Established a constituency supplier preference list for Kabwata-based businesses"
+        ],
+        "negativeFactors": [
+          "Abandoned drainage contract was awarded to a firm from outside Lusaka with inadequate capacity assessment",
+          "No formal local content policy despite having an informal supplier preference list",
+          "Limited capacity assessment of local contractors before contract award"
+        ],
+        "improvementTips": [
+          "Formalize the supplier preference list into a documented local content policy",
+          "Conduct thorough capacity and financial assessments before awarding contracts, especially for large projects",
+          "Set a target of 85% Zambian-owned and 60% Lusaka-based procurement for CDF projects",
+          "Partner with the Lusaka Business District Association to strengthen local contractor capacity"
+        ]
+      }
+    ],
+    "overallExplanation": "Hon. Andrew Mweetwa is a visible and engaged MP for Kabwata with strong constituency engagement, active parliamentary participation, and reasonable CDF utilization. His youth engagement initiatives and social media presence set a positive example for constituent communication. Areas for improvement include completing the abandoned drainage project, allocating CDF to health infrastructure, and exercising greater care with parliamentary statements. Strengthening local procurement policies and formal coordination with ward councillors would further enhance his effectiveness.",
+    "topImprovementAreas": [
+      "Complete the abandoned drainage project and allocate CDF funds to Kabwata Clinic improvements",
+      "Exercise greater care with parliamentary statements and social media posts to avoid procedural issues",
+      "Formalize local content procurement policy and strengthen contractor capacity assessment processes"
+    ]
+  },
+  {
+    "id": "MP-008",
+    "name": "Hon. Monde Siabeenzu",
+    "role": "Member of Parliament",
+    "organization": "National Assembly of Zambia",
+    "region": "Southern",
+    "overallScore": 62,
+    "rating": "Needs Improvement",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-02-01T08:00:00Z",
+    "occupation": "Member of Parliament",
+    "constituency": "Choma Central",
+    "province": "Southern",
+    "party": "Independent",
+    "termStart": "2021-08-24",
+    "termEnd": null,
+    "details": {
+      "parliamentaryPerformance": 58,
+      "cdfUtilization": 55,
+      "constituencyEngagement": 68,
+      "legalCompliance": 70,
+      "localProcurement": 60
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Parliamentary Performance",
+        "score": 58,
+        "weight": 25,
+        "weightedScore": 14.5,
+        "explanation": "As an independent MP, Hon. Siabeenzu has struggled to build legislative alliances and has been less effective in advancing constituency interests through parliament. His attendance at 65% is below benchmark, and he has been largely absent from committee work.",
+        "positiveFactors": [
+          "Participated in debates on agricultural policy affecting Southern Province farmers",
+          "Asked 10 oral questions in 2025 on drought relief and agricultural support",
+          "Supported the passage of the Climate Change Bill"
+        ],
+        "negativeFactors": [
+          "65% parliamentary attendance rate, below the 75% minimum benchmark",
+          "Zero private member's motions tabled since election",
+          "Not appointed to any parliamentary committee due to independent status",
+          "Limited debate contributions outside of agriculture-related topics",
+          "No legislative amendments proposed or contributed to any bill"
+        ],
+        "improvementTips": [
+          "Request committee appointment through the Speaker's office, as independents are entitled to committee membership",
+          "Table at least 2 private member's motions on Choma Central priorities per session",
+          "Build informal cross-party alliances to support legislative priorities for the constituency",
+          "Increase attendance to at least 85% and broaden debate participation beyond agriculture"
+        ]
+      },
+      {
+        "category": "CDF Utilization",
+        "score": 55,
+        "weight": 25,
+        "weightedScore": 13.75,
+        "explanation": "CDF utilization is poor at 58%, with significant funds remaining unspent while Choma Central faces infrastructure needs. The MP has cited difficulties in accessing CDF as an independent, but administrative processes have been available and other independent MPs have achieved higher utilization.",
+        "positiveFactors": [
+          "Constructed 2 community boreholes in drought-affected areas of Choma Central",
+          "Funded emergency drought relief food distribution to 500 households in 2025",
+          "Provided bursaries to 20 vulnerable secondary school students"
+        ],
+        "negativeFactors": [
+          "Only 58% CDF utilization rate with K3.5 million returned to Treasury unspent",
+          "No CDF-funded road or drainage infrastructure projects",
+          "No CDF-funded school or health facility construction despite clear needs",
+          "Borehole projects experienced 6-month delays beyond planned completion",
+          "CDF project selection conducted without documented community consultation"
+        ],
+        "improvementTips": [
+          "Engage the Ministry of Local Government for assistance with CDF administrative processes",
+          "Develop a comprehensive CDF project plan with community input from all wards at the start of each cycle",
+          "Prioritize school infrastructure and clinic upgrades in the next CDF allocation",
+          "Hire a constituency development coordinator to manage CDF project implementation",
+          "Set a target of 85% CDF utilization in the next cycle"
+        ]
+      },
+      {
+        "category": "Constituency Engagement",
+        "score": 68,
+        "weight": 20,
+        "weightedScore": 13.6,
+        "explanation": "Constituency engagement has been inconsistent. Hon. Siabeenzu visits Choma Central regularly but engagement is informal and lacks structure. As an independent without party support infrastructure, maintaining systematic engagement has been challenging.",
+        "positiveFactors": [
+          "Visits constituency 3-4 times per month, facilitated by proximity to Lusaka",
+          "Personally accessible via phone for constituent concerns",
+          "Attended the Choma Agricultural Show and engaged with local farmers",
+          "Distributed drought relief supplies personally in affected areas"
+        ],
+        "negativeFactors": [
+          "No formal constituency office; meetings held at personal residence or community venues",
+          "Only 2 formal constituency meetings held in 2025",
+          "No systematic engagement with Ward Development Committees",
+          "Limited social media presence or alternative communication channels with constituents",
+          "No constituency newsletter, radio programme, or regular update mechanism"
+        ],
+        "improvementTips": [
+          "Establish a permanent constituency office in Choma town with regular operating hours",
+          "Hold at least quarterly town hall meetings rotating across different wards",
+          "Use Choma Community Radio for a monthly constituency update programme",
+          "Create a constituency Facebook page and WhatsApp group for regular updates",
+          "Establish regular meetings with all Ward Development Committees in Choma Central"
+        ]
+      },
+      {
+        "category": "Legal Compliance",
+        "score": 70,
+        "weight": 15,
+        "weightedScore": 10.5,
+        "explanation": "Legal compliance is adequate but has gaps. Asset declarations have been filed, though the 2024 declaration was submitted late. The informal nature of constituency operations creates compliance risks, particularly around CDF procurement documentation.",
+        "positiveFactors": [
+          "No criminal record or convictions",
+          "Asset declarations filed for 2022 and 2023 on time",
+          "No pending court cases or Anti-Corruption Commission investigations",
+          "Tax obligations met through PAYE deductions"
+        ],
+        "negativeFactors": [
+          "2024 asset declaration filed 3 weeks late",
+          "CDF procurement documentation incomplete for 3 out of 5 projects",
+          "No formal constituency office means no structured records management",
+          "Drought relief distribution not formally documented, creating accountability gaps"
+        ],
+        "improvementTips": [
+          "File all future asset declarations at least 2 weeks before the deadline",
+          "Engage a qualified accountant to maintain complete CDF procurement records",
+          "Establish a formal records management system for all constituency activities and expenditures",
+          "Document all relief distribution activities with beneficiary lists and receipts"
+        ]
+      },
+      {
+        "category": "Local Procurement & Contracts to Zambians",
+        "score": 60,
+        "weight": 15,
+        "weightedScore": 9.0,
+        "explanation": "Local procurement is below expectations. While 65% of CDF contracts went to Zambian-owned businesses, there has been minimal effort to prioritize Choma or Southern Province-based contractors. The borehole drilling contract was awarded without competitive bidding.",
+        "positiveFactors": [
+          "65% of CDF contracts awarded to Zambian-owned businesses",
+          "Drought relief food purchased from local Choma-based suppliers",
+          "Bursaries distributed through local Choma secondary schools"
+        ],
+        "negativeFactors": [
+          "Borehole drilling contract awarded without competitive bidding to a single known contractor",
+          "Only 30% of CDF contracts went to Southern Province-based businesses",
+          "No formal procurement policy or local content requirements for CDF projects",
+          "No contractor capacity-building efforts for Choma-based businesses",
+          "Incomplete procurement documentation raises transparency concerns"
+        ],
+        "improvementTips": [
+          "Implement competitive bidding for all CDF contracts regardless of value",
+          "Set a target of 70% CDF procurement from Southern Province-based businesses",
+          "Create a Choma Central supplier database and encourage local business registration with PACRA",
+          "Partner with the Choma District Chamber of Commerce to identify and develop local contractors",
+          "Document all procurement decisions with full justification and evaluation criteria"
+        ]
+      }
+    ],
+    "overallExplanation": "Hon. Monde Siabeenzu's tenure as an independent MP for Choma Central has been hampered by limited parliamentary effectiveness, low CDF utilization, and inadequate constituency infrastructure. While her personal accessibility and drought response efforts are acknowledged, the lack of a formal constituency office, incomplete procurement documentation, and poor CDF utilization undermine her overall effectiveness. As an independent MP, building cross-party alliances and establishing formal systems for constituency management are essential for improving her performance and serving Choma Central constituents more effectively.",
+    "topImprovementAreas": [
+      "Establish a permanent constituency office and hire a development coordinator to manage CDF projects",
+      "Increase CDF utilization above 85% with proper procurement documentation and community consultation",
+      "Request parliamentary committee appointment and build cross-party alliances to advance constituency legislation"
+    ]
+  },
+  {
+    "id": "MP-009",
+    "name": "Hon. Kelvin Sampa",
+    "role": "Member of Parliament",
+    "organization": "National Assembly of Zambia",
+    "region": "Muchinga",
+    "overallScore": 40,
+    "rating": "Poor",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-02-05T11:30:00Z",
+    "occupation": "Member of Parliament",
+    "constituency": "Mpika Central",
+    "province": "Muchinga",
+    "party": "PF",
+    "termStart": "2021-08-24",
+    "termEnd": null,
+    "details": {
+      "parliamentaryPerformance": 35,
+      "cdfUtilization": 30,
+      "constituencyEngagement": 42,
+      "legalCompliance": 48,
+      "localProcurement": 45
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Parliamentary Performance",
+        "score": 35,
+        "weight": 25,
+        "weightedScore": 8.75,
+        "explanation": "Hon. Sampa has one of the worst parliamentary records in the current session. His attendance rate of 45% means he has missed more than half of all sittings. He has not tabled any motions, asked minimal questions, and has been virtually absent from committee work. His constituents are effectively unrepresented in parliamentary proceedings.",
+        "positiveFactors": [
+          "Made 2 brief contributions to debates on Muchinga Province road infrastructure in 2025"
+        ],
+        "negativeFactors": [
+          "45% parliamentary attendance rate, one of the lowest in the National Assembly",
+          "Zero private member's motions tabled in the entire parliamentary term",
+          "Only 3 oral questions asked in 2025, the lowest among all MPs",
+          "Has not attended a single Committee on Agriculture meeting despite being a member",
+          "No contributions to any bill, amendment, or legislative process",
+          "Speaker has publicly named him among chronically absent MPs"
+        ],
+        "improvementTips": [
+          "Immediately commit to attending all remaining parliamentary sessions in the current term",
+          "Table at least 2 private member's motions on Mpika Central development priorities",
+          "Attend all Committee on Agriculture meetings and actively contribute to proceedings",
+          "Engage the Parliamentary Research Unit to prepare briefing notes for informed debate contributions",
+          "Issue a public statement to constituents explaining absence and committing to improved attendance"
+        ]
+      },
+      {
+        "category": "CDF Utilization",
+        "score": 30,
+        "weight": 25,
+        "weightedScore": 7.5,
+        "explanation": "CDF utilization is critically low at 32%, the worst in the National Assembly. Mpika Central has received almost no tangible development from CDF funds while K5.7 million has been returned to Treasury unspent. The few projects attempted are either incomplete or of questionable quality, with serious Auditor General findings.",
+        "positiveFactors": [
+          "Provided bursaries to 15 vulnerable students through CDF"
+        ],
+        "negativeFactors": [
+          "Only 32% CDF utilization rate, the lowest in the National Assembly",
+          "K5.7 million in CDF funds returned to Treasury unspent over the current parliamentary term",
+          "1 classroom block construction started but abandoned at foundation stage after K400,000 spent",
+          "Auditor General's report found K280,000 in CDF expenditure with no supporting documentation",
+          "No CDF-funded health, water, or road infrastructure projects completed",
+          "No community consultation for any CDF project, with project selection done unilaterally",
+          "CDF utilization reports never shared with constituents"
+        ],
+        "improvementTips": [
+          "Commission a comprehensive CDF needs assessment for Mpika Central with community participation",
+          "Complete the abandoned classroom block immediately and account for all funds already spent",
+          "Respond to the Auditor General's findings on undocumented K280,000 expenditure within 30 days",
+          "Engage the District Commissioner's office for project management support",
+          "Implement full transparency in CDF management with quarterly reports to constituents and oversight bodies"
+        ]
+      },
+      {
+        "category": "Constituency Engagement",
+        "score": 42,
+        "weight": 20,
+        "weightedScore": 8.4,
+        "explanation": "Constituency engagement is severely deficient. Hon. Sampa rarely visits Mpika Central, has no functioning constituency office, and is largely inaccessible to constituents. A petition signed by 1,200 constituents was submitted to the Speaker demanding his recall for absenteeism.",
+        "positiveFactors": [
+          "Made 4 brief visits to Mpika Central in 2025",
+          "Attended the Mpika District Independence Day celebration in October 2025"
+        ],
+        "negativeFactors": [
+          "No functioning constituency office in Mpika",
+          "Constituency visits reduced to approximately once per quarter",
+          "1,200-signature recall petition submitted to the Speaker by constituents citing absenteeism",
+          "Does not respond to constituent phone calls or messages in a timely manner",
+          "No town hall meetings, community forums, or public accountability sessions held since 2023",
+          "No social media engagement or communication channels with constituents",
+          "Traditional leaders in Mpika have publicly expressed dissatisfaction with the MP's absence"
+        ],
+        "improvementTips": [
+          "Immediately establish a constituency office in Mpika town with a full-time assistant",
+          "Visit the constituency at least twice monthly and hold quarterly town hall meetings in each ward",
+          "Address the recall petition by meeting with the petition organizers and presenting an improvement plan",
+          "Establish communication channels including a constituency phone line, social media, and local radio presence",
+          "Schedule meetings with all traditional leaders in Mpika Central to restore relationships"
+        ]
+      },
+      {
+        "category": "Legal Compliance",
+        "score": 48,
+        "weight": 15,
+        "weightedScore": 7.2,
+        "explanation": "Legal compliance is seriously deficient. The Auditor General's findings on undocumented CDF expenditure are a significant concern. Asset declarations have been inconsistent, and the Anti-Corruption Commission has opened a preliminary inquiry into the CDF expenditure irregularities.",
+        "positiveFactors": [
+          "No criminal convictions",
+          "Asset declarations filed for 2022 (on time)"
+        ],
+        "negativeFactors": [
+          "2023 and 2024 asset declarations filed late, with 2025 declaration not yet filed at all",
+          "Auditor General found K280,000 in CDF expenditure with no supporting documentation",
+          "Anti-Corruption Commission opened a preliminary inquiry into CDF expenditure irregularities",
+          "Has not responded formally to the Auditor General's findings despite multiple requests",
+          "Non-compliance with the National Assembly's requirements for constituency reporting"
+        ],
+        "improvementTips": [
+          "File the outstanding 2025 asset declaration immediately",
+          "Fully cooperate with the Anti-Corruption Commission preliminary inquiry",
+          "Respond to the Auditor General's findings with complete supporting documentation where available",
+          "Engage a forensic accountant to reconstruct CDF expenditure records for the undocumented period",
+          "Implement proper financial controls and documentation for all future CDF expenditures"
+        ]
+      },
+      {
+        "category": "Local Procurement & Contracts to Zambians",
+        "score": 45,
+        "weight": 15,
+        "weightedScore": 6.75,
+        "explanation": "Local procurement is poor. Of the limited CDF funds that were utilized, only 50% went to Zambian-owned businesses, and virtually none to Mpika or Muchinga Province-based firms. The abandoned classroom block contractor was from Lusaka with no documented competitive bidding process.",
+        "positiveFactors": [
+          "50% of the limited CDF contracts went to Zambian-owned businesses",
+          "Bursaries distributed through local Mpika schools"
+        ],
+        "negativeFactors": [
+          "Classroom block contractor from Lusaka with no documented competitive bidding",
+          "Zero CDF contracts awarded to Mpika-based or Muchinga Province-based businesses",
+          "No local content requirements in any CDF procurement",
+          "No supplier database or contractor pre-qualification process",
+          "Limited CDF utilization means minimal economic benefit to the local community from development funds",
+          "K280,000 in undocumented expenditure makes procurement assessment incomplete"
+        ],
+        "improvementTips": [
+          "Implement mandatory competitive bidding with documented evaluation for all CDF contracts",
+          "Set a target of at least 50% of CDF contracts to Muchinga Province-based firms",
+          "Create a Mpika Central supplier database and support local businesses to register with PACRA",
+          "Ensure all future procurement includes a local content evaluation criterion",
+          "Account for the K280,000 in undocumented expenditure and identify which contractors received funds"
+        ]
+      }
+    ],
+    "overallExplanation": "Hon. Kelvin Sampa's record as MP for Mpika Central represents a failure to fulfil the basic responsibilities of elected office. With the lowest CDF utilization in the National Assembly, chronic parliamentary absenteeism, and an Anti-Corruption Commission inquiry into undocumented expenditure, his performance is deeply troubling. The 1,200-signature recall petition demonstrates the extent of constituent dissatisfaction. Mpika Central, a constituency in one of Zambia's least developed provinces, has been denied development opportunities that CDF funds were intended to provide. Immediate and comprehensive corrective action is essential, failing which constituents may pursue formal recall proceedings.",
+    "topImprovementAreas": [
+      "Fully cooperate with the ACC inquiry and account for all undocumented CDF expenditure immediately",
+      "Establish a constituency office, increase visits to twice monthly, and address the recall petition",
+      "Commit to 100% parliamentary attendance for remaining sessions and utilize all CDF funds through transparent procurement"
+    ]
+  },
+  {
+    "id": "MP-010",
+    "name": "Hon. Enock Kazhingu",
+    "role": "Member of Parliament",
+    "organization": "National Assembly of Zambia",
+    "region": "North-Western",
+    "overallScore": 45,
+    "rating": "Poor",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-02-08T09:45:00Z",
+    "occupation": "Member of Parliament",
+    "constituency": "Solwezi West",
+    "province": "North-Western",
+    "party": "Independent",
+    "termStart": "2021-08-24",
+    "termEnd": null,
+    "details": {
+      "parliamentaryPerformance": 42,
+      "cdfUtilization": 38,
+      "constituencyEngagement": 50,
+      "legalCompliance": 45,
+      "localProcurement": 48
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Parliamentary Performance",
+        "score": 42,
+        "weight": 25,
+        "weightedScore": 10.5,
+        "explanation": "Hon. Kazhingu's parliamentary performance is among the weakest in the National Assembly. His attendance rate of 50% means he misses every other parliamentary session. Despite representing a mining-rich constituency, he has not engaged meaningfully with mining legislation or any other policy area in parliament.",
+        "positiveFactors": [
+          "Made 3 debate contributions on mining royalty distribution to host communities in 2025",
+          "Submitted written representations to the Committee on Mines and Energy on Solwezi mining impacts"
+        ],
+        "negativeFactors": [
+          "50% parliamentary attendance rate, among the lowest in the House",
+          "Zero private member's motions tabled since election in 2021",
+          "Only 4 oral questions asked in 2025, far below the active MP benchmark",
+          "Not a member of any parliamentary committee due to attendance record",
+          "No contributions to any bill, amendment, or legislative development",
+          "Rarely present for budget debates affecting constituency funding allocations"
+        ],
+        "improvementTips": [
+          "Commit to attending at least 90% of all parliamentary sessions for the remainder of the term",
+          "Request assignment to the Committee on Mines, Energy, and Water Development given Solwezi's mining economy",
+          "Table motions on mining community development funds, environmental rehabilitation, and local employment in mines",
+          "Engage the Parliamentary Research Unit for evidence-based contributions on mining sector issues",
+          "Participate actively in budget debates to advocate for North-Western Province allocations"
+        ]
+      },
+      {
+        "category": "CDF Utilization",
+        "score": 38,
+        "weight": 25,
+        "weightedScore": 9.5,
+        "explanation": "CDF utilization is critically deficient at 40%. Solwezi West constituents have seen minimal tangible development from CDF funds despite the constituency's significant infrastructure needs. Funds have been returned to Treasury while communities lack basic services. Two projects have serious accountability concerns.",
+        "positiveFactors": [
+          "Provided bursaries to 18 students through CDF",
+          "Funded 1 borehole in Mushitala Ward"
+        ],
+        "negativeFactors": [
+          "Only 40% CDF utilization rate with K5.0 million returned to Treasury unspent",
+          "1 school renovation project started but stopped at 30% completion with K350,000 spent",
+          "No CDF-funded road infrastructure despite Solwezi West's poor road network",
+          "Auditor General found K200,000 in CDF payments to a non-existent supplier company",
+          "No documented community consultation or CDF project selection process",
+          "CDF utilization reports never published or shared with any stakeholder"
+        ],
+        "improvementTips": [
+          "Account for the K200,000 payment to the non-existent supplier as identified by the Auditor General",
+          "Complete the abandoned school renovation project immediately",
+          "Develop a comprehensive CDF project plan with community consultation in all wards",
+          "Prioritize road infrastructure given Solwezi West's severe connectivity challenges",
+          "Engage a professional project manager to oversee CDF project implementation and accountability"
+        ]
+      },
+      {
+        "category": "Constituency Engagement",
+        "score": 50,
+        "weight": 20,
+        "weightedScore": 10.0,
+        "explanation": "Constituency engagement is inadequate. Hon. Kazhingu visits Solwezi West infrequently and has no permanent constituency presence. Mining communities in the constituency feel particularly neglected given the environmental and social impacts they experience from mining operations without adequate MP advocacy.",
+        "positiveFactors": [
+          "Made 6 constituency visits in 2025",
+          "Met with Chief Kapijimpanga regarding mining-related land issues",
+          "Responded to community distress during a mine-related water contamination incident"
+        ],
+        "negativeFactors": [
+          "No permanent constituency office in Solwezi West",
+          "Constituency visits averaging only once every 2 months",
+          "Only 1 public meeting held with constituents in all of 2025",
+          "Mining-affected communities report that the MP has not advocated for their environmental concerns",
+          "No communication channels established with constituents beyond personal phone",
+          "Traditional leaders have expressed dissatisfaction through formal letters to the Speaker's office"
+        ],
+        "improvementTips": [
+          "Open a permanent constituency office in Solwezi and staff it with a full-time assistant",
+          "Increase constituency visits to at least twice monthly with scheduled engagement in mining-affected communities",
+          "Establish regular meetings with mining companies to advocate for community benefit agreements",
+          "Create social media channels and use Solwezi Community Radio for constituency communication",
+          "Hold quarterly accountability meetings with documented agendas and follow-up actions"
+        ]
+      },
+      {
+        "category": "Legal Compliance",
+        "score": 45,
+        "weight": 15,
+        "weightedScore": 6.75,
+        "explanation": "Legal compliance is critically deficient. The Auditor General's finding of K200,000 in CDF payments to a non-existent supplier has triggered an Anti-Corruption Commission investigation. Asset declarations have been inconsistently filed, and there are unresolved questions about undisclosed mining interests.",
+        "positiveFactors": [
+          "No criminal convictions prior to parliamentary service",
+          "2022 asset declaration filed on time"
+        ],
+        "negativeFactors": [
+          "Auditor General found K200,000 CDF payment to a non-existent supplier company",
+          "Anti-Corruption Commission has opened a formal investigation into the CDF payment",
+          "2024 and 2025 asset declarations not filed",
+          "Allegations of undisclosed mining interests in North-Western Province not addressed",
+          "Has not responded to the Auditor General's findings or the ACC investigation requests",
+          "Non-compliance with the parliamentary reporting requirements for CDF expenditure"
+        ],
+        "improvementTips": [
+          "Immediately cooperate with the Anti-Corruption Commission investigation and provide all requested documentation",
+          "File all outstanding asset declarations and fully disclose any mining-related interests",
+          "Respond to the Auditor General's findings within the statutory timeframe",
+          "Engage a legal advisor to address the serious compliance deficiencies",
+          "Implement robust financial controls and documentation for all future CDF expenditures"
+        ]
+      },
+      {
+        "category": "Local Procurement & Contracts to Zambians",
+        "score": 48,
+        "weight": 15,
+        "weightedScore": 7.2,
+        "explanation": "Local procurement is weak and tainted by the Auditor General's findings. Of the limited CDF spent, only 52% went to Zambian-owned businesses. The payment to a non-existent supplier raises fundamental questions about the integrity of the procurement process. Solwezi-based businesses report not being given opportunities to bid for CDF contracts.",
+        "positiveFactors": [
+          "52% of CDF contracts nominally awarded to Zambian-owned businesses",
+          "Borehole drilling contract awarded to a North-Western Province-based company"
+        ],
+        "negativeFactors": [
+          "K200,000 paid to a non-existent supplier, representing a complete procurement failure",
+          "No competitive bidding documented for any CDF contract",
+          "Zero CDF contracts awarded to Solwezi West-based businesses or community enterprises",
+          "No local content policy or supplier development initiative",
+          "Solwezi-based businesses and cooperatives report not receiving invitations to bid on CDF projects",
+          "The integrity of all CDF procurement is compromised by the fraudulent payment finding"
+        ],
+        "improvementTips": [
+          "Implement mandatory competitive bidding with public advertisement for all CDF contracts",
+          "Establish a verified supplier database with PACRA registration verification for all contractors",
+          "Set a minimum target of 60% CDF procurement from North-Western Province-based firms",
+          "Create an open tender system where Solwezi West businesses can register interest in CDF contracts",
+          "Commission an independent review of all past CDF procurement to identify and address irregularities"
+        ]
+      }
+    ],
+    "overallExplanation": "Hon. Enock Kazhingu's record as MP for Solwezi West represents a severe failure of representation. With the second-lowest CDF utilization in the National Assembly, chronic parliamentary absenteeism, and a formal Anti-Corruption Commission investigation into payments to a non-existent supplier, his performance raises fundamental questions about accountability. Solwezi West, located in Zambia's mining heartland, has immense potential for development but has seen almost no tangible benefit from CDF funds under this MP's tenure. The constituency's mining-affected communities continue to bear environmental and social costs without adequate parliamentary advocacy. The ACC investigation must be resolved transparently, and immediate corrective action is required across all performance dimensions.",
+    "topImprovementAreas": [
+      "Cooperate fully with the Anti-Corruption Commission investigation and account for the K200,000 payment to a non-existent supplier",
+      "File all outstanding asset declarations, disclose any mining interests, and implement transparent CDF procurement",
+      "Establish a permanent constituency office, dramatically increase visits, and advocate for mining-affected communities"
+    ]
+  }
+]

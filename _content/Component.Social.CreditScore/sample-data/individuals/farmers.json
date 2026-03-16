@@ -1,0 +1,1334 @@
+[
+  {
+    "id": "FRM-001",
+    "name": "Mulenga Chishimba",
+    "role": "Farmer",
+    "organization": "Mkushi Farmers Cooperative",
+    "region": "Central",
+    "overallScore": 91,
+    "rating": "Excellent",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-15T08:30:00Z",
+    "farmType": "Crop",
+    "farmSizeHectares": 120.5,
+    "cropType": "Maize",
+    "details": {
+      "farmProductivity": 93,
+      "sustainabilityImpact": 88,
+      "loanRepayment": 95,
+      "regulatoryCompliance": 90,
+      "communityEngagement": 89
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Farm Productivity",
+        "score": 93,
+        "weight": 25,
+        "weightedScore": 23.25,
+        "explanation": "Mulenga consistently achieves maize yields of 7.5 tonnes per hectare on his 120-hectare farm in Mkushi, significantly exceeding the Central Province average of 4.2 tonnes. His adoption of conservation agriculture techniques and certified seed varieties from ZAMSEED has positioned him as a model producer within the cooperative.",
+        "positiveFactors": [
+          "Maize yield of 7.5 tonnes per hectare, nearly double the regional average",
+          "Adopted conservation farming practices including minimum tillage and crop rotation with soya beans",
+          "Uses certified ZAMSEED hybrid varieties and follows Zambia Agriculture Research Institute recommended planting densities",
+          "Invested in drip irrigation covering 60% of cultivated area, reducing weather dependency"
+        ],
+        "negativeFactors": [
+          "Remaining 40% of farm still relies on rain-fed production, exposing output to seasonal variability"
+        ],
+        "improvementTips": [
+          "Extend irrigation infrastructure to cover the remaining 48 hectares of rain-fed land",
+          "Introduce post-harvest loss reduction technologies such as hermetic grain storage bags"
+        ]
+      },
+      {
+        "category": "Sustainability Impact",
+        "score": 88,
+        "weight": 20,
+        "weightedScore": 17.6,
+        "explanation": "Demonstrates strong environmental stewardship through crop rotation, agroforestry integration, and participation in the Zambia Integrated Forest Landscape Programme. Soil health assessments show improving organic matter content over three consecutive seasons.",
+        "positiveFactors": [
+          "Practises annual crop rotation between maize and soya beans, improving soil nitrogen levels",
+          "Planted 500 Faidherbia albida trees across farm boundaries as part of agroforestry programme",
+          "Participated in the Zambia Integrated Forest Landscape Programme for two consecutive years",
+          "Reduced chemical fertiliser usage by 25% through adoption of composting and green manure"
+        ],
+        "negativeFactors": [
+          "Occasional burning of crop residues during land preparation in the eastern section of the farm",
+          "No formal soil carbon measurement programme in place yet"
+        ],
+        "improvementTips": [
+          "Eliminate all crop residue burning by expanding mulching and composting capacity",
+          "Engage with the Zambia Environmental Management Agency to establish a soil carbon baseline"
+        ]
+      },
+      {
+        "category": "Loan Repayment",
+        "score": 95,
+        "weight": 25,
+        "weightedScore": 23.75,
+        "explanation": "Exemplary credit history with the Lima Credit Scheme and ZANACO agricultural lending facility. All loan obligations over the past five seasons have been settled on or before due dates, earning preferred borrower status with the cooperative's input finance programme.",
+        "positiveFactors": [
+          "100% on-time repayment record across five consecutive Lima Credit Scheme cycles",
+          "ZANACO agricultural loan of ZMW 450,000 repaid 30 days ahead of schedule",
+          "Maintains a dedicated loan repayment reserve account equal to 20% of outstanding obligations",
+          "Preferred borrower status granted by Mkushi Farmers Cooperative input finance committee"
+        ],
+        "negativeFactors": [
+          "No negative factors recorded in the current assessment period"
+        ],
+        "improvementTips": [
+          "Diversify credit relationships to include development finance institutions for capital expansion",
+          "Consider crop insurance products from ZSIC to further de-risk loan repayment capacity"
+        ]
+      },
+      {
+        "category": "Regulatory Compliance",
+        "score": 90,
+        "weight": 15,
+        "weightedScore": 13.5,
+        "explanation": "Fully compliant with Zambia Revenue Authority tax filing requirements and Food Reserve Agency delivery obligations. Holds a valid environmental impact assessment certificate for irrigation development and complies with Water Resources Management Authority abstraction permits.",
+        "positiveFactors": [
+          "Zambia Revenue Authority presumptive tax payments filed on time for four consecutive years",
+          "Valid environmental impact assessment certificate for farm irrigation infrastructure",
+          "Water abstraction permit from Water Resources Management Authority renewed annually",
+          "Compliant with Food Reserve Agency maize delivery contracts and quality standards"
+        ],
+        "negativeFactors": [
+          "Minor delay in renewing one seasonal worker employment registration with NAPSA in 2025"
+        ],
+        "improvementTips": [
+          "Set up automated reminders for all regulatory renewal dates through a farm management calendar",
+          "Engage a part-time compliance officer or use cooperative shared services for regulatory tracking"
+        ]
+      },
+      {
+        "category": "Community Engagement",
+        "score": 89,
+        "weight": 15,
+        "weightedScore": 13.35,
+        "explanation": "Active contributor to the Mkushi farming community through cooperative leadership, youth mentorship, and local employment creation. Provides seasonal employment to 35 local workers and sponsors agricultural training for school-leavers through the cooperative's skills programme.",
+        "positiveFactors": [
+          "Employs 35 seasonal workers from surrounding communities during planting and harvest seasons",
+          "Serves as vice chairperson of Mkushi Farmers Cooperative with 280 member households",
+          "Sponsors 5 school-leavers annually through the cooperative's agricultural skills apprenticeship",
+          "Donated 2 tonnes of maize to Mkushi District food relief programme during 2025 dry spell"
+        ],
+        "negativeFactors": [
+          "Limited engagement with women-focused farming groups in the area"
+        ],
+        "improvementTips": [
+          "Partner with women's farming clubs in Mkushi to provide mentorship and shared mechanisation access",
+          "Establish a small demonstration plot open to community farmers for technology transfer days"
+        ]
+      }
+    ],
+    "overallExplanation": "Mulenga Chishimba is an outstanding commercial maize farmer in Mkushi, Central Province, whose consistent high yields, impeccable loan repayment record, and active cooperative leadership set a benchmark for Zambian agriculture. His investment in irrigation and conservation farming practices demonstrates long-term thinking, while his community contributions through employment and youth training reflect genuine social responsibility. Extending irrigation to the remaining rain-fed sections and deepening engagement with women's farming groups would elevate an already exemplary profile.",
+    "topImprovementAreas": [
+      "Extend irrigation infrastructure to cover remaining rain-fed farmland",
+      "Eliminate crop residue burning across all farm sections",
+      "Strengthen engagement with women's farming groups and cooperatives in the district"
+    ]
+  },
+  {
+    "id": "FRM-002",
+    "name": "Bwalya Mutale",
+    "role": "Farmer",
+    "organization": "Choma Livestock Association",
+    "region": "Southern",
+    "overallScore": 74,
+    "rating": "Good",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-18T10:15:00Z",
+    "farmType": "Livestock",
+    "farmSizeHectares": 350.0,
+    "cropType": "Groundnuts",
+    "details": {
+      "farmProductivity": 72,
+      "sustainabilityImpact": 70,
+      "loanRepayment": 78,
+      "regulatoryCompliance": 76,
+      "communityEngagement": 74
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Farm Productivity",
+        "score": 72,
+        "weight": 25,
+        "weightedScore": 18.0,
+        "explanation": "Bwalya manages a 350-hectare cattle ranch in Choma with a herd of 180 Boran-cross cattle. Calving rates have improved to 68% following the introduction of controlled mating, but remain below the 75% target set by the Department of Veterinary Services for commercially viable operations in Southern Province.",
+        "positiveFactors": [
+          "Herd size grown from 120 to 180 head over three years through improved breeding management",
+          "Introduced Boran-cross genetics to improve heat tolerance and weight gain in Choma's climate",
+          "Calving rate improved from 55% to 68% following adoption of controlled mating programme"
+        ],
+        "negativeFactors": [
+          "Calving rate of 68% still below the 75% commercial viability threshold",
+          "Average daily weight gain of 0.5kg below the 0.7kg benchmark for the breed type",
+          "Limited feedlot finishing capacity means animals sold at lighter weights than market optimal"
+        ],
+        "improvementTips": [
+          "Invest in a 50-head feedlot facility to finish animals to optimal market weight before sale",
+          "Work with the Department of Veterinary Services to implement a targeted bull selection programme"
+        ]
+      },
+      {
+        "category": "Sustainability Impact",
+        "score": 70,
+        "weight": 20,
+        "weightedScore": 14.0,
+        "explanation": "The ranch demonstrates moderate sustainability practices with paddock rotation in place, but overgrazing pressure is evident in three of eight paddocks. Participation in the Southern Province rangeland management initiative has helped introduce rehabilitation measures, though progress is gradual.",
+        "positiveFactors": [
+          "Eight-paddock rotational grazing system implemented across the ranch",
+          "Active participant in the Southern Province rangeland management initiative since 2024",
+          "Constructed 3 earth dams to reduce cattle congregation at natural water points"
+        ],
+        "negativeFactors": [
+          "Overgrazing evident in 3 of 8 paddocks with grass cover below 40%",
+          "No formal bush encroachment management plan despite increasing Dichrostachys cinerea invasion",
+          "Manure management around cattle handling facilities needs improvement"
+        ],
+        "improvementTips": [
+          "Reduce stocking density in overgrazed paddocks and allow 60-day recovery rest periods",
+          "Develop a bush encroachment control plan in consultation with the Forestry Department"
+        ]
+      },
+      {
+        "category": "Loan Repayment",
+        "score": 78,
+        "weight": 25,
+        "weightedScore": 19.5,
+        "explanation": "Generally reliable borrower with the Livestock Finance Company and Choma Livestock Association revolving fund. One late payment occurred in 2025 due to delayed cattle auction proceeds, but the arrears were cleared within 45 days and communication with lenders was proactive throughout.",
+        "positiveFactors": [
+          "Consistent repayment of Choma Livestock Association revolving fund contributions over four years",
+          "Proactive communication with Livestock Finance Company during the 2025 payment delay",
+          "Arrears of ZMW 85,000 cleared within 45 days of the missed due date"
+        ],
+        "negativeFactors": [
+          "One missed payment in 2025 due to delayed proceeds from Choma cattle auction",
+          "Debt-to-asset ratio of 35% is approaching the recommended 30% ceiling for livestock operations"
+        ],
+        "improvementTips": [
+          "Establish a cash reserve equal to two months of loan repayment obligations to buffer against auction delays",
+          "Reduce debt-to-asset ratio by accelerating repayment of the highest-interest facility"
+        ]
+      },
+      {
+        "category": "Regulatory Compliance",
+        "score": 76,
+        "weight": 15,
+        "weightedScore": 11.4,
+        "explanation": "Compliant with most Department of Veterinary Services requirements including annual vaccination campaigns and movement permits. However, two cattle movement permits were issued retroactively in 2025, indicating gaps in pre-movement compliance procedures.",
+        "positiveFactors": [
+          "Annual Foot and Mouth Disease and Contagious Bovine Pleuropneumonia vaccinations completed on schedule",
+          "Cattle brand registered and up to date with the Department of Veterinary Services",
+          "Participates in the national livestock traceability pilot programme"
+        ],
+        "negativeFactors": [
+          "Two cattle movement permits obtained retroactively rather than prior to animal transport in 2025",
+          "One paddock fence in disrepair, creating risk of cattle straying onto neighbouring communal land"
+        ],
+        "improvementTips": [
+          "Implement a strict pre-movement checklist requiring permit verification before any animal transport",
+          "Repair and upgrade all boundary fencing to prevent stray cattle incidents and associated liability"
+        ]
+      },
+      {
+        "category": "Community Engagement",
+        "score": 74,
+        "weight": 15,
+        "weightedScore": 11.1,
+        "explanation": "Bwalya contributes to the Choma livestock community through association participation and provides grazing access to five smallholder families during the dry season. However, there have been occasional boundary disputes with neighbouring communal area farmers that require more proactive resolution.",
+        "positiveFactors": [
+          "Provides dry season grazing access to 5 smallholder families on underutilised ranch paddocks",
+          "Active member and treasurer of the Choma Livestock Association with 150 member farmers",
+          "Sponsors the annual Choma Agricultural Show livestock competition junior category"
+        ],
+        "negativeFactors": [
+          "Two boundary disputes with neighbouring communal area farmers in the past 18 months",
+          "Limited participation in district-level agricultural policy consultations"
+        ],
+        "improvementTips": [
+          "Engage a mediator and establish formal boundary agreements with all neighbouring communal area farmers",
+          "Attend district agricultural coordination committee meetings to contribute to local policy development"
+        ]
+      }
+    ],
+    "overallExplanation": "Bwalya Mutale operates a sizeable cattle ranch in Choma, Southern Province, with a growing herd and improving breeding outcomes. While productivity metrics are trending upward, calving rates and weight gain still fall short of commercial benchmarks. A generally reliable credit record is slightly marred by one delayed payment, and regulatory compliance needs tightening around cattle movement permits. Addressing overgrazing, investing in feedlot capacity, and resolving boundary disputes would strengthen an otherwise solid agricultural operation.",
+    "topImprovementAreas": [
+      "Improve calving rates and daily weight gain through enhanced breeding and nutrition programmes",
+      "Address overgrazing in degraded paddocks with extended rest and recovery periods",
+      "Ensure all cattle movement permits are obtained prior to animal transport"
+    ]
+  },
+  {
+    "id": "FRM-003",
+    "name": "Namwila Banda",
+    "role": "Farmer",
+    "organization": "Independent",
+    "region": "Eastern",
+    "overallScore": 58,
+    "rating": "Needs Improvement",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-20T14:45:00Z",
+    "farmType": "Mixed",
+    "farmSizeHectares": 25.0,
+    "cropType": "Tobacco",
+    "details": {
+      "farmProductivity": 55,
+      "sustainabilityImpact": 50,
+      "loanRepayment": 60,
+      "regulatoryCompliance": 62,
+      "communityEngagement": 65
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Farm Productivity",
+        "score": 55,
+        "weight": 25,
+        "weightedScore": 13.75,
+        "explanation": "Namwila operates a 25-hectare mixed farm in Chipata growing Virginia flue-cured tobacco alongside a small goat herd of 40 animals. Tobacco yields of 1,200 kg per hectare fall below the Eastern Province average of 1,600 kg, largely due to inconsistent curing practices and reliance on local seed varieties rather than improved cultivars.",
+        "positiveFactors": [
+          "Successfully manages both tobacco and livestock enterprises on a single farm unit",
+          "Goat herd provides supplementary income during tobacco off-season months"
+        ],
+        "negativeFactors": [
+          "Tobacco yield of 1,200 kg per hectare is 25% below the Eastern Province average",
+          "Uses local seed varieties rather than recommended improved cultivars from Tobacco Board of Zambia",
+          "Curing barn infrastructure is outdated, leading to inconsistent leaf quality grading",
+          "Goat mortality rate of 18% exceeds the acceptable 10% threshold due to limited veterinary care"
+        ],
+        "improvementTips": [
+          "Transition to Tobacco Board of Zambia recommended seed varieties to improve yield and leaf quality",
+          "Invest in upgrading at least two curing barns to meet current flue-curing standards",
+          "Engage the District Veterinary Officer for a goat health management programme to reduce mortality"
+        ]
+      },
+      {
+        "category": "Sustainability Impact",
+        "score": 50,
+        "weight": 20,
+        "weightedScore": 10.0,
+        "explanation": "Sustainability practices are weak, with significant concerns around deforestation for tobacco curing fuel wood and absence of crop rotation. The Zambia Environmental Management Agency has flagged the area for increasing woodland degradation linked to tobacco production activities.",
+        "positiveFactors": [
+          "Maintains a small woodlot of 0.5 hectares for partial fuel wood self-sufficiency"
+        ],
+        "negativeFactors": [
+          "Relies heavily on indigenous woodland for tobacco curing fuel, contributing to local deforestation",
+          "No crop rotation practised on tobacco fields, leading to declining soil fertility",
+          "No participation in any environmental conservation or sustainable agriculture programme",
+          "Goat overgrazing on communal land adjacent to the farm boundary"
+        ],
+        "improvementTips": [
+          "Expand the woodlot to at least 3 hectares using fast-growing Eucalyptus species for curing fuel",
+          "Introduce a two-year crop rotation cycle alternating tobacco with nitrogen-fixing legumes",
+          "Register with the Zambia Environmental Management Agency for the sustainable tobacco initiative"
+        ]
+      },
+      {
+        "category": "Loan Repayment",
+        "score": 60,
+        "weight": 25,
+        "weightedScore": 15.0,
+        "explanation": "Credit history shows a mixed pattern with two of five loan cycles experiencing significant delays. Outstanding arrears from the 2024-2025 season with the Tobacco Board of Zambia input credit scheme were only cleared after the proceeds of the subsequent crop were withheld by the cooperative.",
+        "positiveFactors": [
+          "Three of five loan cycles repaid within the agreed timeframe",
+          "2024-2025 season arrears eventually cleared in full, albeit late"
+        ],
+        "negativeFactors": [
+          "Two of five loan cycles experienced repayment delays exceeding 60 days",
+          "2024-2025 arrears of ZMW 35,000 required forced recovery through crop proceeds withholding",
+          "No financial buffer or savings mechanism in place for lean season obligations"
+        ],
+        "improvementTips": [
+          "Open a dedicated savings account and deposit at least 10% of each tobacco sale towards future loan obligations",
+          "Consider reducing loan amounts to match realistic production capacity rather than aspirational targets",
+          "Explore group lending arrangements which provide peer accountability for timely repayment"
+        ]
+      },
+      {
+        "category": "Regulatory Compliance",
+        "score": 62,
+        "weight": 15,
+        "weightedScore": 9.3,
+        "explanation": "Partially compliant with Tobacco Board of Zambia registration and grading requirements. The farm's tobacco grower licence was renewed late in 2025, and two tobacco bales were rejected at auction due to non-compliance with moisture content standards.",
+        "positiveFactors": [
+          "Registered tobacco grower with the Tobacco Board of Zambia since 2020",
+          "Goat livestock registered with the District Veterinary Office"
+        ],
+        "negativeFactors": [
+          "Tobacco grower licence renewal delayed by 3 months in 2025",
+          "Two tobacco bales rejected at Lusaka auction floors for exceeding moisture content limits",
+          "No formal employment contracts for the 8 seasonal labourers engaged during harvest"
+        ],
+        "improvementTips": [
+          "Set licence renewal reminders at least 60 days before expiry to avoid lapses",
+          "Invest in a moisture meter to test tobacco bales before transport to auction",
+          "Formalise employment arrangements with seasonal workers to comply with Employment Act requirements"
+        ]
+      },
+      {
+        "category": "Community Engagement",
+        "score": 65,
+        "weight": 15,
+        "weightedScore": 9.75,
+        "explanation": "Moderate community involvement through informal knowledge sharing with neighbouring farmers and occasional participation in Chipata District agricultural field days. Not a member of any cooperative, which limits access to collective bargaining, shared resources, and structured community programmes.",
+        "positiveFactors": [
+          "Shares tobacco curing knowledge informally with 4 neighbouring smallholder farmers",
+          "Attended 2 of 4 Chipata District agricultural extension field days in 2025",
+          "Provides seasonal employment to 8 community members during tobacco harvest"
+        ],
+        "negativeFactors": [
+          "Not a member of any farming cooperative or association, limiting community integration",
+          "No participation in structured mentorship or farmer field school programmes"
+        ],
+        "improvementTips": [
+          "Join the Chipata Tobacco Growers Cooperative to access collective marketing and input procurement benefits",
+          "Enrol in the Ministry of Agriculture farmer field school programme for structured peer learning"
+        ]
+      }
+    ],
+    "overallExplanation": "Namwila Banda operates a small mixed farm in Chipata, Eastern Province, combining tobacco cultivation with goat rearing. Both enterprises face productivity challenges, with tobacco yields well below regional averages and elevated goat mortality. A mixed loan repayment record, regulatory lapses, and significant sustainability concerns around deforestation for tobacco curing weigh down the overall assessment. Joining a cooperative, investing in improved seeds and curing infrastructure, and adopting sustainable fuel wood practices would meaningfully improve this profile.",
+    "topImprovementAreas": [
+      "Adopt improved tobacco seed varieties and upgrade curing barn infrastructure",
+      "Establish a sustainable fuel wood supply through expanded woodlot planting",
+      "Improve loan repayment discipline through savings mechanisms and realistic borrowing"
+    ]
+  },
+  {
+    "id": "FRM-004",
+    "name": "Chilufya Mwansa",
+    "role": "Farmer",
+    "organization": "Kasama Crop Producers Cooperative",
+    "region": "Northern",
+    "overallScore": 78,
+    "rating": "Good",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-22T09:00:00Z",
+    "farmType": "Crop",
+    "farmSizeHectares": 45.0,
+    "cropType": "Cassava",
+    "details": {
+      "farmProductivity": 80,
+      "sustainabilityImpact": 77,
+      "loanRepayment": 82,
+      "regulatoryCompliance": 74,
+      "communityEngagement": 78
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Farm Productivity",
+        "score": 80,
+        "weight": 25,
+        "weightedScore": 20.0,
+        "explanation": "Chilufya operates a 45-hectare cassava farm in Kasama, Northern Province, achieving yields of 18 tonnes per hectare using improved Mweru and Bangweulu cassava varieties developed by the Zambia Agriculture Research Institute. Production is well above the national smallholder average of 8 tonnes but below the potential 25 tonnes achievable with full mechanisation and optimal input use.",
+        "positiveFactors": [
+          "Cassava yield of 18 tonnes per hectare, more than double the national smallholder average",
+          "Uses improved ZARI cassava varieties Mweru and Bangweulu with cassava mosaic disease resistance",
+          "Established reliable market linkages with Kasama cassava processing factory for consistent offtake",
+          "Practises staggered planting across three blocks to ensure year-round harvest and cash flow"
+        ],
+        "negativeFactors": [
+          "Yield still 28% below the achievable potential of 25 tonnes per hectare with full mechanisation",
+          "Post-harvest processing limited to sun-drying, resulting in some quality inconsistency"
+        ],
+        "improvementTips": [
+          "Invest in mechanised cassava processing equipment including a chipping and drying platform",
+          "Trial precision fertiliser application on demonstration plots to close the yield gap"
+        ]
+      },
+      {
+        "category": "Sustainability Impact",
+        "score": 77,
+        "weight": 20,
+        "weightedScore": 15.4,
+        "explanation": "Good sustainability practices anchored in cassava-legume intercropping and participation in the Northern Province soil conservation programme. Cassava's relatively low input requirements reduce environmental pressure, though slash-and-burn land clearing on newly opened sections remains a concern.",
+        "positiveFactors": [
+          "Practises cassava-groundnut intercropping on 60% of cultivated area, improving soil nitrogen",
+          "Participant in the Northern Province soil conservation programme since 2023",
+          "Cassava cultivation requires minimal chemical inputs, reducing agrochemical environmental impact"
+        ],
+        "negativeFactors": [
+          "Slash-and-burn clearing used to open 5 new hectares in 2025, causing localised soil degradation",
+          "No formal composting or organic matter management system despite abundant cassava waste material"
+        ],
+        "improvementTips": [
+          "Transition from slash-and-burn to mechanical land clearing for any future farm expansion",
+          "Establish a composting programme utilising cassava peels and crop residues for organic fertiliser"
+        ]
+      },
+      {
+        "category": "Loan Repayment",
+        "score": 82,
+        "weight": 25,
+        "weightedScore": 20.5,
+        "explanation": "Reliable borrower with the Kasama Crop Producers Cooperative input credit facility and a NATSAVE savings-linked loan. All obligations in the past three seasons have been met within agreed timelines, supported by the steady cash flow from staggered cassava harvesting.",
+        "positiveFactors": [
+          "Three consecutive seasons of on-time loan repayment with the cooperative input credit facility",
+          "NATSAVE savings-linked loan of ZMW 120,000 repaid in full by November 2025",
+          "Staggered harvesting provides consistent quarterly cash flow for debt servicing",
+          "Maintains cooperative savings balance equivalent to 15% of annual borrowing"
+        ],
+        "negativeFactors": [
+          "Credit history is relatively short at three years, limiting long-term track record assessment"
+        ],
+        "improvementTips": [
+          "Continue building credit history to qualify for larger development finance facilities",
+          "Diversify banking relationships to include a commercial bank agricultural lending product"
+        ]
+      },
+      {
+        "category": "Regulatory Compliance",
+        "score": 74,
+        "weight": 15,
+        "weightedScore": 11.1,
+        "explanation": "Generally compliant with Ministry of Agriculture registration and Food Reserve Agency requirements, but the slash-and-burn clearing activity in 2025 was conducted without the required environmental notification to the Zambia Environmental Management Agency.",
+        "positiveFactors": [
+          "Registered with the Ministry of Agriculture district office as a commercial smallholder",
+          "Compliant with Food Reserve Agency cassava quality and delivery standards",
+          "Zambia Revenue Authority tax obligations met through cooperative group filing arrangement"
+        ],
+        "negativeFactors": [
+          "Failed to submit environmental notification to ZEMA before conducting land clearing in 2025",
+          "Cooperative membership registration renewal was delayed by 6 weeks in 2025"
+        ],
+        "improvementTips": [
+          "Submit environmental notifications to ZEMA prior to any future land clearing or expansion activities",
+          "Maintain a compliance calendar with all registration and renewal deadlines clearly marked"
+        ]
+      },
+      {
+        "category": "Community Engagement",
+        "score": 78,
+        "weight": 15,
+        "weightedScore": 11.7,
+        "explanation": "Active cooperative member who contributes to collective cassava marketing efforts and participates in community seed multiplication programmes. Provides employment to 12 seasonal workers and hosts occasional farm visits for agricultural extension demonstrations.",
+        "positiveFactors": [
+          "Active member of Kasama Crop Producers Cooperative with 200 farming households",
+          "Participates in the cooperative's community cassava seed multiplication programme",
+          "Employs 12 seasonal workers from surrounding villages during planting and harvest",
+          "Farm hosted 2 agricultural extension demonstration visits in 2025"
+        ],
+        "negativeFactors": [
+          "No involvement in youth agricultural training or mentorship activities",
+          "Limited engagement with school feeding programmes despite proximity to 3 primary schools"
+        ],
+        "improvementTips": [
+          "Establish a youth farmer mentorship programme in partnership with the cooperative",
+          "Supply cassava flour to nearby school feeding programmes at subsidised rates to support child nutrition"
+        ]
+      }
+    ],
+    "overallExplanation": "Chilufya Mwansa is a productive cassava farmer in Kasama, Northern Province, who has leveraged improved varieties and cooperative membership to achieve strong yields and reliable market access. A clean three-year loan repayment record and active cooperative participation reflect good governance. However, the use of slash-and-burn clearing, the absence of ZEMA environmental notification, and room for improvement in post-harvest processing and community engagement with youth and schools limit the overall score. Addressing these gaps would move the profile firmly into the Excellent category.",
+    "topImprovementAreas": [
+      "Eliminate slash-and-burn land clearing and obtain ZEMA approvals for future expansion",
+      "Invest in mechanised post-harvest processing to improve cassava product quality",
+      "Engage in youth mentorship and school feeding programmes within the local community"
+    ]
+  },
+  {
+    "id": "FRM-005",
+    "name": "Mutinta Simunyola",
+    "role": "Farmer",
+    "organization": "Independent",
+    "region": "Luapula",
+    "overallScore": 42,
+    "rating": "Poor",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-25T11:30:00Z",
+    "farmType": "Mixed",
+    "farmSizeHectares": 8.0,
+    "cropType": "Groundnuts",
+    "details": {
+      "farmProductivity": 38,
+      "sustainabilityImpact": 40,
+      "loanRepayment": 35,
+      "regulatoryCompliance": 48,
+      "communityEngagement": 52
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Farm Productivity",
+        "score": 38,
+        "weight": 25,
+        "weightedScore": 9.5,
+        "explanation": "Mutinta cultivates groundnuts on 5 of her 8 hectares in Mansa, Luapula Province, with the remaining 3 hectares used for a small flock of 15 local chickens and subsistence vegetables. Groundnut yields of 400 kg per hectare are critically low, well below the 900 kg provincial average, due to use of recycled seed, no fertiliser application, and labour constraints as a single-headed household.",
+        "positiveFactors": [
+          "Maintains a diversified livelihood across groundnuts, vegetables, and poultry"
+        ],
+        "negativeFactors": [
+          "Groundnut yield of 400 kg per hectare is less than half the Luapula Province average",
+          "Uses recycled seed from previous harvests for 4 consecutive seasons, reducing vigour and yield",
+          "No fertiliser or soil amendment applied to groundnut fields in the past 2 seasons",
+          "Labour constraints as a single-headed household limit area effectively cultivated",
+          "Chicken flock suffers from Newcastle disease with no vaccination programme in place"
+        ],
+        "improvementTips": [
+          "Access certified groundnut seed through the Ministry of Agriculture Farmer Input Support Programme",
+          "Join a labour-sharing cooperative to overcome single-household labour constraints during peak seasons",
+          "Implement a basic Newcastle disease vaccination programme through the District Veterinary Office"
+        ]
+      },
+      {
+        "category": "Sustainability Impact",
+        "score": 40,
+        "weight": 20,
+        "weightedScore": 8.0,
+        "explanation": "Limited sustainability practices in place. Continuous groundnut monocropping without rotation has depleted soil nutrients, and there is no soil conservation or water management infrastructure. The small scale of operations means absolute environmental impact is low, but relative to farm size, practices are unsustainable.",
+        "positiveFactors": [
+          "Small-scale farming has minimal absolute environmental footprint",
+          "Maintains a small home garden with traditional leafy vegetable varieties contributing to agrobiodiversity"
+        ],
+        "negativeFactors": [
+          "Continuous groundnut monoculture for 4 consecutive years without any crop rotation",
+          "No soil conservation measures such as contour ridging despite gently sloping terrain",
+          "No composting or organic matter addition to fields despite household and farm waste availability",
+          "Charcoal production from farm boundary trees to supplement income accelerating local deforestation"
+        ],
+        "improvementTips": [
+          "Introduce a simple two-year rotation alternating groundnuts with cassava or maize",
+          "Construct basic contour ridges on sloping sections to reduce soil erosion during the rainy season",
+          "Begin composting household waste and groundnut shells for application as organic soil amendment"
+        ]
+      },
+      {
+        "category": "Loan Repayment",
+        "score": 35,
+        "weight": 25,
+        "weightedScore": 8.75,
+        "explanation": "Serious credit challenges with 3 of 4 loan cycles resulting in default or significant arrears. An outstanding balance of ZMW 12,000 from the 2024 Farmer Input Support Programme remains unresolved, and the farmer has been flagged by the district agricultural office for credit blacklisting consideration.",
+        "positiveFactors": [
+          "One of four loan cycles repaid in full and on time in 2022"
+        ],
+        "negativeFactors": [
+          "3 of 4 loan cycles resulted in default or arrears exceeding 90 days",
+          "Outstanding FISP arrears of ZMW 12,000 from 2024 season remain unresolved",
+          "Flagged for potential credit blacklisting by the Mansa District Agricultural Office",
+          "No savings account or financial buffer mechanism in place"
+        ],
+        "improvementTips": [
+          "Negotiate a structured repayment plan for the outstanding ZMW 12,000 FISP arrears immediately",
+          "Open a savings account and begin depositing even small amounts to demonstrate financial discipline",
+          "Access financial literacy training through the Mansa District community development office"
+        ]
+      },
+      {
+        "category": "Regulatory Compliance",
+        "score": 48,
+        "weight": 15,
+        "weightedScore": 7.2,
+        "explanation": "Significant compliance gaps exist. The farmer is not registered with the Zambia Revenue Authority for presumptive tax purposes, charcoal production is conducted without a Forestry Department permit, and there is no formal registration with the district agricultural office beyond the FISP programme.",
+        "positiveFactors": [
+          "Registered with the Farmer Input Support Programme through the district agricultural office"
+        ],
+        "negativeFactors": [
+          "Not registered with the Zambia Revenue Authority for presumptive tax purposes",
+          "Charcoal production and sale conducted without a valid Forestry Department permit",
+          "No formal farm registration beyond FISP programme enrolment",
+          "Chicken flock not registered with the District Veterinary Office"
+        ],
+        "improvementTips": [
+          "Register with the Zambia Revenue Authority for presumptive tax to avoid future penalties",
+          "Either obtain a Forestry Department charcoal production permit or discontinue unlicensed production",
+          "Complete full farm and livestock registration with the district agricultural and veterinary offices"
+        ]
+      },
+      {
+        "category": "Community Engagement",
+        "score": 52,
+        "weight": 15,
+        "weightedScore": 7.8,
+        "explanation": "Limited but genuine community participation. Mutinta participates in the village women's gardening group and shares groundnut seed informally with two neighbours. However, financial difficulties and labour constraints limit broader engagement, and she has not attended any agricultural extension activities in the past year.",
+        "positiveFactors": [
+          "Active member of the village women's gardening group with 15 members",
+          "Shares groundnut seed informally with 2 neighbouring farming families",
+          "Participates in community food preparation events during village gatherings"
+        ],
+        "negativeFactors": [
+          "Has not attended any agricultural extension field days or training sessions in the past 12 months",
+          "Not a member of any formal cooperative or farmer association",
+          "Limited ability to contribute labour or resources to community projects due to household constraints"
+        ],
+        "improvementTips": [
+          "Prioritise attendance at the next agricultural extension field day hosted in Mansa district",
+          "Explore joining a formal cooperative to access group benefits including bulk input purchase and shared labour"
+        ]
+      }
+    ],
+    "overallExplanation": "Mutinta Simunyola is a smallholder farmer in Mansa, Luapula Province, facing significant challenges across all assessment dimensions. Critically low groundnut yields, a troubled loan repayment history with outstanding FISP arrears, unlicensed charcoal production, and depleted soils from continuous monoculture present a profile requiring urgent intervention. The farmer's participation in the village women's group and willingness to share resources with neighbours demonstrate community spirit, but without structured support to address productivity, financial management, and compliance issues, the trajectory is concerning. Immediate priorities are resolving outstanding debt, accessing improved inputs, and obtaining necessary permits.",
+    "topImprovementAreas": [
+      "Resolve outstanding FISP loan arrears and develop a structured financial recovery plan",
+      "Access certified seed and soil amendments through government support programmes",
+      "Obtain required regulatory permits and complete all farm registration requirements"
+    ]
+  },
+  {
+    "id": "FRM-006",
+    "name": "Kabwe Lungu",
+    "role": "Farmer",
+    "organization": "Mongu Rice Growers Association",
+    "region": "Western",
+    "overallScore": 64,
+    "rating": "Needs Improvement",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-28T13:00:00Z",
+    "farmType": "Crop",
+    "farmSizeHectares": 15.0,
+    "cropType": "Wheat",
+    "details": {
+      "farmProductivity": 62,
+      "sustainabilityImpact": 60,
+      "loanRepayment": 68,
+      "regulatoryCompliance": 64,
+      "communityEngagement": 66
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Farm Productivity",
+        "score": 62,
+        "weight": 25,
+        "weightedScore": 15.5,
+        "explanation": "Kabwe grows irrigated wheat on 15 hectares in Mongu, Western Province, using floodplain recession agriculture supplemented by a small diesel pump irrigation system. Wheat yields of 2.8 tonnes per hectare are below the 3.5-tonne target recommended by the Zambia Agriculture Research Institute for irrigated production, limited by inconsistent water management and delayed planting.",
+        "positiveFactors": [
+          "Successfully cultivates wheat in Western Province, contributing to national import substitution efforts",
+          "Installed a diesel pump irrigation system to supplement natural floodplain recession moisture",
+          "Secured a forward contract with a Lusaka-based milling company for entire harvest offtake"
+        ],
+        "negativeFactors": [
+          "Wheat yield of 2.8 tonnes per hectare is 20% below the ZARI recommended target for irrigated production",
+          "Planting delayed by 3 weeks in 2025 due to late land preparation, missing the optimal planting window",
+          "Inconsistent irrigation scheduling leads to water stress during critical grain-filling stage"
+        ],
+        "improvementTips": [
+          "Develop a strict seasonal calendar with land preparation beginning at least 4 weeks before target planting date",
+          "Install soil moisture sensors in at least 3 locations to guide irrigation scheduling decisions"
+        ]
+      },
+      {
+        "category": "Sustainability Impact",
+        "score": 60,
+        "weight": 20,
+        "weightedScore": 12.0,
+        "explanation": "The floodplain farming system is inherently adapted to the Western Province wetland ecology, but diesel pump irrigation contributes to carbon emissions and fuel cost vulnerability. No soil testing programme is in place, and nitrogen fertiliser application rates are based on general recommendations rather than site-specific soil analysis.",
+        "positiveFactors": [
+          "Floodplain recession farming is a traditional system adapted to the Barotse Plain ecosystem",
+          "Incorporates crop residue retention after wheat harvest rather than burning"
+        ],
+        "negativeFactors": [
+          "Diesel-powered irrigation pump contributes to carbon emissions and is fuel cost vulnerable",
+          "No soil testing conducted in the past 3 years to guide fertiliser application rates",
+          "Fertiliser applied at blanket rates rather than site-specific recommendations"
+        ],
+        "improvementTips": [
+          "Investigate solar-powered irrigation pump options to reduce diesel dependency and carbon footprint",
+          "Conduct comprehensive soil testing through ZARI to develop a site-specific fertiliser management plan"
+        ]
+      },
+      {
+        "category": "Loan Repayment",
+        "score": 68,
+        "weight": 25,
+        "weightedScore": 17.0,
+        "explanation": "Moderate loan repayment record with the Mongu Rice Growers Association revolving fund and a small ZANACO personal loan used for farm inputs. One late payment of 45 days occurred in the 2024-2025 season, but the forward milling contract has improved cash flow predictability for the current season.",
+        "positiveFactors": [
+          "Forward contract with milling company provides predictable revenue for loan repayment planning",
+          "Mongu Rice Growers Association revolving fund contributions maintained for 3 of 4 years",
+          "Current season loan obligations are on track as of the assessment date"
+        ],
+        "negativeFactors": [
+          "One late payment of 45 days on the 2024-2025 season ZANACO loan instalment",
+          "Total debt as a percentage of expected revenue is 45%, above the recommended 35% threshold",
+          "No formal budgeting or cash flow management tools used for farm financial planning"
+        ],
+        "improvementTips": [
+          "Reduce debt-to-revenue ratio by limiting new borrowing until existing obligations are cleared",
+          "Adopt a simple farm record-keeping and cash flow management tool such as the FAO Farm Business Book"
+        ]
+      },
+      {
+        "category": "Regulatory Compliance",
+        "score": 64,
+        "weight": 15,
+        "weightedScore": 9.6,
+        "explanation": "Partially compliant with Water Resources Management Authority water use permit requirements and Ministry of Agriculture wheat production registration. The diesel fuel storage arrangement on the farm does not meet the minimum safety standards required by the Energy Regulation Board.",
+        "positiveFactors": [
+          "Registered wheat producer with the Ministry of Agriculture Western Province office",
+          "Participates in the national wheat production statistics reporting programme"
+        ],
+        "negativeFactors": [
+          "Water abstraction permit from WARMA is overdue for renewal by 4 months",
+          "Diesel fuel storage on farm does not meet Energy Regulation Board safety standards",
+          "No formal environmental impact assessment conducted for the irrigation pump installation"
+        ],
+        "improvementTips": [
+          "Renew the WARMA water abstraction permit immediately and set annual renewal reminders",
+          "Upgrade diesel storage to a compliant bunded tank meeting Energy Regulation Board requirements",
+          "Submit a retrospective environmental notification to ZEMA for the irrigation infrastructure"
+        ]
+      },
+      {
+        "category": "Community Engagement",
+        "score": 66,
+        "weight": 15,
+        "weightedScore": 9.9,
+        "explanation": "Kabwe is a member of the Mongu Rice Growers Association despite being primarily a wheat farmer, contributing to the association's crop diversification agenda. Community engagement is moderate, with seasonal employment for 8 workers and occasional participation in floodplain management discussions with the Barotse Royal Establishment.",
+        "positiveFactors": [
+          "Member of Mongu Rice Growers Association, contributing to crop diversification within the group",
+          "Provides seasonal employment to 8 community members during land preparation and harvest",
+          "Participates in floodplain land management discussions convened by the Barotse Royal Establishment"
+        ],
+        "negativeFactors": [
+          "Seasonal workers paid below the provincial average wage for agricultural labour",
+          "Limited knowledge-sharing activities with neighbouring farmers on wheat production techniques"
+        ],
+        "improvementTips": [
+          "Review and increase seasonal worker compensation to at least the provincial average for agricultural labour",
+          "Organise annual wheat production demonstration days to share knowledge with neighbouring farmers"
+        ]
+      }
+    ],
+    "overallExplanation": "Kabwe Lungu is a wheat farmer on the Barotse Floodplain in Mongu, Western Province, contributing to Zambia's wheat import substitution efforts. While the forward milling contract provides market security, production efficiency is hampered by delayed planting, inconsistent irrigation management, and blanket fertiliser application. A moderate credit record, overdue water permits, and non-compliant fuel storage create regulatory risks that need addressing. Investing in proper irrigation scheduling, soil-based nutrient management, and regulatory compliance would significantly improve both productivity and the overall credit score.",
+    "topImprovementAreas": [
+      "Improve planting timeliness and irrigation scheduling to close the wheat yield gap",
+      "Renew overdue water permits and bring fuel storage up to regulatory standards",
+      "Reduce debt-to-revenue ratio and adopt formal farm financial planning tools"
+    ]
+  },
+  {
+    "id": "FRM-007",
+    "name": "Nchimunya Tembo",
+    "role": "Farmer",
+    "organization": "Mpongwe Farming Block Association",
+    "region": "Copperbelt",
+    "overallScore": 93,
+    "rating": "Excellent",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-02-01T07:45:00Z",
+    "farmType": "Crop",
+    "farmSizeHectares": 500.0,
+    "cropType": "Soya beans",
+    "details": {
+      "farmProductivity": 95,
+      "sustainabilityImpact": 92,
+      "loanRepayment": 96,
+      "regulatoryCompliance": 91,
+      "communityEngagement": 90
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Farm Productivity",
+        "score": 95,
+        "weight": 25,
+        "weightedScore": 23.75,
+        "explanation": "Nchimunya operates one of the largest soya bean farms on the Mpongwe farming block in the Copperbelt, cultivating 500 hectares with fully mechanised precision agriculture systems. Soya bean yields of 3.2 tonnes per hectare rank among the highest in Zambia, driven by GPS-guided planting, soil-specific inoculant application, and a modern grain handling and storage facility that minimises post-harvest losses.",
+        "positiveFactors": [
+          "Soya bean yield of 3.2 tonnes per hectare, ranking in the top 5% nationally for the crop",
+          "Fully mechanised operation with GPS-guided planting and variable-rate input application",
+          "Modern grain handling and storage facility with 2,000-tonne capacity and aeration systems",
+          "Multi-year supply agreement with Zamanita oil processing company providing premium pricing"
+        ],
+        "negativeFactors": [
+          "High machinery dependency means any breakdown during critical planting window can cause significant yield loss"
+        ],
+        "improvementTips": [
+          "Establish a machinery backup and rapid-response maintenance arrangement for the planting season",
+          "Trial cover cropping in the off-season to further improve soil structure and reduce compaction from heavy machinery"
+        ]
+      },
+      {
+        "category": "Sustainability Impact",
+        "score": 92,
+        "weight": 20,
+        "weightedScore": 18.4,
+        "explanation": "Leading sustainability practitioner on the Mpongwe farming block with comprehensive conservation agriculture implementation, including no-till farming on 80% of cultivated area, a 15-hectare riparian buffer zone along the Kafulafuta River, and participation in Zambia's voluntary carbon credit programme.",
+        "positiveFactors": [
+          "No-till farming practised on 80% of the 500-hectare cultivated area, reducing soil disturbance",
+          "Maintains a 15-hectare riparian buffer zone along the Kafulafuta River exceeding regulatory requirements",
+          "Registered participant in Zambia's voluntary carbon credit programme generating measurable offsets",
+          "Soya bean nitrogen fixation reduces synthetic fertiliser requirements by approximately 40%",
+          "Solar-powered borehole irrigation system installed for supplementary watering in dry spells"
+        ],
+        "negativeFactors": [
+          "Remaining 20% of farm area still under conventional tillage, creating inconsistency in conservation approach"
+        ],
+        "improvementTips": [
+          "Extend no-till practices to the remaining 100 hectares to achieve full farm conservation agriculture adoption",
+          "Pursue formal carbon credit certification to monetise the farm's verified emission reductions"
+        ]
+      },
+      {
+        "category": "Loan Repayment",
+        "score": 96,
+        "weight": 25,
+        "weightedScore": 24.0,
+        "explanation": "Outstanding credit profile with a 10-year track record of on-time repayments across multiple lending institutions including Stanbic Bank, the Development Bank of Zambia, and the Mpongwe Farming Block Association equipment finance facility. Current debt-to-asset ratio of 18% is well within prudent limits.",
+        "positiveFactors": [
+          "10-year perfect repayment record across Stanbic Bank, Development Bank of Zambia, and association facilities",
+          "Debt-to-asset ratio of 18%, well below the 30% recommended ceiling for commercial farming",
+          "Maintains a 6-month operating expense reserve in a dedicated farm business account",
+          "Zamanita supply agreement provides contractual revenue certainty for loan repayment planning"
+        ],
+        "negativeFactors": [
+          "No negative factors recorded in the current assessment period"
+        ],
+        "improvementTips": [
+          "Leverage the excellent credit record to negotiate improved lending terms for future capital expansion",
+          "Consider issuing a farm bond or accessing the Lusaka Securities Exchange agricultural green bond facility"
+        ]
+      },
+      {
+        "category": "Regulatory Compliance",
+        "score": 91,
+        "weight": 15,
+        "weightedScore": 13.65,
+        "explanation": "Highly compliant operation with all licences, permits, and registrations current. The farm holds a valid large-scale farming licence, environmental management plan approved by ZEMA, water abstraction permit from WARMA, and is fully compliant with ZRA corporate tax filing requirements.",
+        "positiveFactors": [
+          "Valid large-scale farming licence renewed annually without any lapses",
+          "ZEMA-approved environmental management plan covering all farm operations and the riparian zone",
+          "WARMA water abstraction permit current and usage within permitted volumes",
+          "Full corporate tax compliance with ZRA including quarterly provisional payments"
+        ],
+        "negativeFactors": [
+          "One agrochemical storage record-keeping gap identified during the 2025 ZEMA inspection"
+        ],
+        "improvementTips": [
+          "Implement a digital agrochemical inventory management system to eliminate record-keeping gaps",
+          "Pursue GlobalGAP or equivalent certification to demonstrate compliance to international buyers"
+        ]
+      },
+      {
+        "category": "Community Engagement",
+        "score": 90,
+        "weight": 15,
+        "weightedScore": 13.5,
+        "explanation": "Significant community contributor through the Mpongwe Farming Block Association where Nchimunya serves as chairperson. The farm employs 45 permanent workers and up to 120 seasonal workers, all above minimum wage. The farm's corporate social responsibility programme includes school bursaries, a rural health post contribution, and outgrower support for 30 smallholder soya bean farmers.",
+        "positiveFactors": [
+          "Employs 45 permanent and up to 120 seasonal workers, all compensated above minimum wage",
+          "Chairperson of Mpongwe Farming Block Association representing 85 commercial farming operations",
+          "Funds 10 annual school bursaries for children from farming community households",
+          "Supports 30 smallholder outgrower soya bean farmers with inputs, training, and guaranteed offtake"
+        ],
+        "negativeFactors": [
+          "Outgrower programme currently limited to soya beans; farmers have requested expansion to other crops"
+        ],
+        "improvementTips": [
+          "Expand the outgrower programme to include sunflower or groundnuts to diversify smallholder income",
+          "Establish a formal apprenticeship programme for young agricultural graduates on the commercial farm"
+        ]
+      }
+    ],
+    "overallExplanation": "Nchimunya Tembo operates an exemplary large-scale soya bean farm on the Mpongwe farming block, Copperbelt Province, setting the standard for commercial agriculture in Zambia. Precision farming technology, conservation agriculture practices, a flawless decade-long credit record, and substantial community investment through employment, outgrower support, and bursaries demonstrate a holistic approach to agricultural excellence. The operation represents what is achievable when modern farming techniques are combined with strong financial management and genuine community responsibility. Extending no-till to the entire farm and expanding the outgrower programme would further cement this outstanding position.",
+    "topImprovementAreas": [
+      "Extend no-till conservation agriculture to the remaining 20% of farm area",
+      "Expand outgrower programme beyond soya beans to additional crops",
+      "Implement digital agrochemical inventory management for full ZEMA compliance"
+    ]
+  },
+  {
+    "id": "FRM-008",
+    "name": "Thandiwe Phiri",
+    "role": "Farmer",
+    "organization": "Independent",
+    "region": "Lusaka",
+    "overallScore": 55,
+    "rating": "Needs Improvement",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-02-03T16:20:00Z",
+    "farmType": "Livestock",
+    "farmSizeHectares": 12.0,
+    "cropType": "Maize",
+    "details": {
+      "farmProductivity": 52,
+      "sustainabilityImpact": 55,
+      "loanRepayment": 50,
+      "regulatoryCompliance": 58,
+      "communityEngagement": 60
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Farm Productivity",
+        "score": 52,
+        "weight": 25,
+        "weightedScore": 13.0,
+        "explanation": "Thandiwe operates a 12-hectare peri-urban poultry farm in Kafue, Lusaka Province, with a flock of 2,000 broilers and 500 layers. Feed conversion ratios are poor at 2.3:1 against the industry benchmark of 1.8:1, and layer productivity has declined due to inconsistent feeding schedules and an ageing flock with birds beyond optimal laying age.",
+        "positiveFactors": [
+          "Strategically located in peri-urban Kafue with proximity to Lusaka's high-demand poultry market",
+          "Produces both broilers and eggs, providing dual revenue streams"
+        ],
+        "negativeFactors": [
+          "Broiler feed conversion ratio of 2.3:1 is 28% worse than the 1.8:1 industry benchmark",
+          "Layer flock average age exceeds 80 weeks, well past the optimal 72-week replacement point",
+          "Inconsistent feeding schedule results in uneven growth and egg production fluctuations",
+          "Broiler mortality rate of 12% exceeds the 5% industry acceptable threshold"
+        ],
+        "improvementTips": [
+          "Implement a strict automated feeding schedule to improve feed conversion and production consistency",
+          "Replace layers older than 72 weeks with point-of-lay pullets to restore egg production levels",
+          "Engage a poultry specialist to diagnose and address the elevated broiler mortality rate"
+        ]
+      },
+      {
+        "category": "Sustainability Impact",
+        "score": 55,
+        "weight": 20,
+        "weightedScore": 11.0,
+        "explanation": "Peri-urban poultry operations face specific environmental challenges around waste management and odour control. While the farm generates significant chicken manure, most is disposed of improperly rather than composted or sold, and the proximity to residential areas has generated complaints about odour and fly populations.",
+        "positiveFactors": [
+          "Some poultry manure is sold to nearby vegetable farmers for use as organic fertiliser",
+          "Farm uses energy-efficient LED lighting in the poultry houses"
+        ],
+        "negativeFactors": [
+          "Majority of poultry manure disposed of improperly, causing waterway contamination risk",
+          "Three formal complaints from neighbouring residential properties about odour and fly nuisance in 2025",
+          "No environmental management plan in place despite operating in a peri-urban zone",
+          "Feed bags and farm plastic waste not recycled, accumulating on the farm boundary"
+        ],
+        "improvementTips": [
+          "Establish a structured manure composting and sales programme to convert waste into revenue",
+          "Implement odour and fly management measures including manure drying beds and biological fly control",
+          "Develop a basic waste management plan addressing manure, plastics, and feed bag recycling"
+        ]
+      },
+      {
+        "category": "Loan Repayment",
+        "score": 50,
+        "weight": 25,
+        "weightedScore": 12.5,
+        "explanation": "Struggling with loan repayment due to the poor production economics of the poultry operation. Two of three loan facilities are currently in arrears, including a ZMW 80,000 microfinance loan and a feed supplier credit arrangement. Cash flow shortfalls from elevated mortality and poor feed conversion directly impact repayment capacity.",
+        "positiveFactors": [
+          "One small village banking group loan of ZMW 15,000 repaid in full during 2024"
+        ],
+        "negativeFactors": [
+          "ZMW 80,000 microfinance loan currently 75 days in arrears with penalty interest accruing",
+          "Feed supplier credit of ZMW 45,000 overdue by 60 days, threatening supply continuity",
+          "No cash flow forecast or financial planning documents in use for the business",
+          "High production costs due to poor feed conversion compress margins needed for debt service"
+        ],
+        "improvementTips": [
+          "Negotiate restructured repayment terms with the microfinance institution before further penalties accrue",
+          "Clear the feed supplier arrears as a priority to maintain critical input supply chain",
+          "Develop a monthly cash flow forecast linking production targets to financial obligations"
+        ]
+      },
+      {
+        "category": "Regulatory Compliance",
+        "score": 58,
+        "weight": 15,
+        "weightedScore": 8.7,
+        "explanation": "Several compliance issues exist, particularly around the peri-urban location requirements. The poultry operation lacks a Lusaka City Council trading licence for animal husbandry within the peri-urban zone, and no environmental impact assessment has been submitted to ZEMA despite the proximity to residential areas and waterways.",
+        "positiveFactors": [
+          "Poultry registered with the District Veterinary Office for disease surveillance purposes",
+          "Participates in routine Avian Influenza surveillance sampling by the veterinary department"
+        ],
+        "negativeFactors": [
+          "No Lusaka City Council trading licence for animal husbandry in the peri-urban zone",
+          "Environmental impact assessment not submitted to ZEMA despite peri-urban location",
+          "Poultry house construction did not obtain building approval from the local planning authority",
+          "No food safety certification for eggs sold directly to retail outlets in Lusaka"
+        ],
+        "improvementTips": [
+          "Apply for a Lusaka City Council peri-urban animal husbandry trading licence immediately",
+          "Commission a simplified environmental impact assessment and submit to ZEMA for approval",
+          "Pursue basic food safety certification to access higher-value retail egg markets"
+        ]
+      },
+      {
+        "category": "Community Engagement",
+        "score": 60,
+        "weight": 15,
+        "weightedScore": 9.0,
+        "explanation": "Community relations are strained by the odour and fly complaints from neighbouring properties. However, Thandiwe employs 6 permanent workers and contributes to local food security through affordable egg supply. No formal cooperative membership or community programme participation currently.",
+        "positiveFactors": [
+          "Employs 6 permanent workers from the local community with consistent monthly wages",
+          "Supplies affordable eggs to 3 local community markets, contributing to food security",
+          "Donated 100 chickens to a community orphanage feeding programme during Christmas 2025"
+        ],
+        "negativeFactors": [
+          "Strained relations with 3 neighbouring residential properties due to odour and fly complaints",
+          "Not a member of the Zambia National Farmers Union or any poultry producers association",
+          "No engagement with local youth or women's groups for skills transfer or mentorship"
+        ],
+        "improvementTips": [
+          "Proactively engage neighbours to address odour concerns and rebuild community relationships",
+          "Join the Poultry Association of Zambia to access industry networks, training, and collective advocacy",
+          "Consider hosting quarterly open farm days to educate local youth on poultry entrepreneurship"
+        ]
+      }
+    ],
+    "overallExplanation": "Thandiwe Phiri operates a peri-urban poultry farm in Kafue, Lusaka Province, that faces significant operational and financial challenges. Poor feed conversion, elevated mortality, ageing layer stock, and inadequate waste management are driving substandard production economics and loan repayment difficulties. Multiple regulatory gaps around licensing, environmental assessment, and food safety create compliance risks, while odour complaints from neighbours have strained community relations. The strategic peri-urban location offers market proximity advantages, but these can only be realised through substantial improvements in production management, environmental compliance, and financial discipline.",
+    "topImprovementAreas": [
+      "Urgently improve broiler feed conversion and replace ageing layer stock",
+      "Resolve microfinance and feed supplier arrears before penalties escalate further",
+      "Obtain all required peri-urban licences and submit environmental impact assessment to ZEMA"
+    ]
+  },
+  {
+    "id": "FRM-009",
+    "name": "Chanda Kapambwe",
+    "role": "Farmer",
+    "organization": "Mpika Agricultural Cooperative",
+    "region": "Muchinga",
+    "overallScore": 71,
+    "rating": "Good",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-02-05T12:10:00Z",
+    "farmType": "Mixed",
+    "farmSizeHectares": 60.0,
+    "cropType": "Sunflower",
+    "details": {
+      "farmProductivity": 73,
+      "sustainabilityImpact": 68,
+      "loanRepayment": 75,
+      "regulatoryCompliance": 70,
+      "communityEngagement": 72
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Farm Productivity",
+        "score": 73,
+        "weight": 25,
+        "weightedScore": 18.25,
+        "explanation": "Chanda operates a 60-hectare mixed farm in Mpika, Muchinga Province, cultivating sunflower on 40 hectares while maintaining a dairy herd of 25 Friesian-cross cows on the remaining 20 hectares. Sunflower yields of 1.4 tonnes per hectare are acceptable but below the 1.8-tonne potential for the area, while dairy production averages 8 litres per cow per day against a breed potential of 12 litres.",
+        "positiveFactors": [
+          "Successful integration of sunflower cropping and dairy farming provides diversified income",
+          "Sunflower offtake agreement with Mount Meru processors ensures reliable market access",
+          "Dairy milk supplied to the Mpika Dairy Cooperative milk collection centre with consistent quality grading"
+        ],
+        "negativeFactors": [
+          "Sunflower yield of 1.4 tonnes per hectare is 22% below the area's achievable potential",
+          "Dairy production of 8 litres per cow per day is 33% below the Friesian-cross breed potential",
+          "Limited supplementary feeding for dairy cattle during the dry season constrains milk output"
+        ],
+        "improvementTips": [
+          "Introduce sunflower hybrid varieties and adjust plant population to optimise yield per hectare",
+          "Develop a dry season feeding plan using sunflower cake by-product and conserved fodder for the dairy herd"
+        ]
+      },
+      {
+        "category": "Sustainability Impact",
+        "score": 68,
+        "weight": 20,
+        "weightedScore": 13.6,
+        "explanation": "Moderate sustainability performance. The sunflower-cattle integration offers potential for circular nutrient cycling, but this is not yet fully exploited. Cattle manure is underutilised, and there is no formal pasture management plan for the grazing area. The farm's location near the Bangweulu wetland system adds environmental sensitivity.",
+        "positiveFactors": [
+          "Sunflower cake from processing is used as partial cattle feed, demonstrating circular agriculture potential",
+          "Farm maintains a 2-hectare natural woodland buffer adjacent to a seasonal stream"
+        ],
+        "negativeFactors": [
+          "Cattle manure is not systematically collected or composted for application on sunflower fields",
+          "No formal pasture management or rotational grazing plan for the 20-hectare dairy grazing area",
+          "Proximity to Bangweulu wetland system requires environmental sensitivity not currently demonstrated"
+        ],
+        "improvementTips": [
+          "Implement a manure collection and composting system to close the nutrient cycle between cattle and crops",
+          "Develop a rotational grazing plan for the dairy pasture area with at least 4 paddock divisions"
+        ]
+      },
+      {
+        "category": "Loan Repayment",
+        "score": 75,
+        "weight": 25,
+        "weightedScore": 18.75,
+        "explanation": "Satisfactory loan repayment record with the Mpika Agricultural Cooperative and the Zambia National Commercial Bank. Dual income streams from sunflower and dairy provide reasonable cash flow stability, though one instalment was paid 30 days late in 2025 due to delayed sunflower processor payment.",
+        "positiveFactors": [
+          "Dual income streams from sunflower and dairy reduce single-source repayment risk",
+          "Four of five cooperative loan cycles repaid on schedule in the past three years",
+          "ZNCB agricultural loan of ZMW 200,000 serviced consistently with only one minor delay"
+        ],
+        "negativeFactors": [
+          "One instalment paid 30 days late due to delayed payment from sunflower processor",
+          "No written cash flow management plan linking seasonal income to loan repayment milestones"
+        ],
+        "improvementTips": [
+          "Negotiate shorter payment terms with the sunflower processor or request advance payments on delivery",
+          "Create a written seasonal cash flow plan aligning sunflower and dairy income with loan due dates"
+        ]
+      },
+      {
+        "category": "Regulatory Compliance",
+        "score": 70,
+        "weight": 15,
+        "weightedScore": 10.5,
+        "explanation": "Largely compliant with core agricultural registrations but with gaps in dairy-specific requirements. The dairy operation lacks the Zambia Bureau of Standards quality mark required for commercial milk sale, and cattle identification records are incomplete for 5 of 25 animals in the herd.",
+        "positiveFactors": [
+          "Registered sunflower grower with the Ministry of Agriculture Muchinga Province office",
+          "Zambia Revenue Authority tax filings current through the cooperative group arrangement",
+          "Annual livestock vaccination programme completed for the dairy herd"
+        ],
+        "negativeFactors": [
+          "Dairy operation lacks the Zambia Bureau of Standards quality mark for commercial milk sale",
+          "Cattle identification and registration records incomplete for 5 of 25 animals in the herd",
+          "No food safety or milk handling certification in place"
+        ],
+        "improvementTips": [
+          "Apply for the Zambia Bureau of Standards dairy quality mark to access premium milk marketing channels",
+          "Complete cattle identification and registration for all 25 animals with the District Veterinary Office"
+        ]
+      },
+      {
+        "category": "Community Engagement",
+        "score": 72,
+        "weight": 15,
+        "weightedScore": 10.8,
+        "explanation": "Active cooperative member contributing to group marketing of both sunflower and dairy products. Provides employment to 10 workers and participates in the Mpika district farmer field school programme, though engagement with broader community development activities is limited.",
+        "positiveFactors": [
+          "Active member of Mpika Agricultural Cooperative contributing to collective sunflower marketing",
+          "Supplies milk to the cooperative collection centre, supporting dairy value chain development in Muchinga",
+          "Employs 10 workers across the crop and dairy operations year-round",
+          "Participates in the Mpika district farmer field school programme as a host farmer"
+        ],
+        "negativeFactors": [
+          "Limited engagement with community development activities beyond the cooperative",
+          "No youth or women's mentorship programme despite having a mixed farming model suitable for training"
+        ],
+        "improvementTips": [
+          "Establish the mixed farm as a training centre for young aspiring farmers in the Mpika area",
+          "Engage with women's farming groups to share knowledge on dairy management and sunflower cultivation"
+        ]
+      }
+    ],
+    "overallExplanation": "Chanda Kapambwe operates a well-diversified mixed farm in Mpika, Muchinga Province, combining sunflower cultivation with dairy production. The dual enterprise model provides income stability and potential for circular nutrient cycling, though both enterprises are performing below their achievable potential. A satisfactory credit record and active cooperative membership are positive indicators, but gaps in dairy certification, cattle identification records, and environmental stewardship near the sensitive Bangweulu wetland area need attention. Closing the yield gap in both sunflower and dairy, obtaining dairy quality certification, and implementing a manure-to-crop nutrient cycling system would elevate this profile significantly.",
+    "topImprovementAreas": [
+      "Improve sunflower yields and dairy production through targeted inputs and dry season feeding",
+      "Obtain Zambia Bureau of Standards dairy quality mark and complete cattle identification records",
+      "Implement a manure composting system to cycle nutrients from dairy to sunflower fields"
+    ]
+  },
+  {
+    "id": "FRM-010",
+    "name": "Mwape Sakala",
+    "role": "Farmer",
+    "organization": "Solwezi Emergent Farmers Union",
+    "region": "North-Western",
+    "overallScore": 38,
+    "rating": "Poor",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-02-08T15:30:00Z",
+    "farmType": "Livestock",
+    "farmSizeHectares": 2.0,
+    "cropType": "Cotton",
+    "details": {
+      "farmProductivity": 35,
+      "sustainabilityImpact": 38,
+      "loanRepayment": 30,
+      "regulatoryCompliance": 42,
+      "communityEngagement": 48
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Farm Productivity",
+        "score": 35,
+        "weight": 25,
+        "weightedScore": 8.75,
+        "explanation": "Mwape operates a very small 2-hectare holding near Solwezi in North-Western Province, primarily keeping 8 local pigs and a small backyard garden. A 0.5-hectare cotton plot produces minimal output of 200 kg total, well below the break-even level for commercial viability. Pig production is subsistence-level with no structured breeding, feeding, or health management programme.",
+        "positiveFactors": [
+          "Maintains livelihood activities despite extremely limited land and capital resources"
+        ],
+        "negativeFactors": [
+          "Cotton production of 200 kg total from 0.5 hectares is far below commercial viability thresholds",
+          "Pig herd of 8 animals with no structured breeding programme results in inbreeding and poor growth",
+          "No supplementary feed provided to pigs beyond household food waste and foraging",
+          "Farm tools and equipment are rudimentary, limiting productivity on even the small area available",
+          "No access to extension advice, improved genetics, or market linkages for pig or cotton production"
+        ],
+        "improvementTips": [
+          "Access the Ministry of Agriculture extension services in Solwezi for cotton production technical advice",
+          "Introduce at least one improved boar to the pig herd to address inbreeding and improve growth rates",
+          "Explore pig feed supplementation using locally available materials such as sunflower cake or maize bran"
+        ]
+      },
+      {
+        "category": "Sustainability Impact",
+        "score": 38,
+        "weight": 20,
+        "weightedScore": 7.6,
+        "explanation": "Sustainability practices are essentially absent at this subsistence level. Free-ranging pigs cause environmental degradation through rooting and disturbance of neighbouring plots, and the cotton field shows signs of severe soil nutrient depletion from continuous cultivation without any soil amendment.",
+        "positiveFactors": [
+          "Very small scale of operations means absolute environmental impact is minimal",
+          "Maintains a few indigenous fruit trees on the homestead providing some ecological value"
+        ],
+        "negativeFactors": [
+          "Free-ranging pigs cause soil disturbance and damage to neighbouring farmers' crops",
+          "Cotton field shows severe nutrient depletion from continuous cultivation without soil amendment",
+          "No composting of pig manure despite readily available material",
+          "No participation in any conservation or sustainable farming programme"
+        ],
+        "improvementTips": [
+          "Construct basic pig housing to contain animals and enable manure collection for composting",
+          "Apply composted pig manure to the cotton field to begin rebuilding soil fertility",
+          "Enrol in the Solwezi District conservation farming programme offered by the Ministry of Agriculture"
+        ]
+      },
+      {
+        "category": "Loan Repayment",
+        "score": 30,
+        "weight": 25,
+        "weightedScore": 7.5,
+        "explanation": "Critical credit situation with complete default on two consecutive cotton input credit cycles provided through the Solwezi Emergent Farmers Union. Total outstanding arrears of ZMW 8,500 have resulted in suspension from the union's credit programme and the farmer's name being submitted to the Credit Reference Bureau.",
+        "positiveFactors": [
+          "No additional debt taken on beyond the defaulted cotton input credit, limiting total exposure"
+        ],
+        "negativeFactors": [
+          "Complete default on 2 consecutive cotton input credit cycles totalling ZMW 8,500",
+          "Suspended from the Solwezi Emergent Farmers Union credit programme",
+          "Name submitted to the Credit Reference Bureau with adverse listing",
+          "No savings, assets, or alternative income source to service existing debt",
+          "Cotton production revenue insufficient to cover even the input costs, let alone loan repayment"
+        ],
+        "improvementTips": [
+          "Engage the Solwezi Emergent Farmers Union to negotiate a realistic long-term repayment plan",
+          "Consider shifting from cotton to a lower-input crop that can generate positive returns on 0.5 hectares",
+          "Access the Ministry of Community Development social cash transfer programme for household stabilisation"
+        ]
+      },
+      {
+        "category": "Regulatory Compliance",
+        "score": 42,
+        "weight": 15,
+        "weightedScore": 6.3,
+        "explanation": "Significant compliance gaps across all applicable regulatory dimensions. Pigs are not registered or vaccinated, cotton grower registration has lapsed, and the free-ranging pig management approach violates the district by-law on animal containment within semi-urban zones near Solwezi town.",
+        "positiveFactors": [
+          "Previously registered as a cotton grower with the Solwezi district agricultural office"
+        ],
+        "negativeFactors": [
+          "Cotton grower registration lapsed and not renewed for the 2025-2026 season",
+          "Pigs not registered with the District Veterinary Office and not vaccinated against African Swine Fever",
+          "Free-ranging pig management violates the Solwezi Municipal Council animal containment by-law",
+          "No Zambia Revenue Authority registration despite small-scale commercial activity"
+        ],
+        "improvementTips": [
+          "Register pigs with the District Veterinary Office and complete African Swine Fever vaccination immediately",
+          "Construct basic pig containment structures to comply with the municipal animal containment by-law",
+          "Renew cotton grower registration at the district agricultural office before the next planting season"
+        ]
+      },
+      {
+        "category": "Community Engagement",
+        "score": 48,
+        "weight": 15,
+        "weightedScore": 7.2,
+        "explanation": "Community engagement is limited and partly negative due to the free-ranging pig damage causing friction with neighbouring farmers. Mwape is nominally a member of the Solwezi Emergent Farmers Union but has been suspended from credit benefits. Participation in community activities is minimal, though the farmer does engage in informal labour exchange with two neighbouring households.",
+        "positiveFactors": [
+          "Engages in informal labour exchange with 2 neighbouring farming households during peak seasons",
+          "Nominal member of the Solwezi Emergent Farmers Union despite current credit suspension"
+        ],
+        "negativeFactors": [
+          "Free-ranging pigs have damaged crops on 3 neighbouring properties, causing community friction",
+          "Suspended from the union's credit programme, limiting participation in collective activities",
+          "Does not attend farmer union meetings or agricultural extension activities",
+          "No involvement in any community development, youth, or social welfare activities"
+        ],
+        "improvementTips": [
+          "Resolve pig damage disputes with neighbours by constructing containment and offering compensation",
+          "Re-engage with the Solwezi Emergent Farmers Union by attending meetings and working to clear credit arrears",
+          "Participate in at least one community agricultural extension activity per quarter"
+        ]
+      }
+    ],
+    "overallExplanation": "Mwape Sakala operates a very small subsistence-level holding near Solwezi, North-Western Province, facing critical challenges across all assessment dimensions. Cotton production is commercially unviable at the current scale and input level, pig management is unstructured and causing neighbour conflicts through free-ranging, and complete default on two credit cycles has resulted in Credit Reference Bureau adverse listing and suspension from the farmers' union credit programme. Regulatory non-compliance around animal registration, vaccination, and containment by-laws adds further risk. This profile requires urgent support intervention, beginning with household stabilisation, debt restructuring, pig containment, and a realistic reassessment of which agricultural enterprises are viable on a 2-hectare holding.",
+    "topImprovementAreas": [
+      "Negotiate a debt restructuring plan and clear adverse Credit Reference Bureau listing",
+      "Construct pig housing for containment, vaccination, and improved management",
+      "Reassess crop choice and enterprise mix for viability on a 2-hectare holding"
+    ]
+  }
+]

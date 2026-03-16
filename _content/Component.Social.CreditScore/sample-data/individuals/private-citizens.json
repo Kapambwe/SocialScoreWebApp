@@ -1,0 +1,1435 @@
+[
+  {
+    "id": "CIT-001",
+    "name": "Mwamba Chilufya",
+    "role": "Citizen",
+    "organization": "Lusaka Girls Secondary School",
+    "region": "Lusaka",
+    "overallScore": 91,
+    "rating": "Excellent",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-15T08:30:00Z",
+    "occupation": "Teacher",
+    "details": {
+      "financialResponsibility": 88,
+      "legalCompliance": 95,
+      "socialEthicalBehavior": 93,
+      "professionalAchievement": 90,
+      "civicEngagement": 89
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Financial Responsibility",
+        "score": 88,
+        "weight": 25,
+        "weightedScore": 22.0,
+        "explanation": "Mwamba maintains a strong financial record with consistent loan repayments on her Teachers' Credit Union personal loan. Her savings-to-income ratio is above the national average, and she has no outstanding defaults across any financial institution registered with the Credit Reference Bureau of Zambia.",
+        "positiveFactors": [
+          "100% on-time repayment record on K45,000 personal education loan over 36 months",
+          "Active savings account with Zambia National Commercial Bank with consistent monthly deposits",
+          "No adverse credit listings with the Credit Reference Bureau of Zambia",
+          "Participates in a community savings group (chilimba) with 24-month clean record"
+        ],
+        "negativeFactors": [
+          "Debt-to-income ratio slightly elevated at 38% due to recent home improvement loan",
+          "Limited diversification of investments beyond savings account"
+        ],
+        "improvementTips": [
+          "Reduce debt-to-income ratio below 30% by accelerating home improvement loan payments",
+          "Consider opening a fixed deposit or investing in government bonds through the Lusaka Securities Exchange",
+          "Explore pension top-up contributions through the National Pension Scheme Authority (NAPSA)"
+        ]
+      },
+      {
+        "category": "Legal Compliance",
+        "score": 95,
+        "weight": 20,
+        "weightedScore": 19.0,
+        "explanation": "Exemplary legal standing with no criminal record, no civil disputes, and full compliance with tax obligations through the Zambia Revenue Authority (ZRA). Mwamba files her annual tax returns on time and holds all required professional registrations.",
+        "positiveFactors": [
+          "Zero criminal record verified through Zambia Police clearance certificate",
+          "Tax returns filed on time for the past 8 consecutive years with ZRA",
+          "Valid Teaching Council of Zambia registration maintained without lapse",
+          "No civil litigation or labour disputes on record"
+        ],
+        "negativeFactors": [
+          "Minor traffic citation for expired road tax disc in 2024, since resolved"
+        ],
+        "improvementTips": [
+          "Set up automated reminders for vehicle road tax and insurance renewals through RTSA",
+          "Continue maintaining clean legal standing and encourage colleagues to do the same"
+        ]
+      },
+      {
+        "category": "Social & Ethical Behavior",
+        "score": 93,
+        "weight": 20,
+        "weightedScore": 18.6,
+        "explanation": "Mwamba is recognized in her community for integrity and positive social contributions. She volunteers regularly with the Young Women's Christian Association (YWCA) Zambia and mentors young women pursuing careers in education. No reports of unethical conduct or community complaints.",
+        "positiveFactors": [
+          "Active volunteer with YWCA Zambia's girl-child education programme since 2021",
+          "Mentors 12 female students through the Campaign for Female Education (CAMFED) network",
+          "Recognized by the Lusaka District Education Board for ethical leadership in 2025",
+          "No complaints or adverse reports from community, neighbours, or workplace"
+        ],
+        "negativeFactors": [
+          "Limited engagement with environmental sustainability initiatives in the community"
+        ],
+        "improvementTips": [
+          "Join a local environmental group such as the Zambia Climate Change Network",
+          "Organize school-based recycling and tree-planting initiatives to broaden social impact"
+        ]
+      },
+      {
+        "category": "Professional Achievement",
+        "score": 90,
+        "weight": 20,
+        "weightedScore": 18.0,
+        "explanation": "Strong professional track record with a Bachelor of Education from the University of Zambia and 10 years of continuous service. Her students consistently achieve above-average results in Grade 12 national examinations administered by the Examinations Council of Zambia (ECZ).",
+        "positiveFactors": [
+          "Bachelor of Education (Honours) from the University of Zambia",
+          "10 years of uninterrupted teaching service with progressive responsibility",
+          "85% pass rate among her Grade 12 mathematics students in 2025 ECZ examinations",
+          "Completed a Continuing Professional Development (CPD) certificate in STEM education"
+        ],
+        "negativeFactors": [
+          "Has not yet pursued a Master's degree or advanced specialization",
+          "Limited publication or research contributions in education journals"
+        ],
+        "improvementTips": [
+          "Enroll in a part-time Master of Education programme at UNZA or Copperbelt University",
+          "Submit research on innovative STEM teaching methods to the Zambia Journal of Education",
+          "Pursue the Teaching Council of Zambia's Senior Teacher certification"
+        ]
+      },
+      {
+        "category": "Civic Engagement",
+        "score": 89,
+        "weight": 15,
+        "weightedScore": 13.35,
+        "explanation": "Mwamba is an active citizen who participates in local governance processes and community development. She votes consistently, attends Ward Development Committee meetings, and contributes to community-driven projects in her residential area.",
+        "positiveFactors": [
+          "Voted in all national, local, and by-elections since 2011 as verified by the Electoral Commission of Zambia",
+          "Regular attendee at Ward Development Committee meetings in Kabulonga Ward",
+          "Organized a community fundraiser that raised K28,000 for a local clinic maternity wing",
+          "Serves as secretary of the Kabulonga Residents Development Committee"
+        ],
+        "negativeFactors": [
+          "Has not engaged in national-level policy advocacy or public consultations"
+        ],
+        "improvementTips": [
+          "Participate in public consultations hosted by the Ministry of Education on curriculum reform",
+          "Consider joining a national teachers' advocacy body such as the Zambia National Union of Teachers (ZNUT)",
+          "Engage with constituency-level budget tracking through Budget Tracking Alliance Zambia"
+        ]
+      }
+    ],
+    "overallExplanation": "Mwamba Chilufya is an exemplary Zambian citizen who demonstrates strong financial discipline, impeccable legal compliance, and meaningful contributions to her community and profession. Her decade-long teaching career has positively impacted hundreds of students, and her active civic participation strengthens local governance. Minor areas for growth include investment diversification and pursuing advanced academic qualifications.",
+    "topImprovementAreas": [
+      "Diversify personal investments beyond savings to include bonds or unit trusts",
+      "Pursue a Master's degree to enhance professional standing and earning potential",
+      "Broaden civic engagement to include national-level education policy advocacy"
+    ]
+  },
+  {
+    "id": "CIT-002",
+    "name": "Bwalya Mulenga",
+    "role": "Citizen",
+    "organization": "Ndola Central Hospital",
+    "region": "Ndola",
+    "overallScore": 84,
+    "rating": "Good",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-18T14:20:00Z",
+    "occupation": "Nurse",
+    "details": {
+      "financialResponsibility": 80,
+      "legalCompliance": 92,
+      "socialEthicalBehavior": 86,
+      "professionalAchievement": 82,
+      "civicEngagement": 78
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Financial Responsibility",
+        "score": 80,
+        "weight": 25,
+        "weightedScore": 20.0,
+        "explanation": "Bwalya has a generally positive financial profile with regular salary deposits and an active NAPSA pension. However, she recently consolidated two micro-loans from different institutions, and her credit utilization is higher than ideal. She participates in a hospital-based cooperative savings scheme.",
+        "positiveFactors": [
+          "Regular salary deposits from the Ministry of Health with no interruptions",
+          "Active contributor to NAPSA pension scheme for 8 years",
+          "Member of Ndola Central Hospital Cooperative Savings and Credit Society",
+          "No defaults or adverse credit listings on record"
+        ],
+        "negativeFactors": [
+          "Consolidated two micro-loans totalling K32,000 indicating recent high borrowing",
+          "Credit utilization ratio at 45%, above the recommended 30% threshold",
+          "No personal emergency fund beyond the cooperative savings"
+        ],
+        "improvementTips": [
+          "Prioritize paying down the consolidated loan to bring credit utilization below 30%",
+          "Establish a dedicated emergency savings account with at least 3 months of living expenses",
+          "Avoid taking on additional debt until the current loan balance is reduced by 50%"
+        ]
+      },
+      {
+        "category": "Legal Compliance",
+        "score": 92,
+        "weight": 20,
+        "weightedScore": 18.4,
+        "explanation": "Excellent legal standing with a clean criminal record and full compliance with the General Nursing Council of Zambia regulations. All professional registrations and tax filings are current and up to date.",
+        "positiveFactors": [
+          "Clean criminal record verified by Zambia Police Service",
+          "Valid practising licence with the General Nursing Council of Zambia renewed annually",
+          "ZRA tax compliance certificate obtained without issues for 2025",
+          "No malpractice complaints or disciplinary actions on record"
+        ],
+        "negativeFactors": [
+          "One late ZRA quarterly return in 2024 due to postal delays, resolved with penalty waiver"
+        ],
+        "improvementTips": [
+          "Switch to electronic ZRA filing through the TaxOnline portal to avoid postal delays",
+          "Maintain a personal compliance calendar for all professional and tax deadlines"
+        ]
+      },
+      {
+        "category": "Social & Ethical Behavior",
+        "score": 86,
+        "weight": 20,
+        "weightedScore": 17.2,
+        "explanation": "Bwalya is well-regarded in her community for her compassion and ethical conduct. She volunteers at the Ndola District AIDS Coordinating Committee and is known for going beyond her duty to support patients from disadvantaged backgrounds.",
+        "positiveFactors": [
+          "Volunteer nurse at Ndola District Community Health outreach programmes monthly",
+          "Active member of the Ndola District AIDS Coordinating Committee",
+          "Commended twice by hospital management for exemplary patient care",
+          "Provides free health education talks at local churches and community centres"
+        ],
+        "negativeFactors": [
+          "Limited involvement in broader social advocacy beyond health-related causes",
+          "No participation in anti-corruption or transparency initiatives"
+        ],
+        "improvementTips": [
+          "Join the Transparency International Zambia chapter to broaden social impact",
+          "Participate in community anti-Gender Based Violence campaigns through the Ministry of Gender",
+          "Mentor nursing students from rural communities to expand professional social contribution"
+        ]
+      },
+      {
+        "category": "Professional Achievement",
+        "score": 82,
+        "weight": 20,
+        "weightedScore": 16.4,
+        "explanation": "Bwalya holds a Diploma in Nursing from Ndola School of Nursing and has served for 8 years. She recently completed a certificate in HIV/AIDS management. Professional growth has been steady but advancement to senior nursing roles has been slower than peers.",
+        "positiveFactors": [
+          "Diploma in Registered Nursing from Ndola Nursing School with distinction",
+          "8 years of continuous service with the Ministry of Health",
+          "Certificate in HIV/AIDS Management from the University of Zambia distance learning programme",
+          "Consistently positive performance appraisals from ward supervisors"
+        ],
+        "negativeFactors": [
+          "Has not yet advanced to Senior Registered Nurse grade despite eligibility",
+          "No published research or presentations at nursing conferences",
+          "Limited leadership training or management certifications"
+        ],
+        "improvementTips": [
+          "Apply for the Senior Registered Nurse position at the next Ministry of Health recruitment cycle",
+          "Enroll in the Bachelor of Science in Nursing (upgrading) programme at Levy Mwanawasa Medical University",
+          "Present a case study at the Zambia Nurses Association annual conference"
+        ]
+      },
+      {
+        "category": "Civic Engagement",
+        "score": 78,
+        "weight": 15,
+        "weightedScore": 11.7,
+        "explanation": "Bwalya votes regularly and participates in some community activities but has limited engagement with formal civic structures. She has not attended Ward Development Committee meetings or participated in public budgeting processes.",
+        "positiveFactors": [
+          "Consistent voter in all national elections since 2016",
+          "Participated in the 2022 national census as a community enumerator",
+          "Supports neighbourhood watch programme in Kansenshi residential area"
+        ],
+        "negativeFactors": [
+          "Has not attended Ward Development Committee meetings in her area",
+          "No participation in constituency-level public budget consultations",
+          "Limited engagement with local government service delivery monitoring"
+        ],
+        "improvementTips": [
+          "Attend at least quarterly Ward Development Committee meetings in Kansenshi Ward",
+          "Register with the Ndola City Council citizen engagement platform",
+          "Join the community budget monitoring group under the Civil Society for Poverty Reduction network"
+        ]
+      }
+    ],
+    "overallExplanation": "Bwalya Mulenga is a dedicated healthcare professional with strong legal compliance and positive social impact through her nursing career and community health volunteering. Her financial position is sound but could be strengthened by reducing debt levels. Greater engagement in formal civic structures and pursuing professional advancement would elevate her overall standing as an exemplary citizen.",
+    "topImprovementAreas": [
+      "Reduce credit utilization below 30% and build a dedicated emergency fund",
+      "Pursue the Bachelor of Science in Nursing upgrade to advance professionally",
+      "Increase participation in Ward Development Committee meetings and local governance"
+    ]
+  },
+  {
+    "id": "CIT-003",
+    "name": "Kondwani Banda",
+    "role": "Citizen",
+    "organization": "Self-Employed",
+    "region": "Kitwe",
+    "overallScore": 58,
+    "rating": "Needs Improvement",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-20T10:45:00Z",
+    "occupation": "Taxi Driver",
+    "details": {
+      "financialResponsibility": 50,
+      "legalCompliance": 60,
+      "socialEthicalBehavior": 65,
+      "professionalAchievement": 52,
+      "civicEngagement": 58
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Financial Responsibility",
+        "score": 50,
+        "weight": 25,
+        "weightedScore": 12.5,
+        "explanation": "Kondwani operates his taxi business on a largely cash basis with minimal formal financial records. He has a history of late repayments on a vehicle financing loan from a microfinance institution and lacks a formal savings plan. No NAPSA contributions are on record as a self-employed individual.",
+        "positiveFactors": [
+          "Owns his vehicle outright after completing financing payments in 2025",
+          "Has a mobile money account with Airtel Money used for daily transactions",
+          "No court judgments for unpaid debts"
+        ],
+        "negativeFactors": [
+          "3 late payments on vehicle financing loan during 2023-2024 period",
+          "No formal business bank account; all transactions through mobile money or cash",
+          "Zero NAPSA pension contributions as a self-employed worker",
+          "No verifiable savings or emergency fund",
+          "No formal financial records or bookkeeping for taxi business"
+        ],
+        "improvementTips": [
+          "Open a formal business account at a commercial bank and separate personal from business finances",
+          "Register as a self-employed contributor with NAPSA to build retirement savings",
+          "Use a simple mobile app like Zoona or SparkBooks for daily income and expense tracking",
+          "Build an emergency fund of at least K5,000 to cover vehicle repairs and downtime"
+        ]
+      },
+      {
+        "category": "Legal Compliance",
+        "score": 60,
+        "weight": 20,
+        "weightedScore": 12.0,
+        "explanation": "Kondwani has several compliance gaps typical of informal sector workers. His taxi operating licence through the Kitwe City Council has lapsed, and he has accumulated unpaid traffic fines. He is not registered with the ZRA as a self-employed taxpayer.",
+        "positiveFactors": [
+          "Valid Zambia Police criminal clearance with no criminal record",
+          "Valid Class C driving licence issued by RTSA",
+          "Vehicle fitness certificate (road worthiness) currently valid"
+        ],
+        "negativeFactors": [
+          "Taxi operating licence from Kitwe City Council expired 4 months ago",
+          "3 unpaid traffic fines totalling K2,400 from RTSA",
+          "Not registered with ZRA for presumptive tax as a self-employed person",
+          "Vehicle insurance lapsed for 2 months before recent renewal"
+        ],
+        "improvementTips": [
+          "Immediately renew taxi operating licence with Kitwe City Council",
+          "Clear all outstanding RTSA traffic fines and set up a payment plan if needed",
+          "Register with ZRA for presumptive tax to achieve formal tax compliance",
+          "Set calendar reminders for all licence, insurance, and certificate renewals"
+        ]
+      },
+      {
+        "category": "Social & Ethical Behavior",
+        "score": 65,
+        "weight": 20,
+        "weightedScore": 13.0,
+        "explanation": "Kondwani is generally well-regarded by his regular customers and fellow taxi drivers. However, there have been passenger complaints about overcharging during peak hours and his involvement in a minor altercation at a taxi rank in 2025.",
+        "positiveFactors": [
+          "Known for reliable and punctual service among regular customers",
+          "Member of the Kitwe Taxi Drivers Association",
+          "Assists elderly passengers with luggage without extra charge"
+        ],
+        "negativeFactors": [
+          "2 customer complaints filed with the Kitwe Taxi Drivers Association for overcharging",
+          "Involved in a verbal altercation with another driver at Chisokone Market taxi rank",
+          "No formal community service or volunteer activities on record"
+        ],
+        "improvementTips": [
+          "Adopt transparent pricing by using a rate card visible to all passengers",
+          "Complete conflict resolution training offered by the Kitwe City Council community programmes",
+          "Volunteer for at least one community initiative such as road safety awareness campaigns"
+        ]
+      },
+      {
+        "category": "Professional Achievement",
+        "score": 52,
+        "weight": 20,
+        "weightedScore": 10.4,
+        "explanation": "Kondwani completed Grade 12 but has not pursued further formal education or professional certifications. His taxi business operates at subsistence level without growth planning. He has not participated in any skills training or business development programmes.",
+        "positiveFactors": [
+          "Grade 12 certificate from Kitwe Boys Secondary School",
+          "5 years of experience as a taxi driver with knowledge of Copperbelt routes",
+          "Maintains his own vehicle to reduce operational costs"
+        ],
+        "negativeFactors": [
+          "No post-secondary education or vocational training",
+          "No business growth plan or strategy for expanding services",
+          "Has not attended any CEEC or TEVETA-supported skills training programmes",
+          "Does not use ride-hailing technology platforms to expand customer base"
+        ],
+        "improvementTips": [
+          "Register for a short business management course through TEVETA or Kitwe Trades Training Institute",
+          "Apply for a Citizens Economic Empowerment Commission (CEEC) small business grant or loan",
+          "Register on ride-hailing platforms like Yango or Ulendo to access more customers and digital payments",
+          "Develop a simple business plan with revenue targets and vehicle upgrade timeline"
+        ]
+      },
+      {
+        "category": "Civic Engagement",
+        "score": 58,
+        "weight": 15,
+        "weightedScore": 8.7,
+        "explanation": "Kondwani's civic participation is limited to voting in national elections. He does not engage with local governance structures, community development committees, or public consultation processes in his ward.",
+        "positiveFactors": [
+          "Voted in the 2021 general elections and 2023 local by-election",
+          "Member of the Kitwe Taxi Drivers Association which engages with city council on transport policy"
+        ],
+        "negativeFactors": [
+          "Has not attended any Ward Development Committee meeting",
+          "No participation in community development initiatives or neighbourhood committees",
+          "Does not engage with public service delivery feedback mechanisms",
+          "Missed the 2025 voter registration update exercise"
+        ],
+        "improvementTips": [
+          "Register for the next Electoral Commission of Zambia voter roll update",
+          "Attend at least 2 Ward Development Committee meetings per quarter",
+          "Participate in the Kitwe City Council's transport sector stakeholder forum",
+          "Join the Neighbourhood Health Committee in his residential area"
+        ]
+      }
+    ],
+    "overallExplanation": "Kondwani Banda represents a hardworking informal sector worker whose social credit score is hampered by lack of financial formalization, compliance gaps, and limited civic engagement. While he has no criminal record and is known for reliable taxi services, his expired licences, unpaid fines, and absence of formal financial management significantly reduce his standing. With targeted improvements in business formalization and community participation, his score could improve substantially.",
+    "topImprovementAreas": [
+      "Formalize taxi business with proper licensing, ZRA registration, and a business bank account",
+      "Clear all outstanding traffic fines and maintain up-to-date licences and insurance",
+      "Enroll in a TEVETA business skills programme and register on ride-hailing platforms for growth"
+    ]
+  },
+  {
+    "id": "CIT-004",
+    "name": "Thandiwe Phiri",
+    "role": "Citizen",
+    "organization": "Self-Employed",
+    "region": "Livingstone",
+    "overallScore": 70,
+    "rating": "Needs Improvement",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-22T09:15:00Z",
+    "occupation": "Market Trader",
+    "details": {
+      "financialResponsibility": 65,
+      "legalCompliance": 72,
+      "socialEthicalBehavior": 78,
+      "professionalAchievement": 62,
+      "civicEngagement": 73
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Financial Responsibility",
+        "score": 65,
+        "weight": 25,
+        "weightedScore": 16.25,
+        "explanation": "Thandiwe runs a vegetable and dried fish trading business at Maramba Market in Livingstone. She has a basic mobile money account but lacks formal banking relationships. Her participation in a market women's savings group (chilimba) provides some financial discipline, but income records are inconsistent.",
+        "positiveFactors": [
+          "Active member of Maramba Market Women's Savings Group for 3 years",
+          "Uses MTN Mobile Money for supplier payments providing some digital transaction trail",
+          "No outstanding debts with any formal financial institution",
+          "Successfully saved K15,000 through chilimba group for stock expansion"
+        ],
+        "negativeFactors": [
+          "No formal business bank account or financial statements",
+          "Income and expenses tracked informally with no verifiable records",
+          "No insurance coverage for business stock or health",
+          "Zero NAPSA contributions for retirement planning"
+        ],
+        "improvementTips": [
+          "Open a business savings account at National Savings and Credit Bank (NATSAVE) which has low minimum balances",
+          "Enroll in the Women's Financial Inclusion programme run by the Bank of Zambia",
+          "Register for NAPSA voluntary contributions to build pension benefits",
+          "Keep a daily sales record book to build a financial track record for future loan applications"
+        ]
+      },
+      {
+        "category": "Legal Compliance",
+        "score": 72,
+        "weight": 20,
+        "weightedScore": 14.4,
+        "explanation": "Thandiwe holds a valid Livingstone City Council trading licence but has gaps in tax registration. She operates in the informal sector and is not registered for ZRA turnover tax, which applies to businesses earning below K800,000 annually.",
+        "positiveFactors": [
+          "Valid Livingstone City Council market trading licence renewed for 2026",
+          "Clean criminal record with no offences or civil disputes",
+          "Complies with Maramba Market health and sanitation regulations for food traders",
+          "Valid National Registration Card (NRC) and voter registration"
+        ],
+        "negativeFactors": [
+          "Not registered with ZRA for turnover tax despite meeting the threshold",
+          "No PACRA business registration despite operating commercially for 5 years",
+          "Health inspection compliance inconsistent during rainy season months"
+        ],
+        "improvementTips": [
+          "Register the business with PACRA as a sole proprietorship for K150 to gain formal status",
+          "Register with ZRA for turnover tax and file simplified annual returns",
+          "Invest in improved storage facilities to maintain food safety standards year-round"
+        ]
+      },
+      {
+        "category": "Social & Ethical Behavior",
+        "score": 78,
+        "weight": 20,
+        "weightedScore": 15.6,
+        "explanation": "Thandiwe is well-known in the Maramba Market community for fair dealing and support of fellow traders. She mentors young women entering the market trading business and is trusted by customers for honest pricing and quality produce.",
+        "positiveFactors": [
+          "Mentors 5 young women starting their market trading businesses",
+          "Known for fair pricing and not engaging in price-fixing with other traders",
+          "Regularly donates unsold produce to Livingstone orphanages to reduce food waste",
+          "Active member of St. Mary's Catholic Church women's guild"
+        ],
+        "negativeFactors": [
+          "Occasional disputes with neighbouring traders over stall boundaries",
+          "Has not engaged in broader community social responsibility beyond the market"
+        ],
+        "improvementTips": [
+          "Formalize the mentorship programme by registering with the Small Enterprise Development Board",
+          "Participate in community clean-up campaigns organized by the Livingstone City Council",
+          "Join the Livingstone Chamber of Commerce small traders' section for broader networking"
+        ]
+      },
+      {
+        "category": "Professional Achievement",
+        "score": 62,
+        "weight": 20,
+        "weightedScore": 12.4,
+        "explanation": "Thandiwe completed Grade 9 education and has 8 years of market trading experience. While she has built a viable livelihood, she has not pursued formal skills training or expanded her business beyond a single market stall.",
+        "positiveFactors": [
+          "8 years of continuous market trading experience with a loyal customer base",
+          "Successfully expanded product range from vegetables only to include dried fish and spices",
+          "Has built supplier relationships across Southern and Western Provinces"
+        ],
+        "negativeFactors": [
+          "Grade 9 education with no additional formal training or certifications",
+          "Business limited to a single market stall with no expansion strategy",
+          "No digital presence or use of e-commerce for business growth",
+          "Has not applied for any government or NGO business support programmes"
+        ],
+        "improvementTips": [
+          "Enroll in the TEVETA short course on small business management available in Livingstone",
+          "Apply for a CEEC women's empowerment fund loan to expand to a second trading location",
+          "Create a WhatsApp Business profile to reach customers in Livingstone's tourism sector",
+          "Attend Livingstone trade fairs to connect with hotels and lodges for bulk supply opportunities"
+        ]
+      },
+      {
+        "category": "Civic Engagement",
+        "score": 73,
+        "weight": 15,
+        "weightedScore": 10.95,
+        "explanation": "Thandiwe participates in local governance through the Maramba Market Committee and votes regularly. However, her engagement is largely limited to market-related issues and does not extend to broader ward or district-level civic activities.",
+        "positiveFactors": [
+          "Elected member of the Maramba Market Traders Committee for 2024-2026 term",
+          "Voted in the 2021 general elections and all subsequent by-elections",
+          "Participated in the Livingstone City Council consultation on market infrastructure upgrades"
+        ],
+        "negativeFactors": [
+          "Does not attend Ward Development Committee meetings outside of market-related issues",
+          "No involvement in school or health committee governance in her residential area",
+          "Has not participated in national public consultations on trade policy"
+        ],
+        "improvementTips": [
+          "Attend Ward Development Committee meetings in Maramba Ward regularly",
+          "Join the Parent-Teacher Association at her children's school to broaden civic involvement",
+          "Participate in public consultations on the Zambia Trade Policy through the Ministry of Commerce"
+        ]
+      }
+    ],
+    "overallExplanation": "Thandiwe Phiri is a resilient and industrious market trader who has built a stable livelihood through 8 years of honest trading. Her strong community reputation and market leadership are positive indicators. However, the lack of business formalization, tax registration, and limited formal education constrain her overall score. Formalizing her business and engaging in skills training would significantly improve her standing.",
+    "topImprovementAreas": [
+      "Register the business with PACRA and ZRA to move from informal to formal sector status",
+      "Open a business bank account and begin keeping formal financial records",
+      "Enroll in a TEVETA business skills programme and explore CEEC funding for business expansion"
+    ]
+  },
+  {
+    "id": "CIT-005",
+    "name": "Chisanga Mwansa",
+    "role": "Citizen",
+    "organization": "Mwansa & Associates Legal Practitioners",
+    "region": "Chipata",
+    "overallScore": 87,
+    "rating": "Good",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-25T11:00:00Z",
+    "occupation": "Lawyer",
+    "details": {
+      "financialResponsibility": 90,
+      "legalCompliance": 88,
+      "socialEthicalBehavior": 85,
+      "professionalAchievement": 89,
+      "civicEngagement": 82
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Financial Responsibility",
+        "score": 90,
+        "weight": 25,
+        "weightedScore": 22.5,
+        "explanation": "Chisanga maintains an excellent financial profile as the managing partner of a successful law firm in Chipata. He has diversified investments, a clean credit history, and contributes to NAPSA for all firm employees. His firm's financial statements are audited annually.",
+        "positiveFactors": [
+          "Clean credit record with no defaults across all banking institutions",
+          "Firm's annual financial statements audited by a ZICA-registered auditor",
+          "Owns commercial property in Chipata CBD generating rental income",
+          "Active contributor to NAPSA for self and all 6 firm employees",
+          "Maintains K120,000 in fixed deposits as a financial buffer"
+        ],
+        "negativeFactors": [
+          "Outstanding mortgage balance of K450,000, though payments are current",
+          "Firm's receivables collection period averages 75 days, above the 45-day target"
+        ],
+        "improvementTips": [
+          "Implement a stricter client billing and collections policy to reduce receivables period to 45 days",
+          "Consider additional investment diversification through the Lusaka Securities Exchange",
+          "Review mortgage terms for potential refinancing at a lower interest rate"
+        ]
+      },
+      {
+        "category": "Legal Compliance",
+        "score": 88,
+        "weight": 20,
+        "weightedScore": 17.6,
+        "explanation": "As a legal practitioner, Chisanga maintains high compliance standards. He holds a current Law Association of Zambia (LAZ) practising certificate, files taxes on time, and has no adverse disciplinary findings. One client complaint was investigated and dismissed by the LAZ Ethics Committee.",
+        "positiveFactors": [
+          "Current LAZ practising certificate maintained without interruption for 12 years",
+          "All ZRA corporate and personal tax returns filed on time with clean compliance record",
+          "Firm registered with PACRA and compliant with all annual return filings",
+          "Zero criminal record and no adverse court findings in personal capacity"
+        ],
+        "negativeFactors": [
+          "One client complaint filed with LAZ Ethics Committee in 2024, investigated and dismissed",
+          "Minor delay in filing NAPSA returns for Q3 2025, resolved with late filing penalty"
+        ],
+        "improvementTips": [
+          "Implement automated payroll compliance software to prevent NAPSA filing delays",
+          "Conduct annual internal ethics and compliance review for all firm lawyers",
+          "Establish a formal client feedback system to address concerns before they escalate to LAZ"
+        ]
+      },
+      {
+        "category": "Social & Ethical Behavior",
+        "score": 85,
+        "weight": 20,
+        "weightedScore": 17.0,
+        "explanation": "Chisanga provides pro bono legal services to vulnerable clients in Eastern Province and is involved in access-to-justice initiatives. He is respected in Chipata's legal community for ethical practice, though his involvement in broader social causes beyond legal services is limited.",
+        "positiveFactors": [
+          "Provides pro bono legal services to at least 10 vulnerable clients annually through the LAZ legal aid scheme",
+          "Board member of the Chipata Legal Resources Foundation",
+          "Participates in legal awareness campaigns in rural areas of Eastern Province",
+          "No adverse ethical findings from the LAZ Ethics Committee"
+        ],
+        "negativeFactors": [
+          "Social contributions largely limited to legal profession-related activities",
+          "Limited engagement with non-legal community development initiatives"
+        ],
+        "improvementTips": [
+          "Expand community involvement beyond legal services to include education or health initiatives",
+          "Support a community sports programme or youth mentorship initiative in Chipata",
+          "Join the Chipata Rotary Club or Lions Club for broader community service engagement"
+        ]
+      },
+      {
+        "category": "Professional Achievement",
+        "score": 89,
+        "weight": 20,
+        "weightedScore": 17.8,
+        "explanation": "Chisanga holds an LLB from the University of Zambia and was admitted to the Zambian Bar in 2014. He has built a reputable law firm in Chipata with 6 employees and is recognized in Eastern Province for expertise in land law and commercial transactions.",
+        "positiveFactors": [
+          "Bachelor of Laws (LLB) from the University of Zambia, admitted to the Bar in 2014",
+          "Founded and manages a successful law firm with 6 employees",
+          "Recognized by Legal Aid Board for outstanding pro bono contributions in 2025",
+          "Published 3 articles on Zambian land law in the LAZ Legal Journal",
+          "Invited speaker at the 2025 Eastern Province Bar Association annual conference"
+        ],
+        "negativeFactors": [
+          "Has not pursued a Master of Laws (LLM) or specialized certification",
+          "Firm has not expanded beyond Chipata despite demand in neighbouring districts"
+        ],
+        "improvementTips": [
+          "Pursue an LLM in Commercial Law through the University of Zambia's distance learning programme",
+          "Consider opening a satellite office in Lundazi or Petauke to serve the broader Eastern Province",
+          "Apply for accreditation as an arbitrator through the Zambia Institute of Arbitrators"
+        ]
+      },
+      {
+        "category": "Civic Engagement",
+        "score": 82,
+        "weight": 15,
+        "weightedScore": 12.3,
+        "explanation": "Chisanga is civically active through his legal profession, providing voter education and election observation. He engages with local governance through the Chipata District Development Coordinating Committee but could do more in direct community governance.",
+        "positiveFactors": [
+          "Provided voter education during 2021 elections through the LAZ civic education programme",
+          "Member of the Chipata District Development Coordinating Committee",
+          "Consistent voter in all elections since 2006",
+          "Represents community interests in land disputes at no charge through community mediation"
+        ],
+        "negativeFactors": [
+          "Does not actively participate in Ward Development Committee meetings",
+          "Limited engagement with constituency-level budget tracking and accountability"
+        ],
+        "improvementTips": [
+          "Attend Ward Development Committee meetings to contribute legal expertise to community planning",
+          "Join the Eastern Province Civil Society Budget Monitoring Network",
+          "Offer free legal clinics at the constituency level to strengthen community ties"
+        ]
+      }
+    ],
+    "overallExplanation": "Chisanga Mwansa is a highly accomplished legal professional who contributes meaningfully to access to justice in Eastern Province. His strong financial management, professional reputation, and pro bono work are commendable. Broadening his social engagement beyond the legal profession and pursuing advanced legal qualifications would further enhance his already strong citizen profile.",
+    "topImprovementAreas": [
+      "Broaden community involvement beyond legal profession to include social development initiatives",
+      "Pursue an LLM qualification to further professional growth and credibility",
+      "Tighten firm receivables management and engage more in local governance budget processes"
+    ]
+  },
+  {
+    "id": "CIT-006",
+    "name": "Mutale Kasonde",
+    "role": "Citizen",
+    "organization": "BongoHive Technology",
+    "region": "Kabwe",
+    "overallScore": 93,
+    "rating": "Excellent",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-28T16:30:00Z",
+    "occupation": "Software Developer",
+    "details": {
+      "financialResponsibility": 94,
+      "legalCompliance": 96,
+      "socialEthicalBehavior": 91,
+      "professionalAchievement": 95,
+      "civicEngagement": 88
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Financial Responsibility",
+        "score": 94,
+        "weight": 25,
+        "weightedScore": 23.5,
+        "explanation": "Mutale demonstrates exceptional financial management with a diversified portfolio including Lusaka Securities Exchange investments, fixed deposits, and voluntary NAPSA top-up contributions. Her debt-to-income ratio is well below 20%, and she maintains a 6-month emergency fund.",
+        "positiveFactors": [
+          "Investment portfolio on the Lusaka Securities Exchange valued at K180,000",
+          "Zero adverse credit listings, with 100% on-time loan repayments",
+          "Voluntary NAPSA top-up contributions of K2,000 per month beyond employer deductions",
+          "6-month emergency fund maintained in a high-yield savings account",
+          "Debt-to-income ratio at 15%, well below the 30% recommended threshold"
+        ],
+        "negativeFactors": [
+          "Limited investment in real estate or physical assets",
+          "No life insurance policy beyond basic employer-provided cover"
+        ],
+        "improvementTips": [
+          "Consider real estate investment to diversify portfolio beyond financial instruments",
+          "Take out a comprehensive life insurance policy to protect dependents",
+          "Explore regional investment opportunities through the COMESA cross-border investment framework"
+        ]
+      },
+      {
+        "category": "Legal Compliance",
+        "score": 96,
+        "weight": 20,
+        "weightedScore": 19.2,
+        "explanation": "Impeccable legal compliance across all areas. Mutale files personal and business tax returns on time, holds all required professional certifications, and has never had any legal issue or dispute. She is a model of compliance for the technology sector.",
+        "positiveFactors": [
+          "Flawless ZRA tax compliance record for 7 consecutive years",
+          "Clean criminal record verified by Zambia Police Service",
+          "Fully compliant with Zambia Information and Communications Technology Authority (ZICTA) regulations for software development",
+          "No civil disputes, labour complaints, or legal proceedings of any kind"
+        ],
+        "negativeFactors": [
+          "No formal data protection officer certification despite handling client data"
+        ],
+        "improvementTips": [
+          "Obtain a formal Data Protection Officer certification aligned with Zambia's Data Protection Act 2021",
+          "Stay updated on ZICTA's evolving regulations for digital services and AI technologies"
+        ]
+      },
+      {
+        "category": "Social & Ethical Behavior",
+        "score": 91,
+        "weight": 20,
+        "weightedScore": 18.2,
+        "explanation": "Mutale is a prominent advocate for technology education in Zambia, particularly for young women. She leads coding boot camps, mentors aspiring developers, and contributes to open-source projects that benefit Zambian communities.",
+        "positiveFactors": [
+          "Conducts free monthly coding boot camps for 30+ young women in Kabwe through iSchool Zambia partnership",
+          "Contributed to 3 open-source projects used by Zambian health clinics for patient management",
+          "Mentors 8 young developers through the BongoHive incubator programme",
+          "Featured in the Times of Zambia as one of Zambia's top 10 women in technology 2025"
+        ],
+        "negativeFactors": [
+          "Social contributions heavily focused on technology sector; limited engagement with non-tech communities",
+          "No involvement in environmental or climate-related initiatives"
+        ],
+        "improvementTips": [
+          "Develop a technology solution for environmental monitoring in partnership with the Zambia Environmental Management Agency (ZEMA)",
+          "Expand coding education outreach to rural areas beyond Kabwe through mobile training units",
+          "Join the Zambia Climate Change Network's technology working group"
+        ]
+      },
+      {
+        "category": "Professional Achievement",
+        "score": 95,
+        "weight": 20,
+        "weightedScore": 19.0,
+        "explanation": "Mutale is one of Zambia's leading software developers with a BSc in Computer Science from Copperbelt University and a Google Professional Cloud Developer certification. She has built enterprise applications for Zambian government agencies and private sector clients.",
+        "positiveFactors": [
+          "BSc in Computer Science (First Class Honours) from Copperbelt University",
+          "Google Professional Cloud Developer certification (2024)",
+          "Lead developer on the Smart Zambia Institute's digital government services platform",
+          "3 published papers on technology for development in Zambian academic journals",
+          "Winner of the 2025 Zambia ICT Awards for Best Mobile Application"
+        ],
+        "negativeFactors": [
+          "Has not yet pursued a Master's degree in a technology discipline",
+          "Limited international conference presentations or publications"
+        ],
+        "improvementTips": [
+          "Apply for a scholarship to pursue an MSc in Computer Science or Artificial Intelligence",
+          "Submit research papers to international conferences such as AfriCHI or IEEE Africa",
+          "Pursue additional certifications in cybersecurity given Zambia's growing digital economy"
+        ]
+      },
+      {
+        "category": "Civic Engagement",
+        "score": 88,
+        "weight": 15,
+        "weightedScore": 13.2,
+        "explanation": "Mutale is an engaged citizen who uses her technology skills to support civic processes. She built a free constituency feedback app used in Kabwe Central and participates in national digital policy consultations.",
+        "positiveFactors": [
+          "Built a free constituency feedback mobile app used by 3,000+ Kabwe residents",
+          "Participated in the Ministry of Technology's national digital transformation policy consultation",
+          "Consistent voter and active promoter of voter registration through social media campaigns",
+          "Serves on the ZICTA Consumer Advisory Committee representing technology users"
+        ],
+        "negativeFactors": [
+          "Does not attend Ward Development Committee meetings in person",
+          "Civic engagement is largely technology-mediated rather than direct community interaction"
+        ],
+        "improvementTips": [
+          "Attend Ward Development Committee meetings in person to complement digital engagement",
+          "Develop digital tools for citizen budget monitoring and share with civil society organizations",
+          "Train community leaders in Kabwe to use digital civic engagement tools effectively"
+        ]
+      }
+    ],
+    "overallExplanation": "Mutale Kasonde is an outstanding Zambian citizen whose excellence in technology, financial discipline, and social contribution set a high standard. Her work on government digital platforms and free coding education for women demonstrates a deep commitment to national development. Her near-perfect legal compliance and diversified financial management further strengthen her profile. Broadening social engagement beyond the technology sector and pursuing advanced academic qualifications are the primary areas for further growth.",
+    "topImprovementAreas": [
+      "Expand social impact to include environmental and non-technology community initiatives",
+      "Pursue a Master's degree and present research at international technology conferences",
+      "Take out comprehensive life insurance and consider real estate investment diversification"
+    ]
+  },
+  {
+    "id": "CIT-007",
+    "name": "Joseph Mwale",
+    "role": "Citizen",
+    "organization": "Zambia Police Service",
+    "region": "Solwezi",
+    "overallScore": 66,
+    "rating": "Needs Improvement",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-02-01T13:10:00Z",
+    "occupation": "Police Officer",
+    "details": {
+      "financialResponsibility": 55,
+      "legalCompliance": 70,
+      "socialEthicalBehavior": 62,
+      "professionalAchievement": 72,
+      "civicEngagement": 75
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Financial Responsibility",
+        "score": 55,
+        "weight": 25,
+        "weightedScore": 13.75,
+        "explanation": "Joseph faces financial challenges common among Zambian civil servants. He has multiple active loans across different lending institutions and his debt-to-income ratio exceeds 50%. While NAPSA contributions are deducted automatically, his take-home pay is significantly reduced by loan deductions.",
+        "positiveFactors": [
+          "NAPSA pension contributions consistently deducted from salary for 14 years",
+          "Has never defaulted on any loan despite high debt burden",
+          "Salary received consistently through government payroll"
+        ],
+        "negativeFactors": [
+          "Debt-to-income ratio at 55%, with 3 concurrent loans from different institutions",
+          "Over 60% of net salary consumed by loan repayments",
+          "No personal savings beyond NAPSA pension",
+          "Borrowed from a salary-backed lending institution at 30% annual interest rate",
+          "No budget or financial plan for household expenses"
+        ],
+        "improvementTips": [
+          "Seek financial counselling through the Zambia Police Welfare Department",
+          "Consolidate all loans into a single lower-interest facility through a commercial bank",
+          "Create a household budget using the Financial Sector Deepening Zambia budgeting tools",
+          "Avoid taking any new loans until current debt-to-income ratio is below 35%",
+          "Build an emergency fund of at least K3,000 in a separate savings account"
+        ]
+      },
+      {
+        "category": "Legal Compliance",
+        "score": 70,
+        "weight": 20,
+        "weightedScore": 14.0,
+        "explanation": "As a police officer, Joseph is held to a high standard of legal compliance. While he has no criminal record, he received an internal disciplinary warning in 2024 for conduct unbecoming, and there is a pending investigation into allegations of soliciting informal payments at a roadblock.",
+        "positiveFactors": [
+          "No criminal record or convictions",
+          "Tax obligations handled through PAYE deductions from salary",
+          "Holds valid Zambia Police identification and service credentials",
+          "14 years of continuous service without dismissal"
+        ],
+        "negativeFactors": [
+          "Internal disciplinary warning for conduct unbecoming in 2024",
+          "Pending investigation into alleged soliciting of informal payments at a Solwezi roadblock",
+          "2 public complaints on file with the Police Public Complaints Commission"
+        ],
+        "improvementTips": [
+          "Fully cooperate with the pending investigation and maintain transparent conduct",
+          "Complete the Zambia Police Service anti-corruption training programme",
+          "Request transfer to a community policing unit to rebuild public trust",
+          "Engage with the Police Public Complaints Commission proactively to resolve outstanding complaints"
+        ]
+      },
+      {
+        "category": "Social & Ethical Behavior",
+        "score": 62,
+        "weight": 20,
+        "weightedScore": 12.4,
+        "explanation": "Joseph's social standing in the community has been affected by the pending investigation and public complaints. While he participates in some community policing activities, his reputation has been impacted by allegations of misconduct.",
+        "positiveFactors": [
+          "Participates in community policing forum meetings in Solwezi Central",
+          "Coached the Solwezi Police youth football team for 3 years",
+          "No domestic violence reports or family court proceedings"
+        ],
+        "negativeFactors": [
+          "Community perception affected by pending misconduct investigation",
+          "2 formal public complaints about unprofessional behaviour during duties",
+          "Limited positive community engagement beyond work-related policing activities",
+          "No volunteer work or community service outside of police duties"
+        ],
+        "improvementTips": [
+          "Increase community service activities outside of police duties to rebuild trust",
+          "Volunteer with organizations like Neighbourhood Watch Zambia in Solwezi",
+          "Complete anger management and professional conduct training",
+          "Actively participate in community reconciliation and relationship-building events"
+        ]
+      },
+      {
+        "category": "Professional Achievement",
+        "score": 72,
+        "weight": 20,
+        "weightedScore": 14.4,
+        "explanation": "Joseph holds a Zambia Police Training College certificate and has attained the rank of Sergeant after 14 years of service. His career progression has been average, and the pending disciplinary matter may affect future promotions.",
+        "positiveFactors": [
+          "Zambia Police Training College certificate of completion",
+          "Promoted to rank of Sergeant after 10 years of service",
+          "Completed a certificate course in criminal investigations from Lilayi Police Training College",
+          "14 years of uninterrupted service with the Zambia Police Service"
+        ],
+        "negativeFactors": [
+          "Career progression slower than peers, with no promotion in the last 4 years",
+          "Pending disciplinary matter may delay or prevent further promotions",
+          "No university degree or advanced professional qualifications",
+          "Has not completed the required Senior Officers' Course at Staff College"
+        ],
+        "improvementTips": [
+          "Resolve the pending disciplinary matter to clear the path for promotion",
+          "Enroll in a part-time diploma or degree programme at Mulungushi University or UNZA",
+          "Complete the Senior Officers' Course at Zambia Police Staff College when eligible",
+          "Apply for specialized training in cybercrime or forensics to enhance career prospects"
+        ]
+      },
+      {
+        "category": "Civic Engagement",
+        "score": 75,
+        "weight": 15,
+        "weightedScore": 11.25,
+        "explanation": "Joseph's civic engagement benefits from his law enforcement role, which naturally involves community interaction. He participates in community policing forums and voter education. However, engagement beyond his professional role is limited.",
+        "positiveFactors": [
+          "Active participant in Solwezi Community Policing Forum quarterly meetings",
+          "Assisted the Electoral Commission of Zambia with election security in 2021",
+          "Consistent voter in all elections",
+          "Coaches youth football which provides mentorship to at-risk youth"
+        ],
+        "negativeFactors": [
+          "Civic engagement mostly limited to police-related community activities",
+          "Does not participate in Ward Development Committee meetings as a resident",
+          "No involvement in civil society organizations or community development groups"
+        ],
+        "improvementTips": [
+          "Attend Ward Development Committee meetings in his residential area as a citizen, not as police",
+          "Join a service organization like the Solwezi Lions Club or community development committee",
+          "Volunteer for community safety education programmes in schools"
+        ]
+      }
+    ],
+    "overallExplanation": "Joseph Mwale's social credit score reflects significant challenges in financial management and ethical conduct that undermine an otherwise steady career in law enforcement. His high debt burden, pending misconduct investigation, and public complaints are serious concerns. However, his 14 years of unbroken service, youth mentorship through football coaching, and community policing participation show positive foundations. Resolving the pending investigation, reducing debt, and increasing genuine community engagement are critical to improving his standing.",
+    "topImprovementAreas": [
+      "Urgently address the debt burden by consolidating loans and seeking financial counselling",
+      "Resolve the pending disciplinary investigation and restore professional reputation",
+      "Expand community engagement beyond police duties and rebuild public trust through volunteer service"
+    ]
+  },
+  {
+    "id": "CIT-008",
+    "name": "Naomi Tembo",
+    "role": "Citizen",
+    "organization": "Grant Thornton Zambia",
+    "region": "Kasama",
+    "overallScore": 82,
+    "rating": "Good",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-02-03T08:45:00Z",
+    "occupation": "Accountant",
+    "details": {
+      "financialResponsibility": 88,
+      "legalCompliance": 85,
+      "socialEthicalBehavior": 79,
+      "professionalAchievement": 83,
+      "civicEngagement": 72
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Financial Responsibility",
+        "score": 88,
+        "weight": 25,
+        "weightedScore": 22.0,
+        "explanation": "As a qualified accountant, Naomi practises strong financial discipline. She maintains a diversified savings portfolio, contributes to NAPSA, and has a clean credit history. Her household budget is well-managed with a savings rate above the national average.",
+        "positiveFactors": [
+          "Clean credit record with no defaults or late payments across all financial institutions",
+          "Saves 20% of monthly income, well above the national average of 8%",
+          "Active NAPSA contributor with additional voluntary pension contributions",
+          "Diversified savings across fixed deposits, Treasury bills, and a unit trust fund",
+          "Maintains comprehensive health and life insurance coverage"
+        ],
+        "negativeFactors": [
+          "Mortgage on Kasama residential property at K380,000 outstanding balance",
+          "Has not yet invested in the Lusaka Securities Exchange equity market"
+        ],
+        "improvementTips": [
+          "Begin investing in equities through the Lusaka Securities Exchange for long-term wealth growth",
+          "Consider overpaying the mortgage to reduce the overall interest burden",
+          "Explore agricultural investment opportunities in Northern Province for portfolio diversification"
+        ]
+      },
+      {
+        "category": "Legal Compliance",
+        "score": 85,
+        "weight": 20,
+        "weightedScore": 17.0,
+        "explanation": "Naomi holds current professional registrations with the Zambia Institute of Chartered Accountants (ZICA) and is compliant with all tax and regulatory requirements. One minor compliance issue related to a late CPD submission was resolved without penalty.",
+        "positiveFactors": [
+          "Current ZICA Practising Certificate maintained for 6 consecutive years",
+          "ZRA personal and firm tax returns filed on time consistently",
+          "Clean criminal record and no civil litigation",
+          "Fully compliant with the Financial Intelligence Centre Act reporting requirements"
+        ],
+        "negativeFactors": [
+          "Late submission of Continuing Professional Development (CPD) hours to ZICA in 2025",
+          "One client engagement letter found non-compliant during firm's internal quality review"
+        ],
+        "improvementTips": [
+          "Set up a CPD tracking system to ensure timely submission before ZICA deadlines",
+          "Review and standardize all client engagement letter templates to ensure ZICA compliance",
+          "Complete the ZICA Ethics and Professional Conduct refresher course"
+        ]
+      },
+      {
+        "category": "Social & Ethical Behavior",
+        "score": 79,
+        "weight": 20,
+        "weightedScore": 15.8,
+        "explanation": "Naomi is respected in Kasama's professional community and contributes through financial literacy education. However, her social engagement is primarily professional in nature, with limited involvement in broader community welfare initiatives.",
+        "positiveFactors": [
+          "Conducts quarterly financial literacy workshops at Kasama public library for small business owners",
+          "Provides free tax filing assistance to elderly community members during ZRA filing season",
+          "Member of the Kasama Business and Professional Women's Association",
+          "No ethical complaints or professional misconduct reports"
+        ],
+        "negativeFactors": [
+          "Social contributions largely limited to accounting and finance-related activities",
+          "No involvement with orphanages, hospitals, or grassroots community organisations in Kasama",
+          "Limited visibility in broader social welfare causes in Northern Province"
+        ],
+        "improvementTips": [
+          "Volunteer with a non-finance community organization such as Kasama District Hospital welfare committee",
+          "Join the Northern Province chapter of Habitat for Humanity for community housing projects",
+          "Mentor young women from disadvantaged backgrounds pursuing careers in accounting"
+        ]
+      },
+      {
+        "category": "Professional Achievement",
+        "score": 83,
+        "weight": 20,
+        "weightedScore": 16.6,
+        "explanation": "Naomi is a ZICA Fellow with 9 years of professional experience in audit and advisory. She has progressed to Senior Audit Manager at Grant Thornton Zambia's Northern Province office. Her professional growth is steady, though international certifications would enhance her profile.",
+        "positiveFactors": [
+          "Fellow of the Zambia Institute of Chartered Accountants (FZICA)",
+          "Senior Audit Manager at Grant Thornton Zambia with 9 years of experience",
+          "Led audit engagements for 5 major Northern Province government entities",
+          "Published an article on public sector audit challenges in the ZICA Accountant Journal"
+        ],
+        "negativeFactors": [
+          "Has not pursued international certifications such as ACCA or CPA",
+          "Limited experience with international financial reporting standards (IFRS) for listed companies",
+          "No progression toward partnership track at the firm"
+        ],
+        "improvementTips": [
+          "Pursue the ACCA qualification to gain international recognition and mobility",
+          "Seek secondment to Grant Thornton's Lusaka office to gain listed company audit experience",
+          "Discuss partnership track requirements and timeline with firm leadership"
+        ]
+      },
+      {
+        "category": "Civic Engagement",
+        "score": 72,
+        "weight": 15,
+        "weightedScore": 10.8,
+        "explanation": "Naomi's civic engagement is modest, primarily limited to voting and professional association activities. She has not actively participated in local governance structures or community development committees in Kasama.",
+        "positiveFactors": [
+          "Consistent voter in all national and local elections",
+          "Participates in ZICA Northern Province Chapter advocacy activities",
+          "Contributed financial expertise to a Kasama school building fundraiser"
+        ],
+        "negativeFactors": [
+          "Does not attend Ward Development Committee meetings in her residential area",
+          "No involvement in constituency-level budget monitoring or public accountability",
+          "Has not participated in any public consultations hosted by local government",
+          "Limited engagement with civil society organizations in Northern Province"
+        ],
+        "improvementTips": [
+          "Join the Ward Development Committee in her residential area to provide financial oversight expertise",
+          "Participate in the Northern Province Civil Society Budget Tracking initiative",
+          "Volunteer audit skills to local community organizations that need financial accountability support",
+          "Attend at least 2 Kasama District public consultations per year"
+        ]
+      }
+    ],
+    "overallExplanation": "Naomi Tembo is a well-qualified and financially disciplined professional whose accounting expertise benefits both her employer and the local community through financial literacy programmes. Her clean legal record and strong savings habits reflect responsible citizenship. However, her relatively narrow social engagement and limited civic participation beyond professional activities prevent her from reaching the Excellent tier. Broadening community involvement and pursuing international professional certifications would strengthen her profile significantly.",
+    "topImprovementAreas": [
+      "Broaden social engagement to include non-finance community welfare activities",
+      "Increase civic participation by joining Ward Development Committee and budget monitoring groups",
+      "Pursue ACCA certification and seek partnership track progression at Grant Thornton"
+    ]
+  },
+  {
+    "id": "CIT-009",
+    "name": "Patrick Munkombwe",
+    "role": "Citizen",
+    "organization": "Munkombwe Farming Enterprise",
+    "region": "Mongu",
+    "overallScore": 44,
+    "rating": "Poor",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-02-05T07:30:00Z",
+    "occupation": "Farmer & Businessperson",
+    "details": {
+      "financialResponsibility": 35,
+      "legalCompliance": 42,
+      "socialEthicalBehavior": 50,
+      "professionalAchievement": 48,
+      "civicEngagement": 45
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Financial Responsibility",
+        "score": 35,
+        "weight": 25,
+        "weightedScore": 8.75,
+        "explanation": "Patrick's financial record is severely impacted by a defaulted agricultural loan from the Lima Credit Scheme and multiple outstanding debts with microfinance institutions. His farm business operates without any financial records, and he has been listed adversely with the Credit Reference Bureau of Zambia.",
+        "positiveFactors": [
+          "Owns 20 hectares of farmland in Mongu District with valid customary land certificate",
+          "Generates seasonal income from rice and cassava farming"
+        ],
+        "negativeFactors": [
+          "Defaulted on K85,000 Lima Credit Scheme agricultural loan in 2024",
+          "Listed adversely with the Credit Reference Bureau of Zambia",
+          "3 outstanding debts with different microfinance institutions totalling K42,000",
+          "No formal financial records for farming enterprise",
+          "Zero NAPSA contributions for self or any farm workers",
+          "No insurance coverage for crops, livestock, or farm equipment",
+          "Cash-only operations with no banking or mobile money records"
+        ],
+        "improvementTips": [
+          "Contact Lima Credit Scheme immediately to negotiate a debt restructuring plan",
+          "Seek financial counselling through the Zambia National Farmers' Union (ZNFU) advisory service",
+          "Open a basic bank account at NATSAVE or Zambia National Commercial Bank in Mongu",
+          "Begin keeping a simple farm income and expense journal",
+          "Register with NAPSA as a self-employed contributor even at minimum contribution levels",
+          "Apply for the Farmer Input Support Programme (FISP) to reduce input costs"
+        ]
+      },
+      {
+        "category": "Legal Compliance",
+        "score": 42,
+        "weight": 20,
+        "weightedScore": 8.4,
+        "explanation": "Patrick has significant compliance issues including failure to register his farming business with PACRA, non-payment of ZRA taxes, and a pending court case related to a land boundary dispute with a neighbouring farmer. His failure to formalize the business creates ongoing legal exposure.",
+        "positiveFactors": [
+          "Valid National Registration Card",
+          "Customary land certificate recognized by the Mongu District Council",
+          "No criminal convictions"
+        ],
+        "negativeFactors": [
+          "Farming enterprise not registered with PACRA despite years of commercial operation",
+          "Not registered with ZRA for any form of taxation",
+          "Pending court case at Mongu Local Court over land boundary dispute with neighbouring farmer",
+          "Employs 8 seasonal workers without formal contracts or NAPSA registration",
+          "Non-compliant with the Employment Act regarding minimum wage and working conditions"
+        ],
+        "improvementTips": [
+          "Register the farming business with PACRA as a sole proprietorship immediately",
+          "Register with ZRA for turnover tax and begin filing simplified returns",
+          "Engage a local paralegal through the Legal Resources Foundation to resolve the land dispute",
+          "Formalize employment relationships with written contracts for all seasonal workers",
+          "Register farm workers with NAPSA and Workers' Compensation Fund Control Board"
+        ]
+      },
+      {
+        "category": "Social & Ethical Behavior",
+        "score": 50,
+        "weight": 20,
+        "weightedScore": 10.0,
+        "explanation": "Patrick's standing in the community has been damaged by the land dispute and his failure to pay seasonal workers on time. While he is a long-standing member of the community, the debt defaults and employment practices have eroded trust among peers and the local farming cooperative.",
+        "positiveFactors": [
+          "Long-standing member of the Mongu Farming Cooperative (15 years)",
+          "Provides seasonal employment to community members during planting and harvest",
+          "Donates rice to the local traditional ceremony (Kuomboka) annually"
+        ],
+        "negativeFactors": [
+          "Delayed payment of seasonal farm workers on 3 occasions in 2025",
+          "Ongoing land boundary dispute has strained relations with neighbouring farmers",
+          "Expelled from the Mongu Farming Cooperative executive committee due to loan default",
+          "Complaints from workers about unsafe working conditions during harvest"
+        ],
+        "improvementTips": [
+          "Prioritize timely payment of all workers and establish a worker payment schedule",
+          "Resolve the land boundary dispute through mediation at the Mongu District Council",
+          "Improve farm worker safety by providing basic protective equipment and first aid supplies",
+          "Work to restore standing within the Mongu Farming Cooperative by clearing outstanding obligations"
+        ]
+      },
+      {
+        "category": "Professional Achievement",
+        "score": 48,
+        "weight": 20,
+        "weightedScore": 9.6,
+        "explanation": "Patrick has 15 years of farming experience but his enterprise has not grown beyond subsistence-level operations. Yields are below district averages, and he has not adopted modern farming techniques or sought agricultural extension support from the Ministry of Agriculture.",
+        "positiveFactors": [
+          "15 years of farming experience in Western Province",
+          "20 hectares of farmland providing a solid asset base for growth",
+          "Basic knowledge of traditional rice and cassava farming methods"
+        ],
+        "negativeFactors": [
+          "Crop yields 40% below Mongu District averages for rice and cassava",
+          "Has not engaged Ministry of Agriculture extension officers for technical support",
+          "No adoption of improved seed varieties, irrigation, or modern farming practices",
+          "Grade 7 education with no further training or agricultural certifications",
+          "Farm equipment is outdated with no maintenance or replacement plan"
+        ],
+        "improvementTips": [
+          "Contact the Mongu District Agriculture Coordinator for free extension services",
+          "Register for FISP to access subsidized improved seed varieties and fertilizer",
+          "Attend ZNFU farmer training workshops on conservation farming and climate-smart agriculture",
+          "Enroll in a TEVETA short course on farm management and basic bookkeeping",
+          "Develop a 3-year farm improvement plan with support from an agriculture extension officer"
+        ]
+      },
+      {
+        "category": "Civic Engagement",
+        "score": 45,
+        "weight": 15,
+        "weightedScore": 6.75,
+        "explanation": "Patrick's civic engagement is very limited. While he votes in elections, he does not participate in any formal governance structures, community development committees, or public consultation processes. His focus has been entirely on farm operations without contributing to broader community governance.",
+        "positiveFactors": [
+          "Voted in the 2021 general elections",
+          "Attends the annual Kuomboka traditional ceremony demonstrating cultural engagement"
+        ],
+        "negativeFactors": [
+          "Does not attend Ward Development Committee meetings",
+          "No participation in any community development committee or organization",
+          "Has not attended any public consultation or agricultural stakeholder forum",
+          "Did not participate in the 2025 Electoral Commission voter registration update",
+          "No engagement with the Barotse Royal Establishment's community development programmes"
+        ],
+        "improvementTips": [
+          "Update voter registration with the Electoral Commission of Zambia",
+          "Attend Ward Development Committee meetings to engage with community planning",
+          "Participate in the Barotse Royal Establishment's agricultural development programmes",
+          "Join the Mongu District Farmers' Forum to contribute to agricultural policy discussions",
+          "Engage with the Western Province Community Development office for support programmes"
+        ]
+      }
+    ],
+    "overallExplanation": "Patrick Munkombwe's social credit score reflects serious challenges across nearly all assessment categories. The defaulted agricultural loan, adverse credit listing, pending land dispute, and non-compliance with tax and employment regulations paint a picture of a farmer struggling to manage both his finances and his legal obligations. While he has significant assets in farmland and 15 years of experience, the lack of business formalization, poor financial management, and low civic engagement result in a Poor rating. A comprehensive intervention addressing debt restructuring, business formalization, and agricultural modernization is urgently needed.",
+    "topImprovementAreas": [
+      "Restructure the defaulted Lima Credit Scheme loan and clear microfinance debts to restore creditworthiness",
+      "Register the farm business with PACRA and ZRA, formalize worker employment, and resolve the land dispute",
+      "Engage Ministry of Agriculture extension services to modernize farming practices and improve yields"
+    ]
+  },
+  {
+    "id": "CIT-010",
+    "name": "Natasha Musonda",
+    "role": "Citizen",
+    "organization": "University of Zambia",
+    "region": "Mansa",
+    "overallScore": 42,
+    "rating": "Poor",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-02-07T12:00:00Z",
+    "occupation": "University Student",
+    "details": {
+      "financialResponsibility": 38,
+      "legalCompliance": 55,
+      "socialEthicalBehavior": 40,
+      "professionalAchievement": 35,
+      "civicEngagement": 42
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Financial Responsibility",
+        "score": 38,
+        "weight": 25,
+        "weightedScore": 9.5,
+        "explanation": "Natasha is a final-year student with significant financial difficulties. She has defaulted on her Higher Education Loans and Scholarships Board (HELSB) bursary repayment obligations from her earlier diploma programme and has accumulated personal debts from friends and informal lenders.",
+        "positiveFactors": [
+          "Earns some income from part-time tutoring of junior students",
+          "Has a basic mobile money account with Airtel Money"
+        ],
+        "negativeFactors": [
+          "Defaulted on K18,000 HELSB bursary repayment from diploma programme",
+          "Accumulated K8,500 in informal debts from friends and unregistered lenders",
+          "No formal savings of any kind",
+          "No banking relationship with any financial institution",
+          "No NAPSA contributions or any form of retirement planning",
+          "Income from tutoring is irregular and undocumented"
+        ],
+        "improvementTips": [
+          "Contact HELSB immediately to negotiate a repayment plan before graduation",
+          "Open a student savings account at one of the banks with zero minimum balance requirements",
+          "Create a simple income and expense tracker using a mobile app",
+          "Apply for formal part-time work through the UNZA Student Affairs office",
+          "Seek financial literacy counselling through the UNZA Dean of Students' office"
+        ]
+      },
+      {
+        "category": "Legal Compliance",
+        "score": 55,
+        "weight": 20,
+        "weightedScore": 11.0,
+        "explanation": "Natasha has a pending disciplinary case with the University of Zambia for involvement in a student protest that turned violent in 2025. She also has unpaid tuition fees which could result in her academic records being withheld. No criminal record exists outside of the university disciplinary matter.",
+        "positiveFactors": [
+          "No criminal record with the Zambia Police Service",
+          "Valid National Registration Card and student identification",
+          "No civil court proceedings or judgments"
+        ],
+        "negativeFactors": [
+          "Pending UNZA disciplinary case for involvement in violent student protest in October 2025",
+          "Unpaid tuition fee balance of K12,000 from 2025 academic year",
+          "HELSB bursary default creates a legal obligation that is currently unresolved",
+          "Has not filed any tax returns despite earning tutoring income"
+        ],
+        "improvementTips": [
+          "Engage with the UNZA Disciplinary Committee and present a defence through the Students' Union legal support",
+          "Negotiate a tuition fee payment plan with the UNZA Bursary Department",
+          "Resolve the HELSB default by establishing a structured repayment agreement",
+          "Register with ZRA if tutoring income exceeds the minimum threshold for presumptive tax"
+        ]
+      },
+      {
+        "category": "Social & Ethical Behavior",
+        "score": 40,
+        "weight": 20,
+        "weightedScore": 8.0,
+        "explanation": "Natasha's social standing has been significantly damaged by her involvement in the violent student protest and reports of academic dishonesty. While the protest arose from legitimate grievances about bursary delays, the violent conduct has negatively impacted her reputation among peers and university administration.",
+        "positiveFactors": [
+          "Advocated for student rights regarding delayed HELSB disbursements, a legitimate concern",
+          "Tutors junior students, contributing to peer academic support"
+        ],
+        "negativeFactors": [
+          "Involvement in student protest that resulted in property damage at UNZA campus",
+          "One report of suspected plagiarism in a term paper under investigation by department",
+          "Known to borrow money from multiple friends without timely repayment, causing social friction",
+          "No volunteer work or community service activities on record",
+          "No participation in constructive student organizations or clubs"
+        ],
+        "improvementTips": [
+          "Join a constructive student organization such as AIESEC, Enactus, or the UNZA Debate Society",
+          "Resolve the plagiarism allegation by cooperating fully with the departmental investigation",
+          "Commit to repaying all personal debts to friends and rebuild social trust",
+          "Channel activism through legitimate platforms such as the UNZA Students' Union advocacy committee",
+          "Volunteer for a community service project through the UNZA Community Engagement office"
+        ]
+      },
+      {
+        "category": "Professional Achievement",
+        "score": 35,
+        "weight": 20,
+        "weightedScore": 7.0,
+        "explanation": "Natasha is in her final year of a Bachelor of Arts in Development Studies at UNZA. However, her academic performance has been below average, and she is at risk of not graduating on time due to outstanding tuition and the disciplinary case. She has not pursued internships or practical experience.",
+        "positiveFactors": [
+          "Enrolled in a Bachelor of Arts in Development Studies at the University of Zambia",
+          "Completed 3 of 4 years with passing grades despite financial difficulties",
+          "Diploma in Social Work from Evelyn Hone College obtained in 2022"
+        ],
+        "negativeFactors": [
+          "Cumulative GPA of 2.1 out of 4.0, below the merit threshold",
+          "No internship experience despite being in final year",
+          "Pending disciplinary case and plagiarism report threaten graduation timeline",
+          "Has not participated in any academic conferences, research projects, or workshops",
+          "Outstanding tuition fees could result in withheld academic transcripts"
+        ],
+        "improvementTips": [
+          "Secure a final-year internship through the UNZA Career Resource Centre immediately",
+          "Improve GPA in the final semester by seeking academic support from the UNZA Writing Centre",
+          "Clear outstanding tuition fees to protect academic records and graduation eligibility",
+          "Attend at least one academic conference to build professional networks",
+          "Develop a career plan with support from the UNZA Career Guidance office"
+        ]
+      },
+      {
+        "category": "Civic Engagement",
+        "score": 42,
+        "weight": 15,
+        "weightedScore": 6.3,
+        "explanation": "Natasha's civic engagement is minimal. While she is passionate about student welfare issues, her approach has been through protest rather than constructive civic participation. She has not engaged with formal governance structures at the university or community level.",
+        "positiveFactors": [
+          "Passionate about student rights and bursary reform, showing civic awareness",
+          "Registered voter with the Electoral Commission of Zambia"
+        ],
+        "negativeFactors": [
+          "No participation in the UNZA Students' Union governance or formal committees",
+          "Has not voted since initial voter registration due to being away from home constituency",
+          "No engagement with community governance in either Mansa (home) or Lusaka (university)",
+          "No participation in public consultations or policy advocacy through legitimate channels",
+          "Civic energy channelled through protest rather than constructive civic processes"
+        ],
+        "improvementTips": [
+          "Apply for a transfer of voter registration to the Lusaka constituency where she resides during term",
+          "Run for or support a position in the UNZA Students' Union to channel civic energy constructively",
+          "Participate in the Ministry of Youth civic engagement programmes for university students",
+          "Join the Zambia National Students' Union policy advocacy working group",
+          "Attend Ward Development Committee meetings in either Mansa or Lusaka during respective stays"
+        ]
+      }
+    ],
+    "overallExplanation": "Natasha Musonda's social credit score reflects the compounding difficulties facing a young Zambian student dealing with financial hardship, academic challenges, and a disciplinary record. The HELSB default, involvement in a violent protest, suspected plagiarism, and absence of formal financial management all contribute to a Poor rating. Importantly, many of these issues stem from systemic challenges like delayed bursary disbursements that affect thousands of Zambian students. With targeted interventions including debt restructuring, disciplinary resolution, academic improvement, and constructive civic engagement, Natasha has significant potential to improve her standing as she transitions from student to professional life.",
+    "topImprovementAreas": [
+      "Resolve the HELSB bursary default and UNZA tuition arrears through structured repayment plans",
+      "Cooperate fully with the disciplinary case and plagiarism investigation to clear academic standing",
+      "Secure an internship, improve academic performance, and join constructive student organizations"
+    ]
+  }
+]

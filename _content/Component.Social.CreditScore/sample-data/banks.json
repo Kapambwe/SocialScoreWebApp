@@ -1,0 +1,330 @@
+[
+  {
+    "id": "BNK-001",
+    "bankName": "First National Bank",
+    "score": 95,
+    "rating": "Excellent",
+    "details": {
+      "transparency": 96,
+      "regulatoryCompliance": 94,
+      "financialSoundness": 97,
+      "consumerRelations": 92
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Transparency",
+        "score": 96,
+        "weight": 25,
+        "weightedScore": 24.0,
+        "explanation": "First National Bank leads the industry in financial transparency with comprehensive quarterly disclosures, real-time fee calculators on all digital platforms, and proactive communication of policy changes to customers at least 60 days in advance.",
+        "positiveFactors": [
+          "Quarterly financial reports published within 15 days of period close with full breakdowns",
+          "Real-time fee calculator available on website and mobile app for all product categories",
+          "Proactive 60-day advance notice to customers for any fee or policy changes",
+          "Open data portal provides anonymized lending statistics for public research"
+        ],
+        "negativeFactors": [
+          "Foreign exchange margin disclosure could be more granular for corporate clients"
+        ],
+        "improvementTips": [
+          "Introduce real-time foreign exchange margin breakdowns for corporate banking clients",
+          "Publish an annual plain-language financial health summary targeting non-specialist readers"
+        ]
+      },
+      {
+        "category": "Regulatory Compliance",
+        "score": 94,
+        "weight": 25,
+        "weightedScore": 23.5,
+        "explanation": "Consistently exceeds Bank of Zambia regulatory requirements with zero material findings in the last 5 annual examinations. Anti-money laundering framework rated among the strongest in the region.",
+        "positiveFactors": [
+          "Zero material findings in Bank of Zambia examinations for 5 consecutive years",
+          "Anti-money laundering program rated best-in-class by independent assessor",
+          "Capital adequacy ratio maintained at 18.5%, well above the 10% regulatory minimum",
+          "First bank in Zambia to achieve full Basel III compliance ahead of schedule"
+        ],
+        "negativeFactors": [
+          "2 minor documentation gaps in Know Your Customer files during routine branch audit",
+          "Slight delay in filing one regulatory return due to system migration"
+        ],
+        "improvementTips": [
+          "Implement automated KYC document completeness checks at point of customer onboarding",
+          "Establish redundant regulatory filing workflows to prevent migration-related delays"
+        ]
+      },
+      {
+        "category": "Financial Soundness",
+        "score": 97,
+        "weight": 30,
+        "weightedScore": 29.1,
+        "explanation": "Exceptional financial health with a non-performing loan ratio of just 1.8%, return on equity of 22%, and a diversified revenue base across retail, corporate, and treasury operations.",
+        "positiveFactors": [
+          "Non-performing loan ratio at 1.8%, lowest among top-tier Zambian banks",
+          "Return on equity consistently above 20% for 4 consecutive years",
+          "Diversified revenue: 40% retail, 35% corporate, 25% treasury and investments",
+          "Tier 1 capital ratio at 16.2%, providing strong buffer against economic shocks"
+        ],
+        "negativeFactors": [
+          "Agricultural loan portfolio concentration slightly above internal risk appetite"
+        ],
+        "improvementTips": [
+          "Gradually diversify agricultural loan portfolio across more crop types and regions",
+          "Conduct quarterly stress testing on sector-concentrated portfolios"
+        ]
+      },
+      {
+        "category": "Consumer Relations",
+        "score": 92,
+        "weight": 20,
+        "weightedScore": 18.4,
+        "explanation": "Industry-leading customer satisfaction at 92% driven by award-winning mobile banking platform, rapid complaint resolution, and extensive financial literacy programs across all provinces.",
+        "positiveFactors": [
+          "92% customer satisfaction score in independent annual survey",
+          "Average complaint resolution time of 3 working days, well under 14-day target",
+          "Financial literacy programs reached 150,000 citizens across all 10 provinces",
+          "Mobile banking platform rated best in Zambia with 1.2 million active users"
+        ],
+        "negativeFactors": [
+          "Rural branch network coverage still limited in 3 remote districts",
+          "Call centre wait times occasionally exceed 5 minutes during peak periods"
+        ],
+        "improvementTips": [
+          "Deploy mobile banking agents in the 3 underserved rural districts",
+          "Implement AI-assisted call routing to reduce peak-period wait times below 3 minutes",
+          "Expand financial literacy programs with digital learning modules for youth"
+        ]
+      }
+    ],
+    "overallExplanation": "First National Bank stands as Zambia's benchmark for banking excellence, combining robust financial health with industry-leading transparency and customer service. The bank's early adoption of Basel III standards, consistently clean regulatory record, and award-winning digital platforms reflect a well-governed institution. Minor improvements in rural coverage and agricultural portfolio concentration would further strengthen an already exceptional position.",
+    "topImprovementAreas": [
+      "Expand rural banking access through mobile agents in underserved districts",
+      "Diversify agricultural loan portfolio to reduce sector concentration risk",
+      "Enhance foreign exchange margin transparency for corporate banking clients"
+    ]
+  },
+  {
+    "id": "BNK-002",
+    "bankName": "Community Trust Bank",
+    "score": 85,
+    "rating": "Good",
+    "details": {
+      "transparency": 82,
+      "regulatoryCompliance": 88,
+      "financialSoundness": 86,
+      "consumerRelations": 84
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Transparency",
+        "score": 82,
+        "weight": 25,
+        "weightedScore": 20.5,
+        "explanation": "Community Trust Bank provides solid financial disclosures and clear product documentation, though some complex fee structures and investment product terms could benefit from simpler presentation for retail customers.",
+        "positiveFactors": [
+          "Quarterly financial reports published consistently within 30 days of period close",
+          "Clear product comparison tools available on the bank's website",
+          "Annual corporate governance report published with detailed board activity summaries"
+        ],
+        "negativeFactors": [
+          "Complex fee schedules for SME banking products difficult for small business owners to interpret",
+          "Investment product disclosures use technical jargon not accessible to average retail customer",
+          "No dedicated open data portal for public or research access"
+        ],
+        "improvementTips": [
+          "Redesign SME fee schedules into plain-language tiers with worked examples",
+          "Introduce a glossary and simplified fact sheets for all investment products",
+          "Launch an open data initiative with anonymized lending and deposit trend data"
+        ]
+      },
+      {
+        "category": "Regulatory Compliance",
+        "score": 88,
+        "weight": 25,
+        "weightedScore": 22.0,
+        "explanation": "Strong regulatory standing with no major violations. The bank meets all Bank of Zambia capital and liquidity requirements, though some internal audit recommendations remain outstanding beyond target resolution dates.",
+        "positiveFactors": [
+          "No major regulatory violations or sanctions in the past 3 years",
+          "Capital adequacy ratio at 14.8%, comfortably above 10% minimum requirement",
+          "Successful completion of Bank of Zambia cybersecurity readiness assessment",
+          "Anti-money laundering suspicious transaction reporting rate above industry average"
+        ],
+        "negativeFactors": [
+          "7 internal audit recommendations outstanding beyond 90-day resolution target",
+          "Minor gap identified in third-party vendor risk management framework",
+          "One regulatory return submitted 2 days late due to staff handover issues"
+        ],
+        "improvementTips": [
+          "Implement an audit recommendation tracking dashboard with automated escalation for overdue items",
+          "Strengthen third-party vendor risk management with annual on-site assessments",
+          "Create backup filing officers for all critical regulatory submissions to avoid handover gaps"
+        ]
+      },
+      {
+        "category": "Financial Soundness",
+        "score": 86,
+        "weight": 30,
+        "weightedScore": 25.8,
+        "explanation": "Healthy financial position with stable deposit growth and adequate provisioning, though the non-performing loan ratio at 4.2% is above industry average and the bank's cost-to-income ratio has room for optimization.",
+        "positiveFactors": [
+          "Deposit base grew 12% year-over-year, reflecting strong customer confidence",
+          "Loan loss provisioning at 120% coverage of non-performing loans",
+          "Liquidity coverage ratio at 145%, well above the 100% regulatory minimum"
+        ],
+        "negativeFactors": [
+          "Non-performing loan ratio at 4.2%, above the 3.0% industry average",
+          "Cost-to-income ratio at 62%, higher than the 55% industry benchmark",
+          "Real estate loan portfolio represents 38% of total lending, creating concentration risk"
+        ],
+        "improvementTips": [
+          "Intensify loan recovery efforts on the 10 largest non-performing accounts",
+          "Implement operational efficiency program targeting a cost-to-income ratio below 58% within 18 months",
+          "Gradually diversify lending portfolio to reduce real estate concentration below 30%"
+        ]
+      },
+      {
+        "category": "Consumer Relations",
+        "score": 84,
+        "weight": 20,
+        "weightedScore": 16.8,
+        "explanation": "Good community presence with a strong branch network and active corporate social responsibility program. However, digital banking capabilities lag behind competitors and complaint resolution times need improvement.",
+        "positiveFactors": [
+          "45 branches across 8 provinces providing broad physical access",
+          "CSR program invested K5 million in community education and healthcare initiatives",
+          "Dedicated relationship managers assigned to all SME clients",
+          "84% customer satisfaction rating in latest independent survey"
+        ],
+        "negativeFactors": [
+          "Mobile banking app lacks advanced features like bill payments and investment access",
+          "Average complaint resolution time of 10 working days, above the 7-day industry standard",
+          "No chatbot or 24/7 digital customer support channel available"
+        ],
+        "improvementTips": [
+          "Upgrade mobile banking app with bill payment, investment, and self-service features by Q3",
+          "Reduce complaint resolution SLA to 7 days with dedicated fast-track team for complex cases",
+          "Deploy an AI-powered chatbot for 24/7 basic customer support and FAQ resolution"
+        ]
+      }
+    ],
+    "overallExplanation": "Community Trust Bank demonstrates solid fundamentals across all banking dimensions, supported by a strong branch network and genuine community engagement. Its regulatory track record is commendable, and deposit growth reflects customer confidence. Key areas for improvement include modernizing digital banking channels, reducing the non-performing loan ratio, and simplifying product disclosures to better serve retail and SME customers.",
+    "topImprovementAreas": [
+      "Modernize digital banking platform with full-featured mobile app and 24/7 support",
+      "Reduce non-performing loan ratio from 4.2% to below industry average of 3.0%",
+      "Simplify fee structures and product disclosures for SME and retail customers"
+    ]
+  },
+  {
+    "id": "BNK-003",
+    "bankName": "Zambia Agricultural Bank",
+    "score": 68,
+    "rating": "Needs Improvement",
+    "details": {
+      "transparency": 62,
+      "regulatoryCompliance": 70,
+      "financialSoundness": 65,
+      "consumerRelations": 72
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Transparency",
+        "score": 62,
+        "weight": 25,
+        "weightedScore": 15.5,
+        "explanation": "Transparency practices fall below industry standards with delayed financial reporting, limited public disclosure of loan pricing methodologies, and no digital access to fee schedules for most product lines.",
+        "positiveFactors": [
+          "Annual report published with audited financial statements",
+          "Board composition and director profiles publicly available on website"
+        ],
+        "negativeFactors": [
+          "Quarterly financial reports consistently published 15-20 days beyond regulatory deadline",
+          "Loan pricing methodology not disclosed to customers, making rate comparisons difficult",
+          "Fee schedules available only at branches, not on the bank's website or app",
+          "No investor relations page or dedicated disclosure portal on the website"
+        ],
+        "improvementTips": [
+          "Establish a financial reporting fast-close process to meet quarterly deadlines within 30 days",
+          "Publish complete fee schedules and loan pricing guides on the website and mobile app",
+          "Create a dedicated investor relations and transparency portal with downloadable reports",
+          "Implement a customer notification system for fee and policy changes with 30-day advance notice"
+        ]
+      },
+      {
+        "category": "Regulatory Compliance",
+        "score": 70,
+        "weight": 25,
+        "weightedScore": 17.5,
+        "explanation": "The bank meets minimum regulatory capital requirements but has received multiple supervisory letters from the Bank of Zambia regarding deficiencies in anti-money laundering controls and loan classification practices.",
+        "positiveFactors": [
+          "Capital adequacy ratio at 11.2%, above the 10% minimum requirement",
+          "No regulatory sanctions or fines imposed in the current year",
+          "Completed mandatory cybersecurity framework assessment on schedule"
+        ],
+        "negativeFactors": [
+          "3 supervisory letters received from Bank of Zambia in the past 18 months",
+          "Anti-money laundering transaction monitoring system flagged as inadequate in examination",
+          "Loan classification practices found inconsistent with regulatory guidelines in 12% of sampled files",
+          "Internal audit department understaffed with only 4 auditors covering all bank operations"
+        ],
+        "improvementTips": [
+          "Invest in an automated AML transaction monitoring system to replace manual processes",
+          "Retrain all credit officers on loan classification standards and implement quality assurance checks",
+          "Recruit at least 3 additional internal auditors to achieve adequate coverage across all business lines",
+          "Create a regulatory remediation task force to address all outstanding supervisory letter findings within 6 months"
+        ]
+      },
+      {
+        "category": "Financial Soundness",
+        "score": 65,
+        "weight": 30,
+        "weightedScore": 19.5,
+        "explanation": "Financial health is under pressure with a high non-performing loan ratio driven by seasonal agricultural defaults, thin capital buffers, and heavy dependence on government funding lines rather than diversified deposit sources.",
+        "positiveFactors": [
+          "Secured a K200 million government credit line to support smallholder farmer lending",
+          "Loan loss provisions increased by 25% to strengthen balance sheet resilience"
+        ],
+        "negativeFactors": [
+          "Non-performing loan ratio at 8.7%, significantly above the 3.0% industry average",
+          "Capital adequacy ratio at 11.2% provides limited buffer above 10% minimum threshold",
+          "70% of funding sourced from government and development agency credit lines, not depositor base",
+          "Return on equity at 5.3%, below the 12% cost of equity, indicating value destruction",
+          "Agricultural loan concentration at 78% of total portfolio creates severe sectoral risk"
+        ],
+        "improvementTips": [
+          "Develop a comprehensive NPL recovery strategy targeting the 20 largest non-performing accounts",
+          "Diversify funding base by launching competitive deposit products for retail and corporate customers",
+          "Gradually build non-agricultural lending portfolio to reduce concentration below 60% over 3 years",
+          "Pursue a capital raise or retained earnings strategy to increase the capital adequacy buffer to 14%"
+        ]
+      },
+      {
+        "category": "Consumer Relations",
+        "score": 72,
+        "weight": 20,
+        "weightedScore": 14.4,
+        "explanation": "The bank maintains strong relationships with its core farming community through field officers and agricultural advisory services, but overall customer experience suffers from outdated technology, limited branch hours, and slow complaint handling.",
+        "positiveFactors": [
+          "120 agricultural field officers providing on-farm advisory and banking services",
+          "Seasonal loan repayment schedules aligned with harvest cycles, reducing farmer distress",
+          "Financial literacy programs specifically designed for smallholder farmers reached 80,000 beneficiaries"
+        ],
+        "negativeFactors": [
+          "Only 18 branches nationwide, with 6 provinces having no physical presence",
+          "Mobile banking platform has frequent downtime averaging 8 hours per month",
+          "Average complaint resolution time of 21 working days, triple the 7-day industry standard",
+          "No call centre facility; customer support available only during branch working hours"
+        ],
+        "improvementTips": [
+          "Deploy mobile banking agents in the 6 unserved provinces using the field officer network",
+          "Upgrade core banking and mobile platform infrastructure to achieve 99.5% uptime SLA",
+          "Establish a centralized call centre with at least 12-hour daily coverage",
+          "Implement a complaint management system with automated tracking and 10-day resolution target"
+        ]
+      }
+    ],
+    "overallExplanation": "Zambia Agricultural Bank plays a vital role in financing the agricultural sector but faces significant operational and financial challenges that require urgent attention. The high non-performing loan ratio, heavy reliance on government funding, and weak transparency practices create systemic risks. The bank's core strength lies in its deep community relationships and specialized agricultural expertise. A focused turnaround plan addressing capital adequacy, NPL management, technology modernization, and regulatory compliance is essential to ensure long-term sustainability.",
+    "topImprovementAreas": [
+      "Reduce non-performing loan ratio from 8.7% through intensive recovery and improved credit assessment",
+      "Diversify funding sources and lending portfolio to reduce agricultural concentration risk",
+      "Upgrade AML transaction monitoring and address all Bank of Zambia supervisory findings within 6 months"
+    ]
+  }
+]

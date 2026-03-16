@@ -1,0 +1,429 @@
+[
+  {
+    "id": "PRES-001",
+    "name": "H.E. Hakainde Hichilema",
+    "role": "President of the Republic of Zambia",
+    "organization": "Government of Zambia",
+    "region": "Lusaka",
+    "overallScore": 82,
+    "rating": "Good",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-15T00:00:00Z",
+    "termStart": "2021-08-24",
+    "termEnd": null,
+    "details": {
+      "leadershipGovernance": 85,
+      "policyEffectiveness": 80,
+      "publicTrustApproval": 78,
+      "ethicalConduct": 88,
+      "internationalRelations": 82
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Leadership & Governance",
+        "score": 85,
+        "weight": 25,
+        "weightedScore": 21.25,
+        "explanation": "President Hichilema has demonstrated strong leadership in restructuring Zambia's unsustainable debt through a historic IMF Extended Credit Facility and successful Eurobond restructuring. His administration introduced key governance reforms including the reconstitution of the Constitutional Court and strengthened the independence of the Anti-Corruption Commission.",
+        "positiveFactors": [
+          "Successfully negotiated Zambia's $6.3 billion external debt restructuring under the G20 Common Framework",
+          "Reconstituted the Constitutional Court and strengthened judicial independence",
+          "Maintained Cabinet discipline with clear performance benchmarks for ministers",
+          "Appointed technocrats to key economic positions, improving policy credibility"
+        ],
+        "negativeFactors": [
+          "Perceived slow pace of decentralization reforms despite campaign promises",
+          "Some provincial appointments criticized for regional imbalance"
+        ],
+        "improvementTips": [
+          "Accelerate the decentralization agenda by devolving more fiscal authority to provincial administrations",
+          "Ensure regional balance in senior government appointments to strengthen national cohesion",
+          "Establish a formal mid-term governance review mechanism with public reporting"
+        ]
+      },
+      {
+        "category": "Policy Effectiveness",
+        "score": 80,
+        "weight": 20,
+        "weightedScore": 16.0,
+        "explanation": "The administration has delivered meaningful policy outcomes in free education, CDF fund increases, and the recruitment of over 30,000 teachers and health workers. However, the cost of living remains high for many Zambians, and the mining sector fiscal regime reforms have been slower than anticipated.",
+        "positiveFactors": [
+          "Introduced free education from Early Childhood Education through Grade 12, increasing enrollment by 18%",
+          "Increased Constituency Development Fund allocation from K1.6 million to K28.3 million per constituency",
+          "Recruited over 30,000 teachers and 11,000 health workers to address critical public sector vacancies",
+          "Launched the Comprehensive Agriculture Support Programme benefiting 1 million smallholder farmers"
+        ],
+        "negativeFactors": [
+          "Inflation remains above 10%, eroding household purchasing power despite fiscal consolidation efforts",
+          "Mining sector fiscal reforms delayed, limiting revenue diversification from copper and gold exports"
+        ],
+        "improvementTips": [
+          "Fast-track mining fiscal regime reforms to capture greater value from rising copper prices",
+          "Implement targeted social cash transfer expansions to cushion vulnerable households from inflation",
+          "Develop a comprehensive industrial policy to promote value addition in the mining and agriculture sectors"
+        ]
+      },
+      {
+        "category": "Public Trust & Approval",
+        "score": 78,
+        "weight": 20,
+        "weightedScore": 15.6,
+        "explanation": "President Hichilema maintains solid public support, particularly in Southern, Western, and North-Western provinces. His personal integrity and anti-corruption stance resonate with citizens. However, expectations remain high, and some urban voters express frustration with the pace of economic improvement and job creation.",
+        "positiveFactors": [
+          "Afrobarometer survey indicates 65% trust rating, above the African average of 48%",
+          "Strong personal brand as a self-made businessman with perceived financial integrity",
+          "Regular public engagement through social media and provincial tours",
+          "Zambia's improved international credit outlook has boosted national confidence"
+        ],
+        "negativeFactors": [
+          "Youth unemployment remains above 25%, generating frustration among young urban voters",
+          "Some rural communities feel disconnected from Lusaka-centered policy discussions",
+          "Media freedom concerns raised by press organizations regarding selected incidents"
+        ],
+        "improvementTips": [
+          "Launch a dedicated national youth employment and entrepreneurship programme with measurable annual targets",
+          "Increase presidential visits and town halls in rural districts beyond provincial capitals",
+          "Strengthen engagement with media organizations and recommit to press freedom protections publicly"
+        ]
+      },
+      {
+        "category": "Ethical Conduct",
+        "score": 88,
+        "weight": 20,
+        "weightedScore": 17.6,
+        "explanation": "President Hichilema is widely regarded as one of Zambia's most ethical leaders, with a strong anti-corruption track record. His administration has pursued corruption cases from prior regimes and maintained a relatively clean Cabinet. The Financial Intelligence Centre has been empowered to operate more independently under his tenure.",
+        "positiveFactors": [
+          "No personal corruption allegations or unexplained wealth controversies during tenure",
+          "Empowered the Anti-Corruption Commission and Drug Enforcement Commission to pursue high-profile cases",
+          "Declared personal assets publicly, setting a transparency benchmark for future leaders",
+          "Cabinet ministers required to declare assets and subjected to lifestyle audits"
+        ],
+        "negativeFactors": [
+          "Critics allege selective prosecution of corruption cases targeting primarily opposition-linked individuals",
+          "Some UPND party officials at local level implicated in tender irregularities without swift action"
+        ],
+        "improvementTips": [
+          "Ensure anti-corruption enforcement is visibly non-partisan by pursuing all credible cases regardless of political affiliation",
+          "Establish a zero-tolerance disciplinary framework for ruling party officials involved in procurement irregularities",
+          "Publish an annual presidential integrity report documenting anti-corruption milestones and ongoing investigations"
+        ]
+      },
+      {
+        "category": "International Relations",
+        "score": 82,
+        "weight": 15,
+        "weightedScore": 12.3,
+        "explanation": "Zambia's international standing has improved significantly under President Hichilema, with restored credibility among multilateral institutions and strengthened bilateral ties. The successful debt restructuring restored Zambia's reputation in global capital markets. Zambia has taken a more active role in SADC and AU diplomacy.",
+        "positiveFactors": [
+          "Restored Zambia's credibility with the IMF, World Bank, and international capital markets through fiscal discipline",
+          "Attracted significant foreign direct investment commitments in mining, energy, and agriculture",
+          "Strengthened Zambia-US relations with a presidential visit to Washington and expanded AGOA trade benefits",
+          "Played a constructive mediation role in regional SADC political disputes"
+        ],
+        "negativeFactors": [
+          "Relations with China perceived as cooling, potentially affecting infrastructure financing pipeline",
+          "Limited progress on diversifying diplomatic engagement beyond traditional Western and Chinese partners"
+        ],
+        "improvementTips": [
+          "Develop a comprehensive multi-vector foreign policy that balances Western, Chinese, and South-South partnerships",
+          "Strengthen economic diplomacy capacity in Zambian embassies to attract investment from Gulf states and India",
+          "Take a more visible leadership role in African Union climate change and energy transition negotiations"
+        ]
+      }
+    ],
+    "overallExplanation": "President Hakainde Hichilema has delivered a credible governance performance anchored in fiscal discipline, anti-corruption commitment, and restored international credibility. The landmark debt restructuring and expanded social spending on education and healthcare represent significant policy achievements. However, persistent inflation, high youth unemployment, and the need for faster mining sector reforms temper the overall assessment. His strong ethical standing and institutional reforms position Zambia well for continued progress if economic policy delivery accelerates in the second half of his term.",
+    "topImprovementAreas": [
+      "Accelerate mining fiscal reforms and industrial policy to diversify the economy and create jobs",
+      "Address youth unemployment with a dedicated national programme targeting measurable outcomes",
+      "Strengthen rural engagement and ensure anti-corruption enforcement is visibly non-partisan"
+    ]
+  },
+  {
+    "id": "PRES-002",
+    "name": "Edgar Chagwa Lungu",
+    "role": "Former President of the Republic of Zambia",
+    "organization": "Government of Zambia",
+    "region": "Lusaka",
+    "overallScore": 58,
+    "rating": "Needs Improvement",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-15T00:00:00Z",
+    "termStart": "2015-01-25",
+    "termEnd": "2021-08-24",
+    "details": {
+      "leadershipGovernance": 58,
+      "policyEffectiveness": 55,
+      "publicTrustApproval": 58,
+      "ethicalConduct": 52,
+      "internationalRelations": 72
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Leadership & Governance",
+        "score": 58,
+        "weight": 25,
+        "weightedScore": 14.5,
+        "explanation": "President Lungu's leadership was marked by a centralization of power and the controversial Bill 10 constitutional amendment attempt. While he maintained political stability and managed the initial COVID-19 response, governance institutions were weakened through political interference, and the independence of the judiciary and anti-corruption bodies was compromised during his tenure.",
+        "positiveFactors": [
+          "Maintained national stability during a period of regional political turbulence",
+          "Oversaw the initial COVID-19 pandemic response including lockdown coordination and vaccine procurement",
+          "Expanded road infrastructure through the Link Zambia 8000 programme"
+        ],
+        "negativeFactors": [
+          "Bill 10 constitutional amendment widely criticized as an attempt to concentrate executive power",
+          "Perceived political interference in the judiciary and the Anti-Corruption Commission",
+          "Cabinet reshuffles were frequent and often politically motivated rather than performance-based",
+          "Public Order Act used to restrict opposition political activities and civic space"
+        ],
+        "improvementTips": [
+          "Future leaders should protect the independence of governance institutions from executive interference",
+          "Constitutional amendment processes should involve genuine broad-based national consultation",
+          "Cabinet stability and merit-based appointments are essential for effective governance delivery"
+        ]
+      },
+      {
+        "category": "Policy Effectiveness",
+        "score": 55,
+        "weight": 20,
+        "weightedScore": 11.0,
+        "explanation": "The Lungu administration invested heavily in infrastructure, particularly roads, hospitals, and universities. However, these investments were largely debt-financed, contributing to Zambia's default on its Eurobond obligations in 2020. Social sector spending was squeezed by debt servicing, and key policy reforms in agriculture and mining were not advanced.",
+        "positiveFactors": [
+          "Constructed multiple road projects under Link Zambia 8000 connecting rural areas to economic centres",
+          "Built and upgraded hospitals including Levy Mwanawasa University Teaching Hospital expansion",
+          "Established new public universities including Mukuba and Chalimbana",
+          "Expanded social cash transfer coverage to additional vulnerable households"
+        ],
+        "negativeFactors": [
+          "Zambia became the first African country to default on sovereign debt during COVID-19 in November 2020",
+          "External debt ballooned from $6 billion to over $14 billion during his tenure",
+          "Power deficit crisis (load shedding) worsened due to inadequate investment in energy diversification",
+          "Agricultural subsidies through FISP were poorly targeted with significant leakage to non-eligible beneficiaries"
+        ],
+        "improvementTips": [
+          "Infrastructure investment must be balanced with fiscal sustainability and transparent debt management",
+          "Agricultural subsidy programmes require robust targeting mechanisms and regular audits to prevent leakage",
+          "Energy policy must prioritize diversification beyond hydropower to prevent recurring load shedding crises"
+        ]
+      },
+      {
+        "category": "Public Trust & Approval",
+        "score": 58,
+        "weight": 20,
+        "weightedScore": 11.6,
+        "explanation": "President Lungu initially enjoyed strong public support following his 2015 by-election victory, but trust eroded significantly over his tenure due to rising cost of living, perceived corruption, and restrictions on civic freedoms. His narrow 2016 re-election victory reflected a deeply divided electorate, and his approval rating dropped below 40% by the end of his second term.",
+        "positiveFactors": [
+          "Maintained a loyal base of support particularly in Lusaka, Eastern, and Muchinga provinces",
+          "Personally approachable and connected with ordinary citizens through informal engagements",
+          "Responded to public pressure on some issues such as fuel subsidy adjustments"
+        ],
+        "negativeFactors": [
+          "Approval rating declined from approximately 55% in 2016 to below 40% by 2021",
+          "Widespread public perception of corruption within the administration despite limited prosecutions",
+          "Closure of The Post newspaper and harassment of independent media eroded public trust in governance",
+          "Cost of living increases, particularly mealie meal and fuel prices, fuelled public discontent"
+        ],
+        "improvementTips": [
+          "Leaders must protect media freedom as a cornerstone of public trust and democratic accountability",
+          "Transparent communication about economic challenges and policy trade-offs builds and maintains public confidence",
+          "Addressing cost of living concerns through targeted interventions is critical to sustaining popular support"
+        ]
+      },
+      {
+        "category": "Ethical Conduct",
+        "score": 52,
+        "weight": 20,
+        "weightedScore": 10.4,
+        "explanation": "The Lungu administration faced persistent corruption allegations involving senior government officials and politically connected individuals. While President Lungu himself was not formally charged during his tenure, several close associates were implicated in procurement irregularities and illicit enrichment. The weakening of anti-corruption institutions during his watch contributed to a culture of impunity.",
+        "positiveFactors": [
+          "No personal criminal convictions or formal charges against President Lungu during his tenure",
+          "Established the Financial Intelligence Centre to monitor suspicious financial transactions"
+        ],
+        "negativeFactors": [
+          "Multiple Cabinet ministers and senior officials faced corruption allegations without consequence during his tenure",
+          "Procurement of firefighting equipment, ambulances, and road construction contracts marred by cost inflation scandals",
+          "The Anti-Corruption Commission was perceived as politically compromised and unable to pursue cases against ruling party officials",
+          "Unexplained wealth accumulation by several officials close to the presidency raised public concern"
+        ],
+        "improvementTips": [
+          "Anti-corruption agencies must be constitutionally protected from political interference to function effectively",
+          "Public procurement oversight should include independent civil society monitoring and real-time disclosure",
+          "Asset declaration requirements for all senior officials must be enforced with meaningful penalties for non-compliance"
+        ]
+      },
+      {
+        "category": "International Relations",
+        "score": 72,
+        "weight": 15,
+        "weightedScore": 10.8,
+        "explanation": "Zambia maintained functional international relationships during the Lungu era, with particularly strong ties to China through Belt and Road Initiative infrastructure projects. However, relations with Western nations and multilateral institutions became strained over democratic governance concerns and the growing debt burden. Zambia's debt default in 2020 severely damaged its international financial reputation.",
+        "positiveFactors": [
+          "Secured significant Chinese investment in infrastructure through the Belt and Road Initiative",
+          "Maintained Zambia's tradition of regional peace and stability, hosting refugees from neighbouring countries",
+          "Continued diplomatic engagement across SADC and the African Union",
+          "Attracted investment in the Lusaka South Multi-Facility Economic Zone"
+        ],
+        "negativeFactors": [
+          "Zambia's sovereign debt default in 2020 damaged international financial credibility",
+          "Growing concern from Western governments about democratic backsliding and civic space restrictions",
+          "Over-reliance on Chinese debt financing raised sovereignty concerns domestically and internationally",
+          "Reduced access to concessional financing from multilateral development banks due to debt levels"
+        ],
+        "improvementTips": [
+          "Diversified international partnerships reduce dependence on any single creditor or trading partner",
+          "Maintaining democratic standards and civil liberties is essential for productive Western diplomatic engagement",
+          "Sovereign debt management must be transparent and sustainable to preserve international credibility"
+        ]
+      }
+    ],
+    "overallExplanation": "Edgar Lungu's presidency delivered visible infrastructure development but at an unsustainable fiscal cost that culminated in Zambia's historic sovereign debt default in 2020. His tenure was characterized by a tension between developmental ambition and governance weaknesses, including democratic backsliding, corruption allegations against senior officials, and the erosion of institutional independence. While he maintained political stability and expanded physical infrastructure, the accumulation of unsustainable debt, restrictions on civic space, and failure to advance key structural reforms significantly diminish his overall governance legacy.",
+    "topImprovementAreas": [
+      "Fiscal discipline and transparent debt management must accompany any infrastructure investment programme",
+      "Anti-corruption institutions require constitutional protection from political interference",
+      "Media freedom and civic space protections are non-negotiable pillars of democratic governance"
+    ]
+  },
+  {
+    "id": "PRES-003",
+    "name": "Michael Chilufya Sata",
+    "role": "Former President of the Republic of Zambia",
+    "organization": "Government of Zambia",
+    "region": "Lusaka",
+    "overallScore": 72,
+    "rating": "Needs Improvement",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-15T00:00:00Z",
+    "termStart": "2011-09-23",
+    "termEnd": "2014-10-28",
+    "details": {
+      "leadershipGovernance": 78,
+      "policyEffectiveness": 72,
+      "publicTrustApproval": 75,
+      "ethicalConduct": 63,
+      "internationalRelations": 70
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Leadership & Governance",
+        "score": 78,
+        "weight": 25,
+        "weightedScore": 19.5,
+        "explanation": "President Sata brought a decisive and action-oriented leadership style that resonated with Zambians weary of perceived bureaucratic inertia. Known as 'King Cobra' for his sharp political instincts, he drove rapid infrastructure development in Lusaka and demonstrated a hands-on approach to governance. However, his leadership was also marked by authoritarian tendencies, frequent Cabinet reshuffles, and a concentration of decision-making in the presidency.",
+        "positiveFactors": [
+          "Decisive leadership style that accelerated infrastructure development, particularly in Lusaka's road network",
+          "Created new provinces (Muchinga) and districts to improve administrative coverage of remote areas",
+          "Personally inspected government projects, holding officials directly accountable for delivery",
+          "Raised the minimum wage significantly, improving conditions for low-income workers"
+        ],
+        "negativeFactors": [
+          "Frequent and unpredictable Cabinet reshuffles created governance instability",
+          "Centralized decision-making in the presidency reduced institutional effectiveness of line ministries",
+          "Health challenges during the last year of his presidency created a power vacuum and governance uncertainty"
+        ],
+        "improvementTips": [
+          "Cabinet stability and continuity are essential for sustained policy implementation",
+          "Presidential succession planning and health transparency protocols should be institutionalized",
+          "Delegating authority to ministers with clear mandates improves governance efficiency"
+        ]
+      },
+      {
+        "category": "Policy Effectiveness",
+        "score": 72,
+        "weight": 20,
+        "weightedScore": 14.4,
+        "explanation": "The Sata administration delivered visible and rapid infrastructure improvements, particularly in Lusaka's road network and urban housing. His pro-poor policies including minimum wage increases and increased social spending were popular. However, policy implementation was often ad hoc, and the administration lacked a coherent long-term economic strategy beyond infrastructure expansion.",
+        "positiveFactors": [
+          "Transformed Lusaka's road network with major dual carriageway construction projects",
+          "Raised the national minimum wage from K419 to K700 per month, benefiting millions of workers",
+          "Launched the Patriotic Front's pro-poor agenda with increased social sector budget allocations",
+          "Started construction of the Kazungula Bridge connecting Zambia to Botswana for regional trade"
+        ],
+        "negativeFactors": [
+          "Economic management lacked a comprehensive medium-term strategy, with policy decisions often reactive",
+          "Agricultural sector received insufficient attention compared to urban infrastructure",
+          "Mining tax regime changes were reversed multiple times, creating investor uncertainty",
+          "Provincial development outside Lusaka and the Copperbelt received disproportionately less attention"
+        ],
+        "improvementTips": [
+          "Infrastructure development must be guided by a national spatial development plan with equitable provincial coverage",
+          "Mining fiscal policy should be stable and predictable to maintain investor confidence",
+          "Pro-poor policies require sustainable financing mechanisms to ensure long-term viability"
+        ]
+      },
+      {
+        "category": "Public Trust & Approval",
+        "score": 75,
+        "weight": 20,
+        "weightedScore": 15.0,
+        "explanation": "President Sata enjoyed strong public support, particularly among urban working-class Zambians who saw him as a champion of the common person. His landslide 2011 victory reflected deep public desire for change. His populist style, accessibility, and willingness to confront powerful interests earned him enduring loyalty, though trust was tested by media restrictions and governance concerns in his later presidency.",
+        "positiveFactors": [
+          "Won the 2011 election with a clear majority, reflecting strong public mandate for change",
+          "Personally accessible and known for impromptu visits to markets, bus stations, and compounds",
+          "His populist rhetoric against exploitation by foreign mining companies resonated with ordinary Zambians",
+          "Infrastructure projects delivered visible improvements that citizens could see and appreciate"
+        ],
+        "negativeFactors": [
+          "Restrictions on The Post newspaper and selected media organizations raised press freedom concerns",
+          "Opacity around presidential health during his final year created public anxiety and rumour",
+          "Some supporters felt the pace of promised reform did not match campaign commitments"
+        ],
+        "improvementTips": [
+          "Transparency about presidential health is essential for public confidence and orderly governance",
+          "Protecting media freedom, even for critical outlets, strengthens democratic credibility",
+          "Managing public expectations through honest communication about reform timelines builds lasting trust"
+        ]
+      },
+      {
+        "category": "Ethical Conduct",
+        "score": 63,
+        "weight": 20,
+        "weightedScore": 12.6,
+        "explanation": "While President Sata personally projected an anti-corruption image and made strong rhetorical commitments to fighting graft, his administration faced allegations of corruption involving officials close to him. The anti-corruption institutional framework was not significantly strengthened, and some procurement processes, particularly for road construction, were questioned for transparency.",
+        "positiveFactors": [
+          "Strong anti-corruption rhetoric and public commitment to holding officials accountable",
+          "Personally modest lifestyle compared to predecessors, avoiding ostentatious displays of wealth",
+          "Initiated investigations into some Rupiah Banda-era corruption cases"
+        ],
+        "negativeFactors": [
+          "Several senior PF officials faced corruption allegations that were not pursued during his presidency",
+          "Road construction procurement under the Link Zambia 8000 programme lacked transparent competitive bidding in some cases",
+          "The Anti-Corruption Commission was not given additional resources or independence to match anti-corruption rhetoric",
+          "Allegations of political patronage in public service appointments, particularly at parastatal level"
+        ],
+        "improvementTips": [
+          "Anti-corruption commitments must be backed by institutional strengthening and adequate resourcing of oversight bodies",
+          "Large infrastructure procurement must follow transparent competitive processes with independent oversight",
+          "Public service appointments should be based on merit and managed through an independent commission"
+        ]
+      },
+      {
+        "category": "International Relations",
+        "score": 70,
+        "weight": 15,
+        "weightedScore": 10.5,
+        "explanation": "President Sata managed Zambia's international relationships pragmatically, maintaining Chinese investment inflows while also engaging Western partners. His confrontational stance towards Chinese labour practices in Zambian mines attracted international attention but also created diplomatic tension. Zambia remained an active participant in SADC and AU affairs under his leadership.",
+        "positiveFactors": [
+          "Maintained strong trade and investment relationships with China while demanding better labour standards",
+          "Continued Zambia's tradition of hosting refugees and contributing to regional stability",
+          "Advanced the Kazungula Bridge project, strengthening Zambia-Botswana economic integration",
+          "Engaged constructively in SADC political mediation processes"
+        ],
+        "negativeFactors": [
+          "Confrontational public rhetoric towards Chinese business practices created periodic diplomatic friction",
+          "Limited strategic engagement with emerging economies beyond China for investment diversification",
+          "Presidential health concerns reduced international engagement in the final year of his presidency"
+        ],
+        "improvementTips": [
+          "Diplomatic engagement with investment partners should balance firm policy positions with constructive dialogue",
+          "Investment attraction strategies should target a diverse range of source countries beyond traditional partners",
+          "Continuity in international engagement requires delegation to competent senior officials during presidential absence"
+        ]
+      }
+    ],
+    "overallExplanation": "Michael Sata's truncated presidency (2011-2014) was characterized by decisive action, populist pro-poor policies, and rapid infrastructure delivery that resonated with ordinary Zambians. His creation of new administrative units, significant minimum wage increases, and transformation of Lusaka's road network represent lasting achievements. However, governance was marked by instability through frequent Cabinet changes, insufficient institutional strengthening of anti-corruption bodies, and opacity around presidential health. His untimely death in office in October 2014 cut short his reform agenda and left a complex legacy that blends genuine pro-poor commitment with governance shortcomings.",
+    "topImprovementAreas": [
+      "Institutional strengthening of anti-corruption bodies must accompany anti-corruption rhetoric",
+      "Balanced provincial development ensures equitable growth beyond Lusaka and the Copperbelt",
+      "Presidential health transparency and succession planning are essential for governance continuity"
+    ]
+  }
+]

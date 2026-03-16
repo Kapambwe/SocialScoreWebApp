@@ -1,0 +1,1072 @@
+[
+  {
+    "id": "GPA-001",
+    "name": "Musonda Kaluba",
+    "role": "Government Project Approver",
+    "organization": "Road Development Agency",
+    "department": "Road Development Agency",
+    "approvalLevel": "National",
+    "region": "Lusaka",
+    "overallScore": 88,
+    "rating": "Excellent",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-10T09:00:00Z",
+    "details": {
+      "decisionQuality": 90,
+      "procurementCompliance": 87,
+      "financialAccountability": 92,
+      "integrityAntiCorruption": 85,
+      "timelinessResponsiveness": 88
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Decision Quality",
+        "score": 90,
+        "weight": 25,
+        "weightedScore": 22.5,
+        "explanation": "Musonda has demonstrated consistently sound project approval decisions at the Road Development Agency national office. Of 45 road projects approved in the past 24 months, 42 were completed within 15% of original budget and scope, reflecting rigorous upfront feasibility assessment and appropriate technical review processes before approval.",
+        "positiveFactors": [
+          "93% of approved road projects completed within 15% of original budget and scope parameters",
+          "Implements a structured multi-stage approval process including independent technical review by NRFA engineers",
+          "Rejected 8 project proposals in 2025 that failed to meet minimum economic rate of return thresholds",
+          "Introduced mandatory traffic count verification before approving any road upgrade project"
+        ],
+        "negativeFactors": [
+          "3 approved projects experienced significant scope changes post-approval, suggesting initial specifications could be tightened"
+        ],
+        "improvementTips": [
+          "Introduce a post-approval scope change audit to identify patterns in specification gaps",
+          "Require contractors to present detailed risk mitigation plans before final project approval"
+        ]
+      },
+      {
+        "category": "Procurement Compliance",
+        "score": 87,
+        "weight": 20,
+        "weightedScore": 17.4,
+        "explanation": "Strong adherence to the Zambia Public Procurement Authority Act and RDA procurement regulations. All major contracts above ZMW 5 million have followed the required open tendering process, and bid evaluation reports are consistently well-documented. Minor gaps exist in the timeliness of procurement plan submissions to ZPPA.",
+        "positiveFactors": [
+          "100% of contracts above ZMW 5 million awarded through compliant open tendering processes",
+          "Bid evaluation committee reports are comprehensive with clear scoring justifications documented",
+          "All procurement decisions published on the RDA website within the required 14-day notification period",
+          "No procurement complaints upheld by ZPPA's review tribunal in the past 3 years"
+        ],
+        "negativeFactors": [
+          "Annual procurement plan submitted to ZPPA 3 weeks late in 2025",
+          "One contract variation of 25% processed without the required ZPPA prior approval"
+        ],
+        "improvementTips": [
+          "Submit annual procurement plans to ZPPA at least 2 weeks before the statutory deadline",
+          "Implement a contract variation threshold alert system to ensure ZPPA approval is obtained before processing"
+        ]
+      },
+      {
+        "category": "Financial Accountability",
+        "score": 92,
+        "weight": 25,
+        "weightedScore": 23.0,
+        "explanation": "Excellent financial oversight with all approved road projects subject to rigorous budget tracking and quarterly financial reporting to the Ministry of Finance. The Auditor General's most recent report on RDA projects under Musonda's approval authority contained no adverse findings, and project cost overruns are consistently below the 10% acceptable threshold.",
+        "positiveFactors": [
+          "Zero adverse findings in the Auditor General's latest report on projects under approval authority",
+          "Average project cost overrun of only 6%, well below the 10% acceptable threshold for road construction",
+          "Quarterly financial reports submitted to the Ministry of Finance within 15 days of period close",
+          "Implemented a real-time project expenditure dashboard accessible to oversight bodies"
+        ],
+        "negativeFactors": [
+          "Two project final accounts were not reconciled within the required 90 days of project completion"
+        ],
+        "improvementTips": [
+          "Enforce the 90-day final account reconciliation deadline through mandatory project closure checklists",
+          "Commission an independent value-for-money audit on a sample of completed projects annually"
+        ]
+      },
+      {
+        "category": "Integrity & Anti-Corruption",
+        "score": 85,
+        "weight": 15,
+        "weightedScore": 12.75,
+        "explanation": "No corruption allegations or Anti-Corruption Commission investigations linked to Musonda's approval decisions. Asset declaration filings with the Anti-Corruption Commission are current, and the officer participates in the RDA integrity committee. However, the absence of a formal conflict-of-interest disclosure register for project approvals is a governance gap.",
+        "positiveFactors": [
+          "Zero corruption allegations or Anti-Corruption Commission investigations in a 10-year career",
+          "Asset declaration filings with the Anti-Corruption Commission current and complete",
+          "Active member of the RDA internal integrity and ethics committee",
+          "Participated in 3 anti-corruption training programmes including the ACC Public Officers Integrity Course"
+        ],
+        "negativeFactors": [
+          "No formal conflict-of-interest disclosure register maintained for project approval decisions",
+          "Whistleblower reporting mechanism in the department is not well publicised to project stakeholders"
+        ],
+        "improvementTips": [
+          "Establish a mandatory conflict-of-interest disclosure register for all project approval decisions",
+          "Publicise the whistleblower reporting mechanism on all project tender documents and site notice boards"
+        ]
+      },
+      {
+        "category": "Timeliness & Responsiveness",
+        "score": 88,
+        "weight": 15,
+        "weightedScore": 13.2,
+        "explanation": "Project approvals are generally processed within the RDA's 30-day standard turnaround time. Musonda's average approval processing time of 22 days compares favourably to the institutional average of 35 days. Responsiveness to queries from contractors, the Ministry, and oversight bodies is consistently prompt.",
+        "positiveFactors": [
+          "Average project approval processing time of 22 days, 37% faster than the institutional average",
+          "Contractor queries responded to within 5 working days in 95% of cases",
+          "Introduced a weekly project approval status tracker shared with all applicants",
+          "Ministry of Infrastructure queries addressed within 48 hours on average"
+        ],
+        "negativeFactors": [
+          "3 project approvals in remote provinces exceeded the 30-day turnaround due to site visit scheduling challenges"
+        ],
+        "improvementTips": [
+          "Pre-schedule site visits for remote province projects immediately upon application receipt to avoid delays",
+          "Explore drone-based preliminary site assessments to reduce dependency on physical site visits for initial screening"
+        ]
+      }
+    ],
+    "overallExplanation": "Musonda Kaluba is a high-performing project approver at the Road Development Agency's national office in Lusaka, demonstrating strong decision quality with a 93% project success rate, excellent financial accountability with zero adverse audit findings, and above-average processing timeliness. A clean integrity record spanning a decade reinforces trust in the approval process. Establishing a formal conflict-of-interest disclosure register and tightening post-approval scope change controls would address the remaining governance gaps and move this already excellent profile towards the benchmark standard for public project approval in Zambia.",
+    "topImprovementAreas": [
+      "Establish a mandatory conflict-of-interest disclosure register for all approval decisions",
+      "Tighten initial project specifications to reduce post-approval scope changes",
+      "Enforce the 90-day final account reconciliation deadline on all completed projects"
+    ]
+  },
+  {
+    "id": "GPA-002",
+    "name": "Mwila Bwalya",
+    "role": "Government Project Approver",
+    "organization": "National Housing Authority",
+    "department": "National Housing Authority",
+    "approvalLevel": "Provincial",
+    "region": "Ndola",
+    "overallScore": 62,
+    "rating": "Needs Improvement",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-14T11:30:00Z",
+    "details": {
+      "decisionQuality": 60,
+      "procurementCompliance": 58,
+      "financialAccountability": 65,
+      "integrityAntiCorruption": 64,
+      "timelinessResponsiveness": 55
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Decision Quality",
+        "score": 60,
+        "weight": 25,
+        "weightedScore": 15.0,
+        "explanation": "Mwila serves as a provincial project approver for the National Housing Authority in Ndola, overseeing housing development approvals across the Copperbelt Province. Of 18 housing projects approved in the past 24 months, 7 have experienced significant cost overruns exceeding 25%, suggesting insufficient rigour in upfront feasibility assessment and cost estimation review.",
+        "positiveFactors": [
+          "11 of 18 approved housing projects completed within acceptable cost and timeline parameters",
+          "Introduced a requirement for independent quantity surveyor verification before project approval"
+        ],
+        "negativeFactors": [
+          "7 of 18 approved projects (39%) experienced cost overruns exceeding 25% of original estimates",
+          "3 approved housing projects had to be redesigned mid-construction due to inadequate soil surveys at approval stage",
+          "Limited use of historical project data to benchmark cost estimates during the approval review process"
+        ],
+        "improvementTips": [
+          "Require mandatory geotechnical survey reports before approving any housing development project",
+          "Develop a historical cost database from completed Copperbelt housing projects for benchmarking new proposals"
+        ]
+      },
+      {
+        "category": "Procurement Compliance",
+        "score": 58,
+        "weight": 20,
+        "weightedScore": 11.6,
+        "explanation": "Procurement compliance shows concerning gaps. Two housing contracts were awarded through restricted tendering without adequate justification for bypassing the open tender requirement. The ZPPA conducted a compliance review in 2025 that identified three material findings related to incomplete bid evaluation documentation.",
+        "positiveFactors": [
+          "Majority of contracts above the threshold awarded through open competitive tendering",
+          "Procurement unit maintains a registered supplier database updated quarterly"
+        ],
+        "negativeFactors": [
+          "Two contracts awarded via restricted tendering without sufficient justification documented for the ZPPA",
+          "ZPPA compliance review in 2025 identified 3 material findings on bid evaluation documentation",
+          "One contract split into smaller packages suspected of avoiding the higher-threshold approval requirements",
+          "Procurement plan for 2025 was submitted 8 weeks late to ZPPA"
+        ],
+        "improvementTips": [
+          "Address all 3 ZPPA material findings with documented corrective actions and implementation timelines",
+          "Implement a mandatory checklist requiring complete bid evaluation documentation before contract award",
+          "Ensure all restricted tender justifications are documented and pre-approved by the provincial director"
+        ]
+      },
+      {
+        "category": "Financial Accountability",
+        "score": 65,
+        "weight": 25,
+        "weightedScore": 16.25,
+        "explanation": "Moderate financial accountability with quarterly reports generally submitted but lacking the granularity required for effective oversight. The Auditor General's 2025 report on NHA Copperbelt operations identified two projects where approved budgets were exceeded without the required supplementary approval, and retention money was released to one contractor before the defects liability period expired.",
+        "positiveFactors": [
+          "Quarterly financial reports submitted to the NHA headquarters for all approved projects",
+          "Maintains a project budget tracking spreadsheet updated monthly for active projects"
+        ],
+        "negativeFactors": [
+          "Auditor General identified 2 projects where budgets were exceeded without required supplementary approval",
+          "Retention money released prematurely to one contractor before the 12-month defects liability period ended",
+          "Financial reports lack project-level expenditure breakdowns, presenting only aggregate figures",
+          "No independent financial monitoring visits conducted on active projects during 2025"
+        ],
+        "improvementTips": [
+          "Implement project-level expenditure tracking with monthly variance reporting against approved budgets",
+          "Establish a strict retention money release protocol requiring formal defects liability completion certificate",
+          "Conduct quarterly independent financial monitoring visits on a sample of active projects"
+        ]
+      },
+      {
+        "category": "Integrity & Anti-Corruption",
+        "score": 64,
+        "weight": 15,
+        "weightedScore": 9.6,
+        "explanation": "No proven corruption findings, but the restricted tendering irregularities and contract splitting concern identified by ZPPA raise governance questions. Asset declaration filings are current, though the 2025 submission was filed one month late. The officer has not participated in any anti-corruption training in the past two years.",
+        "positiveFactors": [
+          "No proven corruption findings or Anti-Corruption Commission formal investigations",
+          "Asset declaration filed with the Anti-Corruption Commission, albeit one month late in 2025"
+        ],
+        "negativeFactors": [
+          "Restricted tendering irregularities and suspected contract splitting raise governance concerns",
+          "Asset declaration for 2025 filed one month past the statutory deadline",
+          "No anti-corruption training attended in the past 24 months",
+          "No conflict-of-interest register or declaration system in place for project approvals"
+        ],
+        "improvementTips": [
+          "Complete the Anti-Corruption Commission integrity training programme within the next 6 months",
+          "Implement a mandatory conflict-of-interest declaration for every project approval decision",
+          "Ensure future asset declarations are filed well before the statutory deadline"
+        ]
+      },
+      {
+        "category": "Timeliness & Responsiveness",
+        "score": 55,
+        "weight": 15,
+        "weightedScore": 8.25,
+        "explanation": "Significant delays in project approval processing, with the average turnaround time of 52 days far exceeding the NHA's 30-day standard. Multiple contractors have formally complained about delays, and 4 housing projects experienced construction season losses due to late approval. Responsiveness to Ministry and ZPPA queries also needs improvement.",
+        "positiveFactors": [
+          "Recently introduced a project approval tracking register to monitor processing timelines"
+        ],
+        "negativeFactors": [
+          "Average approval processing time of 52 days, 73% longer than the 30-day NHA standard",
+          "4 housing projects missed the construction season start due to late approval processing",
+          "3 formal complaints received from contractors about unresponsiveness during approval process",
+          "ZPPA compliance review response submitted 6 weeks after the requested deadline"
+        ],
+        "improvementTips": [
+          "Set a maximum 30-day approval processing target and report monthly on achievement against this standard",
+          "Implement a first-in-first-out processing queue with weekly status updates to applicants",
+          "Assign a dedicated officer to manage correspondence with oversight bodies and ensure timely responses"
+        ]
+      }
+    ],
+    "overallExplanation": "Mwila Bwalya's performance as a provincial project approver at the National Housing Authority in Ndola shows several areas requiring improvement. A 39% cost overrun rate on approved projects, ZPPA compliance findings around restricted tendering and documentation gaps, and an average approval processing time nearly double the institutional standard are significant concerns. While no proven corruption has been established, the procurement irregularities and late asset declaration filing create perception risks. Addressing ZPPA findings, strengthening cost estimation review rigour, and reducing approval processing times are urgent priorities.",
+    "topImprovementAreas": [
+      "Address all ZPPA compliance findings with documented corrective actions",
+      "Reduce project approval processing time from 52 days to within the 30-day standard",
+      "Strengthen upfront feasibility review to reduce the 39% cost overrun rate on approved projects"
+    ]
+  },
+  {
+    "id": "GPA-003",
+    "name": "Lubinda Mweetwa",
+    "role": "Government Project Approver",
+    "organization": "Ministry of Infrastructure and Urban Development",
+    "department": "Ministry of Infrastructure",
+    "approvalLevel": "National",
+    "region": "Chipata",
+    "overallScore": 76,
+    "rating": "Good",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-18T14:00:00Z",
+    "details": {
+      "decisionQuality": 78,
+      "procurementCompliance": 75,
+      "financialAccountability": 80,
+      "integrityAntiCorruption": 74,
+      "timelinessResponsiveness": 73
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Decision Quality",
+        "score": 78,
+        "weight": 25,
+        "weightedScore": 19.5,
+        "explanation": "Lubinda oversees national-level infrastructure project approvals with a focus on Eastern Province deployments from the Chipata regional office. Of 30 infrastructure projects approved over the past 3 years, 23 have been completed satisfactorily, though 5 experienced significant delays due to underestimated ground conditions in the Luangwa Valley terrain.",
+        "positiveFactors": [
+          "77% of approved infrastructure projects completed satisfactorily within acceptable parameters",
+          "Developed a standardised project appraisal checklist adopted by the Eastern Province infrastructure team",
+          "Requires environmental and social impact assessments before granting approval on all projects above ZMW 10 million"
+        ],
+        "negativeFactors": [
+          "5 projects in the Luangwa Valley area experienced delays due to underestimated geotechnical challenges",
+          "2 bridge projects required redesign after approval due to inadequate hydrological data in the initial submissions"
+        ],
+        "improvementTips": [
+          "Require comprehensive geotechnical and hydrological studies for all projects in the Luangwa Valley terrain",
+          "Establish a pre-approval technical panel including geotechnical specialists for projects in challenging terrain"
+        ]
+      },
+      {
+        "category": "Procurement Compliance",
+        "score": 75,
+        "weight": 20,
+        "weightedScore": 15.0,
+        "explanation": "Generally compliant with the ZPPA Act and Ministry procurement regulations. Open tendering is followed for all major contracts, and bid evaluation reports are reasonably well-documented. However, one contract awarded in 2025 had its evaluation criteria changed after bids were received, which was flagged by the Ministry's internal audit unit.",
+        "positiveFactors": [
+          "All contracts above the threshold awarded through compliant open tendering processes",
+          "Bid evaluation committee includes representatives from the Ministry, ZPPA observer, and technical experts",
+          "Procurement records maintained in an organised physical and electronic filing system"
+        ],
+        "negativeFactors": [
+          "One contract had evaluation criteria modified after bid submission, flagged by internal audit",
+          "Two procurement processes exceeded the maximum tender validity period, requiring re-tendering",
+          "Limited use of framework contracts for recurring works, leading to repetitive procurement cycles"
+        ],
+        "improvementTips": [
+          "Implement a locked evaluation criteria protocol that prevents any changes after bid advertisement",
+          "Establish framework contracts for recurring infrastructure maintenance works to reduce procurement cycle times"
+        ]
+      },
+      {
+        "category": "Financial Accountability",
+        "score": 80,
+        "weight": 25,
+        "weightedScore": 20.0,
+        "explanation": "Good financial oversight with project expenditure monitoring conducted quarterly and variances reported to the Ministry headquarters. The Auditor General's latest report contained one minor finding related to advance payment recovery timelines, but no material financial irregularities. Budget utilisation rates across approved projects average 85%, indicating reasonable planning accuracy.",
+        "positiveFactors": [
+          "Quarterly project expenditure monitoring reports submitted consistently to Ministry headquarters",
+          "Average budget utilisation rate of 85% across approved projects indicates sound planning",
+          "Auditor General's latest report contained only one minor finding with no material irregularities",
+          "Advance payment guarantees collected and managed in accordance with Treasury regulations"
+        ],
+        "negativeFactors": [
+          "Advance payment recovery from one contractor took 8 months instead of the required 3-month timeline",
+          "Two projects had unspent balances exceeding 20% at year-end, suggesting over-budgeting at approval stage"
+        ],
+        "improvementTips": [
+          "Enforce strict advance payment recovery timelines with automatic escalation after 90 days",
+          "Review project budgets more critically at approval stage to reduce systematic over-budgeting"
+        ]
+      },
+      {
+        "category": "Integrity & Anti-Corruption",
+        "score": 74,
+        "weight": 15,
+        "weightedScore": 11.1,
+        "explanation": "No corruption allegations or investigations, but the evaluation criteria modification incident raises process integrity concerns. Asset declarations are current, and Lubinda has attended two integrity training sessions. The officer serves on the Ministry's ethics committee but has not yet implemented a personal conflict-of-interest disclosure system for project approvals.",
+        "positiveFactors": [
+          "Zero corruption allegations or investigations throughout career in public service",
+          "Asset declarations current and filed on time with the Anti-Corruption Commission",
+          "Member of the Ministry's ethics and integrity committee since 2023",
+          "Completed two Anti-Corruption Commission training programmes"
+        ],
+        "negativeFactors": [
+          "The evaluation criteria modification incident, while not proven to be corrupt, raises process integrity questions",
+          "No personal conflict-of-interest disclosure system for individual project approval decisions"
+        ],
+        "improvementTips": [
+          "Implement a mandatory written conflict-of-interest declaration for each project approval decision",
+          "Commission an independent review of the evaluation criteria modification incident to identify systemic safeguards"
+        ]
+      },
+      {
+        "category": "Timeliness & Responsiveness",
+        "score": 73,
+        "weight": 15,
+        "weightedScore": 10.95,
+        "explanation": "Approval processing times average 28 days, close to the 30-day standard but with high variability. Some approvals are processed in under 14 days while others take up to 60 days, particularly for projects requiring cross-departmental coordination. Responsiveness to contractor queries is adequate but not proactive.",
+        "positiveFactors": [
+          "Average approval processing time of 28 days is within the 30-day institutional standard",
+          "Urgent national priority projects fast-tracked with approval within 14 days when required"
+        ],
+        "negativeFactors": [
+          "High variability in processing times with some approvals taking up to 60 days",
+          "Cross-departmental coordination bottlenecks cause delays on projects requiring multiple agency inputs",
+          "No formal status update system for applicants during the approval process"
+        ],
+        "improvementTips": [
+          "Reduce processing time variability by identifying and addressing cross-departmental coordination bottlenecks",
+          "Implement an automated applicant notification system providing status updates at each approval stage"
+        ]
+      }
+    ],
+    "overallExplanation": "Lubinda Mweetwa is a competent national-level infrastructure project approver based in Chipata, with a generally positive track record across decision quality, financial accountability, and integrity. A 77% project success rate and sound financial oversight are commendable, though challenges with geotechnical assessments in the Luangwa Valley terrain and the evaluation criteria modification incident highlight areas for strengthening. Addressing processing time variability, establishing mandatory conflict-of-interest declarations, and requiring comprehensive technical studies for challenging terrain projects would elevate this profile to the Excellent tier.",
+    "topImprovementAreas": [
+      "Require comprehensive geotechnical studies for all Luangwa Valley infrastructure projects",
+      "Implement locked evaluation criteria protocols to prevent post-advertisement modifications",
+      "Reduce approval processing time variability through improved cross-departmental coordination"
+    ]
+  },
+  {
+    "id": "GPA-004",
+    "name": "Nachilima Sikazwe",
+    "role": "Government Project Approver",
+    "organization": "Zambia Public Procurement Authority",
+    "department": "ZPPA",
+    "approvalLevel": "National",
+    "region": "Livingstone",
+    "overallScore": 91,
+    "rating": "Excellent",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-22T08:45:00Z",
+    "details": {
+      "decisionQuality": 93,
+      "procurementCompliance": 95,
+      "financialAccountability": 90,
+      "integrityAntiCorruption": 92,
+      "timelinessResponsiveness": 85
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Decision Quality",
+        "score": 93,
+        "weight": 25,
+        "weightedScore": 23.25,
+        "explanation": "Nachilima is a senior approver at ZPPA responsible for reviewing and approving procurement decisions across government agencies nationally. Her decisions on 120 procurement reviews in the past 24 months have been upheld in 98% of cases, with only 2 decisions overturned on appeal to the ZPPA review tribunal. The analytical rigour applied to procurement review ensures that approved contracts represent genuine value for money.",
+        "positiveFactors": [
+          "98% of procurement review decisions upheld with only 2 of 120 overturned on appeal",
+          "Developed a structured value-for-money assessment framework now used across ZPPA offices",
+          "Identified and prevented 8 non-compliant procurement awards worth ZMW 45 million collectively",
+          "Published 3 procurement best practice guidance notes adopted by government agencies nationally"
+        ],
+        "negativeFactors": [
+          "2 decisions overturned by the ZPPA review tribunal due to insufficient consideration of technical scoring weight"
+        ],
+        "improvementTips": [
+          "Review the 2 overturned decisions to identify patterns and strengthen technical scoring assessment methodology",
+          "Establish a peer review mechanism for high-value procurement decisions before final determination"
+        ]
+      },
+      {
+        "category": "Procurement Compliance",
+        "score": 95,
+        "weight": 20,
+        "weightedScore": 19.0,
+        "explanation": "As a ZPPA officer, Nachilima sets the standard for procurement compliance. Internal ZPPA quality assurance reviews rate her work at the highest compliance tier, and she has been selected to train other government agencies on ZPPA Act requirements. Her documentation standards are considered the benchmark within the institution.",
+        "positiveFactors": [
+          "Internal ZPPA quality assurance consistently rates work at the highest compliance tier",
+          "Selected as lead trainer for ZPPA Act compliance workshops delivered to 15 government agencies",
+          "Documentation standards cited as benchmark quality by the ZPPA Director General",
+          "Zero compliance findings in any internal or external audit of personal approval decisions"
+        ],
+        "negativeFactors": [
+          "Some agencies report that the rigorous compliance standards create perceived delays in procurement approvals"
+        ],
+        "improvementTips": [
+          "Develop a fast-track compliance review process for low-risk, routine procurement categories",
+          "Create pre-approved procurement templates for common categories to reduce agency preparation time"
+        ]
+      },
+      {
+        "category": "Financial Accountability",
+        "score": 90,
+        "weight": 25,
+        "weightedScore": 22.5,
+        "explanation": "Strong financial accountability oversight, particularly in ensuring that procurement approvals are supported by confirmed budget availability and proper financial authority. Nachilima's requirement for Treasury commitment letters before approving major procurement has been credited with reducing unfunded contract awards across government.",
+        "positiveFactors": [
+          "Mandatory Treasury commitment letter requirement before approval has reduced unfunded contract awards",
+          "Financial review of procurement submissions identifies cost estimation errors in 15% of cases before approval",
+          "Maintains a comprehensive database of approved procurement values for trend analysis and benchmarking",
+          "Contributed to the development of ZPPA's revised financial thresholds for procurement methods"
+        ],
+        "negativeFactors": [
+          "Database of approved procurement values is manually maintained, creating risk of data integrity issues"
+        ],
+        "improvementTips": [
+          "Advocate for an automated procurement management information system to replace the manual database",
+          "Publish annual procurement trend analysis reports to improve transparency and inform policy decisions"
+        ]
+      },
+      {
+        "category": "Integrity & Anti-Corruption",
+        "score": 92,
+        "weight": 15,
+        "weightedScore": 13.8,
+        "explanation": "Exemplary integrity record with proactive anti-corruption efforts. Nachilima has referred 5 suspected corruption cases to the Anti-Corruption Commission from procurement reviews, 3 of which resulted in successful investigations. Asset declarations are current, and she maintains a personal conflict-of-interest register that exceeds institutional requirements.",
+        "positiveFactors": [
+          "Referred 5 suspected corruption cases to the Anti-Corruption Commission, 3 resulting in successful investigations",
+          "Maintains a personal conflict-of-interest register exceeding institutional requirements",
+          "Asset declarations consistently filed on time and verified by the ACC without discrepancies",
+          "Received the ZPPA Integrity Award in 2024 for contribution to procurement transparency"
+        ],
+        "negativeFactors": [
+          "The remaining 2 referred cases were not pursued by the ACC due to insufficient evidence, suggesting referral threshold could be calibrated"
+        ],
+        "improvementTips": [
+          "Work with the ACC to refine the evidence threshold for procurement corruption referrals",
+          "Mentor junior ZPPA officers on integrity standards and the importance of conflict-of-interest management"
+        ]
+      },
+      {
+        "category": "Timeliness & Responsiveness",
+        "score": 85,
+        "weight": 15,
+        "weightedScore": 12.75,
+        "explanation": "Procurement reviews are completed within the ZPPA's 21-day standard in most cases, with an average turnaround of 18 days. However, complex multi-agency procurement reviews occasionally exceed the timeline, and some agencies have noted that the thoroughness of review, while valued, can create time pressure on project implementation schedules.",
+        "positiveFactors": [
+          "Average procurement review turnaround of 18 days, 14% faster than the 21-day ZPPA standard",
+          "Introduced a prioritisation system for time-critical procurement reviews such as emergency supplies",
+          "Weekly status reports sent to all agencies with pending procurement reviews"
+        ],
+        "negativeFactors": [
+          "Complex multi-agency procurement reviews occasionally exceed the 21-day standard by up to 14 days",
+          "Some agencies perceive the thorough review process as creating time pressure on implementation schedules"
+        ],
+        "improvementTips": [
+          "Establish a dedicated fast-track process for multi-agency procurement to reduce coordination delays",
+          "Provide agencies with a pre-submission completeness checklist to reduce back-and-forth during reviews"
+        ]
+      }
+    ],
+    "overallExplanation": "Nachilima Sikazwe is an outstanding procurement approver at ZPPA, setting the national standard for procurement compliance and integrity in Zambian public sector procurement. A 98% decision upheld rate, zero compliance findings, proactive corruption referrals to the ACC, and recognition through the ZPPA Integrity Award demonstrate exceptional performance across all dimensions. The rigorous approach to procurement review occasionally creates perceived delays for implementing agencies, but this is a reasonable trade-off for the quality and integrity of oversight provided. Developing fast-track processes for routine and multi-agency procurement would address the timeliness concerns while maintaining the high compliance standards.",
+    "topImprovementAreas": [
+      "Develop fast-track review processes for low-risk routine procurement categories",
+      "Advocate for an automated procurement management information system",
+      "Refine corruption referral evidence thresholds in coordination with the ACC"
+    ]
+  },
+  {
+    "id": "GPA-005",
+    "name": "Kapinga Mumba",
+    "role": "Government Project Approver",
+    "organization": "Ministry of Local Government and Rural Development",
+    "department": "Ministry of Local Government",
+    "approvalLevel": "District",
+    "region": "Kasama",
+    "overallScore": 48,
+    "rating": "Poor",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-26T10:00:00Z",
+    "details": {
+      "decisionQuality": 45,
+      "procurementCompliance": 42,
+      "financialAccountability": 48,
+      "integrityAntiCorruption": 50,
+      "timelinessResponsiveness": 55
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Decision Quality",
+        "score": 45,
+        "weight": 25,
+        "weightedScore": 11.25,
+        "explanation": "Kapinga serves as a district-level project approver for the Ministry of Local Government in Kasama, Northern Province. Of 25 community development projects approved in the past 3 years, 14 have failed to achieve their stated objectives, with 6 abandoned before completion. Approved projects frequently lack baseline data, measurable indicators, and realistic implementation timelines.",
+        "positiveFactors": [
+          "11 of 25 approved projects were completed and achieved most of their intended objectives"
+        ],
+        "negativeFactors": [
+          "56% project failure rate with 14 of 25 approved projects not achieving stated objectives",
+          "6 projects abandoned before completion due to contractor failure or community disputes",
+          "Approved project proposals frequently lack baseline data and measurable outcome indicators",
+          "No post-approval project monitoring framework in place at the district level",
+          "Limited technical assessment capacity at the district office for specialised infrastructure projects"
+        ],
+        "improvementTips": [
+          "Require all project proposals to include baseline data, measurable indicators, and realistic timelines before approval",
+          "Establish a mandatory post-approval monitoring schedule with monthly progress reporting requirements",
+          "Request technical assessment support from the provincial office for specialised infrastructure proposals"
+        ]
+      },
+      {
+        "category": "Procurement Compliance",
+        "score": 42,
+        "weight": 20,
+        "weightedScore": 8.4,
+        "explanation": "Serious procurement compliance deficiencies identified by both the ZPPA and the Auditor General. Multiple contracts awarded without following required procurement procedures, bid evaluation documentation is frequently missing or incomplete, and one contractor was awarded 4 consecutive contracts without competitive process, raising favouritism concerns.",
+        "positiveFactors": [
+          "Some recent improvement with the last 3 procurement processes following the correct open tender procedure"
+        ],
+        "negativeFactors": [
+          "ZPPA identified 5 material procurement compliance findings in the 2025 review",
+          "Auditor General flagged 3 contracts awarded without following required procurement procedures",
+          "Bid evaluation documentation missing or incomplete for 8 of 25 project procurement files",
+          "One contractor awarded 4 consecutive contracts without competitive process, raising favouritism concerns",
+          "Annual procurement plan not submitted to ZPPA for the 2025 financial year"
+        ],
+        "improvementTips": [
+          "Immediately address all ZPPA and Auditor General findings with documented corrective action plans",
+          "Implement a procurement compliance checklist requiring sign-off at each stage before proceeding",
+          "Rotate contractor awards and ensure competitive tendering for all contracts above the threshold"
+        ]
+      },
+      {
+        "category": "Financial Accountability",
+        "score": 48,
+        "weight": 25,
+        "weightedScore": 12.0,
+        "explanation": "Weak financial accountability with the Auditor General's report identifying unaccounted-for project funds totalling ZMW 2.3 million across 4 projects. Financial reports are irregularly submitted and lack supporting documentation. Project bank account reconciliations are not performed, and advance payments to contractors are poorly tracked.",
+        "positiveFactors": [
+          "Financial reports, though irregular, have been submitted for the most recent quarter showing improvement"
+        ],
+        "negativeFactors": [
+          "Auditor General identified ZMW 2.3 million in unaccounted-for project funds across 4 projects",
+          "Financial reports submitted irregularly with significant gaps in supporting documentation",
+          "Project bank account reconciliations not performed for 8 consecutive months in 2025",
+          "Advance payments to 3 contractors totalling ZMW 1.5 million have not been recovered despite project completion",
+          "No independent financial monitoring or verification conducted on any active project"
+        ],
+        "improvementTips": [
+          "Immediately account for the ZMW 2.3 million in flagged project funds with full supporting documentation",
+          "Implement monthly bank reconciliation and advance payment tracking as mandatory district office procedures",
+          "Recover all outstanding contractor advance payments through legal channels if necessary"
+        ]
+      },
+      {
+        "category": "Integrity & Anti-Corruption",
+        "score": 50,
+        "weight": 15,
+        "weightedScore": 7.5,
+        "explanation": "The pattern of repeated contract awards to one contractor, unaccounted-for funds, and procurement compliance failures raise significant integrity concerns. While no formal Anti-Corruption Commission investigation is currently underway, the district has been flagged for a comprehensive governance audit. Asset declarations are filed but have not been independently verified.",
+        "positiveFactors": [
+          "Asset declarations filed with the Anti-Corruption Commission as required",
+          "No formal ACC investigation or charges filed to date"
+        ],
+        "negativeFactors": [
+          "Pattern of repeated awards to one contractor without competition raises favouritism concerns",
+          "Unaccounted-for funds of ZMW 2.3 million create perception of potential misappropriation",
+          "District flagged for a comprehensive governance audit by the Provincial Administration",
+          "No anti-corruption training attended in the past 3 years",
+          "No whistleblower mechanism or complaints system accessible to community project beneficiaries"
+        ],
+        "improvementTips": [
+          "Cooperate fully with the upcoming Provincial Administration governance audit",
+          "Complete anti-corruption training through the ACC within the next 3 months as a matter of urgency",
+          "Establish a community complaints mechanism allowing project beneficiaries to report concerns directly"
+        ]
+      },
+      {
+        "category": "Timeliness & Responsiveness",
+        "score": 55,
+        "weight": 15,
+        "weightedScore": 8.25,
+        "explanation": "Project approvals are processed at a reasonable pace, averaging 25 days, which is the strongest dimension in this assessment. However, responsiveness to oversight body queries is poor, with the ZPPA compliance review response still outstanding after 4 months, and community complaints about project delays are not systematically addressed.",
+        "positiveFactors": [
+          "Average project approval processing time of 25 days is within acceptable parameters",
+          "Approval decisions communicated to applicants within 5 working days of the decision"
+        ],
+        "negativeFactors": [
+          "ZPPA compliance review response outstanding for 4 months past the required response deadline",
+          "Auditor General queries on financial findings have not been formally responded to",
+          "Community complaints about project delays and quality issues not systematically tracked or resolved",
+          "Provincial Administration monthly reports submitted late in 5 of 12 months in 2025"
+        ],
+        "improvementTips": [
+          "Respond to the outstanding ZPPA and Auditor General queries within 14 days as the highest priority",
+          "Implement a complaints tracking system for community project beneficiaries with formal response timelines",
+          "Set up automated reminders for all recurring reporting deadlines"
+        ]
+      }
+    ],
+    "overallExplanation": "Kapinga Mumba's performance as a district-level project approver in Kasama presents a concerning picture. A 56% project failure rate, serious procurement compliance findings from both ZPPA and the Auditor General, ZMW 2.3 million in unaccounted-for funds, and the pattern of repeated awards to one contractor without competition represent fundamental governance failures requiring urgent intervention. The upcoming Provincial Administration governance audit will be critical. Immediate priorities must include accounting for flagged funds, addressing all outstanding audit findings, completing anti-corruption training, and establishing basic financial controls and procurement compliance procedures at the district office.",
+    "topImprovementAreas": [
+      "Account for ZMW 2.3 million in flagged project funds and respond to all Auditor General queries",
+      "Address all ZPPA procurement compliance findings with corrective actions",
+      "Cooperate with the Provincial Administration governance audit and complete ACC anti-corruption training"
+    ]
+  },
+  {
+    "id": "GPA-006",
+    "name": "Walusiku Namukolo",
+    "role": "Government Project Approver",
+    "organization": "Ministry of Water Development and Sanitation",
+    "department": "Ministry of Water Development",
+    "approvalLevel": "Provincial",
+    "region": "Solwezi",
+    "overallScore": 72,
+    "rating": "Good",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-30T13:15:00Z",
+    "details": {
+      "decisionQuality": 74,
+      "procurementCompliance": 70,
+      "financialAccountability": 75,
+      "integrityAntiCorruption": 72,
+      "timelinessResponsiveness": 70
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Decision Quality",
+        "score": 74,
+        "weight": 25,
+        "weightedScore": 18.5,
+        "explanation": "Walusiku oversees provincial-level water supply and sanitation project approvals in North-Western Province from the Solwezi office. Of 20 water projects approved in the past 3 years, 14 are operational and meeting design specifications, while 4 boreholes have experienced early failure due to inadequate hydrogeological surveys at the approval stage, and 2 sanitation projects were poorly sited.",
+        "positiveFactors": [
+          "70% of approved water projects operational and meeting design specifications",
+          "Introduced mandatory community contribution verification before approving borehole projects",
+          "Requires WARMA water quality testing results before approving any community water supply project"
+        ],
+        "negativeFactors": [
+          "4 approved borehole projects experienced early failure due to inadequate hydrogeological surveys",
+          "2 sanitation projects poorly sited, resulting in groundwater contamination risk identified post-construction",
+          "Limited consideration of climate resilience in project design specifications at approval stage"
+        ],
+        "improvementTips": [
+          "Require comprehensive hydrogeological surveys by certified professionals before any borehole project approval",
+          "Implement mandatory minimum distances between sanitation facilities and water points in all project approvals"
+        ]
+      },
+      {
+        "category": "Procurement Compliance",
+        "score": 70,
+        "weight": 20,
+        "weightedScore": 14.0,
+        "explanation": "Reasonable procurement compliance with most contracts following the correct procedures. The ZPPA has not identified any material findings in the most recent review, though documentation could be more thorough. Two borehole drilling contracts were awarded using a simplified method that some observers considered should have followed the standard open tender process.",
+        "positiveFactors": [
+          "No material findings from the most recent ZPPA compliance review",
+          "Procurement records maintained in an organised filing system at the provincial office",
+          "Bid opening sessions conducted publicly with community representatives invited as observers"
+        ],
+        "negativeFactors": [
+          "Two borehole drilling contracts awarded using simplified method that arguably should have been open tender",
+          "Procurement documentation, while present, lacks the detail expected for audit trail purposes",
+          "No debriefing offered to unsuccessful bidders, which is good practice under the ZPPA Act"
+        ],
+        "improvementTips": [
+          "Err on the side of open tender for all contracts near the simplified procurement threshold boundary",
+          "Improve procurement documentation detail to create a robust audit trail for all decision points",
+          "Introduce mandatory debriefing sessions for unsuccessful bidders on contracts above ZMW 1 million"
+        ]
+      },
+      {
+        "category": "Financial Accountability",
+        "score": 75,
+        "weight": 25,
+        "weightedScore": 18.75,
+        "explanation": "Adequate financial accountability with quarterly reports submitted to the Ministry headquarters and the Auditor General's latest review containing only minor findings. Project funds are managed through dedicated bank accounts, and community contributions are separately tracked. However, cost per borehole varies significantly between projects, suggesting inconsistent cost control.",
+        "positiveFactors": [
+          "Quarterly financial reports consistently submitted to Ministry headquarters on schedule",
+          "Auditor General's latest review contained only minor documentary findings",
+          "Dedicated project bank accounts maintained with separate tracking of community contributions",
+          "Retention money managed in accordance with Treasury regulations"
+        ],
+        "negativeFactors": [
+          "Cost per borehole varies by up to 40% between similar projects, suggesting inconsistent cost control",
+          "One project's final costs exceeded the approved budget by 18% without a formal variation approval"
+        ],
+        "improvementTips": [
+          "Develop standard cost benchmarks for borehole and sanitation projects in North-Western Province",
+          "Ensure all budget variations are formally approved before additional expenditure is committed"
+        ]
+      },
+      {
+        "category": "Integrity & Anti-Corruption",
+        "score": 72,
+        "weight": 15,
+        "weightedScore": 10.8,
+        "explanation": "No corruption findings or ACC investigations. Asset declarations are current. However, the significant variation in project costs and the use of simplified procurement for contracts near the threshold boundary create potential perception risks. Community oversight of project implementation could be strengthened to provide additional transparency.",
+        "positiveFactors": [
+          "No corruption allegations, findings, or ACC investigations",
+          "Asset declarations filed on time with the Anti-Corruption Commission",
+          "Attended the ACC Provincial Officers Integrity Course in 2024"
+        ],
+        "negativeFactors": [
+          "Significant cost variation between similar projects could be perceived as favouritism or poor oversight",
+          "No community project oversight committees established despite community financial contributions",
+          "No formal conflict-of-interest declaration system for project approval decisions"
+        ],
+        "improvementTips": [
+          "Establish community project oversight committees for all projects with community financial contributions",
+          "Implement a conflict-of-interest declaration system for all project approval decisions"
+        ]
+      },
+      {
+        "category": "Timeliness & Responsiveness",
+        "score": 70,
+        "weight": 15,
+        "weightedScore": 10.5,
+        "explanation": "Approval processing times average 32 days, slightly exceeding the 30-day target. The remote location of many project sites in North-Western Province creates logistical challenges for site verification visits. Responsiveness to community and contractor queries is acceptable but not proactive, with some communities reporting difficulty reaching the provincial office for project status updates.",
+        "positiveFactors": [
+          "Average approval processing time of 32 days is close to the 30-day target despite remote project locations",
+          "Emergency water supply project approvals processed within 7 days when requested"
+        ],
+        "negativeFactors": [
+          "Approval processing times slightly exceed the 30-day target at 32 days average",
+          "Remote project site verification visits add logistical delays to the approval process",
+          "Some communities report difficulty reaching the provincial office for project status information",
+          "Monthly reporting to the Ministry headquarters submitted late in 3 of 12 months"
+        ],
+        "improvementTips": [
+          "Explore remote verification methods such as GPS-tagged site photos for preliminary screening of remote locations",
+          "Establish a toll-free community information line for project status queries in North-Western Province"
+        ]
+      }
+    ],
+    "overallExplanation": "Walusiku Namukolo demonstrates competent performance as a provincial water project approver in Solwezi, with 70% of projects operational and meeting specifications, a clean ZPPA compliance record, and adequate financial oversight. The primary concerns are early borehole failures due to insufficient hydrogeological assessment at approval stage, significant cost variation between similar projects, and poorly sited sanitation facilities. Strengthening technical assessment requirements, standardising project cost benchmarks, and establishing community oversight committees would address the main gaps and elevate the performance to a higher tier.",
+    "topImprovementAreas": [
+      "Require comprehensive hydrogeological surveys before approving any borehole project",
+      "Develop standard cost benchmarks to reduce the 40% cost variation between similar projects",
+      "Establish community project oversight committees for all projects with community contributions"
+    ]
+  },
+  {
+    "id": "GPA-007",
+    "name": "Chisanga Mulenga",
+    "role": "Government Project Approver",
+    "organization": "Ministry of Energy",
+    "department": "Ministry of Energy",
+    "approvalLevel": "District",
+    "region": "Kabwe",
+    "overallScore": 56,
+    "rating": "Needs Improvement",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-02-03T09:30:00Z",
+    "details": {
+      "decisionQuality": 58,
+      "procurementCompliance": 52,
+      "financialAccountability": 55,
+      "integrityAntiCorruption": 60,
+      "timelinessResponsiveness": 54
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Decision Quality",
+        "score": 58,
+        "weight": 25,
+        "weightedScore": 14.5,
+        "explanation": "Chisanga handles district-level rural electrification and energy project approvals in Kabwe, Central Province. Of 15 rural electrification projects approved in the past 3 years, 6 have experienced major technical problems, including 3 solar mini-grid installations that failed within 18 months due to undersized battery storage approved despite contractor warnings in the original submissions.",
+        "positiveFactors": [
+          "9 of 15 approved energy projects are operational and delivering intended benefits to communities",
+          "Introduced community energy committee formation as a pre-condition for project approval"
+        ],
+        "negativeFactors": [
+          "6 of 15 approved projects (40%) experienced major technical problems post-implementation",
+          "3 solar mini-grid battery storage systems undersized despite contractor warnings in project submissions",
+          "Approved 2 grid extension projects without confirming ZESCO connection capacity at the nearest substation",
+          "Limited technical energy engineering expertise at the district office to assess complex project proposals"
+        ],
+        "improvementTips": [
+          "Engage the Rural Electrification Authority technical team to review all project proposals before district approval",
+          "Never approve solar installations with battery storage specifications below contractor recommendations"
+        ]
+      },
+      {
+        "category": "Procurement Compliance",
+        "score": 52,
+        "weight": 20,
+        "weightedScore": 10.4,
+        "explanation": "Procurement compliance is below acceptable standards. The ZPPA review in 2025 identified 4 material findings, including two contracts where the lowest evaluated bidder was not selected without adequate documented justification, and one contract where the procurement method used was inappropriate for the contract value.",
+        "positiveFactors": [
+          "Recent procurement training attended through the ZPPA district officers programme in late 2025",
+          "Last 2 procurement processes show improved documentation compared to earlier in the year"
+        ],
+        "negativeFactors": [
+          "ZPPA identified 4 material procurement compliance findings in the 2025 review",
+          "Two contracts awarded to non-lowest evaluated bidders without adequate documented justification",
+          "One contract used an inappropriate procurement method for the value involved",
+          "Bid evaluation committee composition did not include the required technical specialist on 3 occasions"
+        ],
+        "improvementTips": [
+          "Address all 4 ZPPA findings with formal corrective action plans within 30 days",
+          "Always document detailed justification when the lowest evaluated bidder is not selected",
+          "Ensure bid evaluation committees include a qualified energy sector technical specialist"
+        ]
+      },
+      {
+        "category": "Financial Accountability",
+        "score": 55,
+        "weight": 25,
+        "weightedScore": 13.75,
+        "explanation": "Financial accountability needs significant strengthening. The Auditor General found that project expenditure reports were submitted for only 8 of 12 months in 2025, and two projects had expenditure exceeding approved budgets without formal variation approval. Community energy tariff collections on completed projects are not being monitored, creating sustainability concerns.",
+        "positiveFactors": [
+          "Project bank accounts maintained separately from district office operational accounts",
+          "Recent 8-month reporting record shows improvement compared to previous years"
+        ],
+        "negativeFactors": [
+          "Expenditure reports submitted for only 8 of 12 months in 2025, leaving 4-month reporting gap",
+          "Two projects exceeded approved budgets without obtaining formal budget variation approval",
+          "Community energy tariff collections on completed solar projects not monitored or reported",
+          "No independent financial verification visits conducted on any active project in 2025"
+        ],
+        "improvementTips": [
+          "Submit expenditure reports for all 12 months without exception, establishing this as a non-negotiable standard",
+          "Implement a community energy tariff collection monitoring and reporting system for all completed projects",
+          "Conduct quarterly independent financial verification visits on active projects"
+        ]
+      },
+      {
+        "category": "Integrity & Anti-Corruption",
+        "score": 60,
+        "weight": 15,
+        "weightedScore": 9.0,
+        "explanation": "No direct corruption allegations, but the procurement compliance failures, particularly the selection of non-lowest bidders without justification, create integrity perception risks. Asset declarations are filed but were late in 2025. The officer has attended recent procurement training which may address some of the compliance gaps going forward.",
+        "positiveFactors": [
+          "No direct corruption allegations or ACC investigations",
+          "Asset declarations filed with the Anti-Corruption Commission",
+          "Attended ZPPA procurement compliance training in late 2025, demonstrating willingness to improve"
+        ],
+        "negativeFactors": [
+          "Selection of non-lowest bidders without justification creates perception of potential favouritism",
+          "Asset declaration for 2025 filed 6 weeks after the statutory deadline",
+          "No conflict-of-interest declaration or management system in place",
+          "No community complaint or feedback mechanism for energy project beneficiaries"
+        ],
+        "improvementTips": [
+          "File future asset declarations well before the statutory deadline",
+          "Establish a conflict-of-interest declaration requirement for all project approval decisions",
+          "Create a community feedback mechanism accessible to rural electrification project beneficiaries"
+        ]
+      },
+      {
+        "category": "Timeliness & Responsiveness",
+        "score": 54,
+        "weight": 15,
+        "weightedScore": 8.1,
+        "explanation": "Project approval processing is slow, with an average turnaround of 48 days against the 30-day standard. The technical complexity of energy projects and limited district-level expertise contribute to delays, but insufficient prioritisation and poor workflow management are also factors. Responsiveness to ZESCO coordination requests and Rural Electrification Authority queries is inconsistent.",
+        "positiveFactors": [
+          "Emergency generator installation approvals for health facilities processed within 10 days"
+        ],
+        "negativeFactors": [
+          "Average approval processing time of 48 days is 60% longer than the 30-day standard",
+          "5 projects experienced construction delays directly attributable to late approval processing",
+          "Inconsistent responsiveness to ZESCO grid connection coordination requests",
+          "Rural Electrification Authority quarterly coordination meeting reports submitted late in 3 of 4 quarters"
+        ],
+        "improvementTips": [
+          "Reduce approval processing time by requesting Rural Electrification Authority pre-screening of technical proposals",
+          "Establish regular coordination meetings with ZESCO to streamline grid connection approvals",
+          "Implement a project approval workflow tracking system with milestone deadlines"
+        ]
+      }
+    ],
+    "overallExplanation": "Chisanga Mulenga's performance as a district-level energy project approver in Kabwe reveals significant areas for improvement. A 40% major technical failure rate on approved projects, 4 material ZPPA procurement findings, irregular financial reporting, and slow approval processing collectively indicate that the district office lacks the technical capacity and governance systems needed for effective energy project oversight. The recent procurement training and improving documentation trends are positive signals, but fundamental changes are needed in technical assessment rigour, procurement compliance, and financial reporting discipline. Engaging the Rural Electrification Authority for technical support and addressing all outstanding audit findings are the most urgent priorities.",
+    "topImprovementAreas": [
+      "Engage Rural Electrification Authority technical support for project proposal assessment",
+      "Address all 4 ZPPA procurement compliance findings with formal corrective action plans",
+      "Establish consistent monthly financial reporting and monitor community energy tariff collections"
+    ]
+  },
+  {
+    "id": "GPA-008",
+    "name": "Inonge Mubanga",
+    "role": "Government Project Approver",
+    "organization": "Ministry of Health",
+    "department": "Ministry of Health",
+    "approvalLevel": "Provincial",
+    "region": "Mansa",
+    "overallScore": 80,
+    "rating": "Good",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-02-07T15:45:00Z",
+    "details": {
+      "decisionQuality": 82,
+      "procurementCompliance": 78,
+      "financialAccountability": 83,
+      "integrityAntiCorruption": 80,
+      "timelinessResponsiveness": 77
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Decision Quality",
+        "score": 82,
+        "weight": 25,
+        "weightedScore": 20.5,
+        "explanation": "Inonge oversees provincial-level health infrastructure project approvals in Luapula Province from the Mansa office, including health post construction, clinic upgrades, and medical equipment procurement. Of 22 health projects approved in the past 3 years, 18 have been completed successfully with facilities operational and staffed, a strong 82% success rate for a remote province with significant logistical challenges.",
+        "positiveFactors": [
+          "82% project success rate (18 of 22) despite Luapula Province's significant logistical challenges",
+          "Requires confirmed Ministry of Health staff deployment plan before approving any new facility construction",
+          "Introduced mandatory community health committee sign-off as part of the project approval process",
+          "Approved projects include climate-resilient design features for flood-prone Luapula lowlands"
+        ],
+        "negativeFactors": [
+          "4 projects not completed successfully, including 2 health posts where construction quality was substandard",
+          "One approved clinic upgrade was oversized relative to the catchment population, resulting in underutilisation"
+        ],
+        "improvementTips": [
+          "Implement mandatory construction supervision by a Ministry of Infrastructure district engineer on all health facility projects",
+          "Require demographic analysis of catchment population to right-size facility approvals"
+        ]
+      },
+      {
+        "category": "Procurement Compliance",
+        "score": 78,
+        "weight": 20,
+        "weightedScore": 15.6,
+        "explanation": "Good procurement compliance overall, with the ZPPA review in 2025 resulting in only one minor finding related to late submission of the provincial procurement plan. Medical equipment procurement follows the specialised procurement guidelines issued by the Ministry of Health, though some local construction contracts show less rigorous compliance with bid evaluation documentation standards.",
+        "positiveFactors": [
+          "ZPPA 2025 review resulted in only one minor finding with no material issues",
+          "Medical equipment procurement follows Ministry of Health specialised procurement guidelines",
+          "Public bid opening sessions held for all construction contracts with community observers",
+          "Procurement records well-maintained in both physical and electronic formats"
+        ],
+        "negativeFactors": [
+          "Provincial procurement plan submitted 4 weeks late to ZPPA in 2025",
+          "Local construction contract bid evaluation documentation less thorough than medical equipment procurement",
+          "No debriefing offered to unsuccessful construction bidders"
+        ],
+        "improvementTips": [
+          "Submit the annual procurement plan to ZPPA at least 2 weeks before the statutory deadline",
+          "Apply the same documentation rigour to local construction procurement as medical equipment procurement",
+          "Introduce debriefing sessions for unsuccessful bidders on all contracts above the threshold"
+        ]
+      },
+      {
+        "category": "Financial Accountability",
+        "score": 83,
+        "weight": 25,
+        "weightedScore": 20.75,
+        "explanation": "Strong financial accountability with quarterly reports consistently submitted to the Ministry of Health headquarters and the Provincial Administration. The Auditor General's most recent report contained no adverse findings for health projects in Luapula Province. Project funds are managed through a well-controlled imprest system with regular reconciliation.",
+        "positiveFactors": [
+          "Quarterly financial reports consistently submitted on time to Ministry headquarters and Provincial Administration",
+          "Zero adverse findings in the Auditor General's most recent review of Luapula health projects",
+          "Project imprest system well-controlled with monthly reconciliation and documentation",
+          "Community health committee involvement in monitoring project expenditure at the facility level"
+        ],
+        "negativeFactors": [
+          "Two project final cost certificates were issued more than 60 days after completion, delaying record closure",
+          "Limited financial monitoring capacity means site verification visits occur only twice per year per project"
+        ],
+        "improvementTips": [
+          "Issue project final cost certificates within 30 days of completion as standard practice",
+          "Increase financial monitoring site visits to quarterly for projects above ZMW 5 million"
+        ]
+      },
+      {
+        "category": "Integrity & Anti-Corruption",
+        "score": 80,
+        "weight": 15,
+        "weightedScore": 12.0,
+        "explanation": "Good integrity record with no corruption findings or allegations. Asset declarations are current and filed on time. Inonge has implemented community health committee oversight of project implementation, which provides grassroots transparency. The officer attended the ACC integrity training in 2024 and serves as the provincial health office integrity focal point.",
+        "positiveFactors": [
+          "Zero corruption allegations or findings throughout public service career",
+          "Asset declarations consistently filed on time with the ACC",
+          "Community health committees provide grassroots oversight of project implementation and spending",
+          "Provincial health office integrity focal point, promoting ethics awareness among colleagues",
+          "Completed ACC integrity training programme in 2024"
+        ],
+        "negativeFactors": [
+          "No formal conflict-of-interest declaration register for health project approval decisions",
+          "Whistleblower mechanism not adequately publicised to contractors and community beneficiaries"
+        ],
+        "improvementTips": [
+          "Establish a formal conflict-of-interest declaration register for all project approval decisions",
+          "Publicise the whistleblower reporting mechanism through community health committees and at project sites"
+        ]
+      },
+      {
+        "category": "Timeliness & Responsiveness",
+        "score": 77,
+        "weight": 15,
+        "weightedScore": 11.55,
+        "explanation": "Approval processing averages 26 days, comfortably within the 30-day standard. However, the remote location of many health project sites in Luapula creates challenges for timely site verification, and medical equipment procurement approvals sometimes experience delays due to the specialised technical review required. Responsiveness to the Ministry headquarters and partner organisations is consistently good.",
+        "positiveFactors": [
+          "Average approval processing time of 26 days is 13% faster than the 30-day standard",
+          "Ministry headquarters queries responded to within 3 working days consistently",
+          "Good working relationship with cooperating partners supporting health projects in Luapula"
+        ],
+        "negativeFactors": [
+          "Remote project site verification adds 7-10 days to approval timelines for facilities in distant districts",
+          "Medical equipment procurement approvals sometimes delayed by 2-3 weeks for specialised technical review",
+          "Monthly coordination meeting minutes distributed to stakeholders an average of 10 days late"
+        ],
+        "improvementTips": [
+          "Use district health office staff as delegated site verification agents for remote locations to reduce travel delays",
+          "Pre-qualify a panel of medical equipment technical reviewers to reduce specialised review turnaround times"
+        ]
+      }
+    ],
+    "overallExplanation": "Inonge Mubanga is a capable provincial health project approver in Mansa, Luapula Province, achieving an 82% project success rate in a logistically challenging environment. Strong financial accountability with zero adverse audit findings, good procurement compliance, and meaningful community health committee oversight demonstrate solid governance. The requirement for staff deployment plans before facility approval shows strategic thinking that avoids the common problem of built-but-unstaffed health facilities. Areas for improvement include strengthening construction quality supervision, establishing conflict-of-interest declarations, and reducing delays in medical equipment technical reviews. Overall, this is a well-managed provincial health project approval function that serves as a positive example for remote provinces.",
+    "topImprovementAreas": [
+      "Implement mandatory construction supervision by qualified engineers on all health facility projects",
+      "Establish a formal conflict-of-interest declaration register for project approvals",
+      "Pre-qualify medical equipment technical reviewers to reduce specialised review delays"
+    ]
+  }
+]

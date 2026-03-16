@@ -1,0 +1,1091 @@
+[
+  {
+    "id": "LVO-001",
+    "name": "Dr. Mwamba Chilufya",
+    "role": "District Livestock Veterinary Officer",
+    "organization": "Ministry of Fisheries and Livestock",
+    "region": "Southern",
+    "overallScore": 91,
+    "rating": "Excellent",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-15T08:30:00Z",
+    "district": "Namwala",
+    "farmersServed": 487,
+    "details": {
+      "animalHealthDiseaseManagement": 93,
+      "farmerEngagement": 90,
+      "foodSafetyInspection": 88,
+      "complianceEthics": 94,
+      "innovationCapacityBuilding": 89
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Animal Health & Disease Management",
+        "score": 93,
+        "weight": 30,
+        "weightedScore": 27.9,
+        "explanation": "Dr. Chilufya has demonstrated exceptional skill in managing livestock disease outbreaks in Namwala District, successfully containing a Corridor Disease (East Coast Fever) outbreak among cattle in the Kafue Flats grazing areas and maintaining a 97% vaccination coverage rate for Contagious Bovine Pleuropneumonia (CBPP).",
+        "positiveFactors": [
+          "Achieved 97% CBPP vaccination coverage across all veterinary camps in Namwala District",
+          "Successfully contained Corridor Disease outbreak within 3 weeks, preventing spread to neighbouring chiefdoms",
+          "Established a community-based animal health surveillance network covering 23 veterinary camps",
+          "Maintained cold chain integrity for vaccines across remote areas of the Kafue Flats"
+        ],
+        "negativeFactors": [
+          "Two veterinary camps in flood-prone areas experienced temporary gaps in vaccination schedules during the 2025 rainy season"
+        ],
+        "improvementTips": [
+          "Pre-position vaccine stocks at elevated veterinary camps before the annual Kafue Flats flooding season",
+          "Collaborate with the Disaster Management and Mitigation Unit (DMMU) for flood-resilient vaccine storage solutions"
+        ]
+      },
+      {
+        "category": "Farmer Engagement",
+        "score": 90,
+        "weight": 20,
+        "weightedScore": 18.0,
+        "explanation": "Strong engagement with pastoral and agro-pastoral communities in Namwala, including regular field visits to cattle kraals and active collaboration with traditional leaders (indunas) to promote livestock health practices among the Ila cattle-keeping communities.",
+        "positiveFactors": [
+          "Conducted 48 field visits to cattle kraals across Namwala District in the past year",
+          "Established livestock health education partnerships with 12 traditional leaders (indunas)",
+          "Created a WhatsApp-based farmer advisory group reaching 320 livestock keepers",
+          "Organised 6 cattle dipping demonstrations at community dip tanks"
+        ],
+        "negativeFactors": [
+          "Limited engagement with small-scale goat and poultry farmers who are outside the traditional cattle-keeping focus",
+          "Some remote fishing camps along the Kafue River remain difficult to reach regularly"
+        ],
+        "improvementTips": [
+          "Develop targeted outreach programmes for small-stock (goat and poultry) farmers in Namwala",
+          "Partner with the Department of Fisheries to conduct joint outreach at fishing camps along the Kafue River"
+        ]
+      },
+      {
+        "category": "Food Safety & Inspection",
+        "score": 88,
+        "weight": 20,
+        "weightedScore": 17.6,
+        "explanation": "Consistent meat inspection services at Namwala abattoir and local slaughter slabs, ensuring compliance with the Food Safety Act and Zambia Bureau of Standards (ZABS) requirements for beef destined for Lusaka and Copperbelt markets.",
+        "positiveFactors": [
+          "Inspected 100% of cattle slaughtered at Namwala District abattoir with zero condemned carcasses due to oversight failure",
+          "Implemented ante-mortem and post-mortem inspection protocols at 8 community slaughter slabs",
+          "Issued timely movement permits for livestock transported to Lusaka markets"
+        ],
+        "negativeFactors": [
+          "Three community slaughter slabs still lack adequate sanitary infrastructure for proper inspection",
+          "Occasional delays in laboratory sample turnaround from the Central Veterinary Research Institute (CVRI)"
+        ],
+        "improvementTips": [
+          "Lobby the District Council for infrastructure upgrades at the 3 underserved slaughter slabs",
+          "Establish a rapid field testing capability to reduce dependence on CVRI laboratory turnaround times"
+        ]
+      },
+      {
+        "category": "Compliance & Ethics",
+        "score": 94,
+        "weight": 15,
+        "weightedScore": 14.1,
+        "explanation": "Exemplary adherence to the Animal Health Act, veterinary professional code of conduct, and Ministry of Fisheries and Livestock reporting requirements. Dr. Chilufya maintains transparent records and has never been subject to disciplinary proceedings.",
+        "positiveFactors": [
+          "Zero disciplinary actions or complaints filed with the Veterinary Council of Zambia",
+          "All monthly and quarterly reports submitted to the Provincial Veterinary Office on time for 24 consecutive months",
+          "Transparent management of veterinary drug supplies with full audit trail",
+          "Proactively declared potential conflicts of interest related to private veterinary consultancy work"
+        ],
+        "negativeFactors": [
+          "One instance of late submission of annual livestock census data due to flooding-related access challenges"
+        ],
+        "improvementTips": [
+          "Implement digital data collection tools for livestock census to enable submission even during adverse weather conditions",
+          "Mentor junior veterinary assistants on compliance best practices"
+        ]
+      },
+      {
+        "category": "Innovation & Capacity Building",
+        "score": 89,
+        "weight": 15,
+        "weightedScore": 13.35,
+        "explanation": "Actively promotes innovative livestock management practices in Namwala and invests in building the capacity of veterinary assistants and community livestock auxiliaries to extend veterinary service reach across the district.",
+        "positiveFactors": [
+          "Trained 15 community livestock auxiliaries in basic animal health first aid and disease reporting",
+          "Introduced a solar-powered vaccine refrigerator at Maala veterinary camp, improving cold chain reliability",
+          "Piloted a cattle identification and traceability system using ear tags linked to a digital database"
+        ],
+        "negativeFactors": [
+          "Digital traceability pilot covers only 2 of 23 veterinary camps so far",
+          "Limited access to continuing professional development opportunities due to remote location"
+        ],
+        "improvementTips": [
+          "Scale the cattle traceability pilot to at least 10 veterinary camps within the next reporting period",
+          "Leverage online veterinary CPD platforms offered by the University of Zambia School of Veterinary Medicine"
+        ]
+      }
+    ],
+    "overallExplanation": "Dr. Mwamba Chilufya is an outstanding livestock veterinary officer serving the pastoralist communities of Namwala District in the Kafue Flats. His near-perfect CBPP vaccination coverage, effective disease outbreak management, and strong relationships with traditional leaders make him a model public veterinary professional. His commitment to ethical practice and innovation, including pioneering digital cattle traceability, further strengthens his profile. Expanding his focus to small-stock farmers and scaling digital initiatives would elevate his already excellent performance.",
+    "topImprovementAreas": [
+      "Expand outreach to small-stock (goat and poultry) farmers beyond the traditional cattle focus",
+      "Scale the digital cattle traceability pilot across more veterinary camps in Namwala District",
+      "Invest in flood-resilient veterinary service delivery infrastructure for the Kafue Flats"
+    ]
+  },
+  {
+    "id": "LVO-002",
+    "name": "Dr. Thandiwe Mulenga",
+    "role": "District Livestock Veterinary Officer",
+    "organization": "Ministry of Fisheries and Livestock",
+    "region": "Southern",
+    "overallScore": 82,
+    "rating": "Good",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-18T10:15:00Z",
+    "district": "Monze",
+    "farmersServed": 534,
+    "details": {
+      "animalHealthDiseaseManagement": 84,
+      "farmerEngagement": 86,
+      "foodSafetyInspection": 78,
+      "complianceEthics": 82,
+      "innovationCapacityBuilding": 79
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Animal Health & Disease Management",
+        "score": 84,
+        "weight": 30,
+        "weightedScore": 25.2,
+        "explanation": "Dr. Mulenga has maintained strong disease surveillance in Monze District, a key cattle-rearing area along the Lusaka-Livingstone corridor. She successfully managed seasonal Foot-and-Mouth Disease (FMD) threats and maintained consistent tick-borne disease control through community dip tank operations.",
+        "positiveFactors": [
+          "Maintained FMD-free status in Monze District for 18 consecutive months through rigorous movement controls",
+          "Dip tank operations functional at 14 of 16 community dip tanks with regular acaricide supply",
+          "Coordinated cross-district disease surveillance with Choma and Pemba veterinary offices"
+        ],
+        "negativeFactors": [
+          "Two community dip tanks in Chikuni area remain non-functional due to infrastructure disrepair",
+          "Vaccination coverage for Lumpy Skin Disease dropped to 78% due to vaccine supply chain disruptions"
+        ],
+        "improvementTips": [
+          "Prioritise rehabilitation of the 2 non-functional dip tanks in Chikuni through District Development Coordinating Committee (DDCC) funding",
+          "Establish buffer vaccine stocks at district level to mitigate national supply chain disruptions"
+        ]
+      },
+      {
+        "category": "Farmer Engagement",
+        "score": 86,
+        "weight": 20,
+        "weightedScore": 17.2,
+        "explanation": "Strong farmer engagement leveraging Monze's position as a major agricultural hub. Dr. Mulenga has built productive relationships with both commercial and smallholder livestock farmers, and actively participates in the Monze District Agricultural Show.",
+        "positiveFactors": [
+          "Led livestock health pavilion at the annual Monze District Agricultural Show reaching 2,000 farmers",
+          "Conducted 36 on-farm veterinary advisory visits to smallholder cattle farmers",
+          "Established a livestock farmer cooperative linkage programme connecting 85 farmers to veterinary services",
+          "Regular radio appearances on Chikuni Community Radio Station to disseminate livestock health information"
+        ],
+        "negativeFactors": [
+          "Engagement with emerging dairy farmers along the Monze-Pemba road corridor remains limited",
+          "Feedback mechanisms for farmers to rate veterinary service quality are not yet formalised"
+        ],
+        "improvementTips": [
+          "Develop a dedicated dairy farmer advisory programme given the growing dairy sector in Monze",
+          "Introduce a simple SMS-based farmer feedback system to track service satisfaction"
+        ]
+      },
+      {
+        "category": "Food Safety & Inspection",
+        "score": 78,
+        "weight": 20,
+        "weightedScore": 15.6,
+        "explanation": "Adequate food safety inspection services at Monze abattoir and transit points along the Lusaka-Livingstone highway, though some gaps remain in informal market meat inspection and cold chain monitoring for meat products.",
+        "positiveFactors": [
+          "100% inspection coverage at Monze Municipal Abattoir with documented records",
+          "Effective livestock movement permit system for cattle transiting through Monze to Lusaka markets"
+        ],
+        "negativeFactors": [
+          "Informal meat markets in peri-urban Monze lack consistent inspection coverage",
+          "Cold chain monitoring for meat products at Monze bus station transit point is inconsistent",
+          "One complaint from Lusaka-based butchery about incomplete health certification documentation"
+        ],
+        "improvementTips": [
+          "Deploy part-time meat inspectors at the 3 largest informal markets in peri-urban Monze",
+          "Collaborate with Monze Municipal Council to enforce cold chain requirements at transit meat selling points",
+          "Digitise health certification documentation to reduce paperwork errors"
+        ]
+      },
+      {
+        "category": "Compliance & Ethics",
+        "score": 82,
+        "weight": 15,
+        "weightedScore": 12.3,
+        "explanation": "Good compliance record with Ministry reporting requirements and professional conduct standards. Dr. Mulenga maintains ethical veterinary practice though some administrative reporting delays have been noted.",
+        "positiveFactors": [
+          "No disciplinary actions or complaints with the Veterinary Council of Zambia",
+          "Transparent management of district veterinary drug allocation",
+          "Active participation in provincial veterinary compliance review meetings"
+        ],
+        "negativeFactors": [
+          "Three monthly reports submitted late to the Provincial Veterinary Office in the past year",
+          "One instance of incomplete documentation for acaricide procurement"
+        ],
+        "improvementTips": [
+          "Set up automated reminders for monthly report submission deadlines",
+          "Implement a standardised procurement documentation checklist for all veterinary supplies"
+        ]
+      },
+      {
+        "category": "Innovation & Capacity Building",
+        "score": 79,
+        "weight": 15,
+        "weightedScore": 11.85,
+        "explanation": "Moderate innovation adoption with some capacity building efforts for veterinary assistants. Dr. Mulenga has shown interest in digital tools but implementation has been slow due to resource constraints in Monze District.",
+        "positiveFactors": [
+          "Trained 8 community livestock workers in basic disease recognition and reporting",
+          "Participated in a Ministry-sponsored training on digital livestock data management systems"
+        ],
+        "negativeFactors": [
+          "Digital livestock data management system not yet deployed at district level despite training",
+          "Limited mentoring of junior veterinary staff due to high workload",
+          "No new innovative practices introduced in the past 12 months"
+        ],
+        "improvementTips": [
+          "Prioritise deployment of the digital livestock data management system at Monze District Veterinary Office",
+          "Establish a structured mentorship programme for the 3 veterinary assistants in the district",
+          "Explore partnerships with the University of Zambia for research-driven innovation in livestock health"
+        ]
+      }
+    ],
+    "overallExplanation": "Dr. Thandiwe Mulenga is a competent livestock veterinary officer managing the demanding Monze District, a critical cattle corridor between Lusaka and Southern Province. Her strong farmer engagement, effective FMD prevention, and ethical practice form a solid foundation. However, gaps in informal market meat inspection, slow adoption of digital tools, and occasional administrative delays prevent her from reaching the highest performance tier. Addressing these areas would significantly enhance her impact in one of Zambia's most important livestock districts.",
+    "topImprovementAreas": [
+      "Extend meat inspection coverage to informal peri-urban markets in Monze",
+      "Accelerate deployment of digital livestock data management tools",
+      "Improve timeliness of administrative reporting to the Provincial Veterinary Office"
+    ]
+  },
+  {
+    "id": "LVO-003",
+    "name": "Dr. Bwalya Kapembwa",
+    "role": "District Livestock Veterinary Officer",
+    "organization": "Ministry of Fisheries and Livestock",
+    "region": "Southern",
+    "overallScore": 75,
+    "rating": "Good",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-20T14:00:00Z",
+    "district": "Choma",
+    "farmersServed": 612,
+    "details": {
+      "animalHealthDiseaseManagement": 76,
+      "farmerEngagement": 80,
+      "foodSafetyInspection": 72,
+      "complianceEthics": 74,
+      "innovationCapacityBuilding": 71
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Animal Health & Disease Management",
+        "score": 76,
+        "weight": 30,
+        "weightedScore": 22.8,
+        "explanation": "Dr. Kapembwa manages a large livestock population in Choma District, the provincial capital of Southern Province. While vaccination campaigns are generally well-organised, the district has experienced challenges with tick-borne disease control and Lumpy Skin Disease outbreaks that have strained resources.",
+        "positiveFactors": [
+          "Organised annual CBPP and FMD vaccination campaigns reaching 76% of the target cattle population",
+          "Maintained functional disease reporting system with timely alerts to the Provincial Veterinary Office",
+          "Collaborated with Batoka and Pemba sub-districts on coordinated disease surveillance"
+        ],
+        "negativeFactors": [
+          "Vaccination coverage fell below the 80% target for CBPP in the eastern part of the district",
+          "Lumpy Skin Disease outbreak in Siachitema area took 6 weeks to fully contain",
+          "Four community dip tanks are non-operational, reducing tick-borne disease control effectiveness"
+        ],
+        "improvementTips": [
+          "Conduct targeted mop-up vaccination campaigns in eastern Choma to bring CBPP coverage above 80%",
+          "Develop a rapid response protocol for Lumpy Skin Disease that reduces containment time to under 4 weeks",
+          "Advocate for dip tank rehabilitation funding through the Choma District Council"
+        ]
+      },
+      {
+        "category": "Farmer Engagement",
+        "score": 80,
+        "weight": 20,
+        "weightedScore": 16.0,
+        "explanation": "Good farmer engagement leveraging Choma's status as a provincial capital with access to media and agricultural extension infrastructure. Dr. Kapembwa participates actively in the annual Choma Agricultural and Commercial Show.",
+        "positiveFactors": [
+          "Managed the veterinary services stand at the Choma Agricultural and Commercial Show for 3 consecutive years",
+          "Conducted 30 farmer training sessions on livestock disease prevention and management",
+          "Active collaboration with the Choma District Farmers Union on livestock health issues",
+          "Monthly radio programme on PASME Radio Choma covering livestock health topics"
+        ],
+        "negativeFactors": [
+          "Farmer engagement concentrated in peri-urban Choma with limited reach to remote wards",
+          "No formal farmer satisfaction survey conducted in the past 2 years"
+        ],
+        "improvementTips": [
+          "Establish quarterly livestock health outreach visits to the 5 most remote wards in Choma District",
+          "Conduct an annual farmer satisfaction survey to benchmark and improve service delivery"
+        ]
+      },
+      {
+        "category": "Food Safety & Inspection",
+        "score": 72,
+        "weight": 20,
+        "weightedScore": 14.4,
+        "explanation": "Choma's position as a provincial capital and livestock trading hub creates high demand for food safety inspection services. While the main abattoir is well-managed, the growing number of informal slaughter points and roadside meat sellers presents ongoing challenges.",
+        "positiveFactors": [
+          "Regular inspection schedule maintained at Choma Municipal Abattoir",
+          "Effective collaboration with Choma Municipal Council health inspectors on food safety"
+        ],
+        "negativeFactors": [
+          "Seven informal slaughter points operating without regular veterinary inspection",
+          "Two complaints from the Zambia Bureau of Standards about inconsistent meat grading documentation",
+          "Limited capacity to inspect all livestock transit points given Choma's position on major transport routes"
+        ],
+        "improvementTips": [
+          "Map and register all informal slaughter points and develop a risk-based inspection schedule",
+          "Standardise meat grading documentation in line with ZABS requirements",
+          "Request additional meat inspector staffing from the Provincial Veterinary Office to cover major transit points"
+        ]
+      },
+      {
+        "category": "Compliance & Ethics",
+        "score": 74,
+        "weight": 15,
+        "weightedScore": 11.1,
+        "explanation": "Adequate compliance with regulatory requirements though some lapses in reporting timeliness and documentation standards have been noted. No major ethical concerns but room for improvement in administrative discipline.",
+        "positiveFactors": [
+          "No disciplinary proceedings or ethical complaints filed",
+          "Participates in annual compliance training organised by the Provincial Veterinary Office"
+        ],
+        "negativeFactors": [
+          "Five monthly reports submitted late in the past 12 months",
+          "Veterinary drug stock reconciliation records found to have minor discrepancies during annual audit",
+          "One livestock movement permit issued without complete documentation"
+        ],
+        "improvementTips": [
+          "Implement a digital reporting system to ensure timely and accurate monthly submissions",
+          "Conduct monthly self-audits of veterinary drug stock records",
+          "Strengthen documentation review processes for livestock movement permits"
+        ]
+      },
+      {
+        "category": "Innovation & Capacity Building",
+        "score": 71,
+        "weight": 15,
+        "weightedScore": 10.65,
+        "explanation": "Limited innovation adoption despite Choma's relatively good infrastructure and access to resources as a provincial capital. Capacity building efforts for junior staff and community livestock workers have been modest.",
+        "positiveFactors": [
+          "Trained 6 community livestock workers in basic animal health practices",
+          "Attended a regional workshop on One Health approaches to disease surveillance"
+        ],
+        "negativeFactors": [
+          "No new innovative practices or technologies introduced in the district in the past 18 months",
+          "Junior veterinary assistants report limited mentoring and professional development support",
+          "District has not participated in any research partnerships with academic institutions"
+        ],
+        "improvementTips": [
+          "Develop a 12-month innovation plan identifying at least 3 new technologies or practices for adoption",
+          "Establish a structured mentorship programme for junior veterinary assistants",
+          "Engage the University of Zambia School of Veterinary Medicine for collaborative research on priority livestock diseases in Southern Province"
+        ]
+      }
+    ],
+    "overallExplanation": "Dr. Bwalya Kapembwa provides competent veterinary services in Choma District but has not fully leveraged the advantages of being based in the provincial capital. While farmer engagement through agricultural shows and radio is commendable, gaps in vaccination coverage, informal slaughter point oversight, and innovation adoption hold back his overall performance. The high number of farmers served (612) relative to resources available is a mitigating factor, but more strategic approaches to service delivery and stronger administrative discipline would improve outcomes.",
+    "topImprovementAreas": [
+      "Improve vaccination coverage rates to meet the 80% national target across all areas of Choma District",
+      "Establish systematic inspection of informal slaughter points and roadside meat sellers",
+      "Develop and implement an innovation and capacity building plan for the district veterinary team"
+    ]
+  },
+  {
+    "id": "LVO-004",
+    "name": "Dr. Musonda Banda",
+    "role": "District Livestock Veterinary Officer",
+    "organization": "Ministry of Fisheries and Livestock",
+    "region": "Southern",
+    "overallScore": 58,
+    "rating": "Needs Improvement",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-22T09:45:00Z",
+    "district": "Kazungula",
+    "farmersServed": 298,
+    "details": {
+      "animalHealthDiseaseManagement": 55,
+      "farmerEngagement": 60,
+      "foodSafetyInspection": 52,
+      "complianceEthics": 65,
+      "innovationCapacityBuilding": 58
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Animal Health & Disease Management",
+        "score": 55,
+        "weight": 30,
+        "weightedScore": 16.5,
+        "explanation": "Kazungula District's border location with Botswana, Namibia, and Zimbabwe creates significant transboundary disease risks. Dr. Banda has struggled to maintain adequate disease surveillance and vaccination coverage in this challenging operational environment, with recurring FMD threats from wildlife-livestock interfaces in the Kazungula area.",
+        "positiveFactors": [
+          "Maintained border veterinary checkpoint operations at Kazungula Bridge for livestock imports",
+          "Participated in SADC transboundary animal disease coordination meetings"
+        ],
+        "negativeFactors": [
+          "CBPP vaccination coverage at only 58%, well below the 80% national target",
+          "FMD outbreak in Mambova area took 10 weeks to contain, exceeding acceptable response timelines",
+          "Disease surveillance network covers only 40% of veterinary camps in the district",
+          "Cattle from unvaccinated herds found crossing into Botswana, triggering a diplomatic veterinary alert"
+        ],
+        "improvementTips": [
+          "Develop a comprehensive transboundary disease management plan specific to Kazungula's tri-border context",
+          "Urgently expand vaccination campaigns to achieve at least 80% CBPP coverage",
+          "Strengthen the disease surveillance network to cover all veterinary camps, prioritising border-adjacent areas",
+          "Coordinate with Botswana and Zimbabwe veterinary authorities on joint vaccination buffer zones"
+        ]
+      },
+      {
+        "category": "Farmer Engagement",
+        "score": 60,
+        "weight": 20,
+        "weightedScore": 12.0,
+        "explanation": "Limited farmer engagement in a district with dispersed communities along the Zambezi River and significant logistical challenges. While some outreach has occurred, coverage and consistency are insufficient for the district's needs.",
+        "positiveFactors": [
+          "Conducted 12 farmer meetings in accessible areas along the main Livingstone-Kazungula road",
+          "Distributed livestock health information leaflets in Silozi and Tonga languages"
+        ],
+        "negativeFactors": [
+          "Only 12 farmer meetings conducted against a target of 36 for the year",
+          "Communities on islands and remote areas along the Zambezi River receive almost no veterinary outreach",
+          "No partnerships established with local NGOs or community-based organisations for farmer engagement",
+          "Farmers in Mambova and Sekute chiefdoms report feeling neglected by veterinary services"
+        ],
+        "improvementTips": [
+          "Develop a boat-based veterinary outreach programme for island and riverside communities",
+          "Partner with World Vision, Heifer International, or other NGOs active in Kazungula for joint farmer engagement",
+          "Triple the number of farmer meetings to at least 36 per year with documented attendance",
+          "Establish community livestock committees in each chiefdom to serve as engagement focal points"
+        ]
+      },
+      {
+        "category": "Food Safety & Inspection",
+        "score": 52,
+        "weight": 20,
+        "weightedScore": 10.4,
+        "explanation": "Food safety inspection in Kazungula is critically weak, particularly given the district's role as a border crossing point where livestock and animal products move between four countries. Inspection infrastructure is minimal and coverage is inconsistent.",
+        "positiveFactors": [
+          "Basic inspection services maintained at Kazungula border post for livestock imports"
+        ],
+        "negativeFactors": [
+          "No formal abattoir in Kazungula District; all slaughter occurs at informal slaughter slabs",
+          "Meat inspection at informal slaughter points covers less than 30% of animals slaughtered",
+          "Cross-border informal trade in animal products (dried fish, biltong) largely uninspected",
+          "No laboratory testing capability within 100km of Kazungula town"
+        ],
+        "improvementTips": [
+          "Advocate for construction of a basic district abattoir through the District Development Fund",
+          "Increase informal slaughter point inspection coverage to at least 70% within 12 months",
+          "Collaborate with the Zambia Revenue Authority (ZRA) and border agencies on inspection of animal product imports",
+          "Establish a sample collection and transport protocol to the nearest laboratory in Livingstone"
+        ]
+      },
+      {
+        "category": "Compliance & Ethics",
+        "score": 65,
+        "weight": 15,
+        "weightedScore": 9.75,
+        "explanation": "Compliance record shows several gaps in reporting and documentation standards, though no major ethical breaches have occurred. The challenging operational environment in Kazungula is a contributing factor, but does not fully explain the compliance shortfalls.",
+        "positiveFactors": [
+          "No formal ethical complaints or disciplinary proceedings",
+          "Maintains basic veterinary drug inventory records"
+        ],
+        "negativeFactors": [
+          "Seven monthly reports either late or not submitted in the past 12 months",
+          "Livestock movement permit records found incomplete during provincial audit",
+          "Veterinary drug stock discrepancies of approximately 15% identified during annual stock-take",
+          "Annual work plan not submitted to the Provincial Veterinary Office by the required deadline"
+        ],
+        "improvementTips": [
+          "Establish a strict monthly reporting calendar with accountability mechanisms",
+          "Conduct monthly veterinary drug stock reconciliations and maintain detailed dispensing records",
+          "Submit the annual work plan within the first quarter and review it quarterly with the Provincial Veterinary Officer",
+          "Request administrative support staffing to manage documentation and reporting requirements"
+        ]
+      },
+      {
+        "category": "Innovation & Capacity Building",
+        "score": 58,
+        "weight": 15,
+        "weightedScore": 8.7,
+        "explanation": "Minimal innovation or capacity building activities in Kazungula District. The remote location and resource constraints are acknowledged challenges, but insufficient effort has been made to leverage available technologies and partnerships for service improvement.",
+        "positiveFactors": [
+          "Expressed interest in participating in a SADC-funded transboundary disease surveillance technology project",
+          "Trained 4 community livestock workers in basic disease recognition"
+        ],
+        "negativeFactors": [
+          "No new technologies or innovative practices adopted in the past 2 years",
+          "Only 4 community livestock workers trained against a need for at least 15 to cover the district",
+          "No continuing professional development activities undertaken in the past year",
+          "Has not sought external funding or partnerships for innovation projects"
+        ],
+        "improvementTips": [
+          "Actively pursue the SADC transboundary disease surveillance technology project for Kazungula",
+          "Train at least 10 additional community livestock workers within the next 12 months",
+          "Complete at least 2 continuing professional development courses through online platforms",
+          "Develop funding proposals for innovation projects targeting Kazungula's unique transboundary challenges"
+        ]
+      }
+    ],
+    "overallExplanation": "Dr. Musonda Banda faces genuine challenges operating in Kazungula District, a remote tri-border area with complex transboundary disease dynamics. However, performance has fallen significantly below expectations across all assessment areas. Low vaccination coverage, weak food safety inspection, inconsistent farmer engagement, and poor administrative compliance indicate systemic underperformance that cannot be attributed solely to environmental challenges. The diplomatic incident involving unvaccinated cattle crossing into Botswana is a serious concern. Urgent and sustained improvement is required across all dimensions of veterinary service delivery.",
+    "topImprovementAreas": [
+      "Urgently increase CBPP and FMD vaccination coverage to national target levels to prevent further transboundary incidents",
+      "Establish systematic food safety inspection at all slaughter points and border crossing points",
+      "Improve administrative compliance including timely reporting and accurate drug stock management"
+    ]
+  },
+  {
+    "id": "LVO-005",
+    "name": "Dr. Namakau Mubiana",
+    "role": "District Livestock Veterinary Officer",
+    "organization": "Ministry of Fisheries and Livestock",
+    "region": "Western",
+    "overallScore": 68,
+    "rating": "Needs Improvement",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-25T11:00:00Z",
+    "district": "Senanga",
+    "farmersServed": 376,
+    "details": {
+      "animalHealthDiseaseManagement": 70,
+      "farmerEngagement": 72,
+      "foodSafetyInspection": 62,
+      "complianceEthics": 68,
+      "innovationCapacityBuilding": 65
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Animal Health & Disease Management",
+        "score": 70,
+        "weight": 30,
+        "weightedScore": 21.0,
+        "explanation": "Senanga District in Western Province presents unique veterinary challenges due to the annual Zambezi River flooding (Kuomboka season) which displaces cattle and disrupts disease management programmes. Dr. Mubiana has maintained basic disease control but vaccination coverage remains below national targets.",
+        "positiveFactors": [
+          "Adapted vaccination campaigns to the Kuomboka seasonal cattle movement patterns",
+          "Maintained CBPP vaccination at 72% coverage despite flooding-related disruptions",
+          "Established disease reporting linkages with community headmen in 15 villages"
+        ],
+        "negativeFactors": [
+          "CBPP vaccination coverage at 72%, below the 80% national target",
+          "Trypanosomiasis (nagana) cases increased by 20% due to reduced tsetse fly control activities",
+          "Post-flood disease surveillance delayed by 3 weeks due to inaccessible veterinary camps",
+          "Cattle losses during the 2025 Kuomboka movement included preventable disease-related mortalities"
+        ],
+        "improvementTips": [
+          "Develop a flood-adapted disease management protocol that pre-positions vaccines and treatments before the annual flooding",
+          "Reinstate tsetse fly control activities through collaboration with the Tsetse and Trypanosomiasis Control Programme",
+          "Establish elevated veterinary service points at the upland Kuomboka destinations"
+        ]
+      },
+      {
+        "category": "Farmer Engagement",
+        "score": 72,
+        "weight": 20,
+        "weightedScore": 14.4,
+        "explanation": "Engagement with Lozi cattle-keeping communities in Senanga is culturally sensitive and requires working through the Barotse Royal Establishment (BRE) structures. Dr. Mubiana has made reasonable efforts but engagement frequency and reach remain insufficient.",
+        "positiveFactors": [
+          "Established working relationships with 8 Lozi indunas for livestock health communication",
+          "Participated in the Kuomboka ceremony outreach activities promoting livestock vaccination",
+          "Conducted 20 farmer meetings across accessible parts of Senanga District"
+        ],
+        "negativeFactors": [
+          "Farmer meetings fell short of the 30 annual target",
+          "Communities in the Barotse Floodplain receive veterinary outreach only during the dry season",
+          "Limited engagement with women livestock keepers who manage small ruminants and poultry"
+        ],
+        "improvementTips": [
+          "Increase farmer meetings to at least 30 per year with a focus on floodplain communities during accessible seasons",
+          "Develop a targeted programme for women livestock keepers focusing on small ruminant and poultry health",
+          "Use the BRE Kuta (council) system more effectively as a communication channel for livestock health messages"
+        ]
+      },
+      {
+        "category": "Food Safety & Inspection",
+        "score": 62,
+        "weight": 20,
+        "weightedScore": 12.4,
+        "explanation": "Food safety inspection in Senanga faces significant infrastructure challenges. The district lacks a modern abattoir and most slaughter occurs at traditional slaughter points with minimal veterinary oversight, particularly during and after the flooding season.",
+        "positiveFactors": [
+          "Basic meat inspection conducted at Senanga town slaughter slab on market days",
+          "Livestock movement permits issued for cattle moving to Mongu and Lusaka markets"
+        ],
+        "negativeFactors": [
+          "Only 1 of 6 slaughter points in the district receives regular veterinary inspection",
+          "No meat inspection at all during the 3-month flooding period when access is restricted",
+          "Fish and livestock product safety along the Zambezi trading route is largely unmonitored",
+          "Two cases of suspected anthrax-contaminated meat reaching local markets before being identified"
+        ],
+        "improvementTips": [
+          "Extend meat inspection coverage to at least 4 of 6 slaughter points on a rotational basis",
+          "Develop a flooding-season food safety protocol that maintains minimum inspection standards",
+          "Collaborate with the Department of Fisheries on joint food safety inspection along the Zambezi trading route",
+          "Establish a rapid anthrax testing protocol to prevent contaminated meat from reaching markets"
+        ]
+      },
+      {
+        "category": "Compliance & Ethics",
+        "score": 68,
+        "weight": 15,
+        "weightedScore": 10.2,
+        "explanation": "Compliance record shows gaps primarily related to reporting consistency and documentation quality. The challenging operational environment in Senanga contributes to some delays, but patterns suggest systemic issues in administrative management.",
+        "positiveFactors": [
+          "No ethical complaints or disciplinary actions filed",
+          "Maintains respectful working relationships with BRE traditional authorities"
+        ],
+        "negativeFactors": [
+          "Six monthly reports either late or incomplete in the past 12 months",
+          "Annual livestock census data for Senanga submitted 2 months past the deadline",
+          "Veterinary drug records show gaps during the flooding season months",
+          "One livestock movement permit irregularity flagged during provincial compliance review"
+        ],
+        "improvementTips": [
+          "Implement a digital reporting system that can function offline during flooding-season connectivity disruptions",
+          "Maintain duplicate veterinary drug records at an accessible upland location during flood season",
+          "Conduct quarterly self-compliance audits to identify and address gaps before provincial reviews"
+        ]
+      },
+      {
+        "category": "Innovation & Capacity Building",
+        "score": 65,
+        "weight": 15,
+        "weightedScore": 9.75,
+        "explanation": "Some capacity building efforts are evident, but innovation adoption has been slow. The unique challenges of operating in a floodplain environment actually present opportunities for innovative solutions that have not been fully explored.",
+        "positiveFactors": [
+          "Trained 7 community livestock workers in the Senanga upland areas",
+          "Explored the potential for canoe-based veterinary service delivery during flooding season"
+        ],
+        "negativeFactors": [
+          "Canoe-based veterinary service concept remains at idea stage with no implementation plan",
+          "No community livestock workers trained in floodplain areas where they are most needed",
+          "Limited use of available technology for disease reporting and data collection",
+          "No continuing professional development activities completed in the past 18 months"
+        ],
+        "improvementTips": [
+          "Develop and pilot the canoe-based veterinary outreach concept with support from the Provincial Veterinary Office",
+          "Prioritise community livestock worker training in floodplain communities",
+          "Adopt mobile phone-based disease reporting tools suitable for low-connectivity environments",
+          "Complete at least 2 CPD courses through the Veterinary Council of Zambia's approved programme"
+        ]
+      }
+    ],
+    "overallExplanation": "Dr. Namakau Mubiana operates in one of Zambia's most challenging veterinary service environments - the Barotse Floodplain of Senanga District, where annual Zambezi flooding disrupts virtually every aspect of livestock service delivery. While some adaptation to the flooding cycle is evident, performance across all dimensions remains below national standards. The suspected anthrax cases reaching markets and below-target vaccination coverage are particular concerns. The unique floodplain environment presents opportunities for innovative solutions that Dr. Mubiana has identified but not yet implemented. A comprehensive flood-adapted service delivery model is urgently needed.",
+    "topImprovementAreas": [
+      "Develop and implement a comprehensive flood-adapted veterinary service delivery model for the Barotse Floodplain",
+      "Urgently strengthen food safety inspection to prevent contaminated meat from reaching markets",
+      "Increase vaccination coverage to national targets by pre-positioning resources before the flooding season"
+    ]
+  },
+  {
+    "id": "LVO-006",
+    "name": "Dr. Chileya Simwanza",
+    "role": "District Livestock Veterinary Officer",
+    "organization": "Ministry of Fisheries and Livestock",
+    "region": "Southern",
+    "overallScore": 87,
+    "rating": "Good",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-28T13:30:00Z",
+    "district": "Kalomo",
+    "farmersServed": 548,
+    "details": {
+      "animalHealthDiseaseManagement": 89,
+      "farmerEngagement": 85,
+      "foodSafetyInspection": 86,
+      "complianceEthics": 90,
+      "innovationCapacityBuilding": 83
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Animal Health & Disease Management",
+        "score": 89,
+        "weight": 30,
+        "weightedScore": 26.7,
+        "explanation": "Dr. Simwanza has achieved strong disease management outcomes in Kalomo District, one of Zambia's largest cattle-rearing districts. Vaccination coverage is consistently above national targets and disease outbreak response times have improved significantly under her leadership.",
+        "positiveFactors": [
+          "CBPP vaccination coverage maintained at 88%, exceeding the 80% national target for 3 consecutive campaigns",
+          "FMD vaccination ring-fencing strategy successfully prevented spread from neighbouring Zimba District",
+          "Community-based disease surveillance network operational across 28 of 30 veterinary camps",
+          "Effective tick-borne disease control with 18 of 20 community dip tanks fully operational"
+        ],
+        "negativeFactors": [
+          "Two veterinary camps in remote southern Kalomo lack consistent disease surveillance coverage",
+          "Blackleg outbreak in Kalomo Central took slightly longer than optimal to contain due to vaccine supply timing"
+        ],
+        "improvementTips": [
+          "Extend disease surveillance network to the remaining 2 veterinary camps in southern Kalomo",
+          "Maintain emergency vaccine buffer stocks for Blackleg and other common diseases to ensure rapid response capability"
+        ]
+      },
+      {
+        "category": "Farmer Engagement",
+        "score": 85,
+        "weight": 20,
+        "weightedScore": 17.0,
+        "explanation": "Strong farmer engagement across Kalomo District with effective use of agricultural cooperatives and traditional structures. Dr. Simwanza has built particularly strong relationships with commercial cattle ranchers in the Kalomo farming block area.",
+        "positiveFactors": [
+          "Conducted 40 farmer training sessions across all 4 agricultural blocks in Kalomo District",
+          "Established livestock health advisory partnerships with 15 agricultural cooperatives",
+          "Regular engagement with both commercial ranchers and smallholder livestock keepers",
+          "Organised 4 cattle health field days at strategic locations across the district"
+        ],
+        "negativeFactors": [
+          "Engagement with emerging livestock farmers in resettlement schemes could be stronger",
+          "Farmer feedback mechanisms are informal and undocumented"
+        ],
+        "improvementTips": [
+          "Develop a targeted outreach programme for livestock farmers in Kalomo's resettlement scheme areas",
+          "Formalise farmer feedback collection through structured annual surveys"
+        ]
+      },
+      {
+        "category": "Food Safety & Inspection",
+        "score": 86,
+        "weight": 20,
+        "weightedScore": 17.2,
+        "explanation": "Good food safety inspection coverage at Kalomo's abattoir and major slaughter points. Kalomo's role as a significant beef supply source for Lusaka and Copperbelt markets makes food safety particularly important, and Dr. Simwanza has maintained high standards.",
+        "positiveFactors": [
+          "100% inspection coverage at Kalomo Municipal Abattoir with detailed record-keeping",
+          "Risk-based inspection schedule covers 12 of 15 community slaughter slabs",
+          "Effective livestock movement certification system for cattle transported to Lusaka markets",
+          "Collaborated with ZABS on meat quality standards training for local butchery operators"
+        ],
+        "negativeFactors": [
+          "Three remote community slaughter slabs still outside regular inspection rotation",
+          "Occasional backlog in processing livestock movement permits during peak trading season"
+        ],
+        "improvementTips": [
+          "Extend inspection rotation to include the remaining 3 community slaughter slabs",
+          "Implement a digital permit processing system to handle peak-season volumes efficiently"
+        ]
+      },
+      {
+        "category": "Compliance & Ethics",
+        "score": 90,
+        "weight": 15,
+        "weightedScore": 13.5,
+        "explanation": "Excellent compliance record with consistent adherence to Ministry reporting requirements, professional standards, and ethical conduct. Dr. Simwanza is recognised by the Provincial Veterinary Officer as a model of administrative discipline.",
+        "positiveFactors": [
+          "All monthly and quarterly reports submitted on time for 30 consecutive months",
+          "Clean veterinary drug stock management with zero discrepancies at annual audit",
+          "Zero disciplinary actions or complaints with the Veterinary Council of Zambia",
+          "Recognised by Provincial Veterinary Officer for outstanding compliance in 2025"
+        ],
+        "negativeFactors": [
+          "One minor formatting inconsistency in livestock census data submission, corrected promptly"
+        ],
+        "improvementTips": [
+          "Share compliance best practices with peer district veterinary officers through provincial forums",
+          "Document administrative processes as standard operating procedures for staff continuity"
+        ]
+      },
+      {
+        "category": "Innovation & Capacity Building",
+        "score": 83,
+        "weight": 15,
+        "weightedScore": 12.45,
+        "explanation": "Good capacity building efforts with a growing focus on technology adoption. Dr. Simwanza has invested in training community livestock workers and has begun introducing digital tools for disease reporting and livestock identification.",
+        "positiveFactors": [
+          "Trained 18 community livestock workers across all agricultural blocks in the district",
+          "Piloting a mobile phone-based disease reporting system in 8 veterinary camps",
+          "Mentoring 2 junior veterinary assistants through a structured development programme",
+          "Completed 3 CPD courses through the University of Zambia online platform"
+        ],
+        "negativeFactors": [
+          "Mobile disease reporting pilot not yet expanded beyond the initial 8 camps",
+          "Limited research collaboration with academic institutions despite proximity to Choma (provincial capital)"
+        ],
+        "improvementTips": [
+          "Expand mobile disease reporting system to all 30 veterinary camps within the next 12 months",
+          "Establish a research partnership with the University of Zambia for livestock disease studies in Kalomo"
+        ]
+      }
+    ],
+    "overallExplanation": "Dr. Chileya Simwanza is a high-performing livestock veterinary officer who has achieved commendable results in Kalomo District, one of Southern Province's most important cattle-rearing areas. Her above-target vaccination coverage, strong farmer engagement, and exemplary compliance record reflect a dedicated and well-organised professional. The early adoption of mobile disease reporting technology and investment in community livestock worker training demonstrate forward-thinking leadership. Extending food safety inspection to all slaughter points and scaling digital innovations would position her for an excellent rating.",
+    "topImprovementAreas": [
+      "Scale the mobile disease reporting pilot to cover all veterinary camps in Kalomo District",
+      "Extend food safety inspection coverage to the remaining community slaughter slabs",
+      "Establish formal research partnerships with academic institutions for evidence-based livestock health interventions"
+    ]
+  },
+  {
+    "id": "LVO-007",
+    "name": "Dr. Kalaba Mwansa",
+    "role": "District Livestock Veterinary Officer",
+    "organization": "Ministry of Fisheries and Livestock",
+    "region": "Central",
+    "overallScore": 44,
+    "rating": "Poor",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-02-01T08:00:00Z",
+    "district": "Mumbwa",
+    "farmersServed": 145,
+    "details": {
+      "animalHealthDiseaseManagement": 42,
+      "farmerEngagement": 38,
+      "foodSafetyInspection": 45,
+      "complianceEthics": 50,
+      "innovationCapacityBuilding": 40
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Animal Health & Disease Management",
+        "score": 42,
+        "weight": 30,
+        "weightedScore": 12.6,
+        "explanation": "Disease management in Mumbwa District has deteriorated significantly under Dr. Mwansa's tenure. Mumbwa's proximity to the Kafue National Park creates substantial wildlife-livestock disease interface risks that have not been adequately managed, resulting in recurring disease outbreaks and low vaccination coverage.",
+        "positiveFactors": [
+          "Participated in one inter-agency meeting on wildlife-livestock disease interface management"
+        ],
+        "negativeFactors": [
+          "CBPP vaccination coverage at only 35%, the lowest in Central Province",
+          "Three separate Corridor Disease outbreaks in areas bordering Kafue National Park in 12 months",
+          "Disease surveillance network effectively non-functional with only 3 of 22 veterinary camps reporting regularly",
+          "Failure to implement FMD movement restriction orders during an active outbreak in neighbouring Itezhi-Tezhi",
+          "Cattle mortality rates in the district increased by 30% compared to the previous year"
+        ],
+        "improvementTips": [
+          "Immediately develop and implement an emergency vaccination campaign to bring CBPP coverage above 60% within 3 months",
+          "Re-establish the disease surveillance network across all 22 veterinary camps as an urgent priority",
+          "Coordinate with the Department of National Parks and Wildlife (DNPW) on a wildlife-livestock disease buffer zone strategy",
+          "Strictly enforce livestock movement restrictions during disease outbreaks in line with the Animal Health Act"
+        ]
+      },
+      {
+        "category": "Farmer Engagement",
+        "score": 38,
+        "weight": 20,
+        "weightedScore": 7.6,
+        "explanation": "Farmer engagement in Mumbwa has been severely inadequate. Despite the district's significant cattle and game ranching population, only minimal outreach has occurred. Farmer complaints about veterinary service accessibility have reached the Provincial Veterinary Office.",
+        "positiveFactors": [
+          "Attended the Mumbwa District Agricultural Committee meeting twice during the year"
+        ],
+        "negativeFactors": [
+          "Only 6 farmer meetings conducted against an annual target of 36",
+          "Formal complaints received from 3 farmer cooperatives about non-responsiveness to disease outbreak reports",
+          "Game ranchers in Mumbwa report zero engagement from the District Veterinary Office",
+          "Did not participate in the annual Mumbwa District Agricultural Show veterinary services stand",
+          "Farmers in remote wards report not seeing a veterinary officer in over 12 months"
+        ],
+        "improvementTips": [
+          "Immediately resume regular farmer engagement with a minimum of 3 meetings per month across the district",
+          "Respond to all farmer disease outbreak reports within 48 hours as required by Ministry protocols",
+          "Establish a dedicated engagement programme for game ranchers given Mumbwa's significant wildlife economy",
+          "Participate in all future District Agricultural Shows and agricultural committee meetings"
+        ]
+      },
+      {
+        "category": "Food Safety & Inspection",
+        "score": 45,
+        "weight": 20,
+        "weightedScore": 9.0,
+        "explanation": "Food safety inspection in Mumbwa is critically deficient. The district serves as a source of game meat and traditional cattle beef for Lusaka markets, making adequate inspection essential. Current inspection coverage is dangerously low.",
+        "positiveFactors": [
+          "Basic inspection maintained at Mumbwa town slaughter slab on an intermittent basis"
+        ],
+        "negativeFactors": [
+          "Inspection at Mumbwa slaughter slab occurs only 2-3 days per week instead of daily",
+          "No inspection whatsoever at 8 rural slaughter points across the district",
+          "Game meat processing and sale at Mumbwa market largely uninspected",
+          "Two confirmed cases of measly (cysticercosis) beef reaching Lusaka markets traced back to Mumbwa",
+          "Livestock movement permits issued without physical inspection of animals on at least 5 documented occasions"
+        ],
+        "improvementTips": [
+          "Ensure daily inspection at Mumbwa town slaughter slab without exception",
+          "Develop a risk-based inspection rotation covering all 8 rural slaughter points",
+          "Implement mandatory game meat inspection at all processing and sale points in the district",
+          "Never issue livestock movement permits without physical inspection of animals - this practice must stop immediately"
+        ]
+      },
+      {
+        "category": "Compliance & Ethics",
+        "score": 50,
+        "weight": 15,
+        "weightedScore": 7.5,
+        "explanation": "Significant compliance failures across multiple dimensions. Dr. Mwansa's administrative performance has triggered a formal review by the Provincial Veterinary Office, and several practices have raised ethical concerns.",
+        "positiveFactors": [
+          "Cooperated with the Provincial Veterinary Office compliance review team",
+          "No confirmed cases of personal financial impropriety"
+        ],
+        "negativeFactors": [
+          "Nine monthly reports not submitted in the past 12 months",
+          "Veterinary drug stock audit revealed a 25% discrepancy between records and physical stock",
+          "Livestock movement permits issued without proper inspection raised concerns about potential irregularities",
+          "Annual work plan not submitted for 2 consecutive years",
+          "Two formal complaints from farmers about unprofessional conduct during field visits"
+        ],
+        "improvementTips": [
+          "Submit all outstanding reports to the Provincial Veterinary Office within 30 days",
+          "Undergo a full veterinary drug stock audit and reconciliation with independent oversight",
+          "Implement strict controls on livestock movement permit issuance with mandatory physical inspection",
+          "Submit the annual work plan for the current year immediately and adhere to all future deadlines",
+          "Complete professional conduct refresher training through the Veterinary Council of Zambia"
+        ]
+      },
+      {
+        "category": "Innovation & Capacity Building",
+        "score": 40,
+        "weight": 15,
+        "weightedScore": 6.0,
+        "explanation": "Virtually no innovation or capacity building activities undertaken. Existing community livestock workers have received no support or refresher training, and no new technologies or practices have been explored.",
+        "positiveFactors": [
+          "Previously trained community livestock workers (from predecessor's programme) remain nominally active in some areas"
+        ],
+        "negativeFactors": [
+          "Zero new community livestock workers trained during Dr. Mwansa's tenure",
+          "No refresher training provided to existing community livestock workers",
+          "No new technologies, tools, or innovative practices adopted or explored",
+          "No continuing professional development activities undertaken in 2 years",
+          "Junior veterinary assistants report receiving no mentoring or professional development support"
+        ],
+        "improvementTips": [
+          "Immediately develop a capacity building plan for the district veterinary team",
+          "Conduct refresher training for all existing community livestock workers within 3 months",
+          "Complete mandatory CPD requirements through the Veterinary Council of Zambia",
+          "Establish a mentorship arrangement with a high-performing peer district veterinary officer"
+        ]
+      }
+    ],
+    "overallExplanation": "Dr. Kalaba Mwansa's performance in Mumbwa District represents a serious concern for the Ministry of Fisheries and Livestock. Across all assessment dimensions, performance is well below acceptable standards. The 35% CBPP vaccination rate, non-functional disease surveillance network, cysticercosis-contaminated beef reaching Lusaka markets, and 25% veterinary drug stock discrepancy collectively paint a picture of a district veterinary office in crisis. The low number of farmers served (145) relative to the district's livestock population confirms that veterinary services are not reaching the communities that need them. A formal performance improvement plan with monthly monitoring by the Provincial Veterinary Officer is recommended, with clear milestones and consequences for non-improvement.",
+    "topImprovementAreas": [
+      "Immediately launch an emergency vaccination campaign and re-establish the disease surveillance network across all veterinary camps",
+      "Ensure daily meat inspection at all slaughter points and halt the practice of issuing movement permits without physical inspection",
+      "Undergo a comprehensive compliance audit and resolve all veterinary drug stock discrepancies under independent oversight"
+    ]
+  },
+  {
+    "id": "LVO-008",
+    "name": "Dr. Mutinta Hamusonde",
+    "role": "District Livestock Veterinary Officer",
+    "organization": "Ministry of Fisheries and Livestock",
+    "region": "Central",
+    "overallScore": 79,
+    "rating": "Good",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-02-05T15:20:00Z",
+    "district": "Itezhi-Tezhi",
+    "farmersServed": 263,
+    "details": {
+      "animalHealthDiseaseManagement": 80,
+      "farmerEngagement": 78,
+      "foodSafetyInspection": 76,
+      "complianceEthics": 82,
+      "innovationCapacityBuilding": 77
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Animal Health & Disease Management",
+        "score": 80,
+        "weight": 30,
+        "weightedScore": 24.0,
+        "explanation": "Dr. Hamusonde manages a challenging district where the Itezhi-Tezhi Dam and adjacent Kafue National Park create significant wildlife-livestock interaction zones. Disease management has been competent with some notable achievements in managing the wildlife-livestock interface, though challenges remain.",
+        "positiveFactors": [
+          "CBPP vaccination coverage at 81%, just above the national target of 80%",
+          "Developed a wildlife-livestock disease buffer zone monitoring protocol for areas bordering Kafue National Park",
+          "Effective collaboration with DNPW on anthrax surveillance in the Kafue Flats area",
+          "Corridor Disease cases reduced by 15% through targeted cattle dipping in high-risk areas"
+        ],
+        "negativeFactors": [
+          "FMD vaccination coverage in areas closest to the national park dropped to 70% due to farmer reluctance",
+          "One delayed response to a suspected anthrax case in a remote area near the dam"
+        ],
+        "improvementTips": [
+          "Implement a targeted FMD awareness campaign in communities bordering Kafue National Park to address farmer reluctance",
+          "Establish a rapid response protocol for suspected anthrax cases with pre-positioned supplies in remote areas"
+        ]
+      },
+      {
+        "category": "Farmer Engagement",
+        "score": 78,
+        "weight": 20,
+        "weightedScore": 15.6,
+        "explanation": "Reasonable farmer engagement given the dispersed nature of communities around the Itezhi-Tezhi Dam and along the Kafue River. Dr. Hamusonde has engaged well with both traditional cattle keepers and the growing number of commercial fish-farming operations that also keep livestock.",
+        "positiveFactors": [
+          "Conducted 28 farmer meetings across the district, approaching the 30 annual target",
+          "Established productive relationships with 6 chiefdoms in the district for livestock health communication",
+          "Created a livestock-fisheries integrated advisory approach for farmers who combine cattle-keeping with fish farming",
+          "Participated in the Itezhi-Tezhi District Agricultural Show"
+        ],
+        "negativeFactors": [
+          "Communities on the far side of the dam remain underserved due to access challenges",
+          "Limited engagement with pastoral Ila communities who practice transhumance across district boundaries"
+        ],
+        "improvementTips": [
+          "Develop a boat-based outreach strategy for communities accessible primarily via the dam",
+          "Coordinate with Namwala District Veterinary Office on joint engagement with transhumant Ila pastoralists"
+        ]
+      },
+      {
+        "category": "Food Safety & Inspection",
+        "score": 76,
+        "weight": 20,
+        "weightedScore": 15.2,
+        "explanation": "Adequate food safety inspection at the main Itezhi-Tezhi town slaughter facilities, with some coverage of rural slaughter points. The presence of game meat from areas adjacent to Kafue National Park adds complexity to the inspection requirements.",
+        "positiveFactors": [
+          "Regular inspection at Itezhi-Tezhi town slaughter slab with documented records",
+          "Inspection coverage at 5 of 9 rural slaughter points on a rotational basis",
+          "Collaboration with wildlife authorities on game meat safety at licensed hunting concessions"
+        ],
+        "negativeFactors": [
+          "Four rural slaughter points remain outside the inspection rotation",
+          "Bushmeat trade from areas near Kafue National Park not adequately monitored",
+          "Limited cold chain infrastructure for meat products in the district"
+        ],
+        "improvementTips": [
+          "Extend inspection rotation to all 9 rural slaughter points within 12 months",
+          "Collaborate with DNPW and Zambia Police Service on bushmeat trade monitoring",
+          "Advocate for cold chain infrastructure investment through the District Development Fund"
+        ]
+      },
+      {
+        "category": "Compliance & Ethics",
+        "score": 82,
+        "weight": 15,
+        "weightedScore": 12.3,
+        "explanation": "Good compliance record with most Ministry requirements met on time. Dr. Hamusonde maintains ethical practice and has a clean professional record, with only minor administrative gaps.",
+        "positiveFactors": [
+          "All but 2 monthly reports submitted on time in the past 12 months",
+          "Clean record with the Veterinary Council of Zambia - no complaints or disciplinary actions",
+          "Transparent veterinary drug management with minimal stock discrepancies at annual audit",
+          "Annual work plan submitted on time and reviewed quarterly with the Provincial Veterinary Officer"
+        ],
+        "negativeFactors": [
+          "Two monthly reports submitted 1-2 weeks late due to connectivity challenges in the district",
+          "Minor documentation gaps in livestock movement permits during the peak cattle trading season"
+        ],
+        "improvementTips": [
+          "Prepare monthly reports offline and submit as soon as connectivity is available to avoid late submissions",
+          "Implement a checklist-based quality control process for livestock movement permit documentation during peak season"
+        ]
+      },
+      {
+        "category": "Innovation & Capacity Building",
+        "score": 77,
+        "weight": 15,
+        "weightedScore": 11.55,
+        "explanation": "Reasonable innovation efforts with a focus on adapting veterinary services to the unique wildlife-livestock interface context of Itezhi-Tezhi. Capacity building of community livestock workers is progressing well.",
+        "positiveFactors": [
+          "Trained 12 community livestock workers with a focus on wildlife-livestock disease interface recognition",
+          "Developed a simple pictorial disease recognition guide in Tonga and Ila languages for community use",
+          "Completed 2 CPD courses on One Health approaches through the University of Zambia online platform"
+        ],
+        "negativeFactors": [
+          "Pictorial disease recognition guide not yet printed and distributed due to funding constraints",
+          "Limited adoption of digital tools for data collection and reporting",
+          "No formal research partnerships established despite the district's unique wildlife-livestock interface research potential"
+        ],
+        "improvementTips": [
+          "Seek NGO or donor funding to print and distribute the disease recognition guide across all communities",
+          "Adopt mobile phone-based data collection tools to improve reporting efficiency",
+          "Approach the University of Zambia School of Veterinary Medicine about a wildlife-livestock disease interface research partnership"
+        ]
+      }
+    ],
+    "overallExplanation": "Dr. Mutinta Hamusonde delivers good veterinary services in Itezhi-Tezhi District, a unique operational environment defined by the dam, Kafue National Park, and significant wildlife-livestock interaction. Her achievement of above-target CBPP vaccination coverage, wildlife-livestock buffer zone monitoring protocol, and investment in community livestock worker training demonstrate competent and context-aware veterinary practice. The integrated livestock-fisheries advisory approach is innovative and appropriate for the district. Extending food safety inspection coverage, addressing the bushmeat trade monitoring gap, and scaling innovative tools would further strengthen her performance.",
+    "topImprovementAreas": [
+      "Extend food safety inspection coverage to all rural slaughter points and address the unmonitored bushmeat trade",
+      "Scale digital tool adoption for data collection, reporting, and farmer communication",
+      "Establish a research partnership to leverage Itezhi-Tezhi's unique wildlife-livestock interface for evidence-based interventions"
+    ]
+  }
+]

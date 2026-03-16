@@ -1,0 +1,817 @@
+[
+  {
+    "id": "SOEFD-001",
+    "name": "Mwila Chanda",
+    "role": "Financial Director",
+    "organization": "ZESCO Limited",
+    "region": "Lusaka Province",
+    "overallScore": 87,
+    "rating": "Good",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-15T08:30:00Z",
+    "enterpriseName": "ZESCO Limited",
+    "sector": "Energy",
+    "appointmentDate": "2021-03-01",
+    "details": {
+      "financialReportingAccuracy": 92,
+      "budgetManagementCostControl": 85,
+      "regulatoryTaxCompliance": 88,
+      "internalControlsRiskManagement": 82,
+      "strategicFinancialPlanning": 89
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Financial Reporting Accuracy",
+        "score": 92,
+        "weight": 25,
+        "weightedScore": 23.0,
+        "explanation": "Mwila Chanda has maintained exemplary financial reporting standards at ZESCO, with clean external audit opinions for three consecutive years and timely submission of financial statements to the Office of the Auditor General.",
+        "positiveFactors": [
+          "Clean external audit opinion from the Office of the Auditor General for three consecutive years",
+          "Financial statements submitted within the statutory 90-day deadline in all reporting periods",
+          "Implemented International Financial Reporting Standards (IFRS) 16 and 17 ahead of the mandatory adoption timeline"
+        ],
+        "negativeFactors": [
+          "Minor reclassification adjustments required in two quarterly management reports due to incorrect depreciation categorization"
+        ],
+        "improvementTips": [
+          "Establish automated validation rules in the ERP system to prevent depreciation misclassification at journal entry level",
+          "Conduct quarterly IFRS technical update sessions for the finance team to maintain reporting accuracy"
+        ]
+      },
+      {
+        "category": "Budget Management & Cost Control",
+        "score": 85,
+        "weight": 20,
+        "weightedScore": 17.0,
+        "explanation": "Budget discipline is strong with ZESCO's operating expenditure within 4% of approved budget. However, capital expenditure overruns on the Kafue Gorge Lower project have impacted overall budget performance.",
+        "positiveFactors": [
+          "Operating expenditure maintained within 4% variance of the approved annual budget",
+          "Negotiated bulk fuel procurement contracts saving K35 million annually for thermal generation",
+          "Introduced zero-based budgeting methodology for all support functions reducing overhead by 8%"
+        ],
+        "negativeFactors": [
+          "Capital expenditure on Kafue Gorge Lower project exceeded budget by 18% due to foreign exchange fluctuations",
+          "Revenue collection efficiency from government ministries remains at 72%, below the 90% target"
+        ],
+        "improvementTips": [
+          "Implement foreign currency hedging strategies for capital projects with significant import components",
+          "Engage the Ministry of Finance through formal memoranda of understanding for timely settlement of government electricity arrears",
+          "Establish a dedicated capital project financial controller role for mega-projects exceeding K500 million"
+        ]
+      },
+      {
+        "category": "Regulatory & Tax Compliance",
+        "score": 88,
+        "weight": 20,
+        "weightedScore": 17.6,
+        "explanation": "Strong compliance posture with the Zambia Revenue Authority, Energy Regulation Board, and Securities and Exchange Commission. All statutory filings submitted on time with no penalties assessed in the current reporting period.",
+        "positiveFactors": [
+          "Zero penalties from the Zambia Revenue Authority for the past three fiscal years",
+          "Timely submission of all Energy Regulation Board regulatory returns and tariff applications",
+          "Successfully completed the Securities and Exchange Commission annual compliance certification"
+        ],
+        "negativeFactors": [
+          "Withholding tax reconciliation for contractor payments required manual correction in two months",
+          "Transfer pricing documentation for cross-border power purchase agreements flagged for additional review by ZRA"
+        ],
+        "improvementTips": [
+          "Automate withholding tax calculations within the accounts payable module to eliminate manual reconciliation",
+          "Engage a transfer pricing specialist to prepare contemporaneous documentation for all cross-border transactions"
+        ]
+      },
+      {
+        "category": "Internal Controls & Risk Management",
+        "score": 82,
+        "weight": 15,
+        "weightedScore": 12.3,
+        "explanation": "Internal control framework is functional with an established internal audit function reporting to the Audit Committee. However, the Enterprise Risk Management framework requires updating to address emerging cybersecurity and climate-related financial risks.",
+        "positiveFactors": [
+          "Internal audit function with 12 qualified professionals covering all major business processes",
+          "Segregation of duties matrix implemented across all critical financial processes",
+          "Fraud risk assessment conducted annually with results reported to the Board Audit Committee"
+        ],
+        "negativeFactors": [
+          "Enterprise Risk Management framework last comprehensively updated in 2023",
+          "Three medium-priority internal audit findings from the previous year remain unresolved beyond the agreed remediation timeline",
+          "No formal cybersecurity risk quantification methodology integrated into the financial risk register"
+        ],
+        "improvementTips": [
+          "Update the Enterprise Risk Management framework to incorporate TCFD climate-related financial risk disclosures",
+          "Establish a monthly audit finding remediation tracker with escalation protocols for overdue items",
+          "Adopt a cyber risk quantification model such as FAIR to integrate cybersecurity risks into financial planning"
+        ]
+      },
+      {
+        "category": "Strategic Financial Planning",
+        "score": 89,
+        "weight": 20,
+        "weightedScore": 17.8,
+        "explanation": "Demonstrated strong strategic financial acumen in securing K2.8 billion in concessional financing for renewable energy expansion and developing a 10-year financial sustainability plan aligned with Zambia's Vision 2030.",
+        "positiveFactors": [
+          "Secured K2.8 billion concessional financing from the African Development Bank for solar expansion",
+          "Developed a 10-year financial sustainability plan aligned with the Eighth National Development Plan",
+          "Successfully negotiated a cost-reflective tariff adjustment with the Energy Regulation Board improving revenue adequacy"
+        ],
+        "negativeFactors": [
+          "Long-term debt-to-equity ratio trending above the 60% internal policy threshold",
+          "Scenario planning for prolonged drought impact on hydroelectric revenue not yet formalized"
+        ],
+        "improvementTips": [
+          "Develop formal drought scenario financial models given ZESCO's 85% dependence on hydroelectric generation",
+          "Establish a debt management committee to monitor and manage the long-term capital structure trajectory"
+        ]
+      }
+    ],
+    "overallExplanation": "Mwila Chanda is a highly competent Financial Director whose stewardship of ZESCO's finances has delivered clean audit opinions, strong regulatory compliance, and strategic financing achievements. His ability to secure concessional funding for renewable energy expansion demonstrates forward-looking financial leadership. Key areas requiring attention include capital project cost management given foreign exchange exposure, updating the Enterprise Risk Management framework, and developing drought scenario financial models to protect ZESCO's revenue base.",
+    "topImprovementAreas": [
+      "Implement foreign currency hedging strategies for capital projects with significant import components",
+      "Update the Enterprise Risk Management framework to address cybersecurity and climate-related financial risks",
+      "Develop formal drought scenario financial models to mitigate hydroelectric generation revenue risk"
+    ]
+  },
+  {
+    "id": "SOEFD-002",
+    "name": "Bwalya Mutale",
+    "role": "Financial Director",
+    "organization": "Zambia Railways Limited",
+    "region": "Lusaka Province",
+    "overallScore": 58,
+    "rating": "Needs Improvement",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-18T14:15:00Z",
+    "enterpriseName": "Zambia Railways Limited",
+    "sector": "Transport",
+    "appointmentDate": "2023-06-15",
+    "details": {
+      "financialReportingAccuracy": 55,
+      "budgetManagementCostControl": 50,
+      "regulatoryTaxCompliance": 62,
+      "internalControlsRiskManagement": 58,
+      "strategicFinancialPlanning": 65
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Financial Reporting Accuracy",
+        "score": 55,
+        "weight": 25,
+        "weightedScore": 13.75,
+        "explanation": "Financial reporting at Zambia Railways has been hampered by legacy accounting systems, incomplete asset registers, and the external auditor issuing a qualified opinion on the going-concern basis for two consecutive years.",
+        "positiveFactors": [
+          "Initiated migration from manual ledgers to an integrated ERP accounting system",
+          "Engaged a Big Four firm to assist with the restatement of prior-year comparative figures"
+        ],
+        "negativeFactors": [
+          "Qualified external audit opinion citing going-concern uncertainty for two consecutive years",
+          "Asset register incomplete with 30% of rolling stock and infrastructure assets not properly valued",
+          "Financial statements submitted 45 days past the statutory deadline in the most recent reporting period",
+          "Significant prior-period adjustments required due to incorrect revenue recognition on government grants"
+        ],
+        "improvementTips": [
+          "Complete the comprehensive asset verification and revaluation exercise within 6 months to establish a reliable fixed asset register",
+          "Fast-track the ERP system implementation with a dedicated project team and external support",
+          "Engage the Office of the Auditor General proactively to discuss a remediation plan for addressing going-concern qualifications"
+        ]
+      },
+      {
+        "category": "Budget Management & Cost Control",
+        "score": 50,
+        "weight": 20,
+        "weightedScore": 10.0,
+        "explanation": "Budget management is severely challenged by structural deficits, with staff costs consuming 78% of revenue and operating losses requiring continuous government bailouts. Budget variances consistently exceed 25% across all cost categories.",
+        "positiveFactors": [
+          "Reduced non-essential travel and entertainment expenditure by 40% through cost austerity measures",
+          "Negotiated deferred payment terms with key suppliers to manage cash flow during liquidity constraints"
+        ],
+        "negativeFactors": [
+          "Staff costs at 78% of revenue significantly exceed the 55% public enterprise benchmark",
+          "Operating budget variance of 28% driven by unplanned locomotive breakdowns and emergency repairs",
+          "Government bailout of K180 million required to cover salary arrears and critical supplier payments",
+          "No formal cash flow forecasting process resulting in frequent bank overdraft reliance"
+        ],
+        "improvementTips": [
+          "Develop a credible three-year workforce restructuring plan in consultation with trade unions and the Ministry of Labour",
+          "Implement rolling 13-week cash flow forecasting to enable proactive liquidity management",
+          "Establish a maintenance reserve fund to budget systematically for locomotive and track repairs rather than relying on emergency allocations"
+        ]
+      },
+      {
+        "category": "Regulatory & Tax Compliance",
+        "score": 62,
+        "weight": 20,
+        "weightedScore": 12.4,
+        "explanation": "Compliance posture is weakened by late filing of statutory returns and outstanding tax obligations. The Zambia Revenue Authority has issued an assessment for unpaid withholding taxes on contractor payments.",
+        "positiveFactors": [
+          "Cooperating with the Zambia Revenue Authority on a structured payment plan for outstanding tax obligations",
+          "All Companies Act annual returns filed, though some beyond the statutory deadline"
+        ],
+        "negativeFactors": [
+          "ZRA assessment of K12 million for unpaid withholding taxes on contractor payments spanning 18 months",
+          "Pay-As-You-Earn remittances delayed by an average of 60 days due to cash flow constraints",
+          "Two statutory regulatory returns filed beyond the deadline with the Patents and Companies Registration Agency",
+          "National Pension Scheme Authority contributions in arrears for four months"
+        ],
+        "improvementTips": [
+          "Prioritize settlement of NAPSA pension arrears as they directly affect employee welfare and carry significant penalties",
+          "Implement a tax compliance calendar with automated alerts and escalation protocols for all statutory deadlines",
+          "Negotiate a formal installment arrangement with ZRA for the outstanding withholding tax assessment to avoid enforcement action"
+        ]
+      },
+      {
+        "category": "Internal Controls & Risk Management",
+        "score": 58,
+        "weight": 15,
+        "weightedScore": 8.7,
+        "explanation": "Internal controls are significantly weakened by understaffing in the finance department, lack of segregation of duties, and an internal audit function that has been vacant for over a year.",
+        "positiveFactors": [
+          "Drafted an internal controls policy manual aligned with COSO framework principles",
+          "Engaged an outsourced internal audit firm to provide interim coverage pending permanent recruitment"
+        ],
+        "negativeFactors": [
+          "Internal Audit Manager position vacant for 14 months with no permanent recruitment initiated",
+          "Segregation of duties compromised in accounts payable and payroll functions due to staffing shortages",
+          "Bank reconciliations backlogged by three months",
+          "No formal fraud risk assessment conducted in the past two years"
+        ],
+        "improvementTips": [
+          "Urgently recruit an experienced Internal Audit Manager and at least two additional auditors",
+          "Clear the bank reconciliation backlog within 60 days and establish a policy requiring monthly completion within 5 working days",
+          "Implement compensating controls such as management review and approval workflows where segregation of duties cannot be achieved due to staffing constraints"
+        ]
+      },
+      {
+        "category": "Strategic Financial Planning",
+        "score": 65,
+        "weight": 20,
+        "weightedScore": 13.0,
+        "explanation": "Strategic financial planning is nascent, with a draft turnaround business plan submitted to the Industrial Development Corporation. The plan shows promise but lacks detailed financial modelling and implementation milestones.",
+        "positiveFactors": [
+          "Submitted a draft turnaround business plan to the Industrial Development Corporation for review",
+          "Identified potential public-private partnership opportunities for the Lusaka-Livingstone corridor rehabilitation",
+          "Engaged the World Bank's Infrastructure Finance team to explore concessional funding options"
+        ],
+        "negativeFactors": [
+          "Turnaround business plan lacks detailed financial projections and sensitivity analysis",
+          "No formal debt restructuring strategy despite K450 million in accumulated legacy debt",
+          "Capital investment plan not aligned with the National Transport Policy or the railway sector master plan"
+        ],
+        "improvementTips": [
+          "Commission a detailed financial model for the turnaround plan with scenario analysis and clear break-even milestones",
+          "Develop a formal debt restructuring proposal for presentation to the Ministry of Finance and creditors",
+          "Align the capital investment plan with the National Transport Policy and secure inclusion in the national public investment pipeline"
+        ]
+      }
+    ],
+    "overallExplanation": "Bwalya Mutale inherited a severely distressed financial situation at Zambia Railways and faces formidable challenges including qualified audit opinions, unsustainable staff costs, tax arrears, and weak internal controls. While early signs of corrective action are visible through the ERP migration initiative, turnaround plan development, and engagement with development finance institutions, the pace of reform must accelerate significantly. The most urgent priorities are resolving tax and pension arrears, rebuilding the internal audit function, and developing a credible financial turnaround model.",
+    "topImprovementAreas": [
+      "Resolve outstanding tax obligations with ZRA and NAPSA pension contribution arrears as immediate priorities",
+      "Recruit an Internal Audit Manager and address critical segregation of duties weaknesses",
+      "Develop a detailed financial turnaround model with scenario analysis and clear break-even milestones"
+    ]
+  },
+  {
+    "id": "SOEFD-003",
+    "name": "Thandiwe Mulenga",
+    "role": "Financial Director",
+    "organization": "Zambia Postal Services Corporation",
+    "region": "Lusaka Province",
+    "overallScore": 68,
+    "rating": "Satisfactory",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-20T10:45:00Z",
+    "enterpriseName": "Zambia Postal Services Corporation",
+    "sector": "Communications",
+    "appointmentDate": "2022-09-01",
+    "details": {
+      "financialReportingAccuracy": 72,
+      "budgetManagementCostControl": 65,
+      "regulatoryTaxCompliance": 70,
+      "internalControlsRiskManagement": 64,
+      "strategicFinancialPlanning": 68
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Financial Reporting Accuracy",
+        "score": 72,
+        "weight": 25,
+        "weightedScore": 18.0,
+        "explanation": "Financial reporting has improved from a disclaimer of opinion to a qualified opinion following Thandiwe Mulenga's appointment. The restatement of historical financial records and establishment of proper revenue recognition policies for postal and agency banking services represent meaningful progress.",
+        "positiveFactors": [
+          "External audit opinion improved from disclaimer to qualified within two reporting cycles",
+          "Established proper revenue recognition policies for postal services, agency banking, and e-commerce parcels",
+          "Implemented monthly management accounts with variance analysis presented to the executive team"
+        ],
+        "negativeFactors": [
+          "Qualified audit opinion persists due to inability to verify opening balances inherited from prior management",
+          "Inter-branch reconciliation process remains manual and prone to errors for the 120-branch network",
+          "Inventory of postal stamps and stationery not systematically tracked leading to potential revenue leakage"
+        ],
+        "improvementTips": [
+          "Engage the external auditors to agree on a practical approach for resolving the opening balance qualification",
+          "Prioritize automation of inter-branch reconciliation through the planned accounting system upgrade",
+          "Implement a perpetual inventory system for stamps and stationery with monthly physical counts and variance investigation"
+        ]
+      },
+      {
+        "category": "Budget Management & Cost Control",
+        "score": 65,
+        "weight": 20,
+        "weightedScore": 13.0,
+        "explanation": "Cost management is constrained by a large property portfolio of underutilized post offices and a workforce structure designed for traditional postal volumes that have declined 40% over five years. Positive steps include the diversification into agency banking and e-commerce logistics.",
+        "positiveFactors": [
+          "Reduced energy costs by 15% through solar panel installation at 20 major post offices",
+          "Agency banking operations now contribute 25% of total revenue, up from 8% three years ago",
+          "Renegotiated vehicle fleet lease agreements saving K8 million annually"
+        ],
+        "negativeFactors": [
+          "Operating budget variance of 15% driven by unbudgeted building maintenance costs",
+          "42 of 120 post offices operating below break-even with no formal rationalization plan",
+          "Traditional mail revenue declining at 12% annually with insufficient offsetting revenue growth from new services"
+        ],
+        "improvementTips": [
+          "Develop a post office network rationalization plan identifying branches for closure, merger, or conversion to shared-service hubs",
+          "Establish a building maintenance reserve fund with annual contributions based on a condition survey of all properties",
+          "Accelerate e-commerce parcel logistics expansion through partnerships with major Zambian online retailers"
+        ]
+      },
+      {
+        "category": "Regulatory & Tax Compliance",
+        "score": 70,
+        "weight": 20,
+        "weightedScore": 14.0,
+        "explanation": "Regulatory compliance is generally adequate with ZAMPOST meeting its universal postal service obligations. Tax compliance has improved with current obligations paid on time, though legacy arrears from prior management remain under discussion with ZRA.",
+        "positiveFactors": [
+          "Current year tax obligations including PAYE and VAT paid within statutory deadlines",
+          "Universal Postal Union reporting obligations met consistently",
+          "Bank of Zambia agency banking license conditions complied with in all material respects"
+        ],
+        "negativeFactors": [
+          "Legacy tax arrears of K18 million from periods prior to current management still under negotiation with ZRA",
+          "Postal and Telecommunications Regulatory Authority of Zambia flagged late submission of two quarterly service quality reports",
+          "Workers compensation contributions not reconciled for the 2024 financial year"
+        ],
+        "improvementTips": [
+          "Finalize the legacy tax arrears settlement with ZRA through a formal installment agreement",
+          "Implement a regulatory compliance calendar specific to PTRA, Bank of Zambia, and Universal Postal Union requirements",
+          "Reconcile and settle workers compensation contributions within 90 days"
+        ]
+      },
+      {
+        "category": "Internal Controls & Risk Management",
+        "score": 64,
+        "weight": 15,
+        "weightedScore": 9.6,
+        "explanation": "Internal controls present unique challenges for ZAMPOST due to the geographically dispersed network of 120 post offices handling cash transactions. Progress has been made on cash management controls but the agency banking operations require enhanced oversight.",
+        "positiveFactors": [
+          "Implemented daily cash reconciliation requirements for all post offices handling agency banking transactions",
+          "Established surprise cash count audit program covering 30% of branches quarterly",
+          "Deployed CCTV in 40 high-volume post offices as a fraud deterrent"
+        ],
+        "negativeFactors": [
+          "Two fraud incidents at rural post offices totaling K850,000 detected during the year",
+          "Agency banking transaction monitoring relies on end-of-day batch processing rather than real-time alerts",
+          "Insurance coverage for cash-in-transit not updated to reflect increased volumes from agency banking"
+        ],
+        "improvementTips": [
+          "Upgrade agency banking transaction monitoring to real-time with automated alerts for transactions exceeding defined thresholds",
+          "Review and update cash-in-transit insurance coverage to reflect current volumes and routes",
+          "Implement biometric authentication for post office staff performing financial transactions to enhance accountability"
+        ]
+      },
+      {
+        "category": "Strategic Financial Planning",
+        "score": 68,
+        "weight": 20,
+        "weightedScore": 13.6,
+        "explanation": "Strategic financial planning reflects a clear vision for ZAMPOST's transformation from a traditional postal operator to a diversified logistics and financial services platform. The strategy is sound but execution has been slow due to funding constraints.",
+        "positiveFactors": [
+          "Developed a five-year financial transformation strategy approved by the ZAMPOST Board",
+          "Secured K45 million grant from the Universal Postal Union for digital transformation of postal operations",
+          "Established a joint venture framework for e-commerce last-mile delivery partnerships"
+        ],
+        "negativeFactors": [
+          "Transformation strategy implementation behind schedule by 12 months due to funding delays",
+          "No formal revenue diversification financial model quantifying the expected return on investment for new services",
+          "Government equity injection of K80 million requested but not yet approved by the Ministry of Finance"
+        ],
+        "improvementTips": [
+          "Develop detailed business cases with ROI analysis for each revenue diversification initiative to support the government equity injection request",
+          "Explore alternative funding mechanisms including development finance institution loans and strategic partnerships",
+          "Establish a transformation program management office with dedicated resources to accelerate implementation"
+        ]
+      }
+    ],
+    "overallExplanation": "Thandiwe Mulenga has brought improved financial discipline to ZAMPOST following a period of weak financial management under prior leadership. The improvement in audit opinion from disclaimer to qualified, establishment of proper revenue recognition policies, and strategic vision for postal transformation demonstrate positive direction. However, the pace of transformation must accelerate, with particular focus on resolving legacy tax arrears, strengthening controls over the growing agency banking operations, and developing robust financial models to support the diversification strategy.",
+    "topImprovementAreas": [
+      "Resolve legacy tax arrears with ZRA and ensure all current regulatory obligations are met on time",
+      "Strengthen internal controls and real-time monitoring over agency banking operations across the branch network",
+      "Develop detailed business cases with ROI analysis for each revenue diversification initiative"
+    ]
+  },
+  {
+    "id": "SOEFD-004",
+    "name": "Chisanga Kapwepwe",
+    "role": "Financial Director",
+    "organization": "ZAMTEL",
+    "region": "Lusaka Province",
+    "overallScore": 76,
+    "rating": "Good",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-22T09:00:00Z",
+    "enterpriseName": "ZAMTEL",
+    "sector": "Telecommunications",
+    "appointmentDate": "2020-11-15",
+    "details": {
+      "financialReportingAccuracy": 80,
+      "budgetManagementCostControl": 74,
+      "regulatoryTaxCompliance": 78,
+      "internalControlsRiskManagement": 72,
+      "strategicFinancialPlanning": 76
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Financial Reporting Accuracy",
+        "score": 80,
+        "weight": 25,
+        "weightedScore": 20.0,
+        "explanation": "Financial reporting quality has improved steadily under Chisanga Kapwepwe's tenure with clean external audit opinions achieved for the first time in ZAMTEL's recent history. IFRS compliance is maintained though the complexity of the mobile money and fibre-optic asset accounting requires ongoing attention.",
+        "positiveFactors": [
+          "Achieved clean external audit opinion for the first time in ZAMTEL's history during the 2025 financial year",
+          "IFRS 15 revenue recognition implemented correctly for mobile voice, data, and mobile money services",
+          "Monthly financial reporting pack delivered to management within 10 working days of month-end"
+        ],
+        "negativeFactors": [
+          "Fibre-optic network asset componentization and useful life estimates require independent valuation to support accuracy",
+          "Deferred revenue accounting for prepaid airtime bundles occasionally requires manual adjustments"
+        ],
+        "improvementTips": [
+          "Commission an independent technical valuation of fibre-optic network assets to validate componentization and useful life assumptions",
+          "Automate deferred revenue calculations for prepaid airtime through billing system integration with the general ledger"
+        ]
+      },
+      {
+        "category": "Budget Management & Cost Control",
+        "score": 74,
+        "weight": 20,
+        "weightedScore": 14.8,
+        "explanation": "Budget performance is mixed with data revenue growth offset by escalating network infrastructure costs and competitive pricing pressure from MTN and Airtel. Cost optimization initiatives have delivered savings but not at the pace needed to achieve profitability.",
+        "positiveFactors": [
+          "Network sharing agreement with a competitor reduced tower operation costs by 20% in shared locations",
+          "Renegotiated international bandwidth procurement contracts saving K28 million annually",
+          "Implemented activity-based costing providing granular visibility into product-level profitability"
+        ],
+        "negativeFactors": [
+          "Capital expenditure on 4G network rollout exceeded budget by 22% due to supply chain delays and cost inflation",
+          "Mobile money operating costs increased 35% year-over-year outpacing transaction revenue growth of 25%",
+          "Customer acquisition costs remain high at K85 per subscriber versus K55 industry average"
+        ],
+        "improvementTips": [
+          "Conduct a comprehensive review of mobile money unit economics and implement cost per transaction reduction targets",
+          "Develop more efficient customer acquisition strategies leveraging digital channels to reduce per-subscriber costs",
+          "Establish a capital expenditure governance committee with stage-gate approval processes for projects exceeding K50 million"
+        ]
+      },
+      {
+        "category": "Regulatory & Tax Compliance",
+        "score": 78,
+        "weight": 20,
+        "weightedScore": 15.6,
+        "explanation": "Regulatory compliance with the Zambia Information and Communications Technology Authority and Bank of Zambia (for mobile money) is generally strong. Tax compliance is current though a disputed assessment related to spectrum licence fee tax treatment remains unresolved.",
+        "positiveFactors": [
+          "All ZICTA licence fees and regulatory levies paid within statutory deadlines",
+          "Bank of Zambia electronic money issuer licence conditions complied with including capital adequacy and trust fund requirements",
+          "Current year PAYE, VAT, and corporate income tax obligations filed and paid on time"
+        ],
+        "negativeFactors": [
+          "Disputed ZRA assessment of K45 million related to tax treatment of spectrum licence amortization under appeal at the Tax Appeals Tribunal",
+          "Two ZICTA quality-of-service penalty notices received for network coverage shortfalls in Northern Province",
+          "Mobile money agent due diligence documentation incomplete for 8% of the agent network"
+        ],
+        "improvementTips": [
+          "Pursue the spectrum licence tax appeal with robust legal and technical support to achieve a favorable resolution",
+          "Implement an accelerated network densification plan for Northern Province to address quality-of-service penalties",
+          "Conduct a comprehensive mobile money agent re-certification exercise to close documentation gaps"
+        ]
+      },
+      {
+        "category": "Internal Controls & Risk Management",
+        "score": 72,
+        "weight": 15,
+        "weightedScore": 10.8,
+        "explanation": "Internal control environment is adequate for the core telecommunications business but the rapid growth of mobile money services has outpaced the development of controls specifically designed for financial services operations.",
+        "positiveFactors": [
+          "Integrated revenue assurance system monitors billing accuracy across all mobile services",
+          "IT general controls independently assessed and rated satisfactory by external auditors",
+          "Established a dedicated fraud management unit for mobile money operations"
+        ],
+        "negativeFactors": [
+          "Mobile money fraud losses increased 40% year-over-year reaching K15 million, primarily through SIM swap fraud",
+          "Business continuity plan not tested for a full disaster recovery scenario in the past 18 months",
+          "Interconnect revenue reconciliation with other mobile operators backlogged by four months"
+        ],
+        "improvementTips": [
+          "Implement enhanced SIM swap verification protocols including biometric confirmation and cooling-off periods to reduce fraud",
+          "Conduct a full disaster recovery test simulating loss of the primary data centre within the next quarter",
+          "Clear the interconnect revenue reconciliation backlog and establish automated monthly reconciliation with counterparty operators"
+        ]
+      },
+      {
+        "category": "Strategic Financial Planning",
+        "score": 76,
+        "weight": 20,
+        "weightedScore": 15.2,
+        "explanation": "Strategic financial planning is well-aligned with ZAMTEL's transformation into a converged telecommunications and fintech operator. Securing equity investment from the Industrial Development Corporation has strengthened the balance sheet, though the path to sustainable profitability requires clearer financial milestones.",
+        "positiveFactors": [
+          "Secured K1.2 billion equity injection from the Industrial Development Corporation for network expansion",
+          "Developed a five-year financial plan projecting break-even by 2028 based on data and mobile money revenue growth",
+          "Established strategic partnerships with international fintech companies for mobile money platform enhancement"
+        ],
+        "negativeFactors": [
+          "Break-even projection relies heavily on market share assumptions that may be optimistic given competitive intensity",
+          "No formal sensitivity analysis published for the five-year plan covering adverse scenarios",
+          "Working capital management remains strained with current ratio at 0.75 below the 1.0 minimum healthy threshold"
+        ],
+        "improvementTips": [
+          "Develop comprehensive sensitivity analysis for the five-year plan covering pessimistic market share and pricing scenarios",
+          "Implement a working capital improvement program targeting a current ratio of at least 1.0 within 18 months",
+          "Establish quarterly strategic financial review sessions with the IDC to maintain investor confidence and alignment"
+        ]
+      }
+    ],
+    "overallExplanation": "Chisanga Kapwepwe has delivered meaningful financial improvements at ZAMTEL, most notably achieving a clean audit opinion for the first time and securing significant equity investment for network expansion. The convergence strategy into telecommunications and mobile financial services is strategically sound but presents financial management challenges, particularly around mobile money cost control, fraud prevention, and working capital management. Resolving the spectrum licence tax dispute and developing more rigorous financial scenario planning are key priorities for sustained progress.",
+    "topImprovementAreas": [
+      "Strengthen mobile money fraud prevention controls, particularly against SIM swap fraud",
+      "Resolve the K45 million spectrum licence tax dispute with ZRA through the Tax Appeals Tribunal",
+      "Improve working capital management and develop comprehensive sensitivity analysis for the five-year financial plan"
+    ]
+  },
+  {
+    "id": "SOEFD-005",
+    "name": "Nkandu Luo-Mwamba",
+    "role": "Financial Director",
+    "organization": "Industrial Development Corporation",
+    "region": "Lusaka Province",
+    "overallScore": 91,
+    "rating": "Excellent",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-25T11:30:00Z",
+    "enterpriseName": "Industrial Development Corporation",
+    "sector": "Investment & Development Finance",
+    "appointmentDate": "2019-07-01",
+    "details": {
+      "financialReportingAccuracy": 94,
+      "budgetManagementCostControl": 90,
+      "regulatoryTaxCompliance": 92,
+      "internalControlsRiskManagement": 88,
+      "strategicFinancialPlanning": 93
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Financial Reporting Accuracy",
+        "score": 94,
+        "weight": 25,
+        "weightedScore": 23.5,
+        "explanation": "Nkandu Luo-Mwamba has established IDC as a benchmark for financial reporting excellence among Zambian state-owned enterprises. Consolidated financial statements covering the entire IDC portfolio are prepared to IFRS standards with clean audit opinions and timely publication.",
+        "positiveFactors": [
+          "Clean consolidated audit opinion covering IDC and all 35 portfolio companies for three consecutive years",
+          "Financial statements published within 60 days of year-end, ahead of the 90-day statutory requirement",
+          "Implemented IFRS 9 expected credit loss model for the investment portfolio with quarterly recalibration",
+          "Pioneered integrated reporting combining financial and non-financial performance metrics for the IDC group"
+        ],
+        "negativeFactors": [
+          "Fair value estimation for unlisted equity investments relies on limited comparable transaction data in the Zambian market"
+        ],
+        "improvementTips": [
+          "Engage multiple independent valuation firms to cross-validate fair value estimates for the largest unlisted investments",
+          "Develop a proprietary valuation benchmarking database using historical IDC transaction data"
+        ]
+      },
+      {
+        "category": "Budget Management & Cost Control",
+        "score": 90,
+        "weight": 20,
+        "weightedScore": 18.0,
+        "explanation": "Budget discipline at IDC is exemplary with operating costs maintained within 3% of budget and a cost-to-income ratio of 22% that is competitive with comparable development finance institutions in the SADC region.",
+        "positiveFactors": [
+          "Operating cost variance within 3% of approved budget for four consecutive years",
+          "Cost-to-income ratio of 22% competitive with SADC development finance institution benchmarks",
+          "Implemented shared services model for finance, HR, and IT across IDC and 5 major subsidiaries saving K25 million annually"
+        ],
+        "negativeFactors": [
+          "Consultancy fees increased 30% year-over-year as IDC expanded its due diligence activities for new investments",
+          "Travel and subsistence budget exceeded by 12% due to increased board oversight visits to portfolio companies"
+        ],
+        "improvementTips": [
+          "Develop internal due diligence capabilities to reduce reliance on external consultants for standard investment assessments",
+          "Implement virtual board oversight mechanisms for routine portfolio monitoring to reduce travel costs while maintaining governance standards"
+        ]
+      },
+      {
+        "category": "Regulatory & Tax Compliance",
+        "score": 92,
+        "weight": 20,
+        "weightedScore": 18.4,
+        "explanation": "IDC maintains excellent regulatory compliance across the multiple regulatory frameworks applicable to its diverse investment portfolio, including securities regulation, mining, agriculture, and financial services.",
+        "positiveFactors": [
+          "Zero regulatory findings across all portfolio sectors in the most recent compliance cycle",
+          "Proactive engagement with the Securities and Exchange Commission on corporate governance code implementation",
+          "Full compliance with the Public Finance Management Act reporting requirements to the National Assembly",
+          "Timely filing and payment of all IDC group tax obligations including withholding taxes on dividends"
+        ],
+        "negativeFactors": [
+          "Cross-border investment structuring tax efficiency could be improved for the Tanzanian and DRC portfolio investments"
+        ],
+        "improvementTips": [
+          "Engage international tax advisors to optimize the holding structures for cross-border investments within applicable double tax agreements",
+          "Establish a quarterly multi-sector regulatory compliance dashboard consolidating all portfolio company regulatory statuses"
+        ]
+      },
+      {
+        "category": "Internal Controls & Risk Management",
+        "score": 88,
+        "weight": 15,
+        "weightedScore": 13.2,
+        "explanation": "IDC's internal control and risk management framework is robust, reflecting the institution's role as the government's principal investment holding company. The three-lines-of-defence model is well-established though portfolio company control environments vary significantly.",
+        "positiveFactors": [
+          "Three-lines-of-defence risk management model fully implemented with clear accountabilities",
+          "Portfolio risk dashboard provides real-time visibility into financial, operational, and ESG risks across all investments",
+          "Annual investment portfolio stress testing conducted in collaboration with the Bank of Zambia financial stability unit"
+        ],
+        "negativeFactors": [
+          "Significant variation in internal control maturity across portfolio companies, with 8 rated below adequate",
+          "Cybersecurity risk assessment not yet extended to cover all portfolio companies' IT environments"
+        ],
+        "improvementTips": [
+          "Develop a minimum internal control standard for all IDC portfolio companies and provide technical assistance to the 8 companies rated below adequate",
+          "Extend the IDC cybersecurity risk assessment framework to cover all portfolio companies as part of annual investment reviews"
+        ]
+      },
+      {
+        "category": "Strategic Financial Planning",
+        "score": 93,
+        "weight": 20,
+        "weightedScore": 18.6,
+        "explanation": "Strategic financial planning is a key strength, with IDC's investment portfolio growing from K15 billion to K28 billion under Nkandu Luo-Mwamba's financial stewardship. The capital allocation framework balances commercial returns with national development priorities effectively.",
+        "positiveFactors": [
+          "Investment portfolio value grew from K15 billion to K28 billion over six years reflecting strong capital deployment",
+          "Capital allocation framework formally balances commercial return requirements with national development impact metrics",
+          "Successfully raised K5 billion through the first-ever IDC corporate bond listed on the Lusaka Securities Exchange",
+          "Dividend income from portfolio companies increased 45% year-over-year reflecting improved financial performance across the group"
+        ],
+        "negativeFactors": [
+          "Portfolio concentration in mining and energy sectors represents 65% of total investment value, creating sectoral risk"
+        ],
+        "improvementTips": [
+          "Accelerate portfolio diversification into agriculture value chains, tourism, and technology sectors aligned with the Eighth National Development Plan",
+          "Develop a formal portfolio rebalancing policy with target sectoral allocation ranges and annual rebalancing triggers"
+        ]
+      }
+    ],
+    "overallExplanation": "Nkandu Luo-Mwamba is an exceptional Financial Director whose leadership has transformed IDC's financial management into a national benchmark. The combination of clean consolidated audit opinions, disciplined cost management, successful capital raising, and strategic portfolio growth demonstrates world-class financial stewardship. Minor areas for improvement include diversifying the investment portfolio beyond mining and energy, strengthening internal controls at weaker portfolio companies, and optimizing cross-border tax structuring. Her track record positions IDC credibly for expanded capital raising and international investor engagement.",
+    "topImprovementAreas": [
+      "Diversify the investment portfolio beyond the current 65% concentration in mining and energy sectors",
+      "Strengthen internal control environments at the 8 portfolio companies currently rated below adequate",
+      "Optimize cross-border investment holding structures for tax efficiency within applicable double tax agreements"
+    ]
+  },
+  {
+    "id": "SOEFD-006",
+    "name": "Musonda Kabwe",
+    "role": "Financial Director",
+    "organization": "Food Reserve Agency",
+    "region": "Lusaka Province",
+    "overallScore": 63,
+    "rating": "Satisfactory",
+    "profileImageUrl": null,
+    "lastUpdated": "2026-01-28T13:00:00Z",
+    "enterpriseName": "Food Reserve Agency",
+    "sector": "Agriculture & Food Security",
+    "appointmentDate": "2023-01-10",
+    "details": {
+      "financialReportingAccuracy": 60,
+      "budgetManagementCostControl": 58,
+      "regulatoryTaxCompliance": 68,
+      "internalControlsRiskManagement": 62,
+      "strategicFinancialPlanning": 66
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Financial Reporting Accuracy",
+        "score": 60,
+        "weight": 25,
+        "weightedScore": 15.0,
+        "explanation": "Financial reporting at the Food Reserve Agency faces significant challenges due to the complexity of accounting for grain inventory across 45 storage depots nationwide, seasonal revenue patterns, and the dual mandate of commercial operations and strategic food security reserves.",
+        "positiveFactors": [
+          "Implemented a standardized grain inventory valuation methodology aligned with IAS 2 across all 45 depots",
+          "Engaged a specialist agricultural accounting firm to support the preparation of annual financial statements",
+          "Monthly financial reporting established for the first time covering all revenue streams"
+        ],
+        "negativeFactors": [
+          "External audit opinion qualified due to inability to verify grain inventory quantities at 12 of 45 depots due to inadequate weighbridge records",
+          "Government grant income recognition inconsistent between the maize purchase program and the strategic reserve mandate",
+          "Financial statements for the prior year submitted 120 days past the statutory deadline"
+        ],
+        "improvementTips": [
+          "Install and calibrate certified weighbridges at all 45 depots with digital recording to support auditable inventory quantities",
+          "Develop a formal accounting policy paper clarifying the recognition and measurement of government grants under IPSAS versus IFRS frameworks",
+          "Establish a financial year-end close checklist with milestone dates to ensure timely submission of financial statements"
+        ]
+      },
+      {
+        "category": "Budget Management & Cost Control",
+        "score": 58,
+        "weight": 20,
+        "weightedScore": 11.6,
+        "explanation": "Budget management is severely impacted by the political nature of maize purchase pricing, which often results in FRA buying at above-market prices under government directive. Storage and handling losses add significant unbudgeted costs.",
+        "positiveFactors": [
+          "Negotiated reduced transport costs through competitive tendering saving K22 million in the current season",
+          "Implemented performance-based contracts for depot management reducing handling costs by 10%"
+        ],
+        "negativeFactors": [
+          "Maize purchased at government-directed prices 30% above prevailing market rates creating K350 million in unrealized losses",
+          "Grain storage losses estimated at 8% of total stock value due to inadequate fumigation and storage infrastructure",
+          "Operating budget overrun of 25% driven by unbudgeted emergency grain purchases during the mid-season drought",
+          "Administrative costs at head office consume 18% of total budget, above the 12% benchmark for similar agencies"
+        ],
+        "improvementTips": [
+          "Advocate for a transparent maize pricing formula linked to market indicators to reduce the gap between purchase and selling prices",
+          "Invest in modern grain storage silos and fumigation equipment to reduce storage losses from 8% to below 3%",
+          "Conduct a head office administrative cost benchmarking exercise and implement right-sizing measures"
+        ]
+      },
+      {
+        "category": "Regulatory & Tax Compliance",
+        "score": 68,
+        "weight": 20,
+        "weightedScore": 13.6,
+        "explanation": "Regulatory compliance with the Food Reserve Act and Ministry of Agriculture directives is generally maintained. Tax compliance is adequate for current obligations though historical periods require attention.",
+        "positiveFactors": [
+          "Food Reserve Act reporting requirements met consistently including quarterly stock position reports to Parliament",
+          "Current year statutory tax obligations filed and paid within deadlines",
+          "Compliant with the Public Procurement Act for all procurement above the K500,000 threshold"
+        ],
+        "negativeFactors": [
+          "Historical NAPSA contribution arrears of K25 million spanning three financial years under prior management",
+          "Two instances of procurement below the threshold being split to avoid Public Procurement Act requirements flagged by internal audit",
+          "Environmental compliance certificates not renewed for 5 depots located near water sources"
+        ],
+        "improvementTips": [
+          "Negotiate a structured settlement plan with NAPSA for the K25 million historical contribution arrears",
+          "Implement procurement analytics to detect and prevent contract splitting with automatic alerts for consecutive purchases from the same supplier",
+          "Engage the Zambia Environmental Management Agency to renew environmental compliance certificates for all depot locations"
+        ]
+      },
+      {
+        "category": "Internal Controls & Risk Management",
+        "score": 62,
+        "weight": 15,
+        "weightedScore": 9.3,
+        "explanation": "Internal controls face unique challenges in the FRA environment due to the geographically dispersed depot network, seasonal spikes in activity during the purchasing season, and the high-value inventory of grain stocks susceptible to theft and spoilage.",
+        "positiveFactors": [
+          "Deployed inventory management software at 30 of 45 depots enabling electronic stock tracking",
+          "Established a seasonal fraud hotline operational during the peak maize purchasing period",
+          "Contracted independent quantity surveyors to verify grain intake at the 15 highest-volume depots"
+        ],
+        "negativeFactors": [
+          "15 depots still operate with manual paper-based inventory records pending system rollout",
+          "Three incidents of suspected grain theft totaling K4.2 million reported at depots in remote locations",
+          "Conflict-of-interest declarations not collected from seasonal purchasing officers engaged during peak season",
+          "No formal business continuity plan addressing scenarios such as depot fire, flood, or pest infestation"
+        ],
+        "improvementTips": [
+          "Complete inventory management software deployment to all 45 depots before the next purchasing season",
+          "Implement mandatory conflict-of-interest declarations for all seasonal and permanent staff involved in grain purchasing",
+          "Develop and test business continuity plans for each depot covering fire, flood, pest infestation, and security breach scenarios"
+        ]
+      },
+      {
+        "category": "Strategic Financial Planning",
+        "score": 66,
+        "weight": 20,
+        "weightedScore": 13.2,
+        "explanation": "Strategic financial planning is constrained by the political dimension of FRA's operations, where grain purchasing decisions are often driven by government policy rather than commercial considerations. Progress has been made in developing a financial sustainability framework.",
+        "positiveFactors": [
+          "Developed a financial sustainability framework proposing a transition to a commercially oriented operating model",
+          "Secured K200 million from the World Bank's Agricultural Productivity Programme for storage infrastructure modernization",
+          "Initiated a commodity exchange feasibility study to enable more efficient grain marketing and price discovery"
+        ],
+        "negativeFactors": [
+          "No formal long-term financial plan aligned with the National Agriculture Policy or the Eighth National Development Plan",
+          "Revenue diversification limited with 90% of income dependent on government funding and maize trading",
+          "Storage infrastructure modernization project behind schedule by 8 months due to procurement delays"
+        ],
+        "improvementTips": [
+          "Develop a 10-year financial plan aligned with the National Agriculture Policy including diversification into other strategic crops beyond maize",
+          "Explore revenue diversification through commercial storage services for private sector grain traders",
+          "Establish a dedicated project management unit for the World Bank storage modernization project to accelerate implementation"
+        ]
+      }
+    ],
+    "overallExplanation": "Musonda Kabwe faces significant structural challenges as Financial Director of the Food Reserve Agency, where the intersection of government food security policy and financial management creates inherent tensions. Positive progress is visible in the implementation of standardized inventory valuation, procurement cost savings, and securing development finance for infrastructure modernization. However, the qualified audit opinion driven by inventory verification gaps, above-market grain purchase prices creating unrealized losses, and historical pension arrears require urgent attention. The most transformative improvement would be advocating for and implementing a transparent, market-linked grain pricing framework.",
+    "topImprovementAreas": [
+      "Install certified weighbridges at all depots and complete inventory management software rollout to resolve audit qualifications",
+      "Advocate for a transparent maize pricing formula linked to market indicators to improve financial sustainability",
+      "Settle historical NAPSA contribution arrears and complete environmental compliance certificate renewals"
+    ]
+  }
+]
