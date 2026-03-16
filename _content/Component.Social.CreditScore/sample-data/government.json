@@ -124,7 +124,8 @@
       "Accelerate water infrastructure maintenance in suburban districts",
       "Improve rural community engagement and youth satisfaction programs",
       "Strengthen procurement documentation compliance and increase local procurement share"
-    ]
+    ],
+    "entityType": "Local Government"
   },
   {
     "id": "GOV-002",
@@ -251,7 +252,8 @@
       "Recruit critical staff and implement digital service delivery",
       "Improve revenue collection from 68% to 85% target",
       "Rebuild public trust through regular community engagement and establish formal local procurement policy"
-    ]
+    ],
+    "entityType": "Local Government"
   },
   {
     "id": "GOV-003",
@@ -369,7 +371,8 @@
       "Address mining community environmental concerns with dedicated programs",
       "Optimize rural clinic staffing to maintain healthcare delivery standards",
       "Build local manufacturing capacity for specialized mining equipment to further boost local procurement"
-    ]
+    ],
+    "entityType": "Province"
   },
   {
     "id": "GOV-004",
@@ -519,7 +522,8 @@
       "Improve youth engagement and representation in constituency priorities",
       "Schedule CDF construction projects during the dry season to prevent weather-related delays",
       "Expand constituency office coverage to remote areas through mobile service points"
-    ]
+    ],
+    "entityType": "Member of Parliament"
   },
   {
     "id": "GOV-005",
@@ -669,7 +673,8 @@
       "Formalize a constituency-level local procurement policy to sustain and improve local content",
       "Enhance digital engagement channels for younger constituents",
       "Ensure equitable project distribution across all wards with published allocation data"
-    ]
+    ],
+    "entityType": "Member of Parliament"
   },
   {
     "id": "GOV-006",
@@ -820,7 +825,8 @@
       "Urgently disburse unspent CDF funds and complete stalled construction projects",
       "Improve fiscal accountability by engaging qualified financial management support and establishing community oversight",
       "Increase parliamentary attendance to meet the minimum 75% benchmark and resolve pending ethics complaints"
-    ]
+    ],
+    "entityType": "Member of Parliament"
   },
   {
     "id": "GOV-007",
@@ -970,7 +976,8 @@
       "Accelerate completion of 5 outstanding CDF projects by resolving contractor and scheduling issues",
       "Improve communication with remote ward constituents through radio, newsletters, and liaison volunteers",
       "Develop a youth employment and skills program in partnership with local mining companies"
-    ]
+    ],
+    "entityType": "Member of Parliament"
   },
   {
     "id": "GOV-008",
@@ -1123,6 +1130,1078 @@
       "Submit to an immediate independent forensic audit of all CDF accounts and publish findings",
       "Cooperate fully with the Anti-Corruption Commission investigation and file complete, accurate asset declarations",
       "Complete all stalled projects, implement transparent competitive procurement, and establish community oversight of all future CDF spending"
+    ],
+    "entityType": "Member of Parliament"
+  },
+  {
+    "id": "GOV-009",
+    "entityName": "Ministry of Finance and National Planning",
+    "entityType": "Ministry",
+    "score": 80,
+    "rating": "Good",
+    "details": {
+      "administrativePerformance": 82,
+      "legalCompliance": 80,
+      "fiscalResponsibility": 85,
+      "publicTrust": 75,
+      "localProcurement": 78,
+      "cdfUtilization": 0
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Administrative Performance",
+        "score": 82,
+        "weight": 25,
+        "weightedScore": 20.5,
+        "explanation": "Sound budget planning processes and timely reporting to Parliament.",
+        "positiveFactors": [
+          "National Budget submitted on schedule for 3 consecutive years",
+          "Digital IFMIS system covers 90% of spending units"
+        ],
+        "negativeFactors": [
+          "Staff capacity gaps in district treasury offices",
+          "Delayed rollout of e-procurement to line ministries"
+        ],
+        "improvementTips": [
+          "Accelerate e-procurement rollout",
+          "Hire and train district-level treasury staff"
+        ]
+      },
+      {
+        "category": "Legal Compliance",
+        "score": 80,
+        "weight": 21,
+        "weightedScore": 16.8,
+        "explanation": "Generally compliant with Public Finance Management Act.",
+        "positiveFactors": [
+          "Zero audit qualifications for two consecutive years",
+          "Timely Auditor-General response rates above 85%"
+        ],
+        "negativeFactors": [
+          "3 supplementary budgets required in FY2024",
+          "Some statutory funds not reported in consolidated accounts"
+        ],
+        "improvementTips": [
+          "Eliminate off-budget statutory funds",
+          "Strengthen supplementary budget controls"
+        ]
+      },
+      {
+        "category": "Fiscal Responsibility",
+        "score": 85,
+        "weight": 18,
+        "weightedScore": 15.3,
+        "explanation": "Debt-to-GDP ratio stabilised and fiscal deficit narrowing.",
+        "positiveFactors": [
+          "Debt restructuring successfully concluded",
+          "Revenue-to-GDP ratio improved by 1.2 pp in 2024"
+        ],
+        "negativeFactors": [
+          "Arrears to suppliers still outstanding",
+          "Fuel subsidy reform delayed"
+        ],
+        "improvementTips": [
+          "Clear supplier arrears within 12 months",
+          "Implement phased fuel subsidy reform"
+        ]
+      },
+      {
+        "category": "Public Trust",
+        "score": 75,
+        "weight": 18,
+        "weightedScore": 13.5,
+        "explanation": "Public confidence recovering but perceptions of corruption remain.",
+        "positiveFactors": [
+          "Published quarterly budget execution reports",
+          "Engaged civil society in MTEF process"
+        ],
+        "negativeFactors": [
+          "Low public confidence in tax fairness",
+          "Unclear communication on debt restructuring outcomes"
+        ],
+        "improvementTips": [
+          "Launch public debt education campaign",
+          "Publish simplified budget summaries in local languages"
+        ]
+      },
+      {
+        "category": "Local Procurement",
+        "score": 78,
+        "weight": 18,
+        "weightedScore": 14.04,
+        "explanation": "Zambian content in government contracts above sector average.",
+        "positiveFactors": [
+          "Reserved procurement category targets met",
+          "Citizen Economic Empowerment Commission partnerships active"
+        ],
+        "negativeFactors": [
+          "Foreign-dominated ICT procurement contracts",
+          "SME payment delays averaging 45 days"
+        ],
+        "improvementTips": [
+          "Mandate local ICT procurement where feasible",
+          "Reduce SME payment cycle to 30 days"
+        ]
+      }
+    ],
+    "overallExplanation": "The Ministry of Finance demonstrates responsible fiscal management with improving debt metrics and budget transparency. Continued focus on supplier arrears clearance and public communication will strengthen the rating further.",
+    "topImprovementAreas": [
+      "Clear outstanding supplier arrears",
+      "Accelerate e-procurement rollout to all line ministries",
+      "Publish simplified budget documents in local languages",
+      "Reduce SME payment timelines to 30 days"
+    ]
+  },
+  {
+    "id": "GOV-010",
+    "entityName": "Ministry of Health",
+    "entityType": "Ministry",
+    "score": 85,
+    "rating": "Good",
+    "details": {
+      "administrativePerformance": 88,
+      "legalCompliance": 82,
+      "fiscalResponsibility": 80,
+      "publicTrust": 90,
+      "localProcurement": 84,
+      "cdfUtilization": 0
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Administrative Performance",
+        "score": 88,
+        "weight": 25,
+        "weightedScore": 22.0,
+        "explanation": "Strong service delivery outcomes including reduced infant mortality and expanded clinic network.",
+        "positiveFactors": [
+          "900+ health posts constructed since 2021",
+          "Community health worker programme reaches 6 million people"
+        ],
+        "negativeFactors": [
+          "Rural drug stockouts persist in 12 districts",
+          "Hospital referral system response times above target"
+        ],
+        "improvementTips": [
+          "Automate drug supply chain with real-time tracking",
+          "Expand air ambulance coverage to remote districts"
+        ]
+      },
+      {
+        "category": "Legal Compliance",
+        "score": 82,
+        "weight": 21,
+        "weightedScore": 17.22,
+        "explanation": "Medical Practitioners Act and Public Health Act compliance is generally strong.",
+        "positiveFactors": [
+          "All public hospitals HPCZ-registered",
+          "Waste disposal regulations fully adhered to"
+        ],
+        "negativeFactors": [
+          "Some district health offices missing required licences",
+          "Delayed data protection compliance for patient records"
+        ],
+        "improvementTips": [
+          "Complete licence renewals for all district offices",
+          "Implement HIPAA-equivalent patient data policies"
+        ]
+      },
+      {
+        "category": "Fiscal Responsibility",
+        "score": 80,
+        "weight": 18,
+        "weightedScore": 14.4,
+        "explanation": "Health budget execution above 90% for two consecutive years.",
+        "positiveFactors": [
+          "User fee revenue fully reinvested at facility level",
+          "Donor funding effectively co-ordinated"
+        ],
+        "negativeFactors": [
+          "Medical supply procurement costs above benchmarks",
+          "Wage bill consumes 68% of recurrent budget"
+        ],
+        "improvementTips": [
+          "Join joint procurement initiative with SADC for bulk drug pricing",
+          "Implement clinical officer task-shifting to reduce wage pressure"
+        ]
+      },
+      {
+        "category": "Public Trust",
+        "score": 90,
+        "weight": 18,
+        "weightedScore": 16.2,
+        "explanation": "Highest public approval of any ministry in independent survey.",
+        "positiveFactors": [
+          "Successful COVID-19 and cholera vaccination campaigns",
+          "Free maternal care policy widely valued"
+        ],
+        "negativeFactors": [
+          "Strike action by nurses in Q2 2024",
+          "Drug shortages reported publicly"
+        ],
+        "improvementTips": [
+          "Resolve outstanding nurse salary arrears",
+          "Improve public communication during drug shortage events"
+        ]
+      },
+      {
+        "category": "Local Procurement",
+        "score": 84,
+        "weight": 18,
+        "weightedScore": 15.12,
+        "explanation": "Strong preference for Zambia-produced pharmaceuticals and medical equipment.",
+        "positiveFactors": [
+          "Zambia Medicines Regulatory Authority approvals fast-tracked for local manufacturers",
+          "ZAMMSA sourcing targets met in 3 of 4 quarters"
+        ],
+        "negativeFactors": [
+          "Surgical consumables still largely imported",
+          "Cold chain equipment tenders dominated by foreign bidders"
+        ],
+        "improvementTips": [
+          "Develop local surgical consumable manufacturing partnership",
+          "Require local assembly for basic medical equipment tenders"
+        ]
+      }
+    ],
+    "overallExplanation": "The Ministry of Health leads on public trust due to impactful service delivery and successful public health campaigns. Addressing drug stockouts and nurse salary arrears will sustain this strong rating.",
+    "topImprovementAreas": [
+      "Resolve nurse salary arrears and reduce strike risk",
+      "Automate drug supply chain to eliminate stockouts",
+      "Reduce wage bill share through task-shifting",
+      "Expand local pharmaceutical procurement"
+    ]
+  },
+  {
+    "id": "GOV-011",
+    "entityName": "Ministry of Education",
+    "entityType": "Ministry",
+    "score": 69,
+    "rating": "Needs Improvement",
+    "details": {
+      "administrativePerformance": 68,
+      "legalCompliance": 72,
+      "fiscalResponsibility": 65,
+      "publicTrust": 70,
+      "localProcurement": 72,
+      "cdfUtilization": 0
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Administrative Performance",
+        "score": 68,
+        "weight": 25,
+        "weightedScore": 17.0,
+        "explanation": "School construction targets missed and teacher deployment delays continue.",
+        "positiveFactors": [
+          "Free education policy expanded to Grade 1-12",
+          "School feeding programme reached 1.2 million pupils"
+        ],
+        "negativeFactors": [
+          "42% of rural schools lack electricity",
+          "Teacher-pupil ratio worsened to 1:65 in rural areas"
+        ],
+        "improvementTips": [
+          "Fast-track rural school electrification through solar rollout",
+          "Introduce incentives for teachers to serve in rural postings"
+        ]
+      },
+      {
+        "category": "Legal Compliance",
+        "score": 72,
+        "weight": 21,
+        "weightedScore": 15.12,
+        "explanation": "Education Act compliance adequate but private school regulation lags.",
+        "positiveFactors": [
+          "Curriculum framework aligned to national skills needs",
+          "All public universities accredited"
+        ],
+        "negativeFactors": [
+          "22 unregistered private schools identified in 2024 inspection",
+          "Inclusive education regulations not fully implemented"
+        ],
+        "improvementTips": [
+          "Enforce private school registration deadline",
+          "Develop inclusive education implementation guidelines"
+        ]
+      },
+      {
+        "category": "Fiscal Responsibility",
+        "score": 65,
+        "weight": 18,
+        "weightedScore": 11.7,
+        "explanation": "Budget execution only 78% in FY2024, with infrastructure votes underspent.",
+        "positiveFactors": [
+          "Teacher payroll migrated to HRMIS reducing ghost workers",
+          "Bursary disbursement improved to 85% on-time"
+        ],
+        "negativeFactors": [
+          "Infrastructure vote 40% underspent due to procurement delays",
+          "Tertiary education funding formula not yet implemented"
+        ],
+        "improvementTips": [
+          "Reform infrastructure procurement to framework contracts",
+          "Implement higher education funding formula"
+        ]
+      },
+      {
+        "category": "Public Trust",
+        "score": 70,
+        "weight": 18,
+        "weightedScore": 12.6,
+        "explanation": "Free education policy well received but quality concerns persist.",
+        "positiveFactors": [
+          "Literacy rate improved to 87%",
+          "Parents positive about free education policy"
+        ],
+        "negativeFactors": [
+          "Grade 9 and 12 examination results declined in 2024",
+          "Teacher absenteeism reported at 18% nationally"
+        ],
+        "improvementTips": [
+          "Introduce teacher attendance biometric system",
+          "Publish school performance league tables to drive accountability"
+        ]
+      },
+      {
+        "category": "Local Procurement",
+        "score": 72,
+        "weight": 18,
+        "weightedScore": 12.96,
+        "explanation": "Textbook printing contracts partially awarded to local publishers.",
+        "positiveFactors": [
+          "30% of textbook printing contracted to Zambian printers",
+          "School furniture manufactured locally in Copperbelt"
+        ],
+        "negativeFactors": [
+          "ICT equipment for schools almost entirely imported",
+          "Lab consumables sourced externally despite local availability"
+        ],
+        "improvementTips": [
+          "Require local ICT assembly for school device tenders",
+          "Source lab consumables from local chemical companies"
+        ]
+      }
+    ],
+    "overallExplanation": "Education outcomes are improving slowly but fiscal execution, teacher deployment and infrastructure gaps hold back the rating. A focused three-year improvement plan is needed to reach Good rating.",
+    "topImprovementAreas": [
+      "Improve infrastructure budget execution from 60% to 90%",
+      "Reduce teacher-pupil ratio through rural recruitment incentives",
+      "Introduce teacher attendance management system",
+      "Publish annual school performance data publicly"
+    ]
+  },
+  {
+    "id": "GOV-012",
+    "entityName": "Ministry of Mines and Minerals Development",
+    "entityType": "Ministry",
+    "score": 74,
+    "rating": "Needs Improvement",
+    "details": {
+      "administrativePerformance": 75,
+      "legalCompliance": 70,
+      "fiscalResponsibility": 73,
+      "publicTrust": 72,
+      "localProcurement": 78,
+      "cdfUtilization": 0
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Administrative Performance",
+        "score": 75,
+        "weight": 25,
+        "weightedScore": 18.75,
+        "explanation": "Mines regulation improved with digital licence management, but ASM formalisation remains slow.",
+        "positiveFactors": [
+          "Mining licence processing time reduced from 90 to 30 days",
+          "Environmental Impact Assessment portal launched"
+        ],
+        "negativeFactors": [
+          "Artisanal and small-scale mining formalisation at 35% target",
+          "Mine safety incident reporting still paper-based"
+        ],
+        "improvementTips": [
+          "Digitise mine safety incident reporting",
+          "Accelerate ASM cooperatives formalisation programme"
+        ]
+      },
+      {
+        "category": "Legal Compliance",
+        "score": 70,
+        "weight": 21,
+        "weightedScore": 14.7,
+        "explanation": "Mines and Minerals Development Act partially implemented.",
+        "positiveFactors": [
+          "Revised fiscal regime for mining gazetted on schedule",
+          "Environmental compliance unit strengthened"
+        ],
+        "negativeFactors": [
+          "4 major mines operating with expired rehabilitation bonds",
+          "Beneficial ownership register not yet integrated with PACRA"
+        ],
+        "improvementTips": [
+          "Mandate rehabilitation bond renewal within 60 days",
+          "Link mining register to PACRA beneficial ownership data"
+        ]
+      },
+      {
+        "category": "Fiscal Responsibility",
+        "score": 73,
+        "weight": 18,
+        "weightedScore": 13.14,
+        "explanation": "Royalty collection improved but transfer pricing risks remain.",
+        "positiveFactors": [
+          "Royalty revenue increased 18% in 2024",
+          "Established transfer pricing audit unit in ZRA partnership"
+        ],
+        "negativeFactors": [
+          "Revenue foregone through royalty holidays estimated at USD 120m",
+          "Mineral valuation disputes unresolved for 2+ years"
+        ],
+        "improvementTips": [
+          "Implement independent mineral valuation board",
+          "Phase out royalty holiday incentives by 2026"
+        ]
+      },
+      {
+        "category": "Public Trust",
+        "score": 72,
+        "weight": 18,
+        "weightedScore": 12.96,
+        "explanation": "Mining communities report limited benefit-sharing and environmental concerns.",
+        "positiveFactors": [
+          "Community development agreements mandated for all Tier-1 mines",
+          "Copperbelt Environment Project Phase 3 launched"
+        ],
+        "negativeFactors": [
+          "Soil contamination complaints unaddressed in Kabwe",
+          "Mine closure plans not publicly disclosed"
+        ],
+        "improvementTips": [
+          "Publish all mine closure plans on ministry website",
+          "Address Kabwe lead remediation with a dedicated taskforce"
+        ]
+      },
+      {
+        "category": "Local Procurement",
+        "score": 78,
+        "weight": 18,
+        "weightedScore": 14.04,
+        "explanation": "Local content targets in mining contracts partially met.",
+        "positiveFactors": [
+          "Local explosives manufacturing meets 60% of demand",
+          "Zambian engineering firms win 45% of maintenance contracts"
+        ],
+        "negativeFactors": [
+          "Heavy machinery still predominantly imported",
+          "Copper smelting reagents sourced externally"
+        ],
+        "improvementTips": [
+          "Attract investment in local reagent manufacturing",
+          "Create joint ventures for heavy equipment assembly in Zambia"
+        ]
+      }
+    ],
+    "overallExplanation": "The ministry shows progress on digital licensing and royalty collection but legal compliance gaps, slow ASM formalisation and community trust issues constrain the rating.",
+    "topImprovementAreas": [
+      "Complete rehabilitation bond renewals for all operating mines",
+      "Accelerate ASM formalisation to 80% coverage",
+      "Address Kabwe soil contamination publicly",
+      "Implement independent mineral valuation board"
+    ]
+  },
+  {
+    "id": "GOV-013",
+    "entityName": "Ministry of Agriculture",
+    "entityType": "Ministry",
+    "score": 71,
+    "rating": "Needs Improvement",
+    "details": {
+      "administrativePerformance": 72,
+      "legalCompliance": 68,
+      "fiscalResponsibility": 70,
+      "publicTrust": 68,
+      "localProcurement": 76,
+      "cdfUtilization": 0
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Administrative Performance",
+        "score": 72,
+        "weight": 25,
+        "weightedScore": 18.0,
+        "explanation": "FISP distribution improved but last-mile delivery to remote farmers remains inconsistent.",
+        "positiveFactors": [
+          "E-voucher FISP system reduced leakage by 30%",
+          "Extension officer mobile application deployed nationally"
+        ],
+        "negativeFactors": [
+          "Only 40% of registered farmers received inputs on time",
+          "Agro-meteorological data sharing with farmers still limited"
+        ],
+        "improvementTips": [
+          "Integrate FISP e-voucher with mobile money platforms",
+          "Expand agro-weather SMS advisory to all provinces"
+        ]
+      },
+      {
+        "category": "Legal Compliance",
+        "score": 68,
+        "weight": 21,
+        "weightedScore": 14.28,
+        "explanation": "Agricultural credits and seed regulations partially enforced.",
+        "positiveFactors": [
+          "Plant Quarantine Act updated to align with COMESA standards",
+          "Food and Drugs Act food safety inspection rate increased"
+        ],
+        "negativeFactors": [
+          "Counterfeit seed infiltration estimated at 25% in rural markets",
+          "Land use regulations inconsistently applied across provinces"
+        ],
+        "improvementTips": [
+          "Launch certified seed QR-code authentication scheme",
+          "Harmonise land use regulations across all provincial offices"
+        ]
+      },
+      {
+        "category": "Fiscal Responsibility",
+        "score": 70,
+        "weight": 18,
+        "weightedScore": 12.6,
+        "explanation": "FISP subsidy spending dominates budget with limited investment reorientation.",
+        "positiveFactors": [
+          "Budget for irrigation infrastructure doubled in FY2024",
+          "Phased FISP reform roadmap developed"
+        ],
+        "negativeFactors": [
+          "FISP consumes 72% of agriculture budget crowding out other investments",
+          "FRA grain purchase financing cost overruns recurrent"
+        ],
+        "improvementTips": [
+          "Cap FISP to 50% of agriculture budget by 2027",
+          "Introduce FRA cost-recovery pricing framework"
+        ]
+      },
+      {
+        "category": "Public Trust",
+        "score": 68,
+        "weight": 18,
+        "weightedScore": 12.24,
+        "explanation": "Smallholder farmers express frustration with delayed FISP inputs and FRA payments.",
+        "positiveFactors": [
+          "Maize production record in 2023/24 season well publicised",
+          "WhatsApp helpline for farmer complaints launched"
+        ],
+        "negativeFactors": [
+          "FRA maize payment delays of 3-6 months reported",
+          "Input quality complaints unresolved in North-Western province"
+        ],
+        "improvementTips": [
+          "Introduce 30-day FRA payment guarantee",
+          "Establish independent input quality testing laboratories"
+        ]
+      },
+      {
+        "category": "Local Procurement",
+        "score": 76,
+        "weight": 18,
+        "weightedScore": 13.68,
+        "explanation": "Local agro-processing procurement showing good progress.",
+        "positiveFactors": [
+          "75% of FISP inputs sourced from Zambian distributors",
+          "Government institutional feeding programme uses local produce"
+        ],
+        "negativeFactors": [
+          "Agro-chemicals primarily imported",
+          "Cold storage infrastructure owned by foreign companies"
+        ],
+        "improvementTips": [
+          "Support local agro-chemical blending industry",
+          "Provide concessional financing for Zambian-owned cold storage"
+        ]
+      }
+    ],
+    "overallExplanation": "Agriculture shows strong local procurement credentials and improving productivity but FISP dependency, payment delays and legal compliance gaps drag down the overall score.",
+    "topImprovementAreas": [
+      "Introduce 30-day FRA payment guarantee for farmers",
+      "Cap FISP to 50% of budget and redirect savings to irrigation",
+      "Launch certified seed authentication scheme",
+      "Harmonise land use regulations nationally"
+    ]
+  },
+  {
+    "id": "GOV-014",
+    "entityName": "Zambia Revenue Authority (ZRA)",
+    "entityType": "Government Agency",
+    "score": 88,
+    "rating": "Good",
+    "details": {
+      "administrativePerformance": 90,
+      "legalCompliance": 88,
+      "fiscalResponsibility": 87,
+      "publicTrust": 85,
+      "localProcurement": 88,
+      "cdfUtilization": 0
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Administrative Performance",
+        "score": 90,
+        "weight": 25,
+        "weightedScore": 22.5,
+        "explanation": "TaxOnline system handles 95% of returns; customs clearance time reduced to 2.3 days average.",
+        "positiveFactors": [
+          "TaxOnline registered 98% of eligible taxpayers by 2024",
+          "Single customs window reduces clearance time by 60%"
+        ],
+        "negativeFactors": [
+          "Call centre wait times above 10 minutes peak hours",
+          "Mobile tax office coverage in rural districts limited"
+        ],
+        "improvementTips": [
+          "Deploy AI-powered tax chatbot to reduce call centre load",
+          "Expand mobile tax offices to all 116 districts"
+        ]
+      },
+      {
+        "category": "Legal Compliance",
+        "score": 88,
+        "weight": 21,
+        "weightedScore": 18.48,
+        "explanation": "Strong adherence to Income Tax Act, VAT Act and Customs Acts.",
+        "positiveFactors": [
+          "Court win rate in tax disputes at 78%",
+          "Transfer pricing unit recovered K 2.4 billion in 2024"
+        ],
+        "negativeFactors": [
+          "Advance tax ruling backlog averages 45 days",
+          "Excise stamp enforcement on counterfeit goods needs strengthening"
+        ],
+        "improvementTips": [
+          "Reduce advance ruling turnaround to 21 days",
+          "Partner with ZPS for customs anti-counterfeiting operations"
+        ]
+      },
+      {
+        "category": "Fiscal Responsibility",
+        "score": 87,
+        "weight": 18,
+        "weightedScore": 15.66,
+        "explanation": "Revenue collection exceeded target by 3.2% in FY2024.",
+        "positiveFactors": [
+          "Domestic revenue mobilisation grew 14% year-on-year",
+          "Administrative costs as % of revenue collections at a 5-year low"
+        ],
+        "negativeFactors": [
+          "VAT refund processing delays cost businesses liquidity",
+          "Arrears write-off policy still under review"
+        ],
+        "improvementTips": [
+          "Implement automated VAT refund payment within 30 days",
+          "Publish arrears write-off policy with clear criteria"
+        ]
+      },
+      {
+        "category": "Public Trust",
+        "score": 85,
+        "weight": 18,
+        "weightedScore": 15.3,
+        "explanation": "Taxpayer satisfaction improved to 76% in latest survey.",
+        "positiveFactors": [
+          "Taxpayer education campaigns reached 2 million citizens",
+          "Complaints resolution rate 88% within 30 days"
+        ],
+        "negativeFactors": [
+          "High-profile tax disputes with mining companies attract negative media",
+          "Perceived inconsistency in audit selections"
+        ],
+        "improvementTips": [
+          "Publish risk-based audit selection methodology",
+          "Establish independent taxpayer ombudsman"
+        ]
+      },
+      {
+        "category": "Local Procurement",
+        "score": 88,
+        "weight": 18,
+        "weightedScore": 15.84,
+        "explanation": "ZRA ICT and facilities procurement heavily favour Zambian suppliers.",
+        "positiveFactors": [
+          "85% of IT support contracts awarded to Zambian firms",
+          "Office furniture and supplies 100% locally sourced"
+        ],
+        "negativeFactors": [
+          "Core IT infrastructure (servers, networking) primarily imported",
+          "Forensic audit tools sourced internationally"
+        ],
+        "improvementTips": [
+          "Establish IT equipment local assembly requirement",
+          "Partner with local universities for forensic software development"
+        ]
+      }
+    ],
+    "overallExplanation": "ZRA is one of Zambia's best-performing public institutions with high revenue collection efficiency, digital innovation and strong public engagement. Addressing VAT refund delays and rural coverage gaps will push the score into Excellent territory.",
+    "topImprovementAreas": [
+      "Reduce VAT refund processing to 30 days",
+      "Expand mobile tax services to all 116 districts",
+      "Establish independent taxpayer ombudsman",
+      "Deploy AI chatbot to reduce call centre congestion"
+    ]
+  },
+  {
+    "id": "GOV-015",
+    "entityName": "Zambia Environmental Management Agency (ZEMA)",
+    "entityType": "Government Agency",
+    "score": 72,
+    "rating": "Needs Improvement",
+    "details": {
+      "administrativePerformance": 72,
+      "legalCompliance": 76,
+      "fiscalResponsibility": 70,
+      "publicTrust": 74,
+      "localProcurement": 70,
+      "cdfUtilization": 0
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Administrative Performance",
+        "score": 72,
+        "weight": 25,
+        "weightedScore": 18.0,
+        "explanation": "EIA turnaround improved but enforcement inspection capacity remains stretched.",
+        "positiveFactors": [
+          "Online EIA submission portal reduced processing time by 40%",
+          "Environmental inspectors trained in GIS monitoring tools"
+        ],
+        "negativeFactors": [
+          "Only 60% of mandated inspections completed in 2024",
+          "Kabwe lead pollution remediation programme behind schedule"
+        ],
+        "improvementTips": [
+          "Hire 50 additional environmental inspectors",
+          "Publish quarterly inspection completion rates by province"
+        ]
+      },
+      {
+        "category": "Legal Compliance",
+        "score": 76,
+        "weight": 21,
+        "weightedScore": 15.96,
+        "explanation": "Environmental Management Act compliance generally strong.",
+        "positiveFactors": [
+          "Zero unlicensed major industrial operations detected",
+          "All EIA approvals include enforceable conditions"
+        ],
+        "negativeFactors": [
+          "14 pending court cases on legacy pollution",
+          "Appeals process averages 180 days causing project delays"
+        ],
+        "improvementTips": [
+          "Fast-track legacy pollution case settlements",
+          "Reduce EIA appeal timeframe to 60 days"
+        ]
+      },
+      {
+        "category": "Fiscal Responsibility",
+        "score": 70,
+        "weight": 18,
+        "weightedScore": 12.6,
+        "explanation": "Budget constraints limit monitoring equipment and staffing.",
+        "positiveFactors": [
+          "Environment Fund collections increased 22% in 2024",
+          "Cost-sharing agreements with mining companies for remediation"
+        ],
+        "negativeFactors": [
+          "Monitoring equipment maintenance budget underfunded by 35%",
+          "Regulatory fee schedule not reviewed since 2018"
+        ],
+        "improvementTips": [
+          "Update regulatory fee schedule to reflect current costs",
+          "Secure multi-year monitoring equipment budget line"
+        ]
+      },
+      {
+        "category": "Public Trust",
+        "score": 74,
+        "weight": 18,
+        "weightedScore": 13.32,
+        "explanation": "Community confidence in ZEMA improving but Kabwe community distrust persists.",
+        "positiveFactors": [
+          "Public environmental awareness campaigns reaching 500k annually",
+          "Online environmental complaints portal launched 2024"
+        ],
+        "negativeFactors": [
+          "Kabwe community still awaiting full remediation commitment",
+          "Industrial pollution complaints response time averages 45 days"
+        ],
+        "improvementTips": [
+          "Publish Kabwe remediation timeline with binding milestones",
+          "Reduce complaints response time to 14 days"
+        ]
+      },
+      {
+        "category": "Local Procurement",
+        "score": 70,
+        "weight": 18,
+        "weightedScore": 12.6,
+        "explanation": "Environmental monitoring equipment primarily imported; some local services used.",
+        "positiveFactors": [
+          "Laboratory testing contracted to Zambian labs",
+          "Field survey consultancies awarded to local firms"
+        ],
+        "negativeFactors": [
+          "Air quality monitoring equipment 90% imported",
+          "Remote sensing software licensed from foreign providers"
+        ],
+        "improvementTips": [
+          "Develop local air quality monitoring sensor assembly capability",
+          "Partner with UNZA engineering for open-source monitoring software"
+        ]
+      }
+    ],
+    "overallExplanation": "ZEMA has strengthened its digital processes and legal framework but inspection capacity, Kabwe remediation delays and budget constraints limit its effectiveness. Focused investment in staffing and equipment is needed.",
+    "topImprovementAreas": [
+      "Hire 50 additional environmental inspectors",
+      "Publish binding Kabwe remediation timeline",
+      "Update regulatory fee schedule to 2024 levels",
+      "Reduce environmental complaint response time to 14 days"
+    ]
+  },
+  {
+    "id": "GOV-016",
+    "entityName": "Road Development Agency (RDA)",
+    "entityType": "Government Agency",
+    "score": 63,
+    "rating": "Needs Improvement",
+    "details": {
+      "administrativePerformance": 62,
+      "legalCompliance": 65,
+      "fiscalResponsibility": 60,
+      "publicTrust": 58,
+      "localProcurement": 68,
+      "cdfUtilization": 0
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Administrative Performance",
+        "score": 62,
+        "weight": 25,
+        "weightedScore": 15.5,
+        "explanation": "Road maintenance execution falls significantly short of targets.",
+        "positiveFactors": [
+          "Road condition survey digitalised using mobile data collection",
+          "Force account units operational in all 10 provinces"
+        ],
+        "negativeFactors": [
+          "Only 55% of annual road rehabilitation targets met",
+          "Project management system adoption below 50% in district offices"
+        ],
+        "improvementTips": [
+          "Mandate PMIS use in all district offices with KPI tracking",
+          "Increase force account unit capacity to reduce contractor dependency"
+        ]
+      },
+      {
+        "category": "Legal Compliance",
+        "score": 65,
+        "weight": 21,
+        "weightedScore": 13.65,
+        "explanation": "Roads and Road Traffic Act compliance improving but contractor regulatory gaps noted.",
+        "positiveFactors": [
+          "Environmental conditions in road contracts now fully enforced",
+          "Contractor accreditation database updated in 2024"
+        ],
+        "negativeFactors": [
+          "8 road contracts awarded to unqualified contractors in 2023",
+          "Axle load enforcement irregular on key economic corridors"
+        ],
+        "improvementTips": [
+          "Implement mandatory contractor pre-qualification checks",
+          "Establish permanent axle load control stations on T2 and T4"
+        ]
+      },
+      {
+        "category": "Fiscal Responsibility",
+        "score": 60,
+        "weight": 18,
+        "weightedScore": 10.8,
+        "explanation": "Significant budget execution shortfalls and contractor arrears.",
+        "positiveFactors": [
+          "Road Fund levy collections at 98% of target",
+          "Value-for-money audits introduced for contracts above K50m"
+        ],
+        "negativeFactors": [
+          "Contractor arrears reached K 4.2 billion in FY2024",
+          "20% cost overruns on major projects in 3 of 5 reviewed"
+        ],
+        "improvementTips": [
+          "Establish contractor payment guarantee fund",
+          "Implement mandatory quantity surveyor review at contract award"
+        ]
+      },
+      {
+        "category": "Public Trust",
+        "score": 58,
+        "weight": 18,
+        "weightedScore": 10.44,
+        "explanation": "Public dissatisfaction with road quality and project delays is high.",
+        "positiveFactors": [
+          "Road project tracker portal available to public",
+          "Citizen road defect reporting WhatsApp line launched"
+        ],
+        "negativeFactors": [
+          "Great East Road rehabilitation 3 years behind schedule",
+          "Public perception of contractor corruption very high"
+        ],
+        "improvementTips": [
+          "Publish Great East Road recovery plan with milestones",
+          "Introduce contractor performance public scoreboard"
+        ]
+      },
+      {
+        "category": "Local Procurement",
+        "score": 68,
+        "weight": 18,
+        "weightedScore": 12.24,
+        "explanation": "Local contractor participation above 50% by value.",
+        "positiveFactors": [
+          "Zambian contractors awarded 55% of maintenance contracts by value",
+          "Bitumen local blending initiative producing 30% of needs"
+        ],
+        "negativeFactors": [
+          "Large capital projects dominated by Chinese and South African firms",
+          "Local contractors lack heavy equipment capacity for Tier-1 roads"
+        ],
+        "improvementTips": [
+          "Create equipment leasing fund for Zambian road contractors",
+          "Reserve Tier-2 road rehabilitation exclusively for Zambian firms"
+        ]
+      }
+    ],
+    "overallExplanation": "RDA faces critical challenges in budget execution, contractor arrears and public trust. Structural reforms to procurement, payment systems and contractor management are urgently needed.",
+    "topImprovementAreas": [
+      "Clear K 4.2 billion contractor arrears with structured payment plan",
+      "Publish Great East Road rehabilitation recovery timeline",
+      "Strengthen contractor pre-qualification to prevent unqualified awards",
+      "Establish permanent axle load control on key economic corridors"
+    ]
+  },
+  {
+    "id": "GOV-017",
+    "entityName": "Zambia Information and Communications Technology Authority (ZICTA)",
+    "entityType": "Government Agency",
+    "score": 83,
+    "rating": "Good",
+    "details": {
+      "administrativePerformance": 85,
+      "legalCompliance": 82,
+      "fiscalResponsibility": 80,
+      "publicTrust": 82,
+      "localProcurement": 84,
+      "cdfUtilization": 0
+    },
+    "scoreBreakdown": [
+      {
+        "category": "Administrative Performance",
+        "score": 85,
+        "weight": 25,
+        "weightedScore": 21.25,
+        "explanation": "Spectrum management, type approval and consumer complaints handled efficiently.",
+        "positiveFactors": [
+          "Licence processing time reduced to 5 business days",
+          "National Broadband Infrastructure programme on schedule"
+        ],
+        "negativeFactors": [
+          "Rural connectivity targets 15% below 2024 plan",
+          "Spectrum monitoring coverage gaps in Northern and Western provinces"
+        ],
+        "improvementTips": [
+          "Accelerate rural broadband deployment through USAF",
+          "Procure additional spectrum monitoring equipment for underserved provinces"
+        ]
+      },
+      {
+        "category": "Legal Compliance",
+        "score": 82,
+        "weight": 21,
+        "weightedScore": 17.22,
+        "explanation": "Electronic Communications and Transactions Act compliance strong.",
+        "positiveFactors": [
+          "Cybersecurity regulations published on schedule",
+          "All major telecoms operators licensed and compliant"
+        ],
+        "negativeFactors": [
+          "Data protection enforcement unit understaffed",
+          "OTT regulation framework still under development"
+        ],
+        "improvementTips": [
+          "Hire 10 additional data protection officers",
+          "Publish OTT regulatory framework by Q2 2025"
+        ]
+      },
+      {
+        "category": "Fiscal Responsibility",
+        "score": 80,
+        "weight": 18,
+        "weightedScore": 14.4,
+        "explanation": "Universal Access Fund collections and disbursements well managed.",
+        "positiveFactors": [
+          "USAF disbursement efficiency at 91%",
+          "Administrative cost ratio below 12% of revenue"
+        ],
+        "negativeFactors": [
+          "Infrastructure levies disputed by two operators reducing collections",
+          "Audit recommendation implementation rate at 74%"
+        ],
+        "improvementTips": [
+          "Resolve infrastructure levy disputes through ADR",
+          "Implement all outstanding audit recommendations within 6 months"
+        ]
+      },
+      {
+        "category": "Public Trust",
+        "score": 82,
+        "weight": 18,
+        "weightedScore": 14.76,
+        "explanation": "Public satisfaction with telecoms regulation improving.",
+        "positiveFactors": [
+          "Consumer complaints portal resolved 89% within 30 days",
+          "QoS reports published quarterly holding operators accountable"
+        ],
+        "negativeFactors": [
+          "Internet shutdown concerns raised by civil society",
+          "Perceived slow action on data privacy breaches"
+        ],
+        "improvementTips": [
+          "Publish formal no-shutdown policy framework",
+          "Establish 72-hour data breach notification standard"
+        ]
+      },
+      {
+        "category": "Local Procurement",
+        "score": 84,
+        "weight": 18,
+        "weightedScore": 15.12,
+        "explanation": "Strong preference for Zambian ICT service providers in ZICTA operations.",
+        "positiveFactors": [
+          "80% of ICT services contracted to Zambian firms",
+          "ZICTA HQ fit-out used 100% Zambian contractors"
+        ],
+        "negativeFactors": [
+          "Core network monitoring tools imported",
+          "Spectrum management system maintained by foreign vendor"
+        ],
+        "improvementTips": [
+          "Partner with UNZA and CBU to develop local spectrum management capability",
+          "Require local maintenance teams for all imported monitoring systems"
+        ]
+      }
+    ],
+    "overallExplanation": "ZICTA delivers well on its regulatory mandate with efficient licensing, strong consumer protection and good fiscal management. Addressing rural coverage gaps and OTT regulation will drive further improvement.",
+    "topImprovementAreas": [
+      "Publish OTT regulatory framework",
+      "Accelerate rural broadband deployment via USAF",
+      "Resolve infrastructure levy disputes",
+      "Establish 72-hour data breach notification standard"
     ]
   }
 ]

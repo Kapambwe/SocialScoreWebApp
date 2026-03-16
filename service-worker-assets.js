@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "Z0ggsKzf",
+  "version": "0Ann0iWK",
   "assets": [
     {
       "hash": "sha256-FZBIUcBl1z0dvOGasXmYOMGxOtGMX9cgR/QXki1Gh6k=",
@@ -26,7 +26,7 @@ self.assetsManifest = {
       "url": "_content/Component.Social.CreditScore/sample-data/banks.json"
     },
     {
-      "hash": "sha256-nFmSB+qOV0qu7lfZzWa/ixsNIZXlB6VF2lJ2XIVWJJ8=",
+      "hash": "sha256-ejNzFWVnUSBaQS5XyA6YKYSNZ3ShSIHxSt22Gf5WZUo=",
       "url": "_content/Component.Social.CreditScore/sample-data/government.json"
     },
     {
@@ -246,8 +246,8 @@ self.assetsManifest = {
       "url": "_content/Radzen.Blazor/fonts/SourceSans3VF-Upright.ttf.woff2"
     },
     {
-      "hash": "sha256-iRMWTYavjaknZZtxd0wn7oFdGln68NfbBkcc3gPRBGg=",
-      "url": "_framework/Component.Social.CreditScore.12ovwebzmu.wasm"
+      "hash": "sha256-N+MOjpHGKyFcByZt9zGAh4oc5ZiuFj85OBoBJSE5Q0U=",
+      "url": "_framework/Component.Social.CreditScore.j5vq73jtpl.wasm"
     },
     {
       "hash": "sha256-aa+88v5CrPoucLM+bEKxnl6OgNwpEYD32E8d4BiDobo=",
@@ -498,7 +498,7 @@ self.assetsManifest = {
       "url": "_framework/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-D9WCCgdswMAvRoev7yEgOCHsNT6gnboJu07K1XElZMI=",
+      "hash": "sha256-Q+UM1bVuY7aNT+jUerpGJszqu4AZhLtP0NAxG1kQ5NM=",
       "url": "_framework/dotnet.js"
     },
     {
